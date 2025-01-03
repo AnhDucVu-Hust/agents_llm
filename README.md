@@ -139,7 +139,14 @@ The simulation successfully demonstrates that agents can dynamically interact wi
     - Planning a group cooking session after discussing favorite foods.
     - Organizing workshop or invite the other agents for spontaneous actitivy
 
+Navigate to `environment/frontend_server` and run the following command
+
+`python manage.py runserver`
+
+Then on your favorite browser, go to  http://localhost:8000/demo/base_love_ville_1512/1000/3/ for a short demo.`1000` is the start step (around 3am in the morning) and `3` is the speed (1 to 5), you can adjust it
+
 ## Further Improvement
 - Apply KnowledgeGraph RAG technique (The retrieve phase and memory stream seem like concept of RAG) where each agent and object is a node and edge between them is the relationship.
+
 
 
