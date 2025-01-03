@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        14
+      ],
+      "pronunciatio": "\ud83e\uddd4\u200d\u2640",
+      "description": "getting ready for the day and preparing to go to the Hobbs Cafe for the Love Ville program (applying makeup) @ the Ville:Isabella Rodriguez's apartment:bathroom:toilet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez conversing about their morning, getting to know each other, and making plans to have breakfast together at the Hobb Cafe as participants in the Love Ville program @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Good morning! I saw you just waking up. How are you doing today?"
+        ],
+        [
+          "Maria Lopez",
+          "Good morning, Klaus! I'm doing well, thank you. Just waking up and getting ready for the day. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Just woke up myself! Getting ready to head to the Hobb Cafe for breakfast, would you like to join me? It'd be great to spend some more time together."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a lovely idea! I'd love to have breakfast together. See you at the Hobb Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'm looking forward to it. See you soon!"
+        ],
+        [
+          "Maria Lopez",
+          "I hope you've slept well! It's great to have a palsy to hang out with in the morning. I'm Maria, by the way, Maria Lopez. What's your name?"
+        ],
+        [
+          "Klaus Mueller",
+          "Pleasure to meet you, Maria! I'm Klaus Mueller. I'm a sociology student here at Oak Hill College, and I'm also participating in the Love Ville program. So, yeah, I'm excited for breakfast! I love to get to know my fellow participants better."
+        ],
+        [
+          "Maria Lopez",
+          "It's nice to meet you too, Klaus! I'm also excited to get to know everyone in the program better. I'm a physics student, so it's nice to see people from other areas of study. When did you arrive at the village?"
+        ],
+        [
+          "Klaus Mueller",
+          "I arrived yesterday, it's been an adventure so far! The program seems like a great way to meet new people, and I'm glad I'll have a familiar face to eat with today."
+        ],
+        [
+          "Maria Lopez",
+          "It's definitely gonna be fun! I'm glad we're having breakfast together. I haven't really spoken to anyone yet, so it'll be nice to get to know you and hopefully some of the other participants too!"
+        ],
+        [
+          "Klaus Mueller",
+          "It's nice to have met you, Maria! I'm looking forward to getting to know you better and hopefully some other participants during this program. So, what brings you to the Love Ville program?"
+        ],
+        [
+          "Maria Lopez",
+          "I wanted to explore the dating life and see if I could find some new connections, or even a special someone! It's been a whirlwind sign up for the show, but I'm excited for the week ahead and getting to know everyone here."
+        ],
+        [
+          "Klaus Mueller",
+          "That's fantastic! I'm glad we could meet each other here. I think most people come here for similar reasons, it's quite brave to put yourself out there like this. I admire your courage!"
+        ],
+        [
+          "Maria Lopez",
+          "Aww, thank you! That's so nice of you to say. Yeah, it's definitely a scary but exciting step, putting yourself out there. I'm just hoping to make some new friends and see what happens. Oh look, it's nearly 9am, I better get going or I'll be late for our breakfast date! See you soon Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Enjoy the rest of your morning then, I'll see you soon! Have a great day, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Bye for now Klaus, see you at the Hobb Cafe!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez conversing about their morning, getting to know each other, and making plans to have breakfast together at the Hobb Cafe as participants in the Love Ville program @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Good morning! I saw you just waking up. How are you doing today?"
+        ],
+        [
+          "Maria Lopez",
+          "Good morning, Klaus! I'm doing well, thank you. Just waking up and getting ready for the day. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Just woke up myself! Getting ready to head to the Hobb Cafe for breakfast, would you like to join me? It'd be great to spend some more time together."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a lovely idea! I'd love to have breakfast together. See you at the Hobb Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'm looking forward to it. See you soon!"
+        ],
+        [
+          "Maria Lopez",
+          "I hope you've slept well! It's great to have a palsy to hang out with in the morning. I'm Maria, by the way, Maria Lopez. What's your name?"
+        ],
+        [
+          "Klaus Mueller",
+          "Pleasure to meet you, Maria! I'm Klaus Mueller. I'm a sociology student here at Oak Hill College, and I'm also participating in the Love Ville program. So, yeah, I'm excited for breakfast! I love to get to know my fellow participants better."
+        ],
+        [
+          "Maria Lopez",
+          "It's nice to meet you too, Klaus! I'm also excited to get to know everyone in the program better. I'm a physics student, so it's nice to see people from other areas of study. When did you arrive at the village?"
+        ],
+        [
+          "Klaus Mueller",
+          "I arrived yesterday, it's been an adventure so far! The program seems like a great way to meet new people, and I'm glad I'll have a familiar face to eat with today."
+        ],
+        [
+          "Maria Lopez",
+          "It's definitely gonna be fun! I'm glad we're having breakfast together. I haven't really spoken to anyone yet, so it'll be nice to get to know you and hopefully some of the other participants too!"
+        ],
+        [
+          "Klaus Mueller",
+          "It's nice to have met you, Maria! I'm looking forward to getting to know you better and hopefully some other participants during this program. So, what brings you to the Love Ville program?"
+        ],
+        [
+          "Maria Lopez",
+          "I wanted to explore the dating life and see if I could find some new connections, or even a special someone! It's been a whirlwind sign up for the show, but I'm excited for the week ahead and getting to know everyone here."
+        ],
+        [
+          "Klaus Mueller",
+          "That's fantastic! I'm glad we could meet each other here. I think most people come here for similar reasons, it's quite brave to put yourself out there like this. I admire your courage!"
+        ],
+        [
+          "Maria Lopez",
+          "Aww, thank you! That's so nice of you to say. Yeah, it's definitely a scary but exciting step, putting yourself out there. I'm just hoping to make some new friends and see what happens. Oh look, it's nearly 9am, I better get going or I'll be late for our breakfast date! See you soon Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Enjoy the rest of your morning then, I'll see you soon! Have a great day, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Bye for now Klaus, see you at the Hobb Cafe!"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udecf\ufe0f",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        69
+      ],
+      "pronunciatio": "\ud83d\udcf0",
+      "description": "having breakfast (reading the local newspaper) @ the Ville:Lin family's house:common room:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        31
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "reading and writing (writing down his thoughts and reflections) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:37:20"
+  }
+}

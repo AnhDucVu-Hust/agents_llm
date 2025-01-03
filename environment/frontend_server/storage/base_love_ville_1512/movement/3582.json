@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83d\udc6b",
+      "description": "arriving at the Hobbs Cafe for the Love Ville program and greeting the other participants (conversing about Abigail Chen and Isabella Rodriguez conversing about their excitement to explore the Love Ville village together, discussing their plans to meet at 4 pm to uncover hidden gems, attend cultural events, and grab a bite at a local eatery.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "at the hobb cafe cooking and eating breakfast with other Love Ville participants (conversing about Isabella Rodriguez, one of the cafe owners, and Maria Lopez, a participant in the Love Ville program, conversing about the program, getting to know each other, and exploring the village's events and culture.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udc65",
+      "description": "at the hobb cafe cooking and eating breakfast with other Love Ville participants (eating breakfast and chatting with others) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc65",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (cooking breakfast with other participants) @ the Ville:artist's co-living space:kitchen:cooking area",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        80,
+        41
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "working at the pharmacy (taking a break) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast at the hobb cafe (eating breakfast) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:57:00"
+  }
+}

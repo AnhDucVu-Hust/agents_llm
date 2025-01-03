@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having a light breakfast and preparing to head to the Hobbs Cafe for the Love Ville program (preparing a light breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        130,
+        57
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "getting ready for the day, listening to music and preparing to go to the hobb cafe (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        109,
+        54
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83e\uddd6",
+      "description": "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (taking a shower) @ the Ville:Dorm for Oak Hill College:man's bathroom:bathroom sink",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        40,
+        21
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83e\uddd6\u200d",
+      "description": "waking up and completing her morning routine (washing her face) @ the Ville:artist's co-living space:Abigail Chen's bathroom:toilet",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        65
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "going to the Willow Market and Pharmacy to open the shop (walking to the Willow Market and Pharmacy) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reading and writing (reviewing his written reflections) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:12:00"
+  }
+}

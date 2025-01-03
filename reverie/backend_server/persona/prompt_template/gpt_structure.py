@@ -20,7 +20,7 @@ import logging
 
 # Configure logging
 logging.basicConfig(
-    filename='/Users/vuanhduc/Documents/generative_agents/api.log',  # Log file name
+    filename='../../api.log',  # Log file name
     level=logging.INFO,         # Set the logging level to INFO
     format='%(asctime)s - %(levelname)s - %(message)s'  # Log message format
 )
@@ -84,7 +84,7 @@ def ChatGPT_request(prompt,model="qwen/qwq-32b-preview"):
     completion = openai.ChatCompletion.create(
     model=model, 
     messages=[{"role": "user", "content": prompt}],
-    request_timeout = 60
+    request_timeout = 30
     )
     res = completion["choices"][0]["message"]["content"]
     logging.info(f"API Call (model:{model}):\n-----prompt-----\n{prompt}\n----response-----\n{res}")

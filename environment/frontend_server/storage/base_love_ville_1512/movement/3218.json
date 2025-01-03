@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udeaa\ud83d\udc4b",
+      "description": "having a light breakfast and preparing to head to the Hobbs Cafe for the Love Ville program (heading out the door to the Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        127,
+        54
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f",
+      "description": "getting ready for the day, listening to music and preparing to go to the hobb cafe (packing her bag with essentials) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (putting on cologne) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f",
+      "description": "waking up and completing her morning routine (packing her bag for the day) @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        76,
+        49
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f",
+      "description": "going to the Willow Market and Pharmacy to open the shop (organizing the shelves) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reading and writing (preparing his materials for the next reading session) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:56:20"
+  }
+}

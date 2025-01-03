@@ -60,7 +60,7 @@ def compress(sim_code):
 
 
 if __name__ == '__main__':
-  compress("love_ville_2020_0201")
+  compress("base_love_ville_1512")
 
 
 

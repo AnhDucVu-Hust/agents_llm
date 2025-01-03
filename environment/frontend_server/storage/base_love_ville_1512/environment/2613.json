@@ -1,0 +1,32 @@
+{
+  "Isabella Rodriguez": {
+    "maze": "the_ville",
+    "x": 82,
+    "y": 14
+  },
+  "Klaus Mueller": {
+    "maze": "the_ville",
+    "x": 110,
+    "y": 54
+  },
+  "Maria Lopez": {
+    "maze": "the_ville",
+    "x": 132,
+    "y": 55
+  },
+  "Abigail Chen": {
+    "maze": "the_ville",
+    "x": 36,
+    "y": 18
+  },
+  "John Lin": {
+    "maze": "the_ville",
+    "x": 91,
+    "y": 67
+  },
+  "Adam Smith": {
+    "maze": "the_ville",
+    "x": 36,
+    "y": 30
+  }
+}

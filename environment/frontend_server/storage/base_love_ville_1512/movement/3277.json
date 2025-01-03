@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udeb6\ufe0f\u2615",
+      "description": "arriving at the Hobbs Cafe for the Love Ville program and greeting the other participants (walking to the Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        47
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "at the hobb cafe cooking and eating breakfast with other Love Ville participants (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        104,
+        47
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "at the hobb cafe cooking and eating breakfast with other Love Ville participants (greeting other Love Ville participants) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc57\ud83d\udc85",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (getting dressed and ready to go to the hobb cafe) @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        76,
+        47
+      ],
+      "pronunciatio": "\ud83c\udfe5\ud83d\udca1",
+      "description": "working at the pharmacy (organizing the pharmacy shelves) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        69,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "having breakfast at the hobb cafe (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:06:10"
+  }
+}

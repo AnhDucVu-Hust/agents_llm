@@ -2023,10 +2023,9 @@ def run_gpt_prompt_focal_pt(persona, statements, n, test_input=None, verbose=Fal
 
 
   # ChatGPT Plugin ===========================================================
-  def __chat_func_clean_up(gpt_response, prompt=""): ############
-    if isinstance(gpt_response,str):
-      ret = ast.literal_eval(str(gpt_response))
-      return ret
+  def __chat_func_clean_up(gpt_response, prompt=""): ############:
+    ret = ast.literal_eval(str(gpt_response))
+    return ret
 
   def __chat_func_validate(gpt_response, prompt=""): ############
     try: 

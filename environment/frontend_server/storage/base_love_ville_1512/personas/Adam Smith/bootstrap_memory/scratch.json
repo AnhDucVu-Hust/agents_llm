@@ -1,0 +1,448 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:57:50",
+  "curr_tile": [
+    76,
+    26
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is always looking for ways to challenge people\u2019s preconceptions.",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Adam is also curious about who will be running for the local mayor election next month. Adam is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 47,
+  "importance_ele_n": 75,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "read and write at 4:30 am",
+    "have breakfast at the hobb cafe at 9:00 am",
+    "work on a new book chapter at 10:00 am",
+    "have lunch at 12:00 pm",
+    "take a walk and reflect on ideas at 2:00 pm",
+    "have dinner at the hobb cafe at 6:00 pm",
+    "watch the dating show on TV from 7:00 pm to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (meditating)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (doing light yoga)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (preparing a cup of tea)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (journaling)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "reading and writing (reviewing his notes from previous readings)",
+      20
+    ],
+    [
+      "reading and writing (selecting a new book to read)",
+      10
+    ],
+    [
+      "reading and writing (reading the selected book) (selecting a book to read)",
+      5
+    ],
+    [
+      "reading and writing (reading the selected book) (reading the selected book)",
+      20
+    ],
+    [
+      "reading and writing (reading the selected book) (taking notes on the selected book)",
+      10
+    ],
+    [
+      "reading and writing (reading the selected book) (reflecting on the selected book)",
+      10
+    ],
+    [
+      "reading and writing (reading the selected book) (writing a response to the selected book)",
+      15
+    ],
+    [
+      "reading and writing (taking a break)",
+      15
+    ],
+    [
+      "reading and writing (reflecting on the ideas presented in the book)",
+      30
+    ],
+    [
+      "reading and writing (writing down his thoughts and reflections)",
+      45
+    ],
+    [
+      "reading and writing (reviewing his written reflections)",
+      20
+    ],
+    [
+      "reading and writing (making final edits to his written reflections)",
+      20
+    ],
+    [
+      "reading and writing (organizing his notes and writings)",
+      15
+    ],
+    [
+      "reading and writing (preparing his materials for the next reading session)",
+      5
+    ],
+    [
+      "having breakfast at the hobb cafe (walking to the hobb cafe)",
+      10
+    ],
+    [
+      "having breakfast at the hobb cafe (on the way to greeting the other participants)",
+      0
+    ],
+    [
+      "having breakfast at the hobb cafe (conversing about Isabella Rodriguez, one of the cafe owners, and Adam Smith, a philosopher, conversing about the Love Ville program, Adam's book 'Reflections on Creativity', and their expectations for the week's events at Hobbs Cafe.)",
+      14
+    ],
+    [
+      "having breakfast at the hobb cafe (choosing a seat and settling in)",
+      5
+    ],
+    [
+      "having breakfast at the hobb cafe (ordering breakfast)",
+      5
+    ],
+    [
+      "having breakfast at the hobb cafe (engaging in small talk with other participants)",
+      15
+    ],
+    [
+      "having breakfast at the hobb cafe (eating breakfast)",
+      15
+    ],
+    [
+      "having breakfast at the hobb cafe (on the way to cleaning up his area)",
+      0
+    ],
+    [
+      "having breakfast at the hobb cafe (conversing about Adam Smith and Maria Lopez conversing about their participation in the Love Ville program, their interests, and potential discussions about the intersection of philosophy and science, including the philosophical implications of creativity.)",
+      10
+    ],
+    [
+      "working on a new book chapter (reviewing his notes and research materials)",
+      15
+    ],
+    [
+      "working on a new book chapter (brainstorming ideas for the new chapter)",
+      20
+    ],
+    [
+      "working on a new book chapter (outlining the structure of the chapter)",
+      15
+    ],
+    [
+      "working on a new book chapter (writing the introduction of the chapter)",
+      20
+    ],
+    [
+      "working on a new book chapter (taking a short break to reflect on the direction of the chapter)",
+      10
+    ],
+    [
+      "working on a new book chapter (writing the main body of the chapter)",
+      26
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "taking a walk and reflecting on ideas",
+      300
+    ],
+    [
+      "having dinner at the hobb cafe",
+      60
+    ],
+    [
+      "watching the dating show on TV",
+      60
+    ],
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "reading and writing",
+      240
+    ],
+    [
+      "having breakfast at the hobb cafe",
+      60
+    ],
+    [
+      "working on a new book chapter",
+      120
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "taking a walk and reflecting on ideas",
+      300
+    ],
+    [
+      "having dinner at the hobb cafe",
+      60
+    ],
+    [
+      "watching the dating show on TV",
+      60
+    ],
+    [
+      "sleeping",
+      240
+    ]
+  ],
+  "act_address": "<persona> Maria Lopez",
+  "act_start_time": "February 13, 2023, 09:57:50",
+  "act_duration": 10,
+  "act_description": "conversing about Adam Smith and Maria Lopez conversing about their participation in the Love Ville program, their interests, and potential discussions about the intersection of philosophy and science, including the philosophical implications of creativity.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Adam Smith",
+    "chat with",
+    "Maria Lopez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Maria Lopez",
+  "chat": [
+    [
+      "Adam Smith",
+      "Hi Maria, I couldn't help but notice you're also a participant in the Love Ville program. I'm Adam. It's quite the program, isn't it? I'm intrigued by the idea of exploring the village and getting to know everyone over the next week."
+    ],
+    [
+      "Maria Lopez",
+      "Hi Adam! Yeah, I'm so excited for the program! I've just met some lovely people, including one of the cafe owners, Isabella Rodriguez. It's such a fantastic opportunity to connect and bond with strangers. I love the idea of getting to know everyone's stories and experiences."
+    ],
+    [
+      "Adam Smith",
+      "It's a pleasure to meet you, Maria. I must say, your enthusiasm is infectious! I'm also curious to hear everyone's tales and experiences, and it's a great way to start new friendships. So, what brings you to the Love Ville program?"
+    ],
+    [
+      "Maria Lopez",
+      "Well Adam, I'm here because I've been looking for new opportunities to meet people and explore new places. I'm a student at Oak Hill College, studying physics, and I also stream games on Twitch sometimes! It's hard making new friends when you're so focused on your studies, so this program seemed like the perfect chance to step out of my comfort zone and try something new."
+    ],
+    [
+      "Adam Smith",
+      "That's fantastic, Maria! It's amazing how diverse everyone's interests are. I'm a philosopher by profession, but I also love exploring different ideas and challenging preconceptions. It's only the first day, and the Love Ville program has so much in store for us!"
+    ],
+    [
+      "Maria Lopez",
+      "It's great to hear about your work! I'm particularly interested in the intersection of philosophy and science. It's a fascinating field, and I think there's so much to explore and learn from each other's disciplines. Does your work involve any of that?"
+    ],
+    [
+      "Adam Smith",
+      "Absolutely! In fact, my recent work revolves around the philosophical implications of creativity. I find the interplay between diverse ideas and fields fascinating, kind of like a unified theory of everything, but much more complex.strip_htmlEntry"
+    ],
+    [
+      "Maria Lopez",
+      "That sounds really intriguing! I'm actually very curious about the philosophical perspective on creativity. I think as a scientist, I tend to view it from a very different lens. Maybe we could discuss this further and share our unique insights sometime during the program?"
+    ],
+    [
+      "Adam Smith",
+      "I'd love to continue this discussion throughout the program. By the way, do you have any plans for today or perhaps for the entire week? "
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": 584,
+    "Maria Lopez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:08:00",
+  "act_path_set": true,
+  "planned_path": [
+    [
+      74,
+      26
+    ],
+    [
+      74,
+      25
+    ]
+  ]
+}
