@@ -1,0 +1,510 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:15:40",
+  "curr_tile": [
+    104,
+    45
+  ],
+  "daily_plan_req": "Maria Lopez is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program. She will try to talk, get to know and flirt with the people she meets. She spend a lot of time using social network.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Maria Lopez goes to bed around 10am, awakes up around 7am, eats dinner around 6pm. She likes listening to music and admire people in academia",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 35,
+  "importance_ele_n": 56,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "meet up with other participants at the hobb cafe for breakfast at 9:00 am",
+    "engage in icebreaker games and group activities from 10:00 am to 12:00 pm, aiming to connect with other singles",
+    "have lunch with a potential match at 12:30 pm, where she can share interests and possibly flirt a bit",
+    "spend the afternoon exploring the Ville Village from 1:30 pm to 4:00 pm, participating in fun outdoor activities or workshops to enhance her chances of meeting new people",
+    "return to the hobb cafe at 6:00 pm to cook and eat dinner with fellow participants, focusing on building rapport and having deeper conversations",
+    "catch the evening dating show on TV at 8:00 pm, inviting some participants to join her for a more relaxed atmosphere",
+    "spend time on social networks from 9:30 pm to 10:30 pm, sharing her experiences of the day and connecting with friends online, and finally"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and turning off her alarm)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (stretching in bed to wake up her body)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (heading to the bathroom to wash her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (on the way to brushing her teeth)",
+      0
+    ],
+    [
+      "waking up and completing her morning routine (conversing about the Love Ville Program and making plans to grab lunch together at the hobb cafe at 12:30 pm)",
+      8
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)  ",
+      2
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)  ",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (drying off and getting dressed for the day)  ",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (doing her hair and applying light makeup)  ",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (preparing a quick breakfast snack)  ",
+      10
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (meeting up with other participants at the hobb cafe)  ",
+      5
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (greeting the other participants and introducing herself)  ",
+      5
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (finding a place to sit with a group)  ",
+      5
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (looking at the breakfast menu and deciding what to order)  ",
+      5
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (placing her order with the cafe staff)  ",
+      5
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (engaging in small talk with the participants while waiting for her food)  ",
+      5
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (receiving her breakfast and thanking the staff)  ",
+      5
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (starting to eat her breakfast and continuing conversations with others)  ",
+      10
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast (wrapping up her breakfast and discussing plans for the day with the group)",
+      5
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (1) Maria is introducing herself to the group)",
+      10
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (participating in a name game to remember everyone's names)",
+      10
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (playing a fun icebreaker game where participants share their favorite hobbies)",
+      15
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (engaging in a team-building activity that requires collaboration)",
+      15
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (taking a moment to chat with a participant about their favorite movies)",
+      10
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (participating in a group discussion about travel experiences)",
+      15
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (playing a game where participants share a fun fact about themselves)",
+      10
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (joining a group activity that involves a creative challenge)",
+      15
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (taking a break to grab a drink and chat with a few participants informally)",
+      10
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles (wrapping up the icebreaker games by sharing her thoughts on the activities)",
+      10
+    ],
+    [
+      "engaging in more icebreaker games and group activities to connect with other singles",
+      60
+    ],
+    [
+      "[(ID:4bPYPE) Monday February 13 -- 01:00 PM] Activity: Maria is having lunch with a potential match, sharing interests and flirting",
+      60
+    ],
+    [
+      "[(ID:iRo8sl) Monday February 13 -- 02:00 PM] Activity: Maria is exploring the Ville Village, participating in fun outdoor activities and workshops to meet new people",
+      60
+    ],
+    [
+      "[(ID:KWY4qr) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to explore the Ville Village, participating in fun outdoor activities and workshops to meet new people",
+      60
+    ],
+    [
+      "[Monday February 13 -- 00:00 AM] Activity: Maria is sleeping",
+      60
+    ],
+    [
+      "[(ID:Voc594) Monday February 13 -- 05:00 PM] Activity: Maria is wrapping up her outdoor activities and preparing to head back to the hobb cafe for dinner",
+      60
+    ],
+    [
+      "[Monday February 13 -- 00:00 AM] Activity: Maria is sleeping",
+      360
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "meeting up with other participants at the hobb cafe for breakfast",
+      60
+    ],
+    [
+      "engaging in icebreaker games and group activities to connect with other singles",
+      120
+    ],
+    [
+      "engaging in more icebreaker games and group activities to connect with other singles",
+      60
+    ],
+    [
+      "[(ID:4bPYPE) Monday February 13 -- 01:00 PM] Activity: Maria is having lunch with a potential match, sharing interests and flirting",
+      60
+    ],
+    [
+      "[(ID:iRo8sl) Monday February 13 -- 02:00 PM] Activity: Maria is exploring the Ville Village, participating in fun outdoor activities and workshops to meet new people",
+      60
+    ],
+    [
+      "[(ID:KWY4qr) Monday February 13 -- 03:00 PM] Activity: Maria is continuing to explore the Ville Village, participating in fun outdoor activities and workshops to meet new people",
+      60
+    ],
+    [
+      "[Monday February 13 -- 00:00 AM] Activity: Maria is sleeping",
+      60
+    ],
+    [
+      "[(ID:Voc594) Monday February 13 -- 05:00 PM] Activity: Maria is wrapping up her outdoor activities and preparing to head back to the hobb cafe for dinner",
+      60
+    ],
+    [
+      "[Monday February 13 -- 00:00 AM] Activity: Maria is sleeping",
+      360
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:13:00",
+  "act_duration": 5,
+  "act_description": "meeting up with other participants at the hobb cafe for breakfast (meeting up with other participants at the hobb cafe)  ",
+  "act_pronunciatio": "\u2615",
+  "act_event": [
+    "Maria Lopez",
+    "meet",
+    "other participants"
+  ],
+  "act_obj_description": "occupied by Maria Lopez and other participants",
+  "act_obj_pronunciatio": "\ud83d\udc69\u200d\ud83e\uddb1",
+  "act_obj_event": [
+    "cafe customer seating",
+    "be occupied by",
+    "Maria Lopez and other participants"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 495
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      102,
+      45
+    ],
+    [
+      101,
+      45
+    ],
+    [
+      100,
+      45
+    ],
+    [
+      99,
+      45
+    ],
+    [
+      98,
+      45
+    ],
+    [
+      98,
+      44
+    ],
+    [
+      98,
+      43
+    ],
+    [
+      98,
+      42
+    ],
+    [
+      98,
+      41
+    ],
+    [
+      98,
+      40
+    ],
+    [
+      98,
+      39
+    ],
+    [
+      98,
+      38
+    ],
+    [
+      98,
+      37
+    ],
+    [
+      97,
+      37
+    ],
+    [
+      96,
+      37
+    ],
+    [
+      95,
+      37
+    ],
+    [
+      94,
+      37
+    ],
+    [
+      93,
+      37
+    ],
+    [
+      92,
+      37
+    ],
+    [
+      91,
+      37
+    ],
+    [
+      90,
+      37
+    ],
+    [
+      89,
+      37
+    ],
+    [
+      88,
+      37
+    ],
+    [
+      87,
+      37
+    ],
+    [
+      86,
+      37
+    ],
+    [
+      85,
+      37
+    ],
+    [
+      84,
+      37
+    ],
+    [
+      83,
+      37
+    ],
+    [
+      82,
+      37
+    ],
+    [
+      81,
+      37
+    ],
+    [
+      80,
+      37
+    ],
+    [
+      79,
+      37
+    ],
+    [
+      78,
+      37
+    ],
+    [
+      77,
+      37
+    ],
+    [
+      76,
+      37
+    ],
+    [
+      76,
+      36
+    ],
+    [
+      76,
+      35
+    ],
+    [
+      76,
+      34
+    ],
+    [
+      76,
+      33
+    ],
+    [
+      76,
+      32
+    ],
+    [
+      76,
+      31
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      28
+    ],
+    [
+      76,
+      27
+    ],
+    [
+      76,
+      26
+    ],
+    [
+      75,
+      26
+    ],
+    [
+      74,
+      26
+    ],
+    [
+      74,
+      25
+    ]
+  ]
+}

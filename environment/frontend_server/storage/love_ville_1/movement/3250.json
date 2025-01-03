@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "cooking and eating breakfast with other Love Ville members at the Hobbs Cafe (greeting other Love Ville members) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        51
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending the Love Ville Program breakfast at the hobb cafe (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        26
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        98,
+        45
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending the Love Ville program orientation (walking to the orientation room) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        38,
+        36
+      ],
+      "pronunciatio": "\ud83d\udeb6\ud83c\udffb",
+      "description": "having breakfast at the hobb cafe with other Love Ville participants (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:01:40"
+  }
+}

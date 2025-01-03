@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciatio": "\ud83d\udeb6\u2615",
+      "description": "arriving at Hobbs Cafe for the Love Ville program (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        110,
+        47
+      ],
+      "pronunciatio": "\ud83d\udeb6\u2615",
+      "description": "at the hobb cafe cooking and eating breakfast with other Love Ville participants (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83d\udc4b\ud83e\uddd1",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (introducing himself to the people at his table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        38,
+        24
+      ],
+      "pronunciatio": "\ud83d\udeb6\u2615",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville members (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        112,
+        23
+      ],
+      "pronunciatio": "\u2744\ufe0f\ud83e\udd1d",
+      "description": "participating in icebreaker activities and meeting other singles (participating in the first icebreaker activity) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        63,
+        30
+      ],
+      "pronunciatio": "\ud83e\ude91\ud83c\udf7d\ufe0f",
+      "description": "having breakfast at the hobb cafe with other Love Ville participants (choosing a seat at the table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:11:30"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "heading to the Hobbs Cafe to start the first day of the Love Ville program (getting dressed and ready to leave her apartment) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        131,
+        57
+      ],
+      "pronunciatio": "\ud83e\udea5\ud83e\uddfc",
+      "description": "getting ready and preparing to head to the hobb cafe (brushing her teeth and washing her face) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        120,
+        50
+      ],
+      "pronunciatio": "\ud83e\udea5",
+      "description": "getting ready for the day and preparing to attend the Love Ville Program breakfast (brushing his teeth) @ the Ville:Dorm for Oak Hill College:man's bathroom:toilet",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        26
+      ],
+      "pronunciatio": "\ud83d\udebd",
+      "description": "waking up and completing her morning routine (getting out of bed and going to the bathroom) @ the Ville:artist's co-living space:kitchen:cooking area",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        98,
+        39
+      ],
+      "pronunciatio": "\ud83d\udcc6",
+      "description": "preparing for the Love Ville program orientation (reviewing the Love Ville program schedule) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        70
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "preparing to go to the hobb cafe for breakfast (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:07:20"
+  }
+}

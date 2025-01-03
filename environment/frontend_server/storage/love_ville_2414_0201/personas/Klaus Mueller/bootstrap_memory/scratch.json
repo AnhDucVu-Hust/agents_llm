@@ -1,0 +1,453 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:00:00",
+  "curr_tile": [
+    76,
+    22
+  ],
+  "daily_plan_req": "Klaus Mueller is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 118,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other Love Ville participants",
+    "explore the Ville Village and get to know other participants throughout the day",
+    "return to the hobb cafe at 6:00 pm to cook and eat dinner with the group",
+    "socialize and potentially flirt with interesting participants after dinner"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (styling his hair)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (packing his bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (putting on his shoes and jacket)",
+      5
+    ],
+    [
+      "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (on the way to taking a shower)",
+      0
+    ],
+    [
+      "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (conversing about Maria Lopez and Klaus Mueller, two students at Oak Hill College, conversing about their excitement to participate in Love Ville, their majors, and their interests, particularly Klaus' passion for sociology and social justice, as they walk together to the Hobb Cafe for breakfast.)",
+      13
+    ],
+    [
+      "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (getting dressed)",
+      10
+    ],
+    [
+      "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (styling his hair)",
+      10
+    ],
+    [
+      "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (packing his bag with essentials)",
+      10
+    ],
+    [
+      "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (putting on his shoes and jacket)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (walking into the hobb cafe and finding a seat)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (introducing himself to the people at his table)",
+      10
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (helping to prepare the breakfast food)",
+      15
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (on the way to eating breakfast and chatting with the people at his table)",
+      0
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (conversing about Isabella Rodriguez and Klaus Mueller conversing about joining the Love Ville program, getting to know each other, and exploring the village together, including visiting the antique shop and community garden, on their first day of the program.)",
+      15
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (helping to clean up after breakfast)",
+      10
+    ],
+    [
+      "mingling with other Love Ville participants at the hobb cafe, introducing himself and learning about others (on the way to approaching a group of participants and introducing himself)",
+      0
+    ],
+    [
+      "mingling with other Love Ville participants at the hobb cafe, introducing himself and learning about others (conversing about Abigail Chen and Klaus Mueller conversing about their participation in the Love Ville program, their shared interest in art, and exploring the village together, discussing their artistic endeavors, experiences, and plans for the day.)",
+      21
+    ],
+    [
+      "mingling with other Love Ville participants at the hobb cafe, introducing himself and learning about others (asking about their interests and hobbies)",
+      15
+    ],
+    [
+      "mingling with other Love Ville participants at the hobb cafe, introducing himself and learning about others (sharing his own interests and passions)",
+      10
+    ],
+    [
+      "mingling with other Love Ville participants at the hobb cafe, introducing himself and learning about others (listening attentively and engaging in conversation)",
+      15
+    ],
+    [
+      "mingling with other Love Ville participants at the hobb cafe, introducing himself and learning about others (exchanging contact information with a participant he connected with)",
+      5
+    ],
+    [
+      "mingling with other Love Ville participants at the hobb cafe, introducing himself and learning about others (thanking the group for the conversation and moving on to mingle with others)",
+      4
+    ],
+    [
+      "having lunch with a small group of Love Ville participants at a local cafe, continuing to get to know them",
+      60
+    ],
+    [
+      "visiting the local art museum with a couple of Love Ville participants, discussing the exhibits and learning about their interests",
+      60
+    ],
+    [
+      "taking a leisurely walk through the Ville Village gardens with a Love Ville participant, enjoying the scenery and engaging in deep conversation",
+      60
+    ],
+    [
+      "sitting on a bench in the gardens, continuing his conversation with the Love Ville participant and sharing stories about their lives",
+      60
+    ],
+    [
+      "visiting the local library with a Love Ville participant, browsing books and discussing their favorite authors",
+      60
+    ],
+    [
+      "returning to his accommodation to freshen up before dinner",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating dinner with the other Love Ville participants",
+      60
+    ],
+    [
+      "socializing with other Love Ville participants at the hobb cafe after dinner, engaging in lively conversation and playful banter",
+      60
+    ],
+    [
+      "continuing to socialize with Love Ville participants at the hobb cafe, engaging in deeper conversations and playful flirting",
+      60
+    ],
+    [
+      "continuing to socialize and flirt with Love Ville participants at the hobb cafe, enjoying the lively atmosphere",
+      60
+    ],
+    [
+      "saying goodnight to the Love Ville participants and heading back to his accommodation to wind down for the night",
+      60
+    ],
+    [
+      "getting ready for bed and reflecting on the exciting first day of the Love Ville program",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      55
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the other Love Ville participants",
+      60
+    ],
+    [
+      "mingling with other Love Ville participants at the hobb cafe, introducing himself and learning about others",
+      60
+    ],
+    [
+      "exploring the Ville Village with a few other Love Ville participants, chatting and getting to know them better",
+      60
+    ],
+    [
+      "having lunch with a small group of Love Ville participants at a local cafe, continuing to get to know them",
+      60
+    ],
+    [
+      "visiting the local art museum with a couple of Love Ville participants, discussing the exhibits and learning about their interests",
+      60
+    ],
+    [
+      "taking a leisurely walk through the Ville Village gardens with a Love Ville participant, enjoying the scenery and engaging in deep conversation",
+      60
+    ],
+    [
+      "sitting on a bench in the gardens, continuing his conversation with the Love Ville participant and sharing stories about their lives",
+      60
+    ],
+    [
+      "visiting the local library with a Love Ville participant, browsing books and discussing their favorite authors",
+      60
+    ],
+    [
+      "returning to his accommodation to freshen up before dinner",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating dinner with the other Love Ville participants",
+      60
+    ],
+    [
+      "socializing with other Love Ville participants at the hobb cafe after dinner, engaging in lively conversation and playful banter",
+      60
+    ],
+    [
+      "continuing to socialize with Love Ville participants at the hobb cafe, engaging in deeper conversations and playful flirting",
+      60
+    ],
+    [
+      "continuing to socialize and flirt with Love Ville participants at the hobb cafe, enjoying the lively atmosphere",
+      60
+    ],
+    [
+      "saying goodnight to the Love Ville participants and heading back to his accommodation to wind down for the night",
+      60
+    ],
+    [
+      "getting ready for bed and reflecting on the exciting first day of the Love Ville program",
+      60
+    ]
+  ],
+  "act_address": "<persona> Abigail Chen",
+  "act_start_time": "February 13, 2023, 09:42:20",
+  "act_duration": 21,
+  "act_description": "conversing about Abigail Chen and Klaus Mueller conversing about their participation in the Love Ville program, their shared interest in art, and exploring the village together, discussing their artistic endeavors, experiences, and plans for the day.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Klaus Mueller",
+    "chat with",
+    "Abigail Chen"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Abigail Chen",
+  "chat": [
+    [
+      "Abigail Chen",
+      "Hi Klaus! It's so great to see you here. I'm Abigail Chen, and I'm also participating in the Love Ville program. I've been having a lovely time getting to know everyone, but I must admit, I'm a bit shy when it comes to introducing myself and breaking the ice. So, it's wonderful to have someone to chat with!"
+    ],
+    [
+      "Klaus Mueller",
+      "Hi Abigail! It's nice to meet you. I'm Klaus Mueller, and I'm also here for the first time, so I understand how you feel! This Love Ville program seems like a great opportunity to meet new people and explore the village. I'm excited to see what the week has in store for us."
+    ],
+    [
+      "Abigail Chen",
+      "I completely agree! It's such a wonderful platform to express ourselves and connect with like-minded people. I noticed you have an interest in the arts too. What medium do you work with? Or is there a particular style that you enjoy?"
+    ],
+    [
+      "Klaus Mueller",
+      "I mostly stick to traditional media, like oil paints and canvases. But I also enjoy digital art sometimes - it's amazing how technology can help enhance and simplify the artistic process! I'm particularly drawn to surrealism and impressionism, so I often find myself exploring those styles."
+    ],
+    [
+      "Abigail Chen",
+      "That's fantastic! I mostly work with digital media, and I'm fascinated by the possibilities that technology offers artists. It's amazing how traditional and digital art can both be used to achieve such incredible results. The marriage of the two can be breathtaking! Speaking of which, have you ever tried any other styles or media? Or is there something you've been wishing to experiment with?"
+    ],
+    [
+      "Klaus Mueller",
+      "I've dabbled in sculptures and ceramics too, but I'm nowhere near as skilled with three-dimensional work as I am with paintings. It's a totally different ball game, but I find it fascinating to explore. There's something captivating about creating art that you can physically interact with."
+    ],
+    [
+      "Abigail Chen",
+      "It's wonderful to hear about your diverse artistic endeavors! It seems like we both have a deep appreciation for the various art forms. Have you ever exhibited your work in galleries or online platforms? I'd love to see your creations!"
+    ],
+    [
+      "Klaus Mueller",
+      "I haven't exhibited yet, but I plan to set up an online portfolio soon. I'm a bit nervous about putting my work out there, but the excitement of sharing it with the world motivates me! It's great to have platforms like that to connect with other artists and reach a wider audience. Plus, it's a good way to gain feedback and learn from others' experiences."
+    ],
+    [
+      "Abigail Chen",
+      "That's awesome, Klaus! I think we all get a bit nervous about putting our work out there, but as you said, the excitement of sharing it with others makes it worthwhile. I've exhibited some of my digital art online and also created a few animations. You're right about the benefits of displaying your art; it helps to get valuable feedback and exposure. Perhaps we could even organize a little exhibit here in the village sometime during the program! Would you be interested in that?"
+    ],
+    [
+      "Klaus Mueller",
+      "That sounds like a wonderful idea! It'll be exciting to see everyone's work and get some insights into their creative processes. I'm in! How long have you been creating art, Abigail?"
+    ],
+    [
+      "Abigail Chen",
+      "I've been drawing and creating ever since I can remember! But I began focusing on digital art and animation properly about five years ago. It's been a wonderful journey exploring the tech space and discovering so many new possibilities. I'm curious, what made you develop an interest in art? Any particular moment or experience that sparked your passion?"
+    ],
+    [
+      "Klaus Mueller",
+      "I actually got into art through a strange twist of fate. I was always decent at drawing, but a couple of years ago, I had an opportunity to study abroad and ended up taking an art history course just for fun. That sparked my passion for art, and I began experimenting with different media upon returning home. It was a very serendipitous experience, and I've been hooked ever since!"
+    ],
+    [
+      "Abigail Chen",
+      "It's fascinating how art can find us in such serendipitous ways! I believe some things in life are meant to be and that includes your passion for art. I'm glad that fateful experience brought you here today so we could meet and chat. It's always exciting to hear about how people discover their passions."
+    ],
+    [
+      "Klaus Mueller",
+      "It's certainly fate that brought us together for this meaningful conversation, Abigail! By the way, do you have any plans for today after the breakfast? Perhaps we could explore the village together and check out the antique shop or the community garden?"
+    ],
+    [
+      "Abigail Chen",
+      "I'd love to explore the village with you! It's such a beautiful day outside, and I think it would be wonderful to visit the antique shop and the community garden. After breakfast, of course!"
+    ],
+    [
+      "Klaus Mueller",
+      "There's so much to discover in this village! I'm glad we're doing this together. So, shall we head out after breakfast, or do you have any other plans?"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": 169,
+    "Isabella Rodriguez": 601,
+    "Abigail Chen": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:04:00",
+  "act_path_set": true,
+  "planned_path": []
+}

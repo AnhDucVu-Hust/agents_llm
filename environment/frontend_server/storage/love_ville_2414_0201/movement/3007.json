@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\u2615",
+      "description": "having a light breakfast at home before heading to Hobbs Cafe (sitting down to eat her breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        98,
+        41
+      ],
+      "pronunciatio": "\u2615\ud83d\udde3\ufe0f",
+      "description": "getting ready for the day, listening to music and preparing to go to the hobb cafe (conversing about Maria Lopez and Klaus Mueller, two students at Oak Hill College, conversing about their excitement to participate in Love Ville, their majors, and their interests, particularly Klaus' passion for sociology and social justice, as they walk together to the Hobb Cafe for breakfast.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        98,
+        40
+      ],
+      "pronunciatio": "\u2615\ufe0f\ud83d\udde3",
+      "description": "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (conversing about Maria Lopez and Klaus Mueller, two students at Oak Hill College, conversing about their excitement to participate in Love Ville, their majors, and their interests, particularly Klaus' passion for sociology and social justice, as they walk together to the Hobb Cafe for breakfast.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        21
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83e\uddfc",
+      "description": "waking up and completing her morning routine (taking a shower) @ the Ville:artist's co-living space:Abigail Chen's bathroom:shower",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\u2753\ud83d\udcbb",
+      "description": "attending the Love Ville program orientation (asking questions about the program) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        63
+      ],
+      "pronunciatio": "\ud83d\udc55\ud83d\udc56",
+      "description": "preparing to go to the hobb cafe for breakfast (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:21:10"
+  }
+}

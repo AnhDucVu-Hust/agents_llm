@@ -1,0 +1,342 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:15:40",
+  "curr_tile": [
+    79,
+    25
+  ],
+  "daily_plan_req": "Klaus Mueller is now in Love Ville Program. At first, he don't know anyone in the Program. He will try to talk, get to know and flirt with the people she meets",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 130,
+  "importance_ele_n": 3,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "have breakfast with fellow participants at the Hobb Cafe at 9:00 am, where he will engage in conversations and try to get to know others",
+    "attend the Love Ville program activities scheduled for the day from 10:00 am to 5:00 pm, including ice-breaking games and group discussions about social issues, as this aligns with his sociological interests",
+    "have dinner at 6:00 pm back at the Hobb Cafe, where he will continue to chat and flirt with new acquaintances",
+    "participate in evening social events or mixers organized by the program from 7:00 pm to 10:00 pm, where he can further connect with other participants in a relaxed setting"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching in bed to wake up his body)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (heading to the bathroom to wash his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (on the way to brushing his teeth)",
+      0
+    ],
+    [
+      "waking up and completing his morning routine (conversing about the Love Ville Program and making plans to grab lunch together at the hobb cafe at 12:30 pm)",
+      8
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (styling his hair)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (applying deodorant and cologne)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (preparing a light snack or drink for breakfast)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (1) Klaus is arriving at the Hobb Cafe and finding a seat)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (greeting fellow participants at his table)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (introducing himself to the group)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (asking about their backgrounds and interests)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (sharing his own background and interests)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (discussing favorite breakfast foods with the group)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (engaging in light-hearted conversation and jokes)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (asking about their expectations for the Love Ville program)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (listening actively to others' responses and asking follow-up questions)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (complimenting someone on their choice of food or drink)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (sharing a funny or interesting story related to social justice)",
+      5
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (wrapping up the breakfast conversation and suggesting they sit together for the next activity)",
+      2
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (1) Klaus is gathering with other participants in the designated area)",
+      5
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (introducing himself to the group)",
+      5
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (listening to the facilitator explain the ice-breaking game rules)",
+      5
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (participating in the first ice-breaking game, sharing fun facts about himself)",
+      10
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (engaging with another participant during the game, asking questions)",
+      5
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (reflecting on the game and discussing it with a small group)",
+      10
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (participating in a group discussion about social issues, sharing his thoughts)",
+      10
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (listening to others share their perspectives on social issues)",
+      5
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues (summarizing the key points from the discussion to the group)",
+      5
+    ],
+    [
+      "attending more Love Ville program activities, engaging in discussions and participating in team-building exercises with other participants",
+      60
+    ],
+    [
+      "continuing his participation in Love Ville program activities, engaging in small group discussions and getting to know other participants better",
+      60
+    ],
+    [
+      "continuing to engage in Love Ville program activities, participating in interactive workshops and discussions that focus on social justice and relationship-building",
+      300
+    ],
+    [
+      "having dinner at the Hobb Cafe with fellow participants, enjoying the meal and continuing to engage in conversations, trying to flirt and get to know others better",
+      60
+    ],
+    [
+      "participating in evening social events or mixers organized by the Love Ville program, engaging with fellow participants in a relaxed setting, making new connections, and trying to flirt and get to know others better",
+      60
+    ],
+    [
+      "continuing to engage in evening social events or mixers organized by the Love Ville program, actively participating in conversations and flirting with fellow participants",
+      60
+    ],
+    [
+      "engaging in evening social events or mixers organized by the Love Ville program, continuing to interact with fellow participants and exploring potential connections",
+      60
+    ],
+    [
+      "[(ID:0m8lEl) Monday February 13 -- 10:00 PM] Activity: Klaus is winding down after a busy day, reflecting on the connections he made during the Love Ville program, and considering potential follow-ups with new",
+      60
+    ],
+    [
+      "[(ID:H2xEZb) Monday February 13 -- 00:00 AM] Activity: Klaus is sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others",
+      60
+    ],
+    [
+      "attending Love Ville program activities, participating in ice-breaking games and group discussions about social issues",
+      60
+    ],
+    [
+      "attending more Love Ville program activities, engaging in discussions and participating in team-building exercises with other participants",
+      60
+    ],
+    [
+      "continuing his participation in Love Ville program activities, engaging in small group discussions and getting to know other participants better",
+      60
+    ],
+    [
+      "continuing to engage in Love Ville program activities, participating in interactive workshops and discussions that focus on social justice and relationship-building",
+      300
+    ],
+    [
+      "having dinner at the Hobb Cafe with fellow participants, enjoying the meal and continuing to engage in conversations, trying to flirt and get to know others better",
+      60
+    ],
+    [
+      "participating in evening social events or mixers organized by the Love Ville program, engaging with fellow participants in a relaxed setting, making new connections, and trying to flirt and get to know others better",
+      60
+    ],
+    [
+      "continuing to engage in evening social events or mixers organized by the Love Ville program, actively participating in conversations and flirting with fellow participants",
+      60
+    ],
+    [
+      "engaging in evening social events or mixers organized by the Love Ville program, continuing to interact with fellow participants and exploring potential connections",
+      60
+    ],
+    [
+      "[(ID:0m8lEl) Monday February 13 -- 10:00 PM] Activity: Klaus is winding down after a busy day, reflecting on the connections he made during the Love Ville program, and considering potential follow-ups with new",
+      60
+    ],
+    [
+      "[(ID:H2xEZb) Monday February 13 -- 00:00 AM] Activity: Klaus is sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:13:00",
+  "act_duration": 5,
+  "act_description": "having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others (introducing himself to the group)",
+  "act_pronunciatio": "\ud83d\udc4b",
+  "act_event": [
+    "Klaus Mueller",
+    "introduce",
+    "himself"
+  ],
+  "act_obj_description": "occupied by Klaus Mueller having breakfast with fellow participants at the Hobb Cafe, engaging in conversations and trying to get to know others",
+  "act_obj_pronunciatio": "\ud83c\udf73\u2615",
+  "act_obj_event": [
+    "cafe customer seating",
+    "be occupied by",
+    "Klaus Mueller"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 495
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

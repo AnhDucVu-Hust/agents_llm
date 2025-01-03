@@ -1,0 +1,351 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:15:40",
+  "curr_tile": [
+    75,
+    20
+  ],
+  "daily_plan_req": "Abigail Chen is now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology. She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.",
+  "currently": "Abigail Chen is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 91,
+  "importance_ele_n": 88,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other Love Ville participants",
+    "explore the Ville Village and engage in creative activities from 10:00 am to 12:00 pm",
+    "have lunch at a local restaurant at 12:30 pm",
+    "attend a digital art workshop at the Ville Village community center from 2:00 pm to 4:00 pm",
+    "return to the hobb cafe at 6:00 pm to cook and eat dinner with other Love Ville participants",
+    "participate in a group social activity at the Ville Village lounge from 7:00 pm to 9:00 pm",
+    "relax and reflect on the day in her room from 9:30 pm to 11:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and going to the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (styling her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (applying light makeup)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (walking to the hobb cafe)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (greeting other Love Ville participants)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (choosing a breakfast recipe with others)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (on the way to preparing ingredients for the breakfast)",
+      0
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (conversing about <fill in> front-end developers, Maria Lopez and Abigail Chen's, exciting plans for cooking and experimenting with creative breakfast recipes, including avocado toast and French toast twisted with unique spices and ingredients.</fill in>)",
+      18
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (preparing ingredients for the breakfast)",
+      15
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (cooking breakfast with others)",
+      15
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (eating breakfast with others)",
+      5
+    ],
+    [
+      "exploring the Ville Village and engaging in creative activities (walking around the Ville Village to get familiar with the area)",
+      20
+    ],
+    [
+      "exploring the Ville Village and engaging in creative activities (visiting the local art gallery to see the exhibits)",
+      30
+    ],
+    [
+      "exploring the Ville Village and engaging in creative activities (attending a digital art workshop)",
+      60
+    ],
+    [
+      "exploring the Ville Village and engaging in creative activities (taking a break and having a coffee at a local cafe)",
+      20
+    ],
+    [
+      "exploring the Ville Village and engaging in creative activities (sketching ideas for a new digital art project)",
+      30
+    ],
+    [
+      "exploring the Ville Village and engaging in creative activities (talking to other participants about their creative projects)",
+      2
+    ],
+    [
+      "having lunch at a local restaurant",
+      60
+    ],
+    [
+      "attending a digital art workshop at the Ville Village community center",
+      180
+    ],
+    [
+      "relaxing and reflecting on the day in her room",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "participating in a group social activity at the Ville Village lounge",
+      120
+    ],
+    [
+      "relaxing and reflecting on the day in her room",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village and engaging in creative activities",
+      180
+    ],
+    [
+      "having lunch at a local restaurant",
+      60
+    ],
+    [
+      "attending a digital art workshop at the Ville Village community center",
+      180
+    ],
+    [
+      "relaxing and reflecting on the day in her room",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "participating in a group social activity at the Ville Village lounge",
+      120
+    ],
+    [
+      "relaxing and reflecting on the day in her room",
+      180
+    ]
+  ],
+  "act_address": "<persona> Maria Lopez",
+  "act_start_time": "February 13, 2023, 09:15:00",
+  "act_duration": 18,
+  "act_description": "conversing about <fill in> front-end developers, Maria Lopez and Abigail Chen's, exciting plans for cooking and experimenting with creative breakfast recipes, including avocado toast and French toast twisted with unique spices and ingredients.</fill in>",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Abigail Chen",
+    "chat with",
+    "Maria Lopez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Maria Lopez",
+  "chat": [
+    [
+      "Maria Lopez",
+      "Hey Abigail! I\u2019m so excited to be here cooking breakfast with everyone. What recipe are you thinking of making? I\u2019m curious to hear your ideas!"
+    ],
+    [
+      "Abigail Chen",
+      "Hi Maria! I\u2019m excited too! I was thinking of making something creative, like avocado toast with a twist\u2014maybe adding some roasted cherry tomatoes and a drizzle of balsamic glaze. What about you? Do you have a favorite breakfast recipe?"
+    ],
+    [
+      "Maria Lopez",
+      "That sounds delicious! I love how creative you're getting with it. I\u2019m thinking of making something sweet\u2014maybe French toast with a sprinkle of cinnamon and some fresh berries. It\u2019s simple but always hits the spot! Do you like sweet breakfasts or do you usually lean more toward savory dishes?"
+    ],
+    [
+      "Abigail Chen",
+      "I actually enjoy both sweet and savory breakfasts, but I tend to lean more toward savory dishes most days. Your French toast idea sounds amazing though\u2014I might have to try a bite if you\u2019re sharing! Do you have any secret tips for making the perfect French toast?"
+    ],
+    [
+      "Maria Lopez",
+      "Oh, I\u2019d love to share! My secret is soaking the bread just enough so it\u2019s custardy inside but not soggy\u2014and I always use a bit of vanilla extract in the egg mixture for extra flavor. Do you have any go-to tricks for your avocado toast? I\u2019d love to learn something new!"
+    ],
+    [
+      "Abigail Chen",
+      "That\u2019s a great tip! For my avocado toast, I love to add a pinch of smoked paprika or chili flakes to give it a little kick. It\u2019s a small addition, but it really elevates the flavor. Do you ever experiment with spices in your breakfast dishes?"
+    ],
+    [
+      "Maria Lopez",
+      "I love that idea! I\u2019ve never tried smoked paprika on avocado toast, but it sounds like it would add such a unique flavor. I\u2019ll definitely give it a try next time. Speaking of spices, I\u2019ve been experimenting with adding a bit of cardamom to my French toast\u2014it gives it this warm, almost floral note. Have you ever tried cardamom in your cooking?"
+    ],
+    [
+      "Abigail Chen",
+      "Cardamom in French toast sounds intriguing! I\u2019ve used it in baking, but never in breakfast dishes\u2014I\u2019ll have to try that. It\u2019s amazing how a little spice can transform a dish. Do you have any other creative breakfast ideas you\u2019ve been wanting to try?"
+    ],
+    [
+      "Maria Lopez",
+      "Actually, I\u2019ve been wanting to try making a breakfast bowl with quinoa, roasted veggies, and a poached egg on top\u2014it\u2019s a bit more adventurous for me, but I think it could be really satisfying. Have you ever experimented with breakfast bowls or something similar?"
+    ],
+    [
+      "Abigail Chen",
+      "That sounds like a fantastic idea! I\u2019ve never tried a breakfast bowl with quinoa, but I love the combination of roasted veggies and a poached egg\u2014it\u2019s such a great balance of flavors and textures. Maybe we could team up and try making it together one morning during the program? I\u2019d love to see how it turns out!"
+    ],
+    [
+      "Maria Lopez",
+      "That sounds like a great plan! I\u2019d love to team up and experiment with a breakfast bowl together. It\u2019ll be fun to see how it turns out\u2014and who knows, maybe we\u2019ll discover a new favorite dish! Let\u2019s pick a morning later this week to give it a try."
+    ],
+    [
+      "Abigail Chen",
+      "That sounds perfect! How about we plan for Thursday morning? It\u2019ll give us time to gather all the ingredients and maybe even brainstorm some additional toppings or spices to add. I\u2019m really looking forward to it!"
+    ],
+    [
+      "Maria Lopez",
+      "Thursday morning sounds great! I\u2019ll make sure to jot down some ideas for toppings and spices too. Maybe we can even make it a little spicy with some chili flakes or add a tangy twist with a squeeze of lime. I\u2019m really excited to see what we come up with!"
+    ],
+    [
+      "Abigail Chen",
+      "I\u2019m excited too! I think adding chili flakes and lime will give it such a vibrant flavor. Let\u2019s make it a collaborative experiment\u2014maybe we can even document the process and share it with the group. It could be fun to see everyone\u2019s reactions!"
+    ],
+    [
+      "Maria Lopez",
+      "That\u2019s a great idea! Documenting the process could be so much fun\u2014maybe we can even turn it into a little cooking vlog or something. I\u2019m sure the group would love to see it! Let\u2019s make it a memorable breakfast experiment!"
+    ],
+    [
+      "Abigail Chen",
+      "I love the idea of turning it into a cooking vlog! It\u2019ll be a fun way to capture our creativity and maybe even inspire others to try something new. Let\u2019s definitely make it memorable! So, is Thursday morning our official breakfast bowl experiment day?"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:33:00",
+  "act_path_set": true,
+  "planned_path": [
+    [
+      76,
+      21
+    ],
+    [
+      77,
+      21
+    ]
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        83,
+        14
+      ],
+      "pronunciatio": "\ud83e\udea5\ud83e\uddfc",
+      "description": "getting ready for the day and preparing to go to the Hobbs Cafe (brushing her teeth and washing her face) @ the Ville:Isabella Rodriguez's apartment:bathroom:toilet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two individuals, Maria Lopez and Klaus Mueller, making plans to explore Ville Village together, have dinner at hobb cafe, and continue their conversation about meeting new people in the Love Ville program. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how are you finding the Love Ville program so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm really enjoying the Love Ville program. It's been great meeting new people and experiencing different activities."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I've been having a really good time too. Have you met anyone interesting yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yeah, I met a few interesting people during the group activity this afternoon. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I met a couple of people too, but no one that really caught my attention yet. How about we explore the Ville Village together tomorrow and see if we find anyone interesting?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria! I'd love to explore the Ville Village with you tomorrow and see if we find anyone interesting together."
+        ],
+        [
+          "Maria Lopez",
+          "How about we grab dinner together tonight and continue our conversation?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic plan, Maria! I would love to grab dinner with you and continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "How about we meet at 7pm at the hobb cafe for dinner?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds perfect, Maria! I'll see you at 7 pm at the hobb cafe for dinner. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! See you at 7pm"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to exploring the Ville Village with you tomorrow, Maria. It should be fun!"
+        ],
+        [
+          "Maria Lopez",
+          "It was great connecting with you, Klaus. I'll see you at 7 pm for dinner!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to explore the Ville Village with you tomorrow. It's always more fun to discover new places with someone else."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! See you at 7pm"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two individuals, Maria Lopez and Klaus Mueller, making plans to explore Ville Village together, have dinner at hobb cafe, and continue their conversation about meeting new people in the Love Ville program. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how are you finding the Love Ville program so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm really enjoying the Love Ville program. It's been great meeting new people and experiencing different activities."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I've been having a really good time too. Have you met anyone interesting yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yeah, I met a few interesting people during the group activity this afternoon. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I met a couple of people too, but no one that really caught my attention yet. How about we explore the Ville Village together tomorrow and see if we find anyone interesting?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria! I'd love to explore the Ville Village with you tomorrow and see if we find anyone interesting together."
+        ],
+        [
+          "Maria Lopez",
+          "How about we grab dinner together tonight and continue our conversation?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic plan, Maria! I would love to grab dinner with you and continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "How about we meet at 7pm at the hobb cafe for dinner?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds perfect, Maria! I'll see you at 7 pm at the hobb cafe for dinner. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! See you at 7pm"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to exploring the Ville Village with you tomorrow, Maria. It should be fun!"
+        ],
+        [
+          "Maria Lopez",
+          "It was great connecting with you, Klaus. I'll see you at 7 pm for dinner!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to explore the Ville Village with you tomorrow. It's always more fun to discover new places with someone else."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! See you at 7pm"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (preparing his breakfast) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        49
+      ],
+      "pronunciatio": "\ud83d\udecc",
+      "description": "reading and writing (taking a break) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:08:00"
+  }
+}

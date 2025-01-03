@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc6d",
+      "description": "cooking and eating breakfast with other Love Ville members at the Hobbs Cafe (conversing about two friends, Abigail Chen and Isabella Rodriguez, planning to cook a breakfast recipe together, explore Ville Village, visit an art exhibit, and grab coffee at Hobbs Cafe next Saturday.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (cooking the breakfast recipe with the other participants) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Klaus Mueller and Abigail Chen, making plans to explore Ville Village together, grab coffee at Hobbs Cafe, attend a digital art workshop at the Ville Village community center, check the workshop schedule, bring sketchbooks and cameras to document their experience. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Abigail, it's great to see you here! How was your morning so far?"
+        ],
+        [
+          "Abigail Chen",
+          "Hey Klaus! My morning has been pretty good, just getting ready for the day. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was just thinking about exploring Ville Village today. Would you like to join me?"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds like a great idea! I was actually planning to explore Ville Village as well. I'd love to join you!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's meet at the entrance of Ville Village at 10 am. I'm looking forward to exploring with you."
+        ],
+        [
+          "Abigail Chen",
+          "Should we grab a quick coffee at the Hobbs Cafe before we start exploring Ville Village?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! Let's grab a quick coffee at Hobbs Cafe before we head to Ville Village."
+        ],
+        [
+          "Abigail Chen",
+          "Great! I'll see you at the entrance of Ville Village at 10 am then. Looking forward to exploring with you!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it, see you then!"
+        ],
+        [
+          "Abigail Chen",
+          "Should we also plan to attend the digital art workshop at the Ville Village community center later today?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea! Let's definitely plan to attend the digital art workshop at the Ville Village community center later today."
+        ],
+        [
+          "Abigail Chen",
+          "I'll check the schedule for the digital art workshop and let you know the timing before we head out to explore Ville Village."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan. Let's check the schedule for the digital art workshop together when we meet at the entrance of Ville Village."
+        ],
+        [
+          "Abigail Chen",
+          "I'll also bring my sketchbook with me to the digital art workshop. It'll be great to jot down any creative ideas we get while exploring Ville Village!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan. Let's meet at the entrance of Ville Village at 10 am. Looking forward to exploring with you!"
+        ],
+        [
+          "Abigail Chen",
+          "I'll also bring my camera to capture some beautiful moments while we explore Ville Village. It'll be fun to document our experience together!"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Klaus Mueller and Abigail Chen, making plans to explore Ville Village together, grab coffee at Hobbs Cafe, attend a digital art workshop at the Ville Village community center, check the workshop schedule, bring sketchbooks and cameras to document their experience. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Abigail, it's great to see you here! How was your morning so far?"
+        ],
+        [
+          "Abigail Chen",
+          "Hey Klaus! My morning has been pretty good, just getting ready for the day. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was just thinking about exploring Ville Village today. Would you like to join me?"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds like a great idea! I was actually planning to explore Ville Village as well. I'd love to join you!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's meet at the entrance of Ville Village at 10 am. I'm looking forward to exploring with you."
+        ],
+        [
+          "Abigail Chen",
+          "Should we grab a quick coffee at the Hobbs Cafe before we start exploring Ville Village?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! Let's grab a quick coffee at Hobbs Cafe before we head to Ville Village."
+        ],
+        [
+          "Abigail Chen",
+          "Great! I'll see you at the entrance of Ville Village at 10 am then. Looking forward to exploring with you!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it, see you then!"
+        ],
+        [
+          "Abigail Chen",
+          "Should we also plan to attend the digital art workshop at the Ville Village community center later today?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea! Let's definitely plan to attend the digital art workshop at the Ville Village community center later today."
+        ],
+        [
+          "Abigail Chen",
+          "I'll check the schedule for the digital art workshop and let you know the timing before we head out to explore Ville Village."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan. Let's check the schedule for the digital art workshop together when we meet at the entrance of Ville Village."
+        ],
+        [
+          "Abigail Chen",
+          "I'll also bring my sketchbook with me to the digital art workshop. It'll be great to jot down any creative ideas we get while exploring Ville Village!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan. Let's meet at the entrance of Ville Village at 10 am. Looking forward to exploring with you!"
+        ],
+        [
+          "Abigail Chen",
+          "I'll also bring my camera to capture some beautiful moments while we explore Ville Village. It'll be fun to document our experience together!"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        112,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending the Love Ville program orientation (introducing himself to the person sitting next to him) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having breakfast at the hobb cafe with other Love Ville participants (conversing about planning to attend a digital art workshop together, discussing the upcoming local mayor election, and making plans to grab lunch at Hobbs Cafe to continue the conversation) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:40:30"
+  }
+}

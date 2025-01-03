@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f\ud83e\uddfd",
+      "description": "having a light breakfast at home before heading to Hobbs Cafe (cleaning up her breakfast dishes) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciatio": "\ud83d\udc55\ud83d\udc56",
+      "description": "getting ready for the day, listening to music and preparing to go to the hobb cafe (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        45
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2642",
+      "description": "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (styling his hair) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:closet",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        42,
+        21
+      ],
+      "pronunciatio": "\ud83e\uddfa\ud83d\udc55",
+      "description": "waking up and completing her morning routine (drying off and getting dressed) @ the Ville:artist's co-living space:Abigail Chen's bathroom:shower",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc4b\ud83d\ude42",
+      "description": "attending the Love Ville program orientation (introducing himself to other participants) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        68
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2642",
+      "description": "preparing to go to the hobb cafe for breakfast (styling his hair) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:39:10"
+  }
+}

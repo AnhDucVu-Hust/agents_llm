@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf5e\ud83d\udd25",
+      "description": "having a light breakfast at home before heading to Hobbs Cafe (toasting a slice of bread) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller, two students at Oak Hill College, conversing about their excitement to participate in Love Ville, their majors, and their interests, particularly Klaus' passion for sociology and social justice, as they walk together to the Hobb Cafe for breakfast. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi Klaus! Good morning! I'm Maria, I'm also staying in this dorm and I'm headed to the hobb cafe now for the Love Ville breakfast. I hope that's where you're headed too!"
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning Maria! Yes, I'm on my way to the hobb cafe for the breakfast too. I'm Klaus. It's great to meet you."
+        ],
+        [
+          "Maria Lopez",
+          "It's great to meet you too, Klaus! I'm super excited for this week. It's my first time participating in Love Ville and I hope I can get to know some lovely people. Anyway, shall we go? We don't want to be late!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also a bit nervous but very excited to get to know everyone too! It's wonderful to have you to accompany me to the cafe, shall we go?"
+        ],
+        [
+          "Maria Lopez",
+          "Yeah, let's head over together! It's quite chilly today so I'm glad we can walk together. Do you live far from here?"
+        ],
+        [
+          "Klaus Mueller",
+          "I live just a couple of minutes away. It's a short walk, but it's always nice to have some company on a chilly day like today!"
+        ],
+        [
+          "Maria Lopez",
+          "It's chilly indeed! I'm glad I wore my coat. By the way, what's your major at Oak Hill College? I'm studying physics myself."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually a sociology major. I'm in my second year. It's quite an interesting field of study, lots of opportunities to learn about human behavior and interactions."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fascinating! I've always been curious about the human behavior behind social interactions and the dynamics between people. It must be very intriguing to learn about those aspects formally."
+        ],
+        [
+          "Klaus Mueller",
+          "It's a fascinating field indeed! I'm particularly interested in the constellations of power and social justice within societies. It's great to have such a comprehensible approach to those apt observations."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a really important aspect to study, especially now. I've always admired people who can bring about change and advocate for social justice. It's great to see you're passionate about it!"
+        ],
+        [
+          "Klaus Mueller",
+          "It's amazing how much a sociological lens can unveil the nuanced power dynamics at play in society. I remember being intrigued by these dynamics and the impact of social justice advocates from a young age. Their work is so crucial!"
+        ],
+        [
+          "Maria Lopez",
+          "It's wonderful to hear about your passion for sociology and the specific topics you're interested in. I'm even more excited to get to know you better and discuss these fascinating topics with you throughout the week. I think we're arriving at the cafe, so we'll continue this interesting conversation after we're done with the breakfast sp\u00e4teren today!"
+        ],
+        [
+          "Klaus Mueller",
+          "It's great to have met you, Maria! I'm looking forward to our next conversation. Have a fantastic breakfast and see you later today!"
+        ],
+        [
+          "Maria Lopez",
+          "It was lovely getting to know you a bit, Klaus! See you inside the cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "It's wonderful to have met you too, Maria. I'm glad we could accompany each other to the cafe. See you inside!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller, two students at Oak Hill College, conversing about their excitement to participate in Love Ville, their majors, and their interests, particularly Klaus' passion for sociology and social justice, as they walk together to the Hobb Cafe for breakfast. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi Klaus! Good morning! I'm Maria, I'm also staying in this dorm and I'm headed to the hobb cafe now for the Love Ville breakfast. I hope that's where you're headed too!"
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning Maria! Yes, I'm on my way to the hobb cafe for the breakfast too. I'm Klaus. It's great to meet you."
+        ],
+        [
+          "Maria Lopez",
+          "It's great to meet you too, Klaus! I'm super excited for this week. It's my first time participating in Love Ville and I hope I can get to know some lovely people. Anyway, shall we go? We don't want to be late!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also a bit nervous but very excited to get to know everyone too! It's wonderful to have you to accompany me to the cafe, shall we go?"
+        ],
+        [
+          "Maria Lopez",
+          "Yeah, let's head over together! It's quite chilly today so I'm glad we can walk together. Do you live far from here?"
+        ],
+        [
+          "Klaus Mueller",
+          "I live just a couple of minutes away. It's a short walk, but it's always nice to have some company on a chilly day like today!"
+        ],
+        [
+          "Maria Lopez",
+          "It's chilly indeed! I'm glad I wore my coat. By the way, what's your major at Oak Hill College? I'm studying physics myself."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually a sociology major. I'm in my second year. It's quite an interesting field of study, lots of opportunities to learn about human behavior and interactions."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fascinating! I've always been curious about the human behavior behind social interactions and the dynamics between people. It must be very intriguing to learn about those aspects formally."
+        ],
+        [
+          "Klaus Mueller",
+          "It's a fascinating field indeed! I'm particularly interested in the constellations of power and social justice within societies. It's great to have such a comprehensible approach to those apt observations."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a really important aspect to study, especially now. I've always admired people who can bring about change and advocate for social justice. It's great to see you're passionate about it!"
+        ],
+        [
+          "Klaus Mueller",
+          "It's amazing how much a sociological lens can unveil the nuanced power dynamics at play in society. I remember being intrigued by these dynamics and the impact of social justice advocates from a young age. Their work is so crucial!"
+        ],
+        [
+          "Maria Lopez",
+          "It's wonderful to hear about your passion for sociology and the specific topics you're interested in. I'm even more excited to get to know you better and discuss these fascinating topics with you throughout the week. I think we're arriving at the cafe, so we'll continue this interesting conversation after we're done with the breakfast sp\u00e4teren today!"
+        ],
+        [
+          "Klaus Mueller",
+          "It's great to have met you, Maria! I'm looking forward to our next conversation. Have a fantastic breakfast and see you later today!"
+        ],
+        [
+          "Maria Lopez",
+          "It was lovely getting to know you a bit, Klaus! See you inside the cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "It's wonderful to have met you too, Maria. I'm glad we could accompany each other to the cafe. See you inside!"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        37,
+        20
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f\ud83d\udebd",
+      "description": "waking up and completing her morning routine (getting out of bed and going to the bathroom) @ the Ville:artist's co-living space:kitchen:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        98,
+        43
+      ],
+      "pronunciatio": "\ud83d\udc42\ud83d\udccb",
+      "description": "attending the Love Ville program orientation (listening to the program coordinator's introduction) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        70
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83e\uddfc",
+      "description": "preparing to go to the hobb cafe for breakfast (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:05:20"
+  }
+}

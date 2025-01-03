@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc84\u2728",
+      "description": "having a light breakfast at home before heading to Hobbs Cafe (applying light makeup) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        55
+      ],
+      "pronunciatio": "\ud83d\udc84\ud83d\udc87\u200d",
+      "description": "getting ready for the day, listening to music and preparing to go to the hobb cafe (doing her hair and makeup) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        132,
+        45
+      ],
+      "pronunciatio": "\ud83c\udf92\ud83e\uddf3",
+      "description": "getting ready and preparing to head to the hobb cafe for the first Love Ville group breakfast (packing his bag with essentials) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:closet",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        39,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2640",
+      "description": "waking up and completing her morning routine (styling her hair) @ the Ville:artist's co-living space:Abigail Chen's bathroom:bathroom sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        112,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcc7\ud83e\udd1d",
+      "description": "attending the Love Ville program orientation (exchanging contact information with other participants) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        68
+      ],
+      "pronunciatio": "\ud83e\ude9e\ud83d\udc40",
+      "description": "preparing to go to the hobb cafe for breakfast (checking his appearance in the mirror) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:52:00"
+  }
+}

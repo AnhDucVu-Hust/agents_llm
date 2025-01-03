@@ -1,0 +1,459 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:15:50",
+  "curr_tile": [
+    76,
+    22
+  ],
+  "daily_plan_req": "Isabella Rodriguez now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. Now she is joining the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. The Hobbs Cafe now is used for the program",
+  "currently": "Isabella Rodriguez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She always does exercise at 8pm",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 149,
+  "importance_ele_n": 1,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "go to the Hobbs Cafe at 9:00 am to cook and eat breakfast with the Love Ville program members",
+    "spend the day at the cafe, engaging with members and preparing for the evening",
+    "exercise at 8:00 pm",
+    "go to the Hobbs Cafe at 6:00 pm to cook and eat dinner with the Love Ville program members"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (changing into workout clothes)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (doing a quick morning workout)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (taking a quick shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (drying off and applying lotion)",
+      5
+    ],
+    [
+      "getting ready for the day, preparing to head to Hobbs Cafe (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready for the day, preparing to head to Hobbs Cafe (taking a shower)",
+      15
+    ],
+    [
+      "getting ready for the day, preparing to head to Hobbs Cafe (getting dressed)",
+      10
+    ],
+    [
+      "getting ready for the day, preparing to head to Hobbs Cafe (doing her hair and makeup)",
+      15
+    ],
+    [
+      "getting ready for the day, preparing to head to Hobbs Cafe (packing her bag for the day)",
+      5
+    ],
+    [
+      "getting ready for the day, preparing to head to Hobbs Cafe (putting on her shoes and coat)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (gathering her belongings and checking her bag for essentials)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (putting on her coat and shoes)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (locking her apartment door and heading to the elevator)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (walking to her car in the parking lot)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (driving to Hobbs Cafe)",
+      20
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (parking her car and walking to the cafe entrance)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (unlocking the cafe door and turning on the lights)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (checking the kitchen supplies and ingredients for breakfast)",
+      5
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast (setting up the dining area for the Love Ville program members)",
+      5
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (greeting the Love Ville program members as they arrive)",
+      5
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (assigning tasks to the members for cooking breakfast)",
+      5
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (on the way to helping the members with cooking breakfast)",
+      0
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (conversing about a philosophical discussion about creativity and its role in life, work, and running a successful cafe.)",
+      19
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (setting the table for breakfast)",
+      5
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (serving breakfast to the members)",
+      5
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (eating breakfast with the members)",
+      15
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (cleaning up after breakfast)",
+      5
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members (thanking the members for their help)",
+      1
+    ],
+    [
+      "at Hobbs Cafe, engaging with Love Ville program members and preparing for the evening (greeting the Love Ville program members)",
+      5
+    ],
+    [
+      "at Hobbs Cafe, engaging with Love Ville program members and preparing for the evening (making small talk with the Love Ville program members)",
+      10
+    ],
+    [
+      "at Hobbs Cafe, engaging with Love Ville program members and preparing for the evening (asking the Love Ville program members about their interests)",
+      10
+    ],
+    [
+      "at Hobbs Cafe, engaging with Love Ville program members and preparing for the evening (sharing her own interests with the Love Ville program members)",
+      10
+    ],
+    [
+      "at Hobbs Cafe, engaging with Love Ville program members and preparing for the evening (flirting with the Love Ville program members)",
+      10
+    ],
+    [
+      "at Hobbs Cafe, engaging with Love Ville program members and preparing for the evening (preparing for the evening by cleaning the cafe)",
+      10
+    ],
+    [
+      "at Hobbs Cafe, engaging with Love Ville program members and preparing for the evening (preparing for the evening by setting up the cafe)",
+      5
+    ],
+    [
+      "at Hobbs Cafe, continuing to engage with Love Ville program members and preparing for the evening",
+      420
+    ],
+    [
+      "at Hobbs Cafe cooking and eating dinner with the Love Ville program members",
+      60
+    ],
+    [
+      "at Hobbs Cafe, continuing to engage with Love Ville program members after dinner",
+      60
+    ],
+    [
+      "exercising at the gym",
+      60
+    ],
+    [
+      "at Hobbs Cafe, continuing to engage with Love Ville program members after dinner",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for the day, preparing to head to Hobbs Cafe",
+      60
+    ],
+    [
+      "heading to Hobbs Cafe to prepare for the Love Ville program breakfast",
+      60
+    ],
+    [
+      "at Hobbs Cafe cooking and eating breakfast with the Love Ville program members",
+      60
+    ],
+    [
+      "at Hobbs Cafe, engaging with Love Ville program members and preparing for the evening",
+      60
+    ],
+    [
+      "at Hobbs Cafe, continuing to engage with Love Ville program members and preparing for the evening",
+      420
+    ],
+    [
+      "at Hobbs Cafe cooking and eating dinner with the Love Ville program members",
+      60
+    ],
+    [
+      "at Hobbs Cafe, continuing to engage with Love Ville program members after dinner",
+      60
+    ],
+    [
+      "exercising at the gym",
+      60
+    ],
+    [
+      "at Hobbs Cafe, continuing to engage with Love Ville program members after dinner",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "<persona> Adam Smith",
+  "act_start_time": "February 13, 2023, 09:04:40",
+  "act_duration": 19,
+  "act_description": "conversing about a philosophical discussion about creativity and its role in life, work, and running a successful cafe.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "Adam Smith"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Adam Smith",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Hi there! I\u2019m Isabella, the owner of Hobbs Cafe. Welcome to the Love Ville program! How are you finding the breakfast so far?"
+    ],
+    [
+      "Adam Smith",
+      "Hi Isabella, it's a pleasure to meet you. The breakfast is delightful, and the atmosphere here is quite inspiring. I\u2019m Adam, by the way\u2014a philosopher currently working on a book about creativity. How long have you been running Hobbs Cafe?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you, Adam! I\u2019ve been running Hobbs Cafe for about five years now. It\u2019s been such a rewarding journey, especially getting to meet so many wonderful people like yourself. A book about creativity sounds fascinating! What inspired you to write about that topic?"
+    ],
+    [
+      "Adam Smith",
+      "Thank you, Isabella! The inspiration came from my belief that creativity is the cornerstone of progress and innovation. It shapes how we think, solve problems, and even connect with one another. I\u2019m curious\u2014how do you incorporate creativity into running Hobbs Cafe? Do you find it influences the way you interact with your customers or design your menu?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That\u2019s such a profound perspective, Adam! I love how you see creativity as a bridge to connection. At Hobbs Cafe, I try to infuse creativity into everything\u2014whether it\u2019s experimenting with new recipes, designing cozy spaces for people to relax, or even finding unique ways to make everyone feel welcome. It\u2019s amazing how creativity can turn a simple cafe into a place where people feel inspired and at home. Speaking of which, do you have a favorite creative outlet outside of writing?"
+    ],
+    [
+      "Adam Smith",
+      "That\u2019s wonderful to hear, Isabella! It\u2019s clear how much thought and care you put into your cafe. Outside of writing, I find that taking long walks and reflecting on ideas is my favorite creative outlet. It helps me clear my mind and often sparks new insights. How about you? Do you have any personal creative hobbies or practices that inspire you in your work?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That\u2019s such a thoughtful approach, Adam! I can see how walking and reflecting would be so enriching. For me, I love experimenting with new recipes and even playing the piano when I have the time. It\u2019s a great way to unwind and let my creativity flow. Do you ever find that your walks inspire your writing or help you connect with the themes in your book?"
+    ],
+    [
+      "Adam Smith",
+      "Absolutely, Isabella! My walks often lead to unexpected connections and ideas that I later weave into my writing. It\u2019s fascinating how the act of moving through a space can unlock new perspectives. I\u2019m curious\u2014do you ever find that your piano playing or recipe experiments influence the way you approach challenges in running the cafe?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Definitely! Playing the piano helps me think outside the box, and experimenting with recipes often leads to new menu ideas that surprise and delight my customers. It\u2019s like creativity fuels both my personal joy and the cafe\u2019s growth. Speaking of challenges, what\u2019s been the most surprising or rewarding part of writing your book so far?"
+    ],
+    [
+      "Adam Smith",
+      "The most rewarding part has been hearing how my ideas resonate with others and spark their own creative thinking. It\u2019s a reminder of how interconnected we all are through creativity. On the flip side, the most surprising part has been how much I\u2019ve learned about myself in the process\u2014writing has been a journey of self-discovery as much as it is about sharing ideas. How about you? What\u2019s been the most surprising or rewarding aspect of running Hobbs Cafe for you?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That\u2019s so inspiring, Adam! For me, the most rewarding part has been seeing how the cafe has become a community hub where people feel at home and connect with one another. It\u2019s amazing how a simple space can foster so many meaningful relationships. And the most surprising part has been how much I\u2019ve grown as a person\u2014learning to balance creativity with the practicalities of running a business has been a journey in itself. I\u2019d love to hear more about your book as it progresses\u2014maybe you could share some insights with us at the cafe sometime!"
+    ],
+    [
+      "Adam Smith",
+      "That sounds wonderful, Isabella! I\u2019d be delighted to share some insights from my book at the cafe\u2014perhaps it could spark some interesting conversations among your customers. It\u2019s been such a pleasure talking with you and learning about your journey with Hobbs Cafe. I\u2019m looking forward to seeing how the Love Ville program unfolds and getting to know everyone better. Thank you for the warm welcome and the delicious breakfast!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Adam Smith": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:24:00",
+  "act_path_set": true,
+  "planned_path": []
+}

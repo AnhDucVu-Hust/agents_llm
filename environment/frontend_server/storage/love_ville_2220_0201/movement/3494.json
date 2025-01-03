@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about catching up on their experiences at the Love Ville Program breakfast, discussing their favorite activities, planning to attend a digital art workshop together, exploring Ville Village, grabbing coffee at Hobbs Cafe, and meeting at the entrance of Ville Village at 10 am with sketchbooks and cameras @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's nice to see you here at the Love Ville Program breakfast! How has your experience been so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! It's been great so far, I've met some interesting people and had some engaging conversations. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been enjoying meeting new people and trying out the different activities. Have you found any favorites yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "I really enjoyed the digital art workshop yesterday. It was so inspiring!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds amazing! I'm looking forward to attending the workshop too. Maybe we can check out the workshop schedule together and plan our day?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, that sounds like a great idea! Let's check out the workshop schedule together and plan our day."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also make sure to bring our sketchbooks and cameras to document our experience at the workshop."
+        ],
+        [
+          "Klaus Mueller",
+          "I totally agree! It's always nice to have something to look back on from these experiences. Are you planning on exploring Ville Village after the workshop?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I can't wait to explore Ville Village with you after the workshop."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would be fun to grab coffee at Hobbs Cafe after we explore Ville Village. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful plan! I can't wait to explore Ville Village and grab coffee at Hobbs Cafe with you after the workshop."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's finalize our plans and meet at the entrance of Ville Village at 10 am. We can start with a quick coffee at Hobbs Cafe before heading to the digital art workshop. Don't forget to bring your sketchbooks and cameras!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds like a plan! I'll see you at the entrance of Ville Village at 10 am. Looking forward to our day together!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! It's nice to have a plan for the day. I'm looking forward to exploring Ville Village and attending the workshop with you. See you at 10 am!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Looking forward to it! See you soon, Klaus. Enjoy the rest of your breakfast!"
+        ],
+        [
+          "Klaus Mueller",
+          "Enjoy the rest of your breakfast too, Isabella! See you at 10 am!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (cooking the breakfast recipe with the other participants) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about catching up on their experiences at the Love Ville Program breakfast, discussing their favorite activities, planning to attend a digital art workshop together, exploring Ville Village, grabbing coffee at Hobbs Cafe, and meeting at the entrance of Ville Village at 10 am with sketchbooks and cameras @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's nice to see you here at the Love Ville Program breakfast! How has your experience been so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! It's been great so far, I've met some interesting people and had some engaging conversations. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been enjoying meeting new people and trying out the different activities. Have you found any favorites yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "I really enjoyed the digital art workshop yesterday. It was so inspiring!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds amazing! I'm looking forward to attending the workshop too. Maybe we can check out the workshop schedule together and plan our day?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, that sounds like a great idea! Let's check out the workshop schedule together and plan our day."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also make sure to bring our sketchbooks and cameras to document our experience at the workshop."
+        ],
+        [
+          "Klaus Mueller",
+          "I totally agree! It's always nice to have something to look back on from these experiences. Are you planning on exploring Ville Village after the workshop?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I can't wait to explore Ville Village with you after the workshop."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would be fun to grab coffee at Hobbs Cafe after we explore Ville Village. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful plan! I can't wait to explore Ville Village and grab coffee at Hobbs Cafe with you after the workshop."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's finalize our plans and meet at the entrance of Ville Village at 10 am. We can start with a quick coffee at Hobbs Cafe before heading to the digital art workshop. Don't forget to bring your sketchbooks and cameras!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds like a plan! I'll see you at the entrance of Ville Village at 10 am. Looking forward to our day together!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! It's nice to have a plan for the day. I'm looking forward to exploring Ville Village and attending the workshop with you. See you at 10 am!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Looking forward to it! See you soon, Klaus. Enjoy the rest of your breakfast!"
+        ],
+        [
+          "Klaus Mueller",
+          "Enjoy the rest of your breakfast too, Isabella! See you at 10 am!"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (conversing about two friends, Klaus Mueller and Abigail Chen, making plans to explore Ville Village together, grab coffee at Hobbs Cafe, attend a digital art workshop at the Ville Village community center, check the workshop schedule, bring sketchbooks and cameras to document their experience.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        112,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending the Love Ville program orientation (introducing himself to the person sitting next to him) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having breakfast at the hobb cafe with other Love Ville participants (conversing about planning to attend a digital art workshop together, discussing the upcoming local mayor election, and making plans to grab lunch at Hobbs Cafe to continue the conversation) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:42:20"
+  }
+}

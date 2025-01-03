@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83e\udd5e",
+      "description": "cooking and eating breakfast with other Love Ville members at the Hobbs Cafe (discussing breakfast ideas with the group) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        31
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (choosing a breakfast recipe to cook) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        34
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "attending the Love Ville Program breakfast at the hobb cafe (helping to prepare breakfast) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        43,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (conversing about Abigail Chen and Adam Smith discussing their morning, plans for the day, and their participation in the Love Ville program, including Adam's book chapter writing and Abigail's attendance at a digital art workshop at the Ville Village community center.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending the Love Ville program orientation (listening to the program coordinator's introduction) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        44,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having breakfast at the hobb cafe with other Love Ville participants (conversing about Abigail Chen and Adam Smith discussing their morning, plans for the day, and their participation in the Love Ville program, including Adam's book chapter writing and Abigail's attendance at a digital art workshop at the Ville Village community center.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:12:20"
+  }
+}

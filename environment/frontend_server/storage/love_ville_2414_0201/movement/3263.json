@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc57\ud83d\udeaa",
+      "description": "arriving at Hobbs Cafe for the Love Ville program (getting dressed and ready to leave her house) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        54
+      ],
+      "pronunciatio": "\ud83d\udc5f\ud83e\udde5",
+      "description": "getting ready for the day, listening to music and preparing to go to the hobb cafe (putting on her shoes and jacket) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        104,
+        47
+      ],
+      "pronunciatio": "\ud83d\udc4b\ud83e\uddd1",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (introducing himself to the people at his table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        40,
+        18
+      ],
+      "pronunciatio": "\ud83d\udc57\u2615",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville members (getting dressed and ready to go to the hobb cafe) @ the Ville:artist's co-living space:Abigail Chen's room:closet",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42\ud83d\udccb",
+      "description": "participating in icebreaker activities and meeting other singles (listening to the facilitator's instructions for the icebreaker activity) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        29,
+        42
+      ],
+      "pronunciatio": "\ud83d\udeb6\u2615",
+      "description": "having breakfast at the hobb cafe with other Love Ville participants (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:03:50"
+  }
+}

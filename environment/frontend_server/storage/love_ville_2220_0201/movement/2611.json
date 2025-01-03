@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        14
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "getting ready for the day and preparing to go to the Hobbs Cafe (taking a shower) @ the Ville:Isabella Rodriguez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        51
+      ],
+      "pronunciatio": "\ud83d\udc6b",
+      "description": "waking up and completing her morning routine (conversing about two individuals, Maria Lopez and Klaus Mueller, making plans to explore Ville Village together, have dinner at hobb cafe, and continue their conversation about meeting new people in the Love Ville program.) @ the Ville:Dorm for Oak Hill College:common room:pool table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        116,
+        47
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "waking up and completing his morning routine (conversing about two individuals, Maria Lopez and Klaus Mueller, making plans to explore Ville Village together, have dinner at hobb cafe, and continue their conversation about meeting new people in the Love Ville program.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        89,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating his breakfast) @ the Ville:Lin family's house:common room:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        25,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reading and writing (reviewing his essay) @ the Ville:Adam Smith's house:main room:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:15:10"
+  }
+}

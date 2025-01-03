@@ -1,0 +1,453 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:00:00",
+  "curr_tile": [
+    76,
+    23
+  ],
+  "daily_plan_req": "Maria Lopez is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Maria Lopez goes to bed around 10am, awakes up around 7am, eats dinner around 6pm. She likes listening to music and admire people in academia",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 55,
+  "importance_ele_n": 24,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other Love Ville participants",
+    "spend the afternoon studying physics and streaming games on Twitch",
+    "go to the hobb cafe at 6:00 pm to cook and eat dinner with other Love Ville participants",
+    "watch the dating show on TV in the evening"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a quick shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (drying off and getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (styling her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (preparing a quick breakfast)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast)",
+      5
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (on the way to taking a shower)",
+      0
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (conversing about Maria Lopez and Klaus Mueller, two students at Oak Hill College, conversing about their excitement to participate in Love Ville, their majors, and their interests, particularly Klaus' passion for sociology and social justice, as they walk together to the Hobb Cafe for breakfast.)",
+      13
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (taking a shower)",
+      10
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (getting dressed)",
+      10
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (doing her hair and makeup)",
+      15
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (packing her bag for the day)",
+      5
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (putting on her shoes and jacket)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (walking to the hobb cafe)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (greeting other Love Ville participants)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (choosing a breakfast recipe to cook)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (on the way to gathering ingredients for the breakfast recipe)",
+      0
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (conversing about Maria Lopez and Abigail Chen conversing about their interests, studies, and hobbies, including gaming, streaming, digital art, and animation, as they get to know each other and share their passions.)",
+      15
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (gathering ingredients for the breakfast recipe)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (cooking breakfast with other participants)",
+      20
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (on the way to plating the breakfast and setting the table)",
+      0
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (conversing about two individuals, Maria Lopez and Adam Smith, meeting at the Love Ville program and conversing about their shared interests in digital art, philosophy, and the local mayor election, as well as discussing their creative projects and making plans to explore the community garden and antique shop together.)",
+      19
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (plating the breakfast and setting the table)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants (eating breakfast with other participants)",
+      7
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe (introducing herself to a group of participants)",
+      10
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe (asking about their interests and hobbies)",
+      15
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe (sharing her own interests and hobbies)",
+      15
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe (discussing the Love Ville program and its activities)",
+      10
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe (engaging in light-hearted conversation and jokes)",
+      15
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe (asking about their academic and career aspirations)",
+      15
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe (sharing her own academic and career aspirations)",
+      9
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe (saying goodbye and expressing her excitement for future interactions)",
+      3
+    ],
+    [
+      "studying physics in her room",
+      120
+    ],
+    [
+      "streaming games on Twitch",
+      240
+    ],
+    [
+      "at the hobb cafe cooking and eating dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe",
+      60
+    ],
+    [
+      "watching the dating show on TV with other Love Ville participants",
+      120
+    ],
+    [
+      "getting ready for bed and reflecting on her first day in the Love Ville program",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants",
+      60
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe",
+      120
+    ],
+    [
+      "studying physics in her room",
+      120
+    ],
+    [
+      "streaming games on Twitch",
+      240
+    ],
+    [
+      "at the hobb cafe cooking and eating dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "socializing and getting to know other Love Ville participants at the hobb cafe",
+      60
+    ],
+    [
+      "watching the dating show on TV with other Love Ville participants",
+      120
+    ],
+    [
+      "getting ready for bed and reflecting on her first day in the Love Ville program",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "<persona> Adam Smith",
+  "act_start_time": "February 13, 2023, 09:43:10",
+  "act_duration": 19,
+  "act_description": "conversing about two individuals, Maria Lopez and Adam Smith, meeting at the Love Ville program and conversing about their shared interests in digital art, philosophy, and the local mayor election, as well as discussing their creative projects and making plans to explore the community garden and antique shop together.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Maria Lopez",
+    "chat with",
+    "Adam Smith"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Adam Smith",
+  "chat": [
+    [
+      "Maria Lopez",
+      "Hi Adam! I'm Maria Lopez, nice to meet you. I couldn't help but notice you talking about the Love Ville program. I'm participating too! The whole experience is so exciting, isn't it?"
+    ],
+    [
+      "Adam Smith",
+      "Maria, it's lovely to meet you! I're really excited about the program too. It's a fantastic opportunity to meet like-minded people and explore the village. I've heard so much about your digital art and animation work, it's one of the reasons I wanted to talk to you! What got you interested in that field?"
+    ],
+    [
+      "Maria Lopez",
+      "Oh, thank you! I've always loved drawing and storytelling, and digital art felt like a natural progression from there. I enjoy creating new worlds, characters, and narratives. During my free time, you can find me streaming on Twitch too!"
+    ],
+    [
+      "Adam Smith",
+      "That's awesome! I've always admired people who can create art digitally, it's such a cool medium. I'm really into philosophy and exploring different ideas, it's fascinating to see how creativity can shape the world. Do you have any particular projects you're working on at the moment?"
+    ],
+    [
+      "Maria Lopez",
+      "I'm actually working on a new digital painting series based on mythological creatures! It's still in the early stages, but I'm planning to stream the process on Twitch soon. I think it'll be fun to blend mythology and modern art."
+    ],
+    [
+      "Adam Smith",
+      "That sounds absolutely captivating, blending mythology with modern art! I'm excited to see the series, will you be giving us a glimpse of your creative process or keeping it under wraps until the big reveal?"
+    ],
+    [
+      "Maria Lopez",
+      "It's definitely one of my passions, and I love sharing my process with my viewers. I think I'll do a series of teasers leading up to the big reveal to keep the hype up! And you, what brings you to the Love Ville program?"
+    ],
+    [
+      "Adam Smith",
+      "I'm here because I recently published a book, and I thought this would be a great opportunity to meet new people and discuss ideas. Also, I have to admit, I'm curious about who's going to run for the local mayor election next month!"
+    ],
+    [
+      "Maria Lopez",
+      "That's wonderful! I'm sure your book is incredible. It's exciting to meet someone who's so passionate about their work. And yeah, the Love Ville program seems like the perfect icebreaker to meet new people, especially since we're all here for a week. I'm curious about the book's genre and the ideas you explore in your work."
+    ],
+    [
+      "Adam Smith",
+      "That's kind of you, Maria! It's a philosophical work, where I explore the importance of creativity in shaping our world and our perceptions. I draw examples from various fields, art included, to demonstrate how creative thinking can enhance our lives and our understanding of the world. As for the elections, I'm curious to see the candidates and their manifestos. It's a small local election, but it's fascinating how much it can impact our daily lives!"
+    ],
+    [
+      "Maria Lopez",
+      "That sounds like a fascinating read! I love delving into philosophical works that make me question the world around me. I'm definitely going to pick up a copy and immerse myself in your ideas. As for the election, I agree that even local elections can have a huge impact on our daily lives, so it'll be interesting to see the outcomes. Anyway, it's been lovely getting to know you better, Adam! I should probably go and let you finish your breakfast, but we'll see each other throughout the program. Are you thinking of doing anything specific later today?"
+    ],
+    [
+      "Adam Smith",
+      "It was a pleasure getting to know you too, Maria! I'm glad we could connect through our shared interests. As you mentioned, we'll be seeing each other a lot during the program, so maybe we could plan something later today. I was thinking about exploring the community garden or visiting the antique shop."
+    ],
+    [
+      "Maria Lopez",
+      "That sounds lovely! I've never been to the community garden, but I've heard it's a peaceful spot. Antique shopping also sounds fun\u2014I love discovering unique pieces with a bit of history. Let's plan something like that later. For now, I should let you finish your meal, and we can both catch up with our friends. We'll Keto later to firm up our plans for the afternoon!"
+    ],
+    [
+      "Adam Smith",
+      "That sounds great, Maria! I'll see you later then. Have a wonderful morning, and enjoy your time here at the cafe!"
+    ],
+    [
+      "Maria Lopez",
+      "You too! Have a wonderful morning Adam! See you later."
+    ],
+    [
+      "Adam Smith",
+      "It was lovely having this chat, Maria! We do seem to have a lot of shared interests. I'm thrilled to have met you here today."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": 169,
+    "Abigail Chen": 643,
+    "Adam Smith": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:02:00",
+  "act_path_set": true,
+  "planned_path": []
+}

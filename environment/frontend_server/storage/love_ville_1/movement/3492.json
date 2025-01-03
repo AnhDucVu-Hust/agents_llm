@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc6d",
+      "description": "cooking and eating breakfast with other Love Ville members at the Hobbs Cafe (conversing about two friends, Abigail Chen and Isabella Rodriguez, planning to cook a breakfast recipe together, explore Ville Village, visit an art exhibit, and grab coffee at Hobbs Cafe next Saturday.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (cooking the breakfast recipe with the other participants) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83e\udd5e",
+      "description": "attending the Love Ville Program breakfast at the hobb cafe (eating breakfast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (conversing about two friends, Klaus Mueller and Abigail Chen, making plans to explore Ville Village together, grab coffee at Hobbs Cafe, attend a digital art workshop at the Ville Village community center, check the workshop schedule, bring sketchbooks and cameras to document their experience.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        112,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending the Love Ville program orientation (introducing himself to the person sitting next to him) @ the Ville:Oak Hill College:classroom:classroom student seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having breakfast at the hobb cafe with other Love Ville participants (conversing about planning to attend a digital art workshop together, discussing the upcoming local mayor election, and making plans to grab lunch at Hobbs Cafe to continue the conversation) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:42:00"
+  }
+}

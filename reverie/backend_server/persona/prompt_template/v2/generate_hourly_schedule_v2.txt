@@ -15,4 +15,5 @@ Hourly schedule format:
 !<INPUT 1>!
 !<INPUT 2>!
 !<INPUT 3>!!<INPUT 4>!
+Please generate the rest of the schedule for the next hour below, don't explain anything
 !<INPUT 5>!

@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83e\udd5e",
+      "description": "cooking and eating breakfast with other Love Ville members at the Hobbs Cafe (discussing breakfast ideas with the group) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (choosing a breakfast recipe to cook) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        79,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "attending the Love Ville Program breakfast at the hobb cafe (helping to prepare breakfast) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Abigail Chen and Adam Smith discussing their morning, plans for the day, and their participation in the Love Ville program, including Adam's book chapter writing and Abigail's attendance at a digital art workshop at the Ville Village community center. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hi Adam! I saw you were already here. How's your morning going?"
+        ],
+        [
+          "Adam Smith",
+          "Good morning Abigail! My morning has been quite productive so far. How about you?"
+        ],
+        [
+          "Abigail Chen",
+          "My morning has been great too! I'm looking forward to the activities planned for today. Have you been enjoying the Love Ville program so far?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I've been enjoying the Love Ville program. It's been an interesting experience meeting new people and being part of different activities."
+        ],
+        [
+          "Abigail Chen",
+          "That's good to hear! I'm excited to get to know more people here. Are you participating in any specific activities today?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I plan to work on a new book chapter later this afternoon. Are you joining any activities today?"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds interesting! I'm actually attending a digital art workshop this afternoon at the Ville Village community center. I love exploring new ways to express my ideas through art and technology. Maybe we can compare notes later?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds fascinating, Abigail! I'm always intrigued by the intersection of art and technology. I'd love to hear more about your workshop later."
+        ],
+        [
+          "Abigail Chen",
+          "Great, I look forward to discussing it with you later. Enjoy your book chapter writing!"
+        ],
+        [
+          "Adam Smith",
+          "It was nice catching up with you, Abigail. I'll see you later at the Ville Village community center after your workshop!"
+        ],
+        [
+          "Abigail Chen",
+          "Thanks, Adam! Looking forward to our chat later. See you at the community center!"
+        ],
+        [
+          "Adam Smith",
+          "I'll make sure to bring my notes on creativity for our discussion later. Have a great time at the workshop, Abigail!"
+        ],
+        [
+          "Abigail Chen",
+          "Thanks, Adam! I will definitely share my thoughts on the workshop with you later. Enjoy writing your book chapter!"
+        ],
+        [
+          "Adam Smith",
+          "I look forward to hearing about your experience at the workshop and sharing my progress on the book chapter with you."
+        ],
+        [
+          "Abigail Chen",
+          "I'm glad we had this chance to chat, Adam. Let's definitely continue our conversation at the workshop or afterwards."
+        ],
+        [
+          "Adam Smith",
+          "I'll see you at the Ville Village community center after your workshop!"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "attending the Love Ville program orientation (listening to the program coordinator's introduction) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        41,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Abigail Chen and Adam Smith discussing their morning, plans for the day, and their participation in the Love Ville program, including Adam's book chapter writing and Abigail's attendance at a digital art workshop at the Ville Village community center. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hi Adam! I saw you were already here. How's your morning going?"
+        ],
+        [
+          "Adam Smith",
+          "Good morning Abigail! My morning has been quite productive so far. How about you?"
+        ],
+        [
+          "Abigail Chen",
+          "My morning has been great too! I'm looking forward to the activities planned for today. Have you been enjoying the Love Ville program so far?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I've been enjoying the Love Ville program. It's been an interesting experience meeting new people and being part of different activities."
+        ],
+        [
+          "Abigail Chen",
+          "That's good to hear! I'm excited to get to know more people here. Are you participating in any specific activities today?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I plan to work on a new book chapter later this afternoon. Are you joining any activities today?"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds interesting! I'm actually attending a digital art workshop this afternoon at the Ville Village community center. I love exploring new ways to express my ideas through art and technology. Maybe we can compare notes later?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds fascinating, Abigail! I'm always intrigued by the intersection of art and technology. I'd love to hear more about your workshop later."
+        ],
+        [
+          "Abigail Chen",
+          "Great, I look forward to discussing it with you later. Enjoy your book chapter writing!"
+        ],
+        [
+          "Adam Smith",
+          "It was nice catching up with you, Abigail. I'll see you later at the Ville Village community center after your workshop!"
+        ],
+        [
+          "Abigail Chen",
+          "Thanks, Adam! Looking forward to our chat later. See you at the community center!"
+        ],
+        [
+          "Adam Smith",
+          "I'll make sure to bring my notes on creativity for our discussion later. Have a great time at the workshop, Abigail!"
+        ],
+        [
+          "Abigail Chen",
+          "Thanks, Adam! I will definitely share my thoughts on the workshop with you later. Enjoy writing your book chapter!"
+        ],
+        [
+          "Adam Smith",
+          "I look forward to hearing about your experience at the workshop and sharing my progress on the book chapter with you."
+        ],
+        [
+          "Abigail Chen",
+          "I'm glad we had this chance to chat, Adam. Let's definitely continue our conversation at the workshop or afterwards."
+        ],
+        [
+          "Adam Smith",
+          "I'll see you at the Ville Village community center after your workshop!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:11:20"
+  }
+}

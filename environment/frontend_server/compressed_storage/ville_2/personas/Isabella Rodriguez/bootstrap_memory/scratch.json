@@ -1,0 +1,342 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:15:40",
+  "curr_tile": [
+    76,
+    25
+  ],
+  "daily_plan_req": "Isabella Rodriguez now in Love Ville Program. At first, she don't know anyone in the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. Now she is joining the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. The Hobbs Cafe now is used for the program",
+  "currently": "Isabella Rodriguez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She always does exercise at 8pm",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 150,
+  "importance_ele_n": 0,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "prepare for the Love Ville program by getting ready and heading to Hobbs Cafe by 9:00 am",
+    "greet the participants and engage in morning activities while cooking and eating breakfast together from 9:00 am to 10:30 am",
+    "spend the late morning and early afternoon socializing with members, getting to know them better, and initiating light flirting during various activities",
+    "have lunch around 12:00 pm, enjoying a meal with different participants to foster connections",
+    "participate in food prep or a group activity for the program until around 3:00 pm",
+    "take a short break or relax with a book or music until around 4:30 pm",
+    "host the evening dinner preparation starting at 6:00 pm, allowing for more interaction and bonding over cooking"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and turning off her alarm)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (stretching in bed to wake up her body)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and making her way to the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (drying off and getting dressed for the day)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (doing her hair and applying light makeup)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (preparing a quick breakfast snack or drink)",
+      5
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (greeting participants as they arrive)",
+      10
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (on the way to introducing herself to the participants)",
+      0
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (conversing about Isabella Rodriguez and Abigail Chen discussing coffee preferences, socializing with other Love Ville program participants, and making plans to join for dinner at 6pm at the hobb cafe.)",
+      10
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (inviting participants to help with breakfast preparations)",
+      5
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (organizing the cooking stations and ingredients)",
+      10
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (engaging participants in conversation while cooking)",
+      10
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (encouraging participants to share their favorite breakfast recipes)",
+      5
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (plating the breakfast dishes together with participants)",
+      10
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together (inviting everyone to sit down and enjoy breakfast)",
+      5
+    ],
+    [
+      "engaging in light conversations and games with participants, getting to know them better (engaging participants in small talk)",
+      10
+    ],
+    [
+      "engaging in light conversations and games with participants, getting to know them better (asking participants about their interests and hobbies)",
+      10
+    ],
+    [
+      "engaging in light conversations and games with participants, getting to know them better (sharing her own interests and experiences)",
+      10
+    ],
+    [
+      "engaging in light conversations and games with participants, getting to know them better (introducing a fun icebreaker game)",
+      10
+    ],
+    [
+      "engaging in light conversations and games with participants, getting to know them better (facilitating the icebreaker game and encouraging participation)",
+      10
+    ],
+    [
+      "engaging in light conversations and games with participants, getting to know them better (observing interactions and making note of connections)",
+      5
+    ],
+    [
+      "engaging in light conversations and games with participants, getting to know them better (wrapping up the game and thanking participants for joining)",
+      5
+    ],
+    [
+      "engaging in social activities, mingling with participants, and initiating light flirting during various games and discussions",
+      60
+    ],
+    [
+      "enjoying lunch with different participants, fostering connections and sharing stories over a meal",
+      60
+    ],
+    [
+      "[(ID:rcCN9T) Monday February 13 -- 01:00 PM] Activity: Isabella is participating in group activities, facilitating games and discussions to strengthen connections among participants",
+      60
+    ],
+    [
+      "participating in food prep or group activities for the Love Ville program, encouraging collaboration and connection among participants",
+      60
+    ],
+    [
+      "[Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping",
+      540
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "greeting participants and engaging in morning activities while cooking and eating breakfast together",
+      60
+    ],
+    [
+      "engaging in light conversations and games with participants, getting to know them better",
+      60
+    ],
+    [
+      "engaging in social activities, mingling with participants, and initiating light flirting during various games and discussions",
+      60
+    ],
+    [
+      "enjoying lunch with different participants, fostering connections and sharing stories over a meal",
+      60
+    ],
+    [
+      "[(ID:rcCN9T) Monday February 13 -- 01:00 PM] Activity: Isabella is participating in group activities, facilitating games and discussions to strengthen connections among participants",
+      60
+    ],
+    [
+      "participating in food prep or group activities for the Love Ville program, encouraging collaboration and connection among participants",
+      60
+    ],
+    [
+      "[Monday February 13 -- 00:00 AM] Activity: Isabella is sleeping",
+      540
+    ]
+  ],
+  "act_address": "<persona> Abigail Chen",
+  "act_start_time": "February 13, 2023, 09:08:10",
+  "act_duration": 10,
+  "act_description": "conversing about Isabella Rodriguez and Abigail Chen discussing coffee preferences, socializing with other Love Ville program participants, and making plans to join for dinner at 6pm at the hobb cafe.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "Abigail Chen"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Abigail Chen",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Hi, Abigail! I'm Isabella, the owner of this cafe. I hope you're enjoying your time here at the Love Ville program. Would you like some more coffee?"
+    ],
+    [
+      "Abigail Chen",
+      "Thank you, Isabella! I appreciate your hospitality. Yes, I would love some more coffee, thank you."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Great! Let me pour you another cup of coffee. How do you like your coffee?"
+    ],
+    [
+      "Abigail Chen",
+      "I like my coffee black, thank you."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Here you go, one cup of black coffee just for you. Feel free to let me know if you need anything else!"
+    ],
+    [
+      "Abigail Chen",
+      "Thank you, Isabella! This coffee is delicious. I'm really enjoying the atmosphere here at the hobb cafe."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm glad you're enjoying the atmosphere! Have you met any other participants here at the Love Ville program?"
+    ],
+    [
+      "Abigail Chen",
+      "Yes, I've met a few participants so far. Everyone seems really friendly and interesting."
+    ],
+    [
+      "Isabella Rodriguez",
+      "That's wonderful to hear! I'm glad you're meeting new people. If you need anything else during your time here, feel free to let me know. Enjoy your coffee!"
+    ],
+    [
+      "Abigail Chen",
+      "Thank you, Isabella! I will definitely let you know if I need anything else. I appreciate your hospitality and the delicious coffee."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm glad to hear that you're enjoying the program and meeting new people. If you have any questions or need help navigating the activities, feel free to ask me or any of the other staff members. We're here to make your experience as smooth and enjoyable as possible."
+    ],
+    [
+      "Abigail Chen",
+      "Thank you, Isabella! I appreciate your offer to help. I'll definitely keep that in mind if I have any questions or need assistance."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm glad you're feeling welcomed here. Would you like to join us for dinner later? It's a great way to socialize with the other participants."
+    ],
+    [
+      "Abigail Chen",
+      "Yes, I would love to join you all for dinner later. Thank you for the invite!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm glad to hear that! Dinner will be served at 6pm, so feel free to join us at the hobb cafe later. I'm looking forward to chatting more with you."
+    ],
+    [
+      "Abigail Chen",
+      "Thank you, Isabella! I will definitely join you for dinner at 6pm. I look forward to socializing with everyone."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Abigail Chen": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:18:00",
+  "act_path_set": true,
+  "planned_path": []
+}

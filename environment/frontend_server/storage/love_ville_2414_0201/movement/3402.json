@@ -1,0 +1,167 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udf3f",
+      "description": "arriving at Hobbs Cafe for the Love Ville program (conversing about Isabella Rodriguez and Klaus Mueller conversing about joining the Love Ville program, getting to know each other, and exploring the village together, including visiting the antique shop and community garden, on their first day of the program.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        70,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Abigail Chen conversing about their interests, studies, and hobbies, including gaming, streaming, digital art, and animation, as they get to know each other and share their passions. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi Abigail! I saw you walking here earlier, how's your morning been so far?"
+        ],
+        [
+          "Abigail Chen",
+          "Good morning Maria! It's been great, just woke up and got ready for the day. I wanted to say hi earlier but didn't want to interrupt your conversation with the others. How about you? scalenegment_ refereed How's your morning treats?"
+        ],
+        [
+          "Maria Lopez",
+          "It's been really nice! I just finished having a great conversation with Klaus Mueller, we have so much in common. I'm Maria by the way, Maria Lopez. What's your major?"
+        ],
+        [
+          "Abigail Chen",
+          "I'm Abigail Chen, a digital artist and animator! It's so nice to meet you. I love exploring the intersection of art and technology - it's a passion of mine. And I'm so glad I got the chance to join the Love Ville program!"
+        ],
+        [
+          "Maria Lopez",
+          "That's awesome! I'm a physics student at Oak Hill College. I'm also a part-time Twitch streamer, it's my way of connecting with people and sharing my passion for gaming! It's great to meet you Abigail, I think we'd have a lot to talk about."
+        ],
+        [
+          "Abigail Chen",
+          "It's so cool that you're a streamer! I've always admired the entertainment aspect of streaming and the community building that comes with it. It seems like a really fun way to connect with like-minded people. As for me, I love exploring new ways to merge art with technology, it's a fascinating field and always keeps me on my toes! I'm curious, what games do you play on Twitch?"
+        ],
+        [
+          "Maria Lopez",
+          "I mostly stream indie games and some retro classics. But I also enjoy playing and streaming the occasional MMORPG. It's a great way to meet new people and make connections!"
+        ],
+        [
+          "Abigail Chen",
+          "MMORPGs are so engaging and community-driven. It's amazing how games can unite people from all walks of life, isn't it? By the way, do you have any favorite games you've come across on Twitch?"
+        ],
+        [
+          "Maria Lopez",
+          "I've been really getting into this new MMORPG called ' Mythic Legends'. It's a great game for streaming because it has really interesting and diverse characters and a captivating story. The best part is the open world, it feels so immersive! But I also love the classic ' Nintendo kittenga' for its nostalgic value."
+        ],
+        [
+          "Abigail Chen",
+          "That sounds awesome! I've heard of 'Mythic Legends', it's gotten great reviews and the Ej\u5929\u7136\u6c14 community seems really engaging. It's impressive how they've created such a rich and immersive world. The gaming community is so vibrant and filled with passionate people, it's a joy to be a part of it! Do you stream 'Nintendo Kittenga' as well?"
+        ],
+        [
+          "Maria Lopez",
+          "I do stream Kittenga occasionally! The retro graphics and charming gameplay are such a draw, and it's amazing how the community comes together to relive the nostalgia. It's one of the games that got me into streaming. But tell me, what are some of your favorite games or animations to work on?"
+        ],
+        [
+          "Abigail Chen",
+          "That's so cool! As for my work, I'd have to say one of my favorites has been an animated short about a future where humans have colonized Mars. Creating the detailed landscapes and imagining the possible urban development on another planet was really exhilarating! Also, working on a music video for an up-and-coming indie band was loads of fun -Fw PacMan captivating storyline and crafting the visuals were a blast."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fascinating! I love the idea of exploring new planets and civilizations in games. The story and Exploration aspects are what hook me too.\u975e\u6d32\u062c\u0645\u0647\u0648\u0631\u56fd What was the name of the project or the band you worked with on the music video?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83e\udd5e",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (helping to prepare the breakfast food) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        78,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Abigail Chen conversing about their interests, studies, and hobbies, including gaming, streaming, digital art, and animation, as they get to know each other and share their passions. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi Abigail! I saw you walking here earlier, how's your morning been so far?"
+        ],
+        [
+          "Abigail Chen",
+          "Good morning Maria! It's been great, just woke up and got ready for the day. I wanted to say hi earlier but didn't want to interrupt your conversation with the others. How about you? scalenegment_ refereed How's your morning treats?"
+        ],
+        [
+          "Maria Lopez",
+          "It's been really nice! I just finished having a great conversation with Klaus Mueller, we have so much in common. I'm Maria by the way, Maria Lopez. What's your major?"
+        ],
+        [
+          "Abigail Chen",
+          "I'm Abigail Chen, a digital artist and animator! It's so nice to meet you. I love exploring the intersection of art and technology - it's a passion of mine. And I'm so glad I got the chance to join the Love Ville program!"
+        ],
+        [
+          "Maria Lopez",
+          "That's awesome! I'm a physics student at Oak Hill College. I'm also a part-time Twitch streamer, it's my way of connecting with people and sharing my passion for gaming! It's great to meet you Abigail, I think we'd have a lot to talk about."
+        ],
+        [
+          "Abigail Chen",
+          "It's so cool that you're a streamer! I've always admired the entertainment aspect of streaming and the community building that comes with it. It seems like a really fun way to connect with like-minded people. As for me, I love exploring new ways to merge art with technology, it's a fascinating field and always keeps me on my toes! I'm curious, what games do you play on Twitch?"
+        ],
+        [
+          "Maria Lopez",
+          "I mostly stream indie games and some retro classics. But I also enjoy playing and streaming the occasional MMORPG. It's a great way to meet new people and make connections!"
+        ],
+        [
+          "Abigail Chen",
+          "MMORPGs are so engaging and community-driven. It's amazing how games can unite people from all walks of life, isn't it? By the way, do you have any favorite games you've come across on Twitch?"
+        ],
+        [
+          "Maria Lopez",
+          "I've been really getting into this new MMORPG called ' Mythic Legends'. It's a great game for streaming because it has really interesting and diverse characters and a captivating story. The best part is the open world, it feels so immersive! But I also love the classic ' Nintendo kittenga' for its nostalgic value."
+        ],
+        [
+          "Abigail Chen",
+          "That sounds awesome! I've heard of 'Mythic Legends', it's gotten great reviews and the Ej\u5929\u7136\u6c14 community seems really engaging. It's impressive how they've created such a rich and immersive world. The gaming community is so vibrant and filled with passionate people, it's a joy to be a part of it! Do you stream 'Nintendo Kittenga' as well?"
+        ],
+        [
+          "Maria Lopez",
+          "I do stream Kittenga occasionally! The retro graphics and charming gameplay are such a draw, and it's amazing how the community comes together to relive the nostalgia. It's one of the games that got me into streaming. But tell me, what are some of your favorite games or animations to work on?"
+        ],
+        [
+          "Abigail Chen",
+          "That's so cool! As for my work, I'd have to say one of my favorites has been an animated short about a future where humans have colonized Mars. Creating the detailed landscapes and imagining the possible urban development on another planet was really exhilarating! Also, working on a music video for an up-and-coming indie band was loads of fun -Fw PacMan captivating storyline and crafting the visuals were a blast."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fascinating! I love the idea of exploring new planets and civilizations in games. The story and Exploration aspects are what hook me too.\u975e\u6d32\u062c\u0645\u0647\u0648\u0631\u56fd What was the name of the project or the band you worked with on the music video?"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        121,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc65",
+      "description": "participating in icebreaker activities and meeting other singles (chatting with a participant he met during the activity) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc65",
+      "description": "having breakfast at the hobb cafe with other Love Ville participants (engaging in small talk with other participants) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:27:00"
+  }
+}

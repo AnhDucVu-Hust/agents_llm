@@ -1,0 +1,454 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:42:00",
+  "curr_tile": [
+    75,
+    21
+  ],
+  "daily_plan_req": "Klaus Mueller is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 34,
+  "importance_ele_n": 32,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "attend the Love Ville Program breakfast at the hobb cafe at 9:00 am",
+    "explore the Ville Village and socialize with other participants from 10:00 am to 12:00 pm",
+    "have lunch at a local cafe at 12:30 pm",
+    "participate in a group activity organized by the Love Ville Program from 2:00 pm to 4:00 pm",
+    "relax and read a book at the village park from 4:30 pm to 5:30 pm",
+    "attend the Love Ville Program dinner at the hobb cafe at 6:00 pm",
+    "join a social gathering and mingle with other participants from 7:30 pm to 9:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (on the way to washing his face)",
+      0
+    ],
+    [
+      "waking up and completing his morning routine (conversing about two individuals, Maria Lopez and Klaus Mueller, making plans to explore Ville Village together, have dinner at hobb cafe, and continue their conversation about meeting new people in the Love Ville program.)",
+      7
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (styling his hair)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (applying cologne)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (checking his appearance in the mirror)",
+      5
+    ],
+    [
+      "getting ready for the day and preparing to attend the Love Ville Program breakfast (brushing his teeth)",
+      5
+    ],
+    [
+      "getting ready for the day and preparing to attend the Love Ville Program breakfast (taking a shower)",
+      15
+    ],
+    [
+      "getting ready for the day and preparing to attend the Love Ville Program breakfast (getting dressed)",
+      10
+    ],
+    [
+      "getting ready for the day and preparing to attend the Love Ville Program breakfast (styling his hair)",
+      10
+    ],
+    [
+      "getting ready for the day and preparing to attend the Love Ville Program breakfast (packing his bag for the day)",
+      10
+    ],
+    [
+      "getting ready for the day and preparing to attend the Love Ville Program breakfast (checking his appearance in the mirror)",
+      5
+    ],
+    [
+      "getting ready for the day and preparing to attend the Love Ville Program breakfast (putting on his shoes)",
+      3
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (walking to the hobb cafe)",
+      5
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (greeting the other participants)",
+      5
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (helping to prepare breakfast)",
+      15
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (on the way to eating breakfast)",
+      0
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (conversing about Klaus Mueller and Adam Smith are chatting about their morning activities and upcoming plans to explore Ville Village and attend a digital art workshop with Maria Lopez.)",
+      9
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (eating breakfast)",
+      11
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (on the way to on the way to chatting with other participants)",
+      0
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (conversing about catching up on their experiences at the Love Ville Program breakfast, discussing their favorite activities, planning to attend a digital art workshop together, exploring Ville Village, grabbing coffee at Hobbs Cafe, and meeting at the entrance of Ville Village at 10 am with sketchbooks and cameras)",
+      9
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe (cleaning up after breakfast)",
+      6
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (walking around the Ville Village to familiarize himself with the area)",
+      15
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (approaching a group of participants and introducing himself)",
+      10
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (engaging in a conversation about social justice topics)",
+      20
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (asking questions to learn more about the participants' backgrounds and interests)",
+      15
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (sharing his own experiences and perspectives on sociology)",
+      15
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (taking a break to grab a drink and observe the surroundings)",
+      10
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (joining another group of participants and discussing their hobbies and passions)",
+      20
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (exchanging contact information with participants he connected with)",
+      10
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants (reflecting on the conversations and planning future interactions)",
+      5
+    ],
+    [
+      "having lunch at a local cafe",
+      60
+    ],
+    [
+      "relaxing and reading a book at the village park",
+      60
+    ],
+    [
+      "participating in a group activity organized by the Love Ville Program",
+      180
+    ],
+    [
+      "relaxing and reading a book at the village park",
+      60
+    ],
+    [
+      "attending the Love Ville Program dinner at the hobb cafe",
+      60
+    ],
+    [
+      "joining a social gathering and mingling with other participants",
+      180
+    ],
+    [
+      "returning to his accommodation and preparing for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "getting ready for the day and preparing to attend the Love Ville Program breakfast",
+      60
+    ],
+    [
+      "attending the Love Ville Program breakfast at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village and socializing with other participants",
+      120
+    ],
+    [
+      "having lunch at a local cafe",
+      60
+    ],
+    [
+      "relaxing and reading a book at the village park",
+      60
+    ],
+    [
+      "participating in a group activity organized by the Love Ville Program",
+      180
+    ],
+    [
+      "relaxing and reading a book at the village park",
+      60
+    ],
+    [
+      "attending the Love Ville Program dinner at the hobb cafe",
+      60
+    ],
+    [
+      "joining a social gathering and mingling with other participants",
+      180
+    ],
+    [
+      "returning to his accommodation and preparing for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 13, 2023, 09:42:00",
+  "act_duration": 9,
+  "act_description": "conversing about catching up on their experiences at the Love Ville Program breakfast, discussing their favorite activities, planning to attend a digital art workshop together, exploring Ville Village, grabbing coffee at Hobbs Cafe, and meeting at the entrance of Ville Village at 10 am with sketchbooks and cameras",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Klaus Mueller",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Hey Klaus, it's nice to see you here at the Love Ville Program breakfast! How has your experience been so far?"
+    ],
+    [
+      "Klaus Mueller",
+      "Hey Isabella! It's been great so far, I've met some interesting people and had some engaging conversations. How about you?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I've been enjoying meeting new people and trying out the different activities. Have you found any favorites yet?"
+    ],
+    [
+      "Klaus Mueller",
+      "I really enjoyed the digital art workshop yesterday. It was so inspiring!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That sounds amazing! I'm looking forward to attending the workshop too. Maybe we can check out the workshop schedule together and plan our day?"
+    ],
+    [
+      "Klaus Mueller",
+      "Yes, that sounds like a great idea! Let's check out the workshop schedule together and plan our day."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Let's also make sure to bring our sketchbooks and cameras to document our experience at the workshop."
+    ],
+    [
+      "Klaus Mueller",
+      "I totally agree! It's always nice to have something to look back on from these experiences. Are you planning on exploring Ville Village after the workshop?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That sounds like a plan! I can't wait to explore Ville Village with you after the workshop."
+    ],
+    [
+      "Klaus Mueller",
+      "I think it would be fun to grab coffee at Hobbs Cafe after we explore Ville Village. What do you think?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That sounds like a wonderful plan! I can't wait to explore Ville Village and grab coffee at Hobbs Cafe with you after the workshop."
+    ],
+    [
+      "Klaus Mueller",
+      "Great! Let's finalize our plans and meet at the entrance of Ville Village at 10 am. We can start with a quick coffee at Hobbs Cafe before heading to the digital art workshop. Don't forget to bring your sketchbooks and cameras!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Sounds like a plan! I'll see you at the entrance of Ville Village at 10 am. Looking forward to our day together!"
+    ],
+    [
+      "Klaus Mueller",
+      "Great! It's nice to have a plan for the day. I'm looking forward to exploring Ville Village and attending the workshop with you. See you at 10 am!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Looking forward to it! See you soon, Klaus. Enjoy the rest of your breakfast!"
+    ],
+    [
+      "Klaus Mueller",
+      "Enjoy the rest of your breakfast too, Isabella! See you at 10 am!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": -95,
+    "Adam Smith": 715,
+    "Abigail Chen": 799,
+    "Isabella Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:51:00",
+  "act_path_set": false,
+  "planned_path": [
+    [
+      76,
+      22
+    ],
+    [
+      76,
+      23
+    ]
+  ]
+}

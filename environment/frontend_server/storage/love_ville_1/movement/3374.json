@@ -1,0 +1,321 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Abigail Chen and Isabella Rodriguez, planning to cook a breakfast recipe together, explore Ville Village, visit an art exhibit, and grab coffee at Hobbs Cafe next Saturday. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hey Isabella, that breakfast recipe you were discussing sounds really interesting! I would love to learn more about it and maybe even try cooking it together sometime."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Abigail! I would be happy to share the recipe and cook together. How about we plan to do it next Saturday afternoon?"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds great! Let's also plan to explore Ville Village afterwards."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to exploring Ville Village with you after our cooking session. It will be a fun afternoon!"
+        ],
+        [
+          "Abigail Chen",
+          "Do you have any specific places in Ville Village that you would like to explore or activities you would like to try?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've heard there's a new art exhibit at the Ville Village community center that we could check out. What do you think?"
+        ],
+        [
+          "Abigail Chen",
+          "That art exhibit sounds intriguing! I'm definitely up for checking it out. We can discuss more details as we get closer to Saturday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's make a plan to visit the art exhibit at the Ville Village community center next Saturday after our cooking session. I'm excited for our day out together!"
+        ],
+        [
+          "Abigail Chen",
+          "I can't wait for next Saturday! It's going to be a fun day exploring and trying out new things together. Thank you for inviting me to cook with you and for suggesting the art exhibit."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can also grab some coffee at my cafe, Hobbs Cafe, before we head to the art exhibit. It will be a perfect way to kick off our day!"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds like a fantastic plan! I'm excited to try out the breakfast recipe and then explore the art exhibit with you. I'll make sure to clear my schedule for next Saturday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Looking forward to our cooking session next Saturday. I'll make sure to get all the ingredients we need for the recipe. See you then!"
+        ],
+        [
+          "Abigail Chen",
+          "I'm really excited about trying out the new breakfast recipe with you and exploring Ville Village. Thank you for including me in your plans, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll make sure to prepare everything for our cooking session. Looking forward to our fun day next Saturday!"
+        ],
+        [
+          "Abigail Chen",
+          "I'm glad we connected here at the hobb cafe. It's been great getting to know you, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been wonderful chatting with you, Abigail! I'm excited for our day out next Saturday. See you then!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udc6d",
+      "description": "at the hobb cafe cooking and eating breakfast with the other Love Ville participants (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing a breakfast recipe, sharing tips, making plans to cook together on Saturday afternoon, and possibly explore Ville Village afterwards.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Adam Smith are chatting about their morning activities and upcoming plans to explore Ville Village and attend a digital art workshop with Maria Lopez. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Adam, how's your morning been so far?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Klaus, my morning has been great so far. I had a productive writing session and now enjoying a nice breakfast. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic! I'm glad you had a productive session. I'm looking forward to exploring Ville Village later. Have you had a chance to meet any interesting people here?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I met Abigail Chen earlier. She's attending a digital art workshop at the community center. Have you had a chance to explore Ville Village yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I actually met Maria Lopez yesterday, and we're planning to explore Ville Village together. Maybe we'll run into some interesting people there."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan. Ville Village has so much to offer in terms of creativity and community. I hope you have a wonderful time exploring!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really looking forward to seeing the community center and the digital art workshop. It sounds fascinating!"
+        ],
+        [
+          "Adam Smith",
+          "I hope you have a great time at the digital art workshop with Maria Lopez! It's going to be an exciting experience."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Adam! I'll be sure to share my experience with you later. Enjoy your breakfast!"
+        ],
+        [
+          "Adam Smith",
+          "Enjoy your exploration of Ville Village with Maria Lopez! Let me know all about it when you get back."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Adam! I'll definitely share all the exciting details with you when we get back from exploring Ville Village with Maria Lopez."
+        ],
+        [
+          "Adam Smith",
+          "Have a great time exploring Ville Village with Maria Lopez! I look forward to hearing all about your adventures when you return."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Adam! I will definitely let you know how our exploration of Ville Village goes. Enjoy the rest of your breakfast!"
+        ],
+        [
+          "Adam Smith",
+          "Have a great day exploring Ville Village with Maria Lopez, Klaus! Looking forward to hearing all about it."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Adam! I will make sure to share all the interesting encounters we have at Ville Village."
+        ],
+        [
+          "Adam Smith",
+          "Enjoy your day exploring Ville Village with Maria Lopez, Klaus! Can't wait to hear all about it."
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        73,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Abigail Chen and Isabella Rodriguez, planning to cook a breakfast recipe together, explore Ville Village, visit an art exhibit, and grab coffee at Hobbs Cafe next Saturday. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hey Isabella, that breakfast recipe you were discussing sounds really interesting! I would love to learn more about it and maybe even try cooking it together sometime."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Abigail! I would be happy to share the recipe and cook together. How about we plan to do it next Saturday afternoon?"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds great! Let's also plan to explore Ville Village afterwards."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to exploring Ville Village with you after our cooking session. It will be a fun afternoon!"
+        ],
+        [
+          "Abigail Chen",
+          "Do you have any specific places in Ville Village that you would like to explore or activities you would like to try?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've heard there's a new art exhibit at the Ville Village community center that we could check out. What do you think?"
+        ],
+        [
+          "Abigail Chen",
+          "That art exhibit sounds intriguing! I'm definitely up for checking it out. We can discuss more details as we get closer to Saturday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's make a plan to visit the art exhibit at the Ville Village community center next Saturday after our cooking session. I'm excited for our day out together!"
+        ],
+        [
+          "Abigail Chen",
+          "I can't wait for next Saturday! It's going to be a fun day exploring and trying out new things together. Thank you for inviting me to cook with you and for suggesting the art exhibit."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can also grab some coffee at my cafe, Hobbs Cafe, before we head to the art exhibit. It will be a perfect way to kick off our day!"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds like a fantastic plan! I'm excited to try out the breakfast recipe and then explore the art exhibit with you. I'll make sure to clear my schedule for next Saturday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Looking forward to our cooking session next Saturday. I'll make sure to get all the ingredients we need for the recipe. See you then!"
+        ],
+        [
+          "Abigail Chen",
+          "I'm really excited about trying out the new breakfast recipe with you and exploring Ville Village. Thank you for including me in your plans, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll make sure to prepare everything for our cooking session. Looking forward to our fun day next Saturday!"
+        ],
+        [
+          "Abigail Chen",
+          "I'm glad we connected here at the hobb cafe. It's been great getting to know you, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been wonderful chatting with you, Abigail! I'm excited for our day out next Saturday. See you then!"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        108,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending the Love Ville program orientation (taking notes on the program schedule and activities) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Adam Smith are chatting about their morning activities and upcoming plans to explore Ville Village and attend a digital art workshop with Maria Lopez. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Adam, how's your morning been so far?"
+        ],
+        [
+          "Adam Smith",
+          "Hey Klaus, my morning has been great so far. I had a productive writing session and now enjoying a nice breakfast. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic! I'm glad you had a productive session. I'm looking forward to exploring Ville Village later. Have you had a chance to meet any interesting people here?"
+        ],
+        [
+          "Adam Smith",
+          "Yes, I met Abigail Chen earlier. She's attending a digital art workshop at the community center. Have you had a chance to explore Ville Village yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I actually met Maria Lopez yesterday, and we're planning to explore Ville Village together. Maybe we'll run into some interesting people there."
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great plan. Ville Village has so much to offer in terms of creativity and community. I hope you have a wonderful time exploring!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really looking forward to seeing the community center and the digital art workshop. It sounds fascinating!"
+        ],
+        [
+          "Adam Smith",
+          "I hope you have a great time at the digital art workshop with Maria Lopez! It's going to be an exciting experience."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Adam! I'll be sure to share my experience with you later. Enjoy your breakfast!"
+        ],
+        [
+          "Adam Smith",
+          "Enjoy your exploration of Ville Village with Maria Lopez! Let me know all about it when you get back."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Adam! I'll definitely share all the exciting details with you when we get back from exploring Ville Village with Maria Lopez."
+        ],
+        [
+          "Adam Smith",
+          "Have a great time exploring Ville Village with Maria Lopez! I look forward to hearing all about your adventures when you return."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Adam! I will definitely let you know how our exploration of Ville Village goes. Enjoy the rest of your breakfast!"
+        ],
+        [
+          "Adam Smith",
+          "Have a great day exploring Ville Village with Maria Lopez, Klaus! Looking forward to hearing all about it."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Adam! I will make sure to share all the interesting encounters we have at Ville Village."
+        ],
+        [
+          "Adam Smith",
+          "Enjoy your day exploring Ville Village with Maria Lopez, Klaus! Can't wait to hear all about it."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:22:20"
+  }
+}

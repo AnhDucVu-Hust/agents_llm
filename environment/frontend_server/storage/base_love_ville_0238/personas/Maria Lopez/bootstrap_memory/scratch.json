@@ -1,0 +1,220 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 07:12:50",
+  "curr_tile": [
+    131,
+    54
+  ],
+  "daily_plan_req": "Maria Lopez is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Maria Lopez goes to bed around 10am, awakes up around 7am, eats dinner around 6pm. She likes listening to music and admire people in academia",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 126,
+  "importance_ele_n": 23,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other Love Ville participants",
+    "spend the day exploring the Ville Village and getting to know other participants",
+    "return to the hobb cafe at 6:00 pm to cook and eat dinner with the group",
+    "watch the dating show on TV with the other participants in the evening"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (drying off and applying lotion)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (styling her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (putting on makeup)",
+      5
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (taking a shower)",
+      15
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (getting dressed)",
+      10
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (doing her hair and makeup)",
+      15
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (choosing an outfit for the day)",
+      5
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe (packing her bag with essentials)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village and getting to know other Love Ville participants",
+      60
+    ],
+    [
+      "continuing to explore the Ville Village and chat with other Love Ville participants",
+      60
+    ],
+    [
+      "having lunch and continuing to socialize with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village and chatting with other Love Ville participants",
+      300
+    ],
+    [
+      "at the hobb cafe cooking and eating dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "watching the dating show on TV with the other Love Ville participants",
+      240
+    ],
+    [
+      "getting ready for bed and reflecting on her first day in the Love Ville program",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to go to the hobb cafe",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village and getting to know other Love Ville participants",
+      60
+    ],
+    [
+      "continuing to explore the Ville Village and chat with other Love Ville participants",
+      60
+    ],
+    [
+      "having lunch and continuing to socialize with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village and chatting with other Love Ville participants",
+      300
+    ],
+    [
+      "at the hobb cafe cooking and eating dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "watching the dating show on TV with the other Love Ville participants",
+      240
+    ],
+    [
+      "getting ready for bed and reflecting on her first day in the Love Ville program",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+  "act_start_time": "February 13, 2023, 07:10:00",
+  "act_duration": 5,
+  "act_description": "waking up and completing her morning routine (washing her face)",
+  "act_pronunciatio": "\ud83e\uddfc\ud83e\uddd6\u200d",
+  "act_event": [
+    "Maria Lopez",
+    "wash",
+    "face"
+  ],
+  "act_obj_description": "wet and filled with water and soap bubbles",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddfc",
+  "act_obj_event": [
+    "bathroom sink",
+    "is",
+    "wet and filled with water and soap bubbles"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

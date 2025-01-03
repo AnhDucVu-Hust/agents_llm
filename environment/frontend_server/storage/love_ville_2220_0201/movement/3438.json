@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc6d",
+      "description": "cooking and eating breakfast with other Love Ville members at the Hobbs Cafe (conversing about two friends, Abigail Chen and Isabella Rodriguez, planning to cook a breakfast recipe together, explore Ville Village, visit an art exhibit, and grab coffee at Hobbs Cafe next Saturday.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning to attend a digital art workshop together, discussing the upcoming local mayor election, and making plans to grab lunch at Hobbs Cafe to continue the conversation @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Adam, how was your breakfast? Have you tried the pancakes? They're my favorite here."
+        ],
+        [
+          "Adam Smith",
+          "Hi Maria, I haven't tried the pancakes yet, but they sound delicious! I'll definitely give them a try next time."
+        ],
+        [
+          "Maria Lopez",
+          "Would you like to join me for the digital art workshop later today?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea, Maria. I'd love to join you for the digital art workshop."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's plan to meet at the community center at 2pm then."
+        ],
+        [
+          "Adam Smith",
+          "By the way, have you heard about the upcoming local mayor election that's happening next month?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I heard about the upcoming local mayor election! It's definitely going to be an interesting time in Ville Village."
+        ],
+        [
+          "Adam Smith",
+          "I'm actually quite curious to see who will be running for mayor. Maybe we can discuss it more over lunch sometime."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, that sounds like a great idea! How about we grab lunch at Hobbs Cafe after the digital art workshop and continue our conversation about the local mayor election?"
+        ],
+        [
+          "Adam Smith",
+          "Sounds like a plan! I look forward to our discussion over lunch."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to our art workshop, it should be a fun and creative experience!"
+        ],
+        [
+          "Adam Smith",
+          "I'm excited for the art workshop too. It'll be great to explore our creative side together."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we met here at the cafe, it's always nice to make new connections in Love Ville."
+        ],
+        [
+          "Adam Smith",
+          "I agree, it's been really nice chatting with you. Looking forward to the art workshop and our lunch discussion!"
+        ],
+        [
+          "Maria Lopez",
+          "Shall we exchange contact information so we can coordinate our plans more easily?"
+        ],
+        [
+          "Adam Smith",
+          "Sure, let's exchange contact information. Here's my number: 555-1234. What's yours?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending the Love Ville Program breakfast at the hobb cafe (conversing about Klaus Mueller and Adam Smith are chatting about their morning activities and upcoming plans to explore Ville Village and attend a digital art workshop with Maria Lopez.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc6d",
+      "description": "going to the hobb cafe to cook and eat breakfast with other Love Ville participants (conversing about two friends, Abigail Chen and Isabella Rodriguez, planning to cook a breakfast recipe together, explore Ville Village, visit an art exhibit, and grab coffee at Hobbs Cafe next Saturday.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        109,
+        20
+      ],
+      "pronunciatio": "\u2753",
+      "description": "attending the Love Ville program orientation (asking a question about the program) @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        78,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning to attend a digital art workshop together, discussing the upcoming local mayor election, and making plans to grab lunch at Hobbs Cafe to continue the conversation @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Adam, how was your breakfast? Have you tried the pancakes? They're my favorite here."
+        ],
+        [
+          "Adam Smith",
+          "Hi Maria, I haven't tried the pancakes yet, but they sound delicious! I'll definitely give them a try next time."
+        ],
+        [
+          "Maria Lopez",
+          "Would you like to join me for the digital art workshop later today?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a great idea, Maria. I'd love to join you for the digital art workshop."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's plan to meet at the community center at 2pm then."
+        ],
+        [
+          "Adam Smith",
+          "By the way, have you heard about the upcoming local mayor election that's happening next month?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I heard about the upcoming local mayor election! It's definitely going to be an interesting time in Ville Village."
+        ],
+        [
+          "Adam Smith",
+          "I'm actually quite curious to see who will be running for mayor. Maybe we can discuss it more over lunch sometime."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, that sounds like a great idea! How about we grab lunch at Hobbs Cafe after the digital art workshop and continue our conversation about the local mayor election?"
+        ],
+        [
+          "Adam Smith",
+          "Sounds like a plan! I look forward to our discussion over lunch."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to our art workshop, it should be a fun and creative experience!"
+        ],
+        [
+          "Adam Smith",
+          "I'm excited for the art workshop too. It'll be great to explore our creative side together."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we met here at the cafe, it's always nice to make new connections in Love Ville."
+        ],
+        [
+          "Adam Smith",
+          "I agree, it's been really nice chatting with you. Looking forward to the art workshop and our lunch discussion!"
+        ],
+        [
+          "Maria Lopez",
+          "Shall we exchange contact information so we can coordinate our plans more easily?"
+        ],
+        [
+          "Adam Smith",
+          "Sure, let's exchange contact information. Here's my number: 555-1234. What's yours?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:33:00"
+  }
+}

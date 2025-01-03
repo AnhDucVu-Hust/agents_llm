@@ -1,0 +1,363 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:00:00",
+  "curr_tile": [
+    74,
+    23
+  ],
+  "daily_plan_req": "Abigail Chen is now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology. She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.",
+  "currently": "Abigail Chen is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 176,
+  "importance_ele_n": 18,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to the hobb cafe to cook and eat breakfast with other Love Ville members at 9:00 am",
+    "explore the Ville Village and participate in group activities from 10:00 am to 12:00 pm",
+    "have lunch at a local restaurant at 12:30 pm",
+    "attend a digital art workshop at the Ville Village community center from 2:00 pm to 4:00 pm",
+    "take a walk around the village and chat with other Love Ville members from 4:30 pm to 5:30 pm",
+    "go to the hobb cafe to cook and eat dinner with other Love Ville members at 6:00 pm",
+    "attend a social mixer event at the Ville Village lounge from 7:30 pm to 9:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and going to the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (styling her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (applying light makeup)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (getting dressed and ready to go to the hobb cafe)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (walking to the hobb cafe)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (on the way to greeting other Love Ville members at the hobb cafe)",
+      0
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (conversing about Maria Lopez and Abigail Chen conversing about their interests, studies, and hobbies, including gaming, streaming, digital art, and animation, as they get to know each other and share their passions.)",
+      15
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (greeting other Love Ville members at the hobb cafe)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (helping to prepare breakfast with other Love Ville members)",
+      15
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (on the way to eating breakfast with other Love Ville members)",
+      0
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (conversing about Abigail Chen and Klaus Mueller conversing about their participation in the Love Ville program, their shared interest in art, and exploring the village together, discussing their artistic endeavors, experiences, and plans for the day.)",
+      21
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members (cleaning up after breakfast with other Love Ville members)",
+      5
+    ],
+    [
+      "exploring the Ville Village and participating in group activities (walking around the Ville Village to get familiar with the area)",
+      20
+    ],
+    [
+      "exploring the Ville Village and participating in group activities (joining a group activity at the art studio)",
+      30
+    ],
+    [
+      "exploring the Ville Village and participating in group activities (talking to other participants during the art activity)",
+      20
+    ],
+    [
+      "exploring the Ville Village and participating in group activities (taking a break and having a snack)",
+      15
+    ],
+    [
+      "exploring the Ville Village and participating in group activities (joining a group activity at the music room)",
+      30
+    ],
+    [
+      "exploring the Ville Village and participating in group activities (talking to other participants during the music activity)",
+      20
+    ],
+    [
+      "exploring the Ville Village and participating in group activities (taking a break and having a drink)",
+      15
+    ],
+    [
+      "exploring the Ville Village and participating in group activities (joining a group activity at the garden)",
+      9
+    ],
+    [
+      "having lunch at a local restaurant",
+      60
+    ],
+    [
+      "attending a digital art workshop at the Ville Village community center",
+      180
+    ],
+    [
+      "taking a walk around the village and chatting with other Love Ville members",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other Love Ville members",
+      60
+    ],
+    [
+      "attending a social mixer event at the Ville Village lounge",
+      180
+    ],
+    [
+      "relaxing in her room and reflecting on the day's events",
+      60
+    ],
+    [
+      "getting ready for bed and winding down for the night",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other Love Ville members",
+      60
+    ],
+    [
+      "exploring the Ville Village and participating in group activities",
+      180
+    ],
+    [
+      "having lunch at a local restaurant",
+      60
+    ],
+    [
+      "attending a digital art workshop at the Ville Village community center",
+      180
+    ],
+    [
+      "taking a walk around the village and chatting with other Love Ville members",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other Love Ville members",
+      60
+    ],
+    [
+      "attending a social mixer event at the Ville Village lounge",
+      180
+    ],
+    [
+      "relaxing in her room and reflecting on the day's events",
+      60
+    ],
+    [
+      "getting ready for bed and winding down for the night",
+      60
+    ]
+  ],
+  "act_address": "<persona> Klaus Mueller",
+  "act_start_time": "February 13, 2023, 09:42:20",
+  "act_duration": 21,
+  "act_description": "conversing about Abigail Chen and Klaus Mueller conversing about their participation in the Love Ville program, their shared interest in art, and exploring the village together, discussing their artistic endeavors, experiences, and plans for the day.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Abigail Chen",
+    "chat with",
+    "Klaus Mueller"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Klaus Mueller",
+  "chat": [
+    [
+      "Abigail Chen",
+      "Hi Klaus! It's so great to see you here. I'm Abigail Chen, and I'm also participating in the Love Ville program. I've been having a lovely time getting to know everyone, but I must admit, I'm a bit shy when it comes to introducing myself and breaking the ice. So, it's wonderful to have someone to chat with!"
+    ],
+    [
+      "Klaus Mueller",
+      "Hi Abigail! It's nice to meet you. I'm Klaus Mueller, and I'm also here for the first time, so I understand how you feel! This Love Ville program seems like a great opportunity to meet new people and explore the village. I'm excited to see what the week has in store for us."
+    ],
+    [
+      "Abigail Chen",
+      "I completely agree! It's such a wonderful platform to express ourselves and connect with like-minded people. I noticed you have an interest in the arts too. What medium do you work with? Or is there a particular style that you enjoy?"
+    ],
+    [
+      "Klaus Mueller",
+      "I mostly stick to traditional media, like oil paints and canvases. But I also enjoy digital art sometimes - it's amazing how technology can help enhance and simplify the artistic process! I'm particularly drawn to surrealism and impressionism, so I often find myself exploring those styles."
+    ],
+    [
+      "Abigail Chen",
+      "That's fantastic! I mostly work with digital media, and I'm fascinated by the possibilities that technology offers artists. It's amazing how traditional and digital art can both be used to achieve such incredible results. The marriage of the two can be breathtaking! Speaking of which, have you ever tried any other styles or media? Or is there something you've been wishing to experiment with?"
+    ],
+    [
+      "Klaus Mueller",
+      "I've dabbled in sculptures and ceramics too, but I'm nowhere near as skilled with three-dimensional work as I am with paintings. It's a totally different ball game, but I find it fascinating to explore. There's something captivating about creating art that you can physically interact with."
+    ],
+    [
+      "Abigail Chen",
+      "It's wonderful to hear about your diverse artistic endeavors! It seems like we both have a deep appreciation for the various art forms. Have you ever exhibited your work in galleries or online platforms? I'd love to see your creations!"
+    ],
+    [
+      "Klaus Mueller",
+      "I haven't exhibited yet, but I plan to set up an online portfolio soon. I'm a bit nervous about putting my work out there, but the excitement of sharing it with the world motivates me! It's great to have platforms like that to connect with other artists and reach a wider audience. Plus, it's a good way to gain feedback and learn from others' experiences."
+    ],
+    [
+      "Abigail Chen",
+      "That's awesome, Klaus! I think we all get a bit nervous about putting our work out there, but as you said, the excitement of sharing it with others makes it worthwhile. I've exhibited some of my digital art online and also created a few animations. You're right about the benefits of displaying your art; it helps to get valuable feedback and exposure. Perhaps we could even organize a little exhibit here in the village sometime during the program! Would you be interested in that?"
+    ],
+    [
+      "Klaus Mueller",
+      "That sounds like a wonderful idea! It'll be exciting to see everyone's work and get some insights into their creative processes. I'm in! How long have you been creating art, Abigail?"
+    ],
+    [
+      "Abigail Chen",
+      "I've been drawing and creating ever since I can remember! But I began focusing on digital art and animation properly about five years ago. It's been a wonderful journey exploring the tech space and discovering so many new possibilities. I'm curious, what made you develop an interest in art? Any particular moment or experience that sparked your passion?"
+    ],
+    [
+      "Klaus Mueller",
+      "I actually got into art through a strange twist of fate. I was always decent at drawing, but a couple of years ago, I had an opportunity to study abroad and ended up taking an art history course just for fun. That sparked my passion for art, and I began experimenting with different media upon returning home. It was a very serendipitous experience, and I've been hooked ever since!"
+    ],
+    [
+      "Abigail Chen",
+      "It's fascinating how art can find us in such serendipitous ways! I believe some things in life are meant to be and that includes your passion for art. I'm glad that fateful experience brought you here today so we could meet and chat. It's always exciting to hear about how people discover their passions."
+    ],
+    [
+      "Klaus Mueller",
+      "It's certainly fate that brought us together for this meaningful conversation, Abigail! By the way, do you have any plans for today after the breakfast? Perhaps we could explore the village together and check out the antique shop or the community garden?"
+    ],
+    [
+      "Abigail Chen",
+      "I'd love to explore the village with you! It's such a beautiful day outside, and I think it would be wonderful to visit the antique shop and the community garden. After breakfast, of course!"
+    ],
+    [
+      "Klaus Mueller",
+      "There's so much to discover in this village! I'm glad we're doing this together. So, shall we head out after breakfast, or do you have any other plans?"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": 643,
+    "Klaus Mueller": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:04:00",
+  "act_path_set": true,
+  "planned_path": []
+}

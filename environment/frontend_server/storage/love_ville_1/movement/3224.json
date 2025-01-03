@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\u2615\ud83d\udc4b",
+      "description": "heading to the Hobbs Cafe to start the first day of the Love Ville program (walking into the Hobbs Cafe and greeting the other members) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udc5c\ud83d\udd11",
+      "description": "getting ready and preparing to head to the hobb cafe (grabbing her bag and keys) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83e\ude9e",
+      "description": "getting ready for the day and preparing to attend the Love Ville Program breakfast (checking his appearance in the mirror) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc84",
+      "description": "waking up and completing her morning routine (applying light makeup) @ the Ville:artist's co-living space:Abigail Chen's bathroom:shower",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        64
+      ],
+      "pronunciatio": "\ud83d\udd0d\u23f0",
+      "description": "preparing for the Love Ville program orientation (double-checking the location and time of the orientation) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        25,
+        49
+      ],
+      "pronunciatio": "\ud83d\udd12\ud83d\udeb6",
+      "description": "preparing to go to the hobb cafe for breakfast (locking his door and heading to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:57:20"
+  }
+}

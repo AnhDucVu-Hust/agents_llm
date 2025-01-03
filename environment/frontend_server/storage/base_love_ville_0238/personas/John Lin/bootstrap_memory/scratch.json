@@ -1,0 +1,268 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 07:12:40",
+  "curr_tile": [
+    91,
+    67
+  ],
+  "daily_plan_req": "John Lin is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
+  "name": "John Lin",
+  "first_name": "John",
+  "last_name": "Lin",
+  "age": 45,
+  "innate": "patient, kind, organized",
+  "learned": "John Lin is a pharmacy shop keeper at the Willow Market and Pharmacy who loves to help people. He is always looking for ways to make the process of getting medication easier for his customers.",
+  "currently": "John Lin is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat,  6pm to cook and eat dinner. In real life, he is taking online classes to stay up to date on new medications and treatments. John is also curious about who will be running for the local mayor election next month and he is asking everyone he meets about who will be running in the election.",
+  "lifestyle": "John Lin goes to bed around 10pm, awakes up around 6am, ",
+  "living_area": "the Ville:Lin family's house:Mei and John Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 204,
+  "importance_ele_n": 43,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have breakfast at 7:00 am",
+    "go to the Willow Market and Pharmacy to open the shop at 8:00 am",
+    "work at the pharmacy until 12:00 pm",
+    "have lunch at 12:00 pm",
+    "return to work at the pharmacy from 1:00 pm to 5:00 pm",
+    "attend the Love Ville program at the hobb cafe at 6:00 pm to cook and eat dinner",
+    "socialize and get to know other participants at the Love Ville program until 9:00 pm",
+    "return home and relax until 10:00 pm,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (tidying up his room)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (grabbing his bag and keys)",
+      5
+    ],
+    [
+      "having breakfast (preparing his breakfast)",
+      10
+    ],
+    [
+      "having breakfast (eating his breakfast)",
+      20
+    ],
+    [
+      "having breakfast (reading the local newspaper)",
+      15
+    ],
+    [
+      "having breakfast (checking his emails)",
+      10
+    ],
+    [
+      "having breakfast (cleaning up the breakfast table)",
+      5
+    ],
+    [
+      "going to the Willow Market and Pharmacy to open the shop (getting dressed and ready to leave)",
+      10
+    ],
+    [
+      "going to the Willow Market and Pharmacy to open the shop (walking to the Willow Market and Pharmacy)",
+      15
+    ],
+    [
+      "going to the Willow Market and Pharmacy to open the shop (unlocking the pharmacy)",
+      5
+    ],
+    [
+      "going to the Willow Market and Pharmacy to open the shop (turning on the lights and setting up the cash register)",
+      10
+    ],
+    [
+      "going to the Willow Market and Pharmacy to open the shop (checking the inventory)",
+      10
+    ],
+    [
+      "going to the Willow Market and Pharmacy to open the shop (organizing the shelves)",
+      10
+    ],
+    [
+      "working at the pharmacy",
+      180
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "working at the pharmacy",
+      300
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe to cook and eat dinner",
+      60
+    ],
+    [
+      "socializing and getting to know other participants at the Love Ville program",
+      180
+    ],
+    [
+      "returning home and relaxing",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "going to the Willow Market and Pharmacy to open the shop",
+      60
+    ],
+    [
+      "working at the pharmacy",
+      180
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "working at the pharmacy",
+      300
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe to cook and eat dinner",
+      60
+    ],
+    [
+      "socializing and getting to know other participants at the Love Ville program",
+      180
+    ],
+    [
+      "returning home and relaxing",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Lin family's house:common room:common room table",
+  "act_start_time": "February 13, 2023, 07:10:00",
+  "act_duration": 20,
+  "act_description": "having breakfast (eating his breakfast)",
+  "act_pronunciatio": "\ud83c\udf73\ud83c\udf7d\ufe0f",
+  "act_event": [
+    "John Lin",
+    "eat",
+    "breakfast"
+  ],
+  "act_obj_description": "cluttered with food and dirty dishes",
+  "act_obj_pronunciatio": "\ud83c\udf7d\ufe0f\ud83e\uddf9",
+  "act_obj_event": [
+    "common room table",
+    "is",
+    "cluttered with food and dirty dishes"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

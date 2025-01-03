@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc5f\ud83e\udde5",
+      "description": "waking up and completing her morning routine (putting on her shoes and jacket) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udecc",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udecc",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34\ud83d\udecf\ufe0f",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        75
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83e\uddfa",
+      "description": "waking up and completing his morning routine (tidying up his room) @ the Ville:Lin family's house:Mei and John Lin's bedroom:closet",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        32
+      ],
+      "pronunciatio": "\ud83e\udd14\ud83d\udcd6",
+      "description": "reading and writing (reflecting on the ideas presented in the book) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:53:30"
+  }
+}

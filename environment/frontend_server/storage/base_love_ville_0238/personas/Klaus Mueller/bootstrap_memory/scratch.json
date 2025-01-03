@@ -1,0 +1,381 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 07:12:50",
+  "curr_tile": [
+    122,
+    50
+  ],
+  "daily_plan_req": "Klaus Mueller is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 132,
+  "importance_ele_n": 18,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the hobb cafe to cook and eat breakfast with other Love Ville participants at 9:00 am",
+    "explore the Ville Village and get to know other participants throughout the day",
+    "go to the hobb cafe to cook and eat dinner with other Love Ville participants at 6:00 pm",
+    "socialize and mingle with other participants after dinner"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (combing his hair)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making a cup of coffee)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (drinking his coffee while checking his phone for messages)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (doing a quick meditation session)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (packing his bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (putting on his shoes and jacket)",
+      5
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (brushing his teeth)",
+      5
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (washing his face)",
+      5
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (taking a shower)",
+      15
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (drying off and applying lotion)",
+      10
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (styling his hair)",
+      10
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (choosing an outfit)",
+      5
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (getting dressed)",
+      5
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program (putting on cologne)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village and chatting with other Love Ville participants",
+      60
+    ],
+    [
+      "continuing to explore the Ville Village and engage in conversations with other Love Ville participants",
+      60
+    ],
+    [
+      "having lunch at a local cafe and chatting with a few Love Ville participants he met earlier",
+      60
+    ],
+    [
+      "attending a Love Ville group activity focused on icebreaker games and getting to know each other better",
+      60
+    ],
+    [
+      "participating in a Love Ville workshop on effective communication and active listening",
+      60
+    ],
+    [
+      "continuing to participate in the Love Ville workshop on effective communication and active listening",
+      60
+    ],
+    [
+      "taking a break and relaxing in his room, reflecting on the day's activities and conversations",
+      60
+    ],
+    [
+      "preparing to go to the hobb cafe for dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "socializing and mingling with other Love Ville participants after dinner",
+      60
+    ],
+    [
+      "continuing to socialize and mingle with other Love Ville participants, engaging in deeper conversations and getting to know them better",
+      180
+    ],
+    [
+      "getting ready for bed and reflecting on the day's experiences",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "getting ready for the day, showering and dressing in casual but nice clothes for the Love Ville program",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village and chatting with other Love Ville participants",
+      60
+    ],
+    [
+      "continuing to explore the Ville Village and engage in conversations with other Love Ville participants",
+      60
+    ],
+    [
+      "having lunch at a local cafe and chatting with a few Love Ville participants he met earlier",
+      60
+    ],
+    [
+      "attending a Love Ville group activity focused on icebreaker games and getting to know each other better",
+      60
+    ],
+    [
+      "participating in a Love Ville workshop on effective communication and active listening",
+      60
+    ],
+    [
+      "continuing to participate in the Love Ville workshop on effective communication and active listening",
+      60
+    ],
+    [
+      "taking a break and relaxing in his room, reflecting on the day's activities and conversations",
+      60
+    ],
+    [
+      "preparing to go to the hobb cafe for dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "socializing and mingling with other Love Ville participants after dinner",
+      60
+    ],
+    [
+      "continuing to socialize and mingle with other Love Ville participants, engaging in deeper conversations and getting to know them better",
+      180
+    ],
+    [
+      "getting ready for bed and reflecting on the day's experiences",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:man's bathroom:bathroom sink",
+  "act_start_time": "February 13, 2023, 07:10:00",
+  "act_duration": 5,
+  "act_description": "waking up and completing his morning routine (brushing his teeth)",
+  "act_pronunciatio": "\ud83e\udea5\ud83d\ude2c",
+  "act_event": [
+    "Klaus Mueller",
+    "brush",
+    "teeth"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udee0\ufe0f\ud83d\udc64",
+  "act_obj_event": [
+    "bathroom sink",
+    "be",
+    "used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      121,
+      50
+    ],
+    [
+      120,
+      50
+    ],
+    [
+      119,
+      50
+    ],
+    [
+      118,
+      50
+    ],
+    [
+      117,
+      50
+    ],
+    [
+      117,
+      51
+    ],
+    [
+      116,
+      51
+    ],
+    [
+      115,
+      51
+    ],
+    [
+      114,
+      51
+    ],
+    [
+      114,
+      52
+    ],
+    [
+      114,
+      53
+    ],
+    [
+      113,
+      53
+    ],
+    [
+      113,
+      54
+    ],
+    [
+      112,
+      54
+    ],
+    [
+      111,
+      54
+    ],
+    [
+      110,
+      54
+    ],
+    [
+      109,
+      54
+    ],
+    [
+      108,
+      54
+    ],
+    [
+      107,
+      54
+    ],
+    [
+      107,
+      53
+    ],
+    [
+      107,
+      52
+    ],
+    [
+      107,
+      51
+    ],
+    [
+      107,
+      50
+    ],
+    [
+      108,
+      50
+    ],
+    [
+      109,
+      50
+    ]
+  ]
+}
