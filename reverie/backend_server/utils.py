@@ -2,9 +2,9 @@
 #route to OpenRouter
 openai_base_url = "https://openrouter.ai/api/v1"
 #OpenRouter API Key
-openai_api_key = "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"
+openai_api_key = ""
 #OpenAI API key for calling embedding model
-openai_embedding_key =  "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"
+openai_embedding_key =  ""
 # Put your name
 key_owner = "ducva4"
 
