@@ -1,0 +1,662 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 15,
+  "curr_time": "February 13, 2023, 17:30:10",
+  "curr_tile": [
+    75,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. Now she is joining the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. The Hobbs Cafe now is used for the program",
+  "currently": "Isabella Rodriguez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). This dating show is designed exclusively for heterosexual individuals seeking romantic connections. It brings together single men and women in a dynamic and engaging format, where they can explore potential relationships, build chemistry, and find love. The show emphasizes traditional man-woman pairings, creating a space for participants to connect and form meaningful bonds within a structured and entertaining environment. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She always does exercise at 8pm",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 10,
+  "importance_ele_n": 70,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "go to the Hobbs Cafe at 8:00 am",
+    "attend the Love Ville program and do the first day activity at 9:00 am",
+    "have a lunch break at 12:00 pm",
+    "continue the Love Ville program activity from 1:00 pm to 5:00 pm",
+    "go back home to rest for a while at 5:00 pm",
+    "do exercise at 8:00 pm",
+    "go back to the Hobbs Cafe at 6:00 pm to cook and eat dinner with the other members",
+    "go back home to rest and watch TV from 7:30 to 10:30 pm, and",
+    "go to bed at 11:00 pm. \n\nHere is Isabella's actual plan today",
+    "wake up at 6:00 am",
+    "have a shower and get dressed at 6:15 am",
+    "have a breakfast at 6:45 am",
+    "go to the Hobbs Cafe at 8:00 am",
+    "attend the Love Ville program and do the first day activity at 9:00 am",
+    "have a lunch break at 12:00 pm",
+    "continue the Love Ville program activity from 1:00 pm to 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and getting ready for the day (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and getting ready for the day (getting out of bed and making her bed)",
+      5
+    ],
+    [
+      "waking up and getting ready for the day (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "waking up and getting ready for the day (taking a quick shower)",
+      15
+    ],
+    [
+      "waking up and getting ready for the day (drying her hair and applying light makeup)",
+      15
+    ],
+    [
+      "waking up and getting ready for the day (choosing an outfit for the day)",
+      5
+    ],
+    [
+      "waking up and getting ready for the day (putting on her outfit and accessories)",
+      5
+    ],
+    [
+      "having breakfast at home (brushing her teeth)",
+      5
+    ],
+    [
+      "having breakfast at home (washing her face)",
+      5
+    ],
+    [
+      "having breakfast at home (making coffee)",
+      5
+    ],
+    [
+      "having breakfast at home (preparing breakfast (toast and eggs))",
+      10
+    ],
+    [
+      "having breakfast at home (eating breakfast)",
+      20
+    ],
+    [
+      "having breakfast at home (cleaning up the kitchen)",
+      10
+    ],
+    [
+      "having breakfast at home (getting dressed for the day)",
+      5
+    ],
+    [
+      "going to the Hobbs Cafe (getting dressed and ready for the day)",
+      15
+    ],
+    [
+      "going to the Hobbs Cafe (grabbing her bag and keys)",
+      5
+    ],
+    [
+      "going to the Hobbs Cafe (walking to her car)",
+      5
+    ],
+    [
+      "going to the Hobbs Cafe (driving to the Hobbs Cafe)",
+      20
+    ],
+    [
+      "going to the Hobbs Cafe (parking her car)",
+      5
+    ],
+    [
+      "going to the Hobbs Cafe (walking into the Hobbs Cafe)",
+      5
+    ],
+    [
+      "going to the Hobbs Cafe (greeting the staff and other participants)",
+      5
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (arriving at Hobbs Cafe and greeting the other participants)",
+      10
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (introducing herself to the group)",
+      5
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (on the way to listening to the program coordinator's introduction and instructions)",
+      0
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (conversing about a flirtatious and adventurous conversation between Isabella Rodriguez and Adam Smith, where they meet at a program, hit it off, and decide to explore the town together, getting to know each other better and potentially starting a romantic relationship.)",
+      21
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (listening to the program coordinator's introduction and instructions)",
+      4
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (participating in an icebreaker activity to get to know the other participants)",
+      10
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (on the way to helping to set up the next activity)",
+      0
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (conversing about two women, Isabella Rodriguez and Maria Lopez, conversing about their social interactions and potential romantic interests at a social gathering)",
+      3
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (helping to set up the next activity)",
+      2
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (on the way to taking a moment to observe the group dynamics and plan her next interactions)",
+      0
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe (conversing about Isabella Rodriguez and Klaus Mueller conversing about their cooking skills, taking a walk around the village, trying new dishes, and sharing personal experiences, including Isabella's newfound regrets in life.)",
+      8
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (introducing herself to the group)",
+      7
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (on the way to listening to other participants introduce themselves)",
+      0
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (conversing about Isabella Rodriguez and Abigail Chen conversing about their morning encounter, forming a connection, and making plans for a fun-filled day of adventures, dares, and possibly a date, exploring the town and getting to know each other better.)",
+      14
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (on the way to listening to other participants introduce themselves)",
+      0
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (conversing about flirting and conversing about cooking and sharing a meal together, specifically making a Snickers pie, between John Lin and Isabella Rodriguez, with Abigail mentioned as Isabella's partner in the cooking plans.)",
+      21
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (participating in an icebreaker activity)",
+      15
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (chatting with a participant she finds interesting)",
+      20
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (taking a short break to get a drink)",
+      5
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (joining a group discussion about hobbies and interests)",
+      20
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (sharing a funny story about her cafe)",
+      10
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (exchanging contact information with a few participants)",
+      8
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (greeting the other participants and finding a seat at the table)",
+      5
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (engaging in small talk with the participants next to her)",
+      10
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (on the way to ordering her lunch from the menu)",
+      0
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (conversing about Klaus Mueller and Isabella Rodriguez conversing about sharing a meal, specifically trying the spiced chocolate mousse, and exchanging gossip or untold stories at the Hobb Cafe.)",
+      7
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (ordering her lunch from the menu)",
+      8
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (eating her lunch and complimenting the food)",
+      15
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (asking the participants about their hobbies and interests)",
+      10
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (on the way to on the way to thanking the participants for the conversation and excusing herself)",
+      0
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe (conversing about two women, Isabella Rodriguez and Abigail Chen, meeting and spontaneously planning a thrilling adventure together, filled with excitement, trouble, and possibly romance, as they decide to ride off into the sunset and create unforgettable memories.)",
+      21
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (mingling with other participants and introducing herself)",
+      14
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (participating in an icebreaker activity)",
+      30
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (engaging in a group discussion about hobbies and interests)",
+      30
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (taking a short break to grab a drink)",
+      15
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (on the way to participating in a speed dating session)",
+      0
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (conversing about two individuals, Isabella Rodriguez and Klaus Mueller, conversing about exploring a village, getting to know each other, and discovering its hidden gems together on their first official date.)",
+      14
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (chatting with someone she connected with during speed dating)",
+      30
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (participating in a group cooking activity)",
+      45
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe (helping to clean up after the cooking activity)",
+      15
+    ],
+    [
+      "going back home to rest for a while (walking back home from Hobbs Cafe)",
+      15
+    ],
+    [
+      "going back home to rest for a while (changing into comfortable clothes)",
+      5
+    ],
+    [
+      "going back home to rest for a while (making a cup of tea)",
+      10
+    ],
+    [
+      "going back home to rest for a while (sitting on the couch and relaxing)",
+      20
+    ],
+    [
+      "going back home to rest for a while (checking her phone for messages)",
+      5
+    ],
+    [
+      "going back home to rest for a while (preparing to go back to Hobbs Cafe)",
+      5
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members (walking back to the Hobbs Cafe)",
+      15
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members (greeting the other Love Ville program members)",
+      10
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members (discussing the dinner menu with the group)",
+      15
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members (helping to prepare ingredients for the meal)",
+      20
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members (cooking the main dish with the group)",
+      25
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members (setting the table for dinner)",
+      10
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members (eating dinner with the group)",
+      20
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members (helping to clean up after dinner)",
+      5
+    ],
+    [
+      "doing exercise at home",
+      60
+    ],
+    [
+      "going back home to rest and watch TV",
+      60
+    ],
+    [
+      "going to bed",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      31
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and getting ready for the day",
+      60
+    ],
+    [
+      "having breakfast at home",
+      60
+    ],
+    [
+      "going to the Hobbs Cafe",
+      60
+    ],
+    [
+      "attending the Love Ville program and doing the first day activity at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe",
+      120
+    ],
+    [
+      "having lunch with the other Love Ville program participants at Hobbs Cafe",
+      60
+    ],
+    [
+      "continuing the Love Ville program activity at Hobbs Cafe",
+      240
+    ],
+    [
+      "going back home to rest for a while",
+      60
+    ],
+    [
+      "going back to the Hobbs Cafe to cook and eat dinner with the other Love Ville program members",
+      120
+    ],
+    [
+      "doing exercise at home",
+      60
+    ],
+    [
+      "going back home to rest and watch TV",
+      60
+    ],
+    [
+      "going to bed",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+  "act_start_time": "February 13, 2023, 17:29:00",
+  "act_duration": 5,
+  "act_description": "going back home to rest for a while (preparing to go back to Hobbs Cafe)",
+  "act_pronunciatio": "\ud83d\udecb\ufe0f",
+  "act_event": [
+    "Isabella Rodriguez",
+    "prepare",
+    "go back to Hobbs Cafe"
+  ],
+  "act_obj_description": "not being used",
+  "act_obj_pronunciatio": "\ud83d\udeab",
+  "act_obj_event": [
+    "refrigerator",
+    "is",
+    "not being used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Adam Smith": -883,
+    "Maria Lopez": -1987,
+    "Klaus Mueller": -133,
+    "Abigail Chen": -757,
+    "John Lin": -1651
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\ude0c",
+      "description": "going back home to rest for a while (sitting on the couch and relaxing) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        36,
+        28
+      ],
+      "pronunciatio": "\ud83c\udff0\ud83d\udcbb",
+      "description": "participating in a group activity organized by the Love Ville program (participating in a group game) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        20
+      ],
+      "pronunciatio": "\ud83c\udfdb\ufe0f",
+      "description": "exploring Ville Village (exploring the village's historical landmarks) @ the Ville:Oak Hill College:library:library sofa",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "resting in her room (browsing social media for inspiration) @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        59,
+        20
+      ],
+      "pronunciatio": "\ud83d\ude09\ud83d\udc98",
+      "description": "socializing and participating in Love Ville program activities (flirting with someone he finds interesting) @ the Ville:The Rose and Crown Pub:pub:behind the bar counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (engaging in a discussion with other participants about the challenges of being vulnerable) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:16:20"
+  }
+}

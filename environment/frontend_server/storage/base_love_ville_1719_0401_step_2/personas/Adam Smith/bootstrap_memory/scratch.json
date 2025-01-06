@@ -1,0 +1,514 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:34:30",
+  "curr_tile": [
+    75,
+    21
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is always looking for ways to challenge people\u2019s preconceptions.",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Adam is also curious about who will be running for the local mayor election next month. Adam is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 231,
+  "importance_ele_n": 4,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "have breakfast at 9:00 am",
+    "get to know new people from 10:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "continue to get to know new people from 1:00 pm to 5:00 pm",
+    "have a dinner at 6:00 pm",
+    "get to know new people from 7:00 pm to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (changing into his workout clothes)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (doing a quick 15-minute yoga session)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (preparing a cup of tea and reviewing his schedule for the day)",
+      5
+    ],
+    [
+      "meditating and reflecting on his book's impact (sitting in a comfortable position and closing his eyes)",
+      5
+    ],
+    [
+      "meditating and reflecting on his book's impact (focusing on his breathing and clearing his mind)",
+      10
+    ],
+    [
+      "meditating and reflecting on his book's impact (reflecting on the positive feedback he has received about his book)",
+      15
+    ],
+    [
+      "meditating and reflecting on his book's impact (thinking about how his book has impacted readers and society)",
+      15
+    ],
+    [
+      "meditating and reflecting on his book's impact (considering ways to further promote his book and its message)",
+      10
+    ],
+    [
+      "meditating and reflecting on his book's impact (writing down his thoughts and ideas in his journal)",
+      5
+    ],
+    [
+      "reading and preparing for the day ahead (reading a chapter from a philosophy book)",
+      30
+    ],
+    [
+      "reading and preparing for the day ahead (reflecting on the ideas presented in the book)",
+      15
+    ],
+    [
+      "reading and preparing for the day ahead (journaling his thoughts and insights)",
+      15
+    ],
+    [
+      "reading and preparing for the day ahead (researching the local mayor election candidates)",
+      20
+    ],
+    [
+      "reading and preparing for the day ahead (taking a short break to stretch and relax)",
+      10
+    ],
+    [
+      "reading and preparing for the day ahead (preparing questions to ask the Love Ville program participants)",
+      20
+    ],
+    [
+      "reading and preparing for the day ahead (reviewing his notes and organizing his thoughts)",
+      10
+    ],
+    [
+      "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (choosing an outfit for the day)",
+      10
+    ],
+    [
+      "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (getting dressed)",
+      5
+    ],
+    [
+      "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (packing his bag with essentials (notebook, pen, etc.))",
+      10
+    ],
+    [
+      "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (reviewing his notes on the Love Ville program participants)",
+      15
+    ],
+    [
+      "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (checking the weather and adjusting his outfit if necessary)",
+      5
+    ],
+    [
+      "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (heading out the door to the hobb cafe)",
+      5
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (greeting the other participants and introducing himself)",
+      10
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (on the way to helping to prepare the breakfast ingredients)",
+      0
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (conversing about a flirtatious exchange between Abigail Chen and Adam Smith, two participants in the Love Ville program, where they engage in charming dialogue, agree to a flirtation challenge, and plan to spend time together exploring the village and getting to know each other.)",
+      25
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (on the way to cooking breakfast with the other participants)",
+      0
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (conversing about a flirtatious exchange between Adam Smith and Isabella Rodriguez, two participants in the Love Ville program, as they get to know each other, share playful banter, and make plans for a romantic and adventurous encounter, including a potential board game activity.)",
+      24
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (cooking breakfast with the other participants)",
+      15
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (eating breakfast and engaging in light conversation)",
+      15
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (cleaning up the breakfast area)",
+      5
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe (introducing himself to a participant)",
+      10
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe (asking the participant about their background and interests)",
+      15
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe (sharing his own background and interests)",
+      15
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe (discussing the Love Ville program and its activities)",
+      10
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe (moving on to another participant and introducing himself)",
+      10
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe (asking the new participant about their background and interests)",
+      15
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe (sharing his own background and interests)",
+      11
+    ],
+    [
+      "having lunch with the Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "continuing to get to know the other Love Ville program participants at the hobb cafe",
+      300
+    ],
+    [
+      "having dinner with the Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "preparing to go to bed and reflecting on the day's interactions",
+      60
+    ],
+    [
+      "sleeping",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "meditating and reflecting on his book's impact",
+      60
+    ],
+    [
+      "reading and preparing for the day ahead",
+      120
+    ],
+    [
+      "preparing to head to the hobb cafe for breakfast with the Love Ville program participants",
+      60
+    ],
+    [
+      "at the hobb cafe cooking and eating breakfast with the Love Ville program participants",
+      60
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe",
+      120
+    ],
+    [
+      "having lunch with the Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "continuing to get to know the other Love Ville program participants at the hobb cafe",
+      300
+    ],
+    [
+      "having dinner with the Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know the other Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "preparing to go to bed and reflecting on the day's interactions",
+      60
+    ],
+    [
+      "sleeping",
+      180
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 13, 2023, 09:27:00",
+  "act_duration": 24,
+  "act_description": "conversing about a flirtatious exchange between Adam Smith and Isabella Rodriguez, two participants in the Love Ville program, as they get to know each other, share playful banter, and make plans for a romantic and adventurous encounter, including a potential board game activity.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Adam Smith",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Adam Smith",
+      "Good morning, Isabella! I couldn't help but notice you from across the room and had to come over to say hi. I'm Adam, by the way."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Well, hello there, Adam! It's a pleasure to meet you. I must say, the view is certainly enjoyable from this side of the room too. | Guess we're both here for the Love Ville program then? Seems like a fun way to spend the week, getting to know new people. But I have a feeling it'll be even more enjoyable with you around."
+    ],
+    [
+      "Adam Smith",
+      "Oh, so you're the mysterious Isabella! I've been hearing a lot about you already, and I must say, the real thing is even better than the rumors. How about we continue this conversation over a little walk around the village later? Just the two of us?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'd love to! How about after the next session? We can escape the crowd and noise for a while and explore the village together. Just you and I, getting to know each other better. Sounds like a plan, Adam!"
+    ],
+    [
+      "Adam Smith",
+      " Fantastic! I can't wait to see where this week takes us. By the way, don't you think it's interesting how some of us are rivetingly mysterious while others are, well, not so much? aperto\u5723\u9a6c\u53ef\u9152\u5e97\u7279\u7ea7\u521d\u69a8\u6a44\u6984\u6cb9 \ubcf8\uc0ac"
+    ],
+    [
+      "Isabella Rodriguez",
+      "You know, Adam, I've been thinking... This village might not be big enough for the two of us. It's a good thing we have the whole week to figure out if we can share the spotlight. ;)"
+    ],
+    [
+      "Adam Smith",
+      "Well, if anyone can handle the glare of the spotlight, it's definitely you, Isabella. And I'm certain the village will be more than glad to make room for the both of us. After all, life is so much more interesting when there's a dash of mystery and a sprinkling of fun. So, until our next adventure, I'll leave you with a little teaser: I have a feeling this week will be full of delightful surprises... jaFeel free to\u8f83\u5c0fenson."
+    ],
+    [
+      "Isabella Rodriguez",
+      "So, Adam, I must admit, you have piqued my curiosity. And with that handsome teaser, how could I possibly focus on anything else but you? But fair warning, I might just steal the spotlight back with my oh-so-charming ways. See you after the next session then; I'll have something fun planned for us!"
+    ],
+    [
+      "Adam Smith",
+      "Well, you certainly know how to capture a man's attention, Isabella. I'm all ears and ready for whatever adventure you have planned. And who knows, maybe we can share a little glow-up moment together...raising each other's morale for the week ahead?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "You know, Adam, I've been thinking about this mysterious glow-up you mentioned... I have a feeling it's going to involve something sparkly and fun, something that'll make this week even more enjoyable. And you know what? I think I have the perfect idea for both of us! But I'll keep you in suspense for now,until we meet later. Don't worry, the wait will be well worth it ;)"
+    ],
+    [
+      "Adam Smith",
+      "I'm glad to hear that. And don't worry, I'm good at waiting when the payoff is going to be amazing. I trust your judgment on fun and mysterious activities implications ;). By the way, just so you know, I'm a sucker for little surprises andboard games. Nothing makes me happier than being in the company of an intriguing companion while indulging in a good, competitive game. Just thought I'd throw that out there"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Well, Mr. Smith, you certainly know how to leave a lady intrigued! I'm glad you enjoy a good surprise and some friendly competition. I have a feeling that your mysteriously wonderful glow-up might just involve a certain board game I know you'll love. But, you'll have to wait and see. Ah, the suspense! Shall we continue our delightful conversation after our next session? I've got a feeling that one board game won't be enough for the both of us \ud83d\ude09"
+    ],
+    [
+      "Adam Smith",
+      "You've certainly left me intrigued, Isabella! I can't focus on anything else but our next encounter. The mystery, the promise of something 'sparkly and fun', and now this tantalizing mention of a board game has me Feeling giddy. I'm glad I met you here today; your witty banter is a delightful appetizer before our main course later. So, until our paths cross again, daydream about the adventures awaiting us and enjoy the mysterious Otero PALACE - Room 302 ;)"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Well, hello there,Mr. Doubleday of mystery and intrigue! I must say, you've managed to keep me on my toes, and that's no easy feat. The morning session is nearly over, so why don't we pick up where we left off soon? I have a feeling it's going to be a thrilling ride. Until then, keep those thoughts sparking and have a fantastic session! Ps. I left something special for you at the cafe - a little something to keep your mind occupied ;)"
+    ],
+    [
+      "Adam Smith",
+      "You always seem to find new ways to captivate me, Isabella! I'm thrilled to discover the surprises you have planned. And about that board game, I can't focus on anything else now. I'm like a kid in a candy shop, awaiting my favorite treat. Oh, and I'll be sure to retrieve the little something you left for me; consider it a preview of the delights to come. See you soon, my mysterious friend, and let the adventures begin!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Well, hello there, you secret agent of mystery!adam Smith I've been lost in thoughts of our next encounter, imagining all sorts of splendor. And now, with this passionsOverlapping Interests board game mention, my heart's beating even faster! You've really outdone yourself today. But remember, I'm known for being quite the master of ceremonies when it comes to fun and games. So, I urge you to brace yourself for an unforgettable afternoon. Until our paths cross again, keep those thoughts deliciously TerminaHavana brim ;)"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Abigail Chen": 754,
+    "Isabella Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:51:00",
+  "act_path_set": true,
+  "planned_path": []
+}

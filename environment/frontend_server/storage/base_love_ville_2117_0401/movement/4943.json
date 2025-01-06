@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udc4b",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (mingling with other participants and introducing herself) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch with the other Love Ville program participants (discussing her interests and hobbies with the participants) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        115,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfa8",
+      "description": "exploring Ville Village (visiting the local art gallery) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch with the other participants at the hobb cafe (eating her lunch) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        54,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "having lunch with the other Love Ville participants (conversing about two individuals, John Lin and Adam Smith, conversing about meeting up for a midnight adventure at Sn Petra's place, exploring its twists and turns, and getting to know each other better after being brought together by a program, with hints of excitement, mystery, and potential romance) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        55,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "participating in a group discussion about the role of creativity in relationships, sharing his insights and listening to others' perspectives (conversing about two individuals, John Lin and Adam Smith, conversing about meeting up for a midnight adventure at Sn Petra's place, exploring its twists and turns, and getting to know each other better after being brought together by a program, with hints of excitement, mystery, and potential romance) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:43:50"
+  }
+}

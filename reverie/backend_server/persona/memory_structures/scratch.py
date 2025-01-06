@@ -157,7 +157,7 @@ class Scratch:
     # destination tile. 
     # e.g., [(50, 10), (49, 10), (48, 10), ...]
     self.planned_path = []
-
+    self.relationships = {}
     if check_if_file_exists(f_saved): 
       # If we have a bootstrap file, load that here. 
       scratch_load = json.load(open(f_saved))
@@ -165,7 +165,8 @@ class Scratch:
       self.vision_r = scratch_load["vision_r"]
       self.att_bandwidth = scratch_load["att_bandwidth"]
       self.retention = scratch_load["retention"]
-
+      if "relationships" in scratch_load.keys():
+        self.replationships = scratch_load['relationships']
       if scratch_load["curr_time"]: 
         self.curr_time = datetime.datetime.strptime(scratch_load["curr_time"],
                                                   "%B %d, %Y, %H:%M:%S")
@@ -247,7 +248,7 @@ class Scratch:
     scratch["vision_r"] = self.vision_r
     scratch["att_bandwidth"] = self.att_bandwidth
     scratch["retention"] = self.retention
-
+    scratch["relationships"] = self.relationships
     scratch["curr_time"] = self.curr_time.strftime("%B %d, %Y, %H:%M:%S")
     scratch["curr_tile"] = self.curr_tile
     scratch["daily_plan_req"] = self.daily_plan_req
@@ -351,7 +352,11 @@ class Scratch:
 
     return curr_index
 
-
+  def update_relationship(self,created, persona,thought):
+    if persona not in self.relationships.keys():
+      self.relationships[persona]= [{'date':created,'status':thought}]
+    else:
+      self.relationships[persona].append({'date':created,'status':thought})
   def get_f_daily_schedule_hourly_org_index(self, advance=0):
     """
     We get the current index of self.f_daily_schedule_hourly_org. 

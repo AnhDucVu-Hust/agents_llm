@@ -169,11 +169,11 @@ def perceive(persona, maze):
                       persona.scratch.act_description, keywords, 
                       chat_poignancy, chat_embedding_pair, 
                       persona.scratch.chat)
-        chat_node_ids = [chat_node.node_id]
+        chat_node_ids += [chat_node.node_id]
 
       # Finally, we add the current event to the agent's memory. 
       ret_events += [persona.a_mem.add_event(persona.scratch.curr_time, None,
-                           s, p, o, desc, keywords, event_poignancy, 
+                           s, p, o, desc, keywords, event_poignancy,
                            event_embedding_pair, chat_node_ids)]
       persona.scratch.importance_trigger_curr -= event_poignancy
       persona.scratch.importance_ele_n += 1

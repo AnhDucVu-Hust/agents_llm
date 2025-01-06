@@ -1,0 +1,167 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending the Love Ville program and cooking/eating breakfast with other members at Hobbs Cafe (greeting other members at the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        79,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a flirtatious and intriguing conversation between Maria Lopez and John Lin, who meet as fellow early birds, discuss their plans for the day, and engage in a playful and mysterious mission to investigate the local election, filled with witty remarks, clever banter, and a game of Truth or Dare. @ <persona> John Lin",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey there, John! I couldn't help but notice you're a fellow early bird. Most people here tend to sleep in, but I guess great minds think alike, huh? ;)"
+        ],
+        [
+          "John Lin",
+          "Yeah, I guess we're both morning people! It's nice to meet someone who's up and about this early. Most of the time, I feel like the only one who enjoys the morning freshness. So, Maria, any plans for today beyond breakfast?"
+        ],
+        [
+          "Maria Lopez",
+          "You know what, I actually have a pretty fun day planned! I was thinking of exploring the Village and its secrets spots.. But I'm even more intrigued to know what a fascinating person like yourself has planned! A mystery man like you could have something truly captivating ahead.."
+        ],
+        [
+          "John Lin",
+          "Well, Maria, I think it's only fair to warn you that I'm about to put you to work. I have a little mission for you, if you're up for it. It involves some light sleuthing... See, I'm curious about the local election. They're holding a mayoralty election next month, and I want to know who the candidates are. I'd usually do it myself, but today I'm all signed up for this Love Ville program, so I haven't got the time! But you seem like just the right person for the job. What do you say?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, John, what an intriguing and mysterious mission you have for me! I'd love to help you out, especially since it involves some clandestine investigation. Consider me your secret agent, ready to uncover the candidates for you. And who knows, if we're lucky, we might even bump into each other while on this mission... It would be a pleasure to seize the day with you! So, shall we let fate decide the next step? Or should I say, operation?"
+        ],
+        [
+          "John Lin",
+          "Fantastical! Then it's settled, we'll each take an area of the village to investigate and share our findings later. I've got a feeling fate has something fun in store for us today. So, lovely Maria, care to join me on this adventurous wild goose chase? We can start by entwining our paths for the morning Love Ville activities and see where this mysterious mission takes us..."
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait to find out what our intertwined paths will discover later today. But for now, let's focus on this delicious breakfast, and the even more delicious prospects of our little operation. I have a feeling it's going to be a fruity day, John ;)."
+        ],
+        [
+          "John Lin",
+          "Breakfast is indeed delicious, especially with your charming company, Maria. I'm excited to see what the day has in store for us. Speaking of which, have you heard the village gossip yet? Any hints on who might be running for mayor? I heard a whispering wind, but I'm not sure if it's reliable... Care to venture a guess?"
+        ],
+        [
+          "Maria Lopez",
+          "Hmm, I've heard some whispers too, but I'll need to do some \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e sleuthing to confirm. Polka-dot pajamas, a masquerade ball, and a mysterious candidate who campaigns exclusively in the dead of night? We have our work cut out for us, Detective Lin. But fear not, I have a feeling we'll unravel this mystery together... perhaps over dinner? Racy rumor has it that the best gossip spreads at sunset ;)"
+        ],
+        [
+          "John Lin",
+          "You know what, Maria, I think I've heard enough. You, my dear, are the most intriguing candidate for this mysterious election. In fact, I'm thinking of writing you in on the ballot! But first, how about we put this investigation on hold and see if we can't Joffrey our way into some fun? You, me, a spot of trouble... Sound tantalizing?"
+        ],
+        [
+          "Maria Lopez",
+          "Ha! You're quite the charmer, John. I must say, I'm intrigued by your proposal of adding a touch of mischief to our morning. But first, how about we make at\u1ee9ctty formal introduction amidst this delightful breakfast? After all, our paths are unfoldsstrange and mysterious ways today. So, how would you like to officially get to know me, Detective Lin?"
+        ],
+        [
+          "John Lin",
+          "Pleasure to officially meet you, Maria! I must say, I'm delighted to find myself sharing a table with someone as enchanting as yourself this morning. You certainly add some spice to my routine breakfast. So, any preferences as to how we start our little adventure? Or should we just wing it and see where the wind blows us?"
+        ],
+        [
+          "Maria Lopez",
+          "Well, Detective Lin, since we're already knee-deep in this adventure, how about a little game to break the ice? I have a feeling you're the type who's always up for a challenge. How does a game of 'Truth or Dare' sound?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "having breakfast at Hobb Cafe with other participants (introducing himself to the other participants) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        81,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a flirtatious and intriguing conversation between Maria Lopez and John Lin, who meet as fellow early birds, discuss their plans for the day, and engage in a playful and mysterious mission to investigate the local election, filled with witty remarks, clever banter, and a game of Truth or Dare. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey there, John! I couldn't help but notice you're a fellow early bird. Most people here tend to sleep in, but I guess great minds think alike, huh? ;)"
+        ],
+        [
+          "John Lin",
+          "Yeah, I guess we're both morning people! It's nice to meet someone who's up and about this early. Most of the time, I feel like the only one who enjoys the morning freshness. So, Maria, any plans for today beyond breakfast?"
+        ],
+        [
+          "Maria Lopez",
+          "You know what, I actually have a pretty fun day planned! I was thinking of exploring the Village and its secrets spots.. But I'm even more intrigued to know what a fascinating person like yourself has planned! A mystery man like you could have something truly captivating ahead.."
+        ],
+        [
+          "John Lin",
+          "Well, Maria, I think it's only fair to warn you that I'm about to put you to work. I have a little mission for you, if you're up for it. It involves some light sleuthing... See, I'm curious about the local election. They're holding a mayoralty election next month, and I want to know who the candidates are. I'd usually do it myself, but today I'm all signed up for this Love Ville program, so I haven't got the time! But you seem like just the right person for the job. What do you say?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, John, what an intriguing and mysterious mission you have for me! I'd love to help you out, especially since it involves some clandestine investigation. Consider me your secret agent, ready to uncover the candidates for you. And who knows, if we're lucky, we might even bump into each other while on this mission... It would be a pleasure to seize the day with you! So, shall we let fate decide the next step? Or should I say, operation?"
+        ],
+        [
+          "John Lin",
+          "Fantastical! Then it's settled, we'll each take an area of the village to investigate and share our findings later. I've got a feeling fate has something fun in store for us today. So, lovely Maria, care to join me on this adventurous wild goose chase? We can start by entwining our paths for the morning Love Ville activities and see where this mysterious mission takes us..."
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait to find out what our intertwined paths will discover later today. But for now, let's focus on this delicious breakfast, and the even more delicious prospects of our little operation. I have a feeling it's going to be a fruity day, John ;)."
+        ],
+        [
+          "John Lin",
+          "Breakfast is indeed delicious, especially with your charming company, Maria. I'm excited to see what the day has in store for us. Speaking of which, have you heard the village gossip yet? Any hints on who might be running for mayor? I heard a whispering wind, but I'm not sure if it's reliable... Care to venture a guess?"
+        ],
+        [
+          "Maria Lopez",
+          "Hmm, I've heard some whispers too, but I'll need to do some \u043f\u0440\u0438\u043c\u0435\u0440\u043d\u043e sleuthing to confirm. Polka-dot pajamas, a masquerade ball, and a mysterious candidate who campaigns exclusively in the dead of night? We have our work cut out for us, Detective Lin. But fear not, I have a feeling we'll unravel this mystery together... perhaps over dinner? Racy rumor has it that the best gossip spreads at sunset ;)"
+        ],
+        [
+          "John Lin",
+          "You know what, Maria, I think I've heard enough. You, my dear, are the most intriguing candidate for this mysterious election. In fact, I'm thinking of writing you in on the ballot! But first, how about we put this investigation on hold and see if we can't Joffrey our way into some fun? You, me, a spot of trouble... Sound tantalizing?"
+        ],
+        [
+          "Maria Lopez",
+          "Ha! You're quite the charmer, John. I must say, I'm intrigued by your proposal of adding a touch of mischief to our morning. But first, how about we make at\u1ee9ctty formal introduction amidst this delightful breakfast? After all, our paths are unfoldsstrange and mysterious ways today. So, how would you like to officially get to know me, Detective Lin?"
+        ],
+        [
+          "John Lin",
+          "Pleasure to officially meet you, Maria! I must say, I'm delighted to find myself sharing a table with someone as enchanting as yourself this morning. You certainly add some spice to my routine breakfast. So, any preferences as to how we start our little adventure? Or should we just wing it and see where the wind blows us?"
+        ],
+        [
+          "Maria Lopez",
+          "Well, Detective Lin, since we're already knee-deep in this adventure, how about a little game to break the ice? I have a feeling you're the type who's always up for a challenge. How does a game of 'Truth or Dare' sound?"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (greeting the other participants and introducing himself) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:12:00"
+  }
+}

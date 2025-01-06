@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\ude0b",
+      "description": "having lunch with the other Love Ville program participants at Hobbs Cafe (eating her lunch and complimenting the food) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        55,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "having lunch with the other Love Ville program participants (conversing about John Lin and Maria Lopez conversing about planning a cooking adventure together, potentially sparking a romantic connection, and making a friendly bet on the mayor election, with hints of a possible date and trip to Reykjav\u00edk.) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch with other Love Ville participants at Hobb Cafe (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        59,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "having lunch with the other participants at the hobb cafe (conversing about Abigail Chen and Adam Smith conversing about their writing and artistic processes, sharing a cup of coffee, and exploring the town of Ville Ville together, with discussions about food, adventures, and getting to know each other.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "having lunch with the other Love Ville participants (conversing about John Lin and Maria Lopez conversing about planning a cooking adventure together, potentially sparking a romantic connection, and making a friendly bet on the mayor election, with hints of a possible date and trip to Reykjav\u00edk.) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        60,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc65",
+      "description": "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (conversing about Abigail Chen and Adam Smith conversing about their writing and artistic processes, sharing a cup of coffee, and exploring the town of Ville Ville together, with discussions about food, adventures, and getting to know each other.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:44:00"
+  }
+}

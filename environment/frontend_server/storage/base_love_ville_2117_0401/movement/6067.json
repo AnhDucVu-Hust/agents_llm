@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "going back home to rest for a while (walking back home from Hobbs Cafe) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "participating in a group activity organized by the Love Ville program (taking a short break) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfdb\ufe0f",
+      "description": "exploring Ville Village (exploring the village's historical landmarks) @ the Ville:Oak Hill College:library:library sofa",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        40,
+        18
+      ],
+      "pronunciatio": "\ud83d\udd8c\ufe0f",
+      "description": "resting in her room (sketching some ideas for her next digital art project) @ the Ville:artist's co-living space:Abigail Chen's room:closet",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        61,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcaa",
+      "description": "socializing and participating in Love Ville program activities (participating in a group game or activity) @ the Ville:The Rose and Crown Pub:pub:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (listening to other participants share their experiences and thoughts) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:51:10"
+  }
+}

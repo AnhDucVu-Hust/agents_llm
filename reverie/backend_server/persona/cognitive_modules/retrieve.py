@@ -197,10 +197,10 @@ def extract_relevance(persona, nodes, focal_pt):
 
 
 def new_retrieve(persona, focal_points, n_count=30): 
-  """
-  Given the current persona and focal points (focal points are events or 
+  """i
+  Given the current persona and focal points (focal points are events or
   thoughts for which we are retrieving), we retrieve a set of nodes for each
-  of the focal points and return a dictionary. 
+  of the focal points and return a dctionary.
 
   INPUT: 
     persona: The current persona object whose memory we are retrieving. 

@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "having breakfast at home (checking her phone for messages) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        129,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a flirtatious conversation between Maria Lopez and Klaus Mueller, where they discuss their morning routines, plan a coffee date, and propose a game of truth or dare with a reward of wearing each other's pajamas, all while exchanging playful and charming remarks. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Good morning, Klaus! You're up and about early aren't you? Still haven't figured out how people manage to wake up so damn early here. But I'm glad I ran into you... no pun intended of course."
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning, Maria! Yeah, I'm an early riser, but I think it's worth it to see the sun rise and start the day. By the way, I love your pajamas, they look so cozy! Is there any special secret to getting into them?"
+        ],
+        [
+          "Maria Lopez",
+          "They're actually my lucky pyjamas! I've had them forever, but they still feel brand new. I think it's time we Tapas like a Spaniards, Klaus. How about a coffee date later this morning? I'll even let you see me in them outside the dorm if you're lucky."
+        ],
+        [
+          "Klaus Mueller",
+          "I'd love to keep seeing you in those pajamas, and maybe even help you out of them. As for the coffee date, I'm afraid I have a packed schedule today, but I'd love to raincheck for tomorrow morning. How does that sound?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a delicious proposition. I'd love to see you tomorrow morning, bright and early. And who knows, maybe I'll let you have a longer glimpse at those lovely pyjamas too. ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "Well, I must say you have quite an interesting way of running into people. And here I thought I was the only early bird in the village. Looking forward to our date tomorrow, we can definitely pick a spot with a beautiful view and enjoy some cooked coffee beans. I'll make sure to bring my sunglasses so I'm prepared for the bright sight of you ;)"
+        ],
+        [
+          "Maria Lopez",
+          "You're quite the charmer, Klaus. I'm thrilled you appreciate my pajamas so much! I bet you'd look good in them too. Maybe you can borrow them sometime, if you're lucky. And I'm curious about this packed schedule of yours now... any room for a mysterious Spanish girl, or is it a strict no-dating policy?"
+        ],
+        [
+          "Klaus Mueller",
+          "You know you're welcome to join my schedule anytime, it'd be a lot more fun with a beautiful mystery woman by my side. But, I must warn you, it does involve a lot of boring sociology readings. Though, after our date tomorrow morning, I'd be more than happy to help you with that exhausting morning routine of yours ;)."
+        ],
+        [
+          "Maria Lopez",
+          "Well, I must say, your schedule sounds unexpectedly thrilling! And here I thought I'd signed up for a boring old dating show. But, with you around, anything is bound to be an adventure. As for borrowing my pyjamas, I'm afraid you'll have to earn that privilege. Perhaps a little game is in order? A forfeit for the loser, something about wearing each other's pajamas, perhaps?"
+        ],
+        [
+          "Klaus Mueller",
+          "A game sounds like a delightful way to spend some time. I'm always up for a challenge, especially if there's a cute reward at stake. And as for your exhausting morning routine, consider it done! I'll even bring some champagne to go with our morning views and coffee. Now, if you lose this mystery game of yours, what will your forfeit be?"
+        ],
+        [
+          "Maria Lopez",
+          "You're going to have to work very hard to beat me, Klaus. But if I were to lose this imaginary game of ours, let's say... I'd be more than happy to let you see me in a different, and equally cute, outfit every day for a week! And of course, the pajamas are up for grabs if you win."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you think my schedule is thrilling, Maria! It certainly became a lot more interesting now that you're involved. As for this mysterious game of yours, I'm curious to know more, especially with those high stakes you've set. I'm ready to take you on anytime, anywhere. And if I win, I expect you to hold up your end of the deal; those pajamas won't wear themselves! But, for now, I'll let you keep them as a motivator to win this little contest. When would you like to start?"
+        ],
+        [
+          "Maria Lopez",
+          "You're a brave one, Klaus, taking on a challenge without even knowing the rules. But that's the fun of it, wouldn't you say? Keeps life interesting. And as they say, all's fair in love and war... or in this case, games! So, let's pick a time and place for our little competition, and I'll unveil the mysterious rules to this mystery game. But first, are you available later today, say around 5ish, for a quick preview of the stakes? I've got a cute outfit picked out and everything ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "I can't think of a better way to spend my evening than watching you showcase your cute outfits. And who knows, maybe I'll even let you catch me wearing your pajamas around the dorm if you win. As for the game, I'm conflicted - part of me wants to know the rules so I can strategize, but the other part is happy to leap without looking. I say we keep the mystery alive and start the game right after our little preview this evening. Are you ready to get started, or do you need more time to devise an unbeatably cute series of outfits?"
+        ],
+        [
+          "Maria Lopez",
+          "You're just dying to know the rules, aren't you Klaus? Fine, I'll give you a glimpse, but only because you're so intriguing. How about a game of truth or dare, then? With each round tailored to test your Spanish skills... and maybe your courage too ;). As for tonight, I'm all dressed up and ready to go whenever you are! Just give me a shout when you're available and we'll get this preview party started."
+        ],
+        [
+          "Klaus Mueller",
+          "You've got yourself a deal, Maria! I'm currently Braining A Morning Outfit diplomatique mission to look half as good as you, so I'll see you around 5ish for our preview. And who knows, if you decide to share the rules beforehand, I might be able to pick a winning outfit myself ;). Until then, keep those pajamas warm!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        130,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a flirtatious conversation between Maria Lopez and Klaus Mueller, where they discuss their morning routines, plan a coffee date, and propose a game of truth or dare with a reward of wearing each other's pajamas, all while exchanging playful and charming remarks. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Good morning, Klaus! You're up and about early aren't you? Still haven't figured out how people manage to wake up so damn early here. But I'm glad I ran into you... no pun intended of course."
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning, Maria! Yeah, I'm an early riser, but I think it's worth it to see the sun rise and start the day. By the way, I love your pajamas, they look so cozy! Is there any special secret to getting into them?"
+        ],
+        [
+          "Maria Lopez",
+          "They're actually my lucky pyjamas! I've had them forever, but they still feel brand new. I think it's time we Tapas like a Spaniards, Klaus. How about a coffee date later this morning? I'll even let you see me in them outside the dorm if you're lucky."
+        ],
+        [
+          "Klaus Mueller",
+          "I'd love to keep seeing you in those pajamas, and maybe even help you out of them. As for the coffee date, I'm afraid I have a packed schedule today, but I'd love to raincheck for tomorrow morning. How does that sound?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a delicious proposition. I'd love to see you tomorrow morning, bright and early. And who knows, maybe I'll let you have a longer glimpse at those lovely pyjamas too. ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "Well, I must say you have quite an interesting way of running into people. And here I thought I was the only early bird in the village. Looking forward to our date tomorrow, we can definitely pick a spot with a beautiful view and enjoy some cooked coffee beans. I'll make sure to bring my sunglasses so I'm prepared for the bright sight of you ;)"
+        ],
+        [
+          "Maria Lopez",
+          "You're quite the charmer, Klaus. I'm thrilled you appreciate my pajamas so much! I bet you'd look good in them too. Maybe you can borrow them sometime, if you're lucky. And I'm curious about this packed schedule of yours now... any room for a mysterious Spanish girl, or is it a strict no-dating policy?"
+        ],
+        [
+          "Klaus Mueller",
+          "You know you're welcome to join my schedule anytime, it'd be a lot more fun with a beautiful mystery woman by my side. But, I must warn you, it does involve a lot of boring sociology readings. Though, after our date tomorrow morning, I'd be more than happy to help you with that exhausting morning routine of yours ;)."
+        ],
+        [
+          "Maria Lopez",
+          "Well, I must say, your schedule sounds unexpectedly thrilling! And here I thought I'd signed up for a boring old dating show. But, with you around, anything is bound to be an adventure. As for borrowing my pyjamas, I'm afraid you'll have to earn that privilege. Perhaps a little game is in order? A forfeit for the loser, something about wearing each other's pajamas, perhaps?"
+        ],
+        [
+          "Klaus Mueller",
+          "A game sounds like a delightful way to spend some time. I'm always up for a challenge, especially if there's a cute reward at stake. And as for your exhausting morning routine, consider it done! I'll even bring some champagne to go with our morning views and coffee. Now, if you lose this mystery game of yours, what will your forfeit be?"
+        ],
+        [
+          "Maria Lopez",
+          "You're going to have to work very hard to beat me, Klaus. But if I were to lose this imaginary game of ours, let's say... I'd be more than happy to let you see me in a different, and equally cute, outfit every day for a week! And of course, the pajamas are up for grabs if you win."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you think my schedule is thrilling, Maria! It certainly became a lot more interesting now that you're involved. As for this mysterious game of yours, I'm curious to know more, especially with those high stakes you've set. I'm ready to take you on anytime, anywhere. And if I win, I expect you to hold up your end of the deal; those pajamas won't wear themselves! But, for now, I'll let you keep them as a motivator to win this little contest. When would you like to start?"
+        ],
+        [
+          "Maria Lopez",
+          "You're a brave one, Klaus, taking on a challenge without even knowing the rules. But that's the fun of it, wouldn't you say? Keeps life interesting. And as they say, all's fair in love and war... or in this case, games! So, let's pick a time and place for our little competition, and I'll unveil the mysterious rules to this mystery game. But first, are you available later today, say around 5ish, for a quick preview of the stakes? I've got a cute outfit picked out and everything ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "I can't think of a better way to spend my evening than watching you showcase your cute outfits. And who knows, maybe I'll even let you catch me wearing your pajamas around the dorm if you win. As for the game, I'm conflicted - part of me wants to know the rules so I can strategize, but the other part is happy to leap without looking. I say we keep the mystery alive and start the game right after our little preview this evening. Are you ready to get started, or do you need more time to devise an unbeatably cute series of outfits?"
+        ],
+        [
+          "Maria Lopez",
+          "You're just dying to know the rules, aren't you Klaus? Fine, I'll give you a glimpse, but only because you're so intriguing. How about a game of truth or dare, then? With each round tailored to test your Spanish skills... and maybe your courage too ;). As for tonight, I'm all dressed up and ready to go whenever you are! Just give me a shout when you're available and we'll get this preview party started."
+        ],
+        [
+          "Klaus Mueller",
+          "You've got yourself a deal, Maria! I'm currently Braining A Morning Outfit diplomatique mission to look half as good as you, so I'll see you around 5ish for our preview. And who knows, if you decide to share the rules beforehand, I might be able to pick a winning outfit myself ;). Until then, keep those pajamas warm!"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        40,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:closet",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        93,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83e\uddf9",
+      "description": "having breakfast (cleaning up after breakfast) @ the Ville:Lin family's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reading and preparing for the day ahead (preparing questions to ask the Love Ville program participants) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:48:40"
+  }
+}

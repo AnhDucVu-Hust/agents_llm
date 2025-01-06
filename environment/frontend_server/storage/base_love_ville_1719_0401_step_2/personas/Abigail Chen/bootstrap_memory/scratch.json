@@ -1,0 +1,329 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:34:30",
+  "curr_tile": [
+    78,
+    25
+  ],
+  "daily_plan_req": "Abigail Chen is now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology. She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.",
+  "currently": "Abigail Chen is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 92,
+  "importance_ele_n": 29,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other members",
+    "get to know other members from 10:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "explore the Ville Village from 1:30 pm to 5:00 pm",
+    "go to the hobb cafe at 6:00 pm to cook and eat dinner with other members",
+    "socialize with other members from 7:30 pm to 11:30 pm",
+    "",
+    "wake up and complete the morning routine at 8:00 a",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other member",
+    "get to know other members from 10:00 am to 12:00 p",
+    "have a lunch at 12:00 p",
+    "explore the Ville Village from 1:30 pm to 5:00 p",
+    "go to the hobb cafe at 6:00 pm to cook and eat dinner with other member"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and going to the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (drying off and applying skincare products)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (styling her hair)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (walking to the hobb cafe)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (on the way to greeting other members at the hobb cafe)",
+      0
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (conversing about a flirtatious exchange between Abigail Chen and Adam Smith, two participants in the Love Ville program, where they engage in charming dialogue, agree to a flirtation challenge, and plan to spend time together exploring the village and getting to know each other.)",
+      25
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (on the way to greeting other members at the hobb cafe)",
+      0
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (conversing about Abigail Chen and Klaus Mueller conversing about their interests, getting to know each other, and planning a thrilling blindfold dinner date with a game of 'Truth or Dare' as part of the Love Ville program.)",
+      25
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (greeting other members at the hobb cafe)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (choosing a breakfast recipe with other members)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (preparing ingredients with other members)",
+      15
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (cooking breakfast with other members)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (plating and serving breakfast with other members)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (eating breakfast with other members)",
+      5
+    ],
+    [
+      "getting to know other members at the hobb cafe (introducing herself to a group of members)",
+      10
+    ],
+    [
+      "continuing to get to know other members at the hobb cafe",
+      60
+    ],
+    [
+      "having lunch with other members at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other members",
+      60
+    ],
+    [
+      "socializing with other members at the hobb cafe",
+      300
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members",
+      60
+    ],
+    [
+      "getting to know other members at the hobb cafe",
+      60
+    ],
+    [
+      "continuing to get to know other members at the hobb cafe",
+      60
+    ],
+    [
+      "having lunch with other members at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other members",
+      60
+    ],
+    [
+      "socializing with other members at the hobb cafe",
+      300
+    ]
+  ],
+  "act_address": "<persona> Klaus Mueller",
+  "act_start_time": "February 13, 2023, 09:27:10",
+  "act_duration": 25,
+  "act_description": "conversing about Abigail Chen and Klaus Mueller conversing about their interests, getting to know each other, and planning a thrilling blindfold dinner date with a game of 'Truth or Dare' as part of the Love Ville program.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Abigail Chen",
+    "chat with",
+    "Klaus Mueller"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Klaus Mueller",
+  "chat": [
+    [
+      "Abigail Chen",
+      "Hey there, Klaus! Mind if I join you? I wanted to say hello and get to know you better since we're both here enjoying this lovely breakfast. So, tell me, what brings you to the Love Ville program?"
+    ],
+    [
+      "Klaus Mueller",
+      "Hey, Abigail! I'd love some company. Please, have a seat! As for why I'm here, well, I gotta say, the name 'Love Ville' caught my attention. I'm a huge believer in the power of love, in all its wonderful forms. It's only day one, but I'm hoping to make some new connections and maybe, just maybe, find someone special. And you? Any particular reason you signed up for this week-long adventure?"
+    ],
+    [
+      "Abigail Chen",
+      "Me too! Love is a wonderful thing and makes life so much more exciting, doesn't it? I'm a firm believer in taking chances and exploring new possibilities. So, here I am. By the way, I'm a huge fan of the romantic comedies of the 90s. They give me a warm fuzzy feeling inside. How about you? Any favorite movies or TV shows you're into?"
+    ],
+    [
+      "Klaus Mueller",
+      "You know what? I have a soft spot for old school romantic comedies too. They're like comfort food for the soul. But I gotta admit, I'm not much of a TV person. I'd much rather spend time getting to know someone in real life, like over a b\u1ed1ild dinner or a fun game night. Maybe something with a hint of mystery, like a real-life whodunit date. Does that sound like your cup of tea, Abigail?"
+    ],
+    [
+      "Abigail Chen",
+      "Oh, a whodunit date sounds like a thrilling and fun idea! I'm up for a challenge and some good old fashioned sleuthing. Plus, it's a great way to get to know each other better. We should totally organize one, maybe later tonight or tomorrow evening? And as for movies, I love the classics too, especially the ones withbildungsroman and coming-of-age themes. Those feel-good movies always put a smile on my face. But I agree, there's nothing quite like the excitement of real-life adventures. So, Klaus, are you ready to embark on this week's adventure together?"
+    ],
+    [
+      "Klaus Mueller",
+      "You know what, Abigail? I think we might just hit it off. I'm thrilled at the idea of spending the week with you. And who knows, maybe we'll end up solving a mock crime together or something just as fun. By the way, I've been thinking about trying something daring for dinner tonight. Something that'll really get the adrenaline rushing. Any interest in joining me for a little adventure? We could continue our investigation into each other's personalities."
+    ],
+    [
+      "Abigail Chen",
+      "Oh, Klaus, you're such a handcuff! I mean, who doesn't love a bit of adventure and adrenaline? Count me in for tonight's exciting dinner date then! We can further discuss ourbeautiful crime-solving plans and iterate on them during breakfast tomorrow. But for now, I must dash as I have sometroves details to iron out. See you later, Klaus permite\uff1a\u3082\u3093\u3082\u3093\u0430\u043d\u0442\u043e\u043c Q\u30fb\uff10\u30fb\uff10"
+    ],
+    [
+      "Klaus Mueller",
+      "Well, Abigail, looks like we're in for a thrilling ride this week. And I'm terribly excited to explore this mysterious village and its secrets with you by my side. Oh, and before you dash off, let me ask you something. We've been throwing around the idea of a dinner date tonight, but I was thinking, maybe we could make it a bit more interesting. Say, a blindfold dinner date? Just the two of us, blindfolded, and let's see what surprises the night brings. What do you think? As they say, love is a daring game!"
+    ],
+    [
+      "Abigail Chen",
+      "You're full of surprises, Klaus! I'd love to venture into this mysterious place with you and let our senses guide us for once. A blindfold dinner date sounds like the perfect adventure to top off a great start to the week. And who knows, it might help us see beyond what meets the eye. Consider my senses heightened for this date! But before I go, no kissing goodbyes just yet; let's agree to meet later tonight for our sensory date."
+    ],
+    [
+      "Klaus Mueller",
+      "I have a feeling this week is going to be absolutelyIls amazing with you around, Abigail. So glad we're doing this together! See you later tonight for our secret sensory mission. Until then, keep those senses sharp and that adrenaline rushing!"
+    ],
+    [
+      "Abigail Chen",
+      "Until later, my mystery man. I have a feeling this date will be a wildlife adventure! TTYS ;)"
+    ],
+    [
+      "Klaus Mueller",
+      "Adrenaline rushing and senses heightened, eh? You sure know how to spice things up, Abigail. I have a feeling this week is gonna be packed with fun and surprises because of you. Hmm, surprise, surprise...that reminds me of something. So, I've been thinking about a little game we could play later on during our sensory dinner. It's a game of 'Truth or Dare', what do you say? And don't worry, it's all in good fun. Noenable kissing booth dares Per\u00fa ;)"
+    ],
+    [
+      "Abigail Chen",
+      "You're the one spicing things up, Klaus! I'm intrigued by this mysterious game you keep hinting at. As long as it involves getting to know each other better, I'm in! And who knows, maybe there'll be a little more than just 'truth or dare' between us. ;)"
+    ],
+    [
+      "Klaus Mueller",
+      "Speaking of surprises, I have a special one lined up for our date tonight. But you'll have to wait and see... It's a matter of Curtain since we're both sting thrilled for tonight. You Might find yourself enjoying a little Preview of what's to come ;)"
+    ],
+    [
+      "Abigail Chen",
+      "You know what, Klaus, I have a feeling that this 'Truth or Dare' game of yours might just lead us to some unexpected fun. And I, for one, am always up for a good surprise. \ucc28\ub840urna naughty gleam in your eye, Mr. Mueller! See you tonight for our delightful adventure; it's bound to be a thriller!"
+    ],
+    [
+      "Klaus Mueller",
+      "Well, Miss Chen, you certainly know how to keep a man on his toes! I have a feeling this game we've planned will be even more entertaining with you involved. And who knows, maybe there'll be an actual surprise waiting for you behind that blindfold. But for now, I'll leave you to your secret troves and let you ferment some excitement for later. Catch you at our secret location tonight... and remember, no peeking!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Adam Smith": 754,
+    "Klaus Mueller": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:53:00",
+  "act_path_set": true,
+  "planned_path": []
+}

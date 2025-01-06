@@ -195,6 +195,7 @@ def reflect(persona):
       if persona.scratch.chat: 
         for row in persona.scratch.chat:  
           all_utt += f"{row[0]}: {row[1]}\n"
+      target_persona = persona.scratch.act_event[2]
 
       # planning_thought = generate_planning_thought_on_convo(persona, all_utt)
       # print ("init planning: aosdhfpaoisdh90m     ::", f"For {persona.scratch.name}'s planning: {planning_thought}")
@@ -228,7 +229,6 @@ def reflect(persona):
                                 thought_embedding_pair, evidence)
 
 
-
       memo_thought = generate_memo_on_convo(persona, all_utt)
       memo_thought = f"{persona.scratch.name} {memo_thought}"
 
@@ -242,7 +242,7 @@ def reflect(persona):
       persona.a_mem.add_thought(created, expiration, s, p, o, 
                                 memo_thought, keywords, thought_poignancy, 
                                 thought_embedding_pair, evidence)
-
+      persona.scratch.update_relationship(created, target_persona , memo_thought)
 
 
 

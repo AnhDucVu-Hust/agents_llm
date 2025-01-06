@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udea3\u200d\u2640",
+      "description": "having lunch with the other Love Ville program participants at Hobbs Cafe (conversing about two women, Isabella Rodriguez and Abigail Chen, meeting and spontaneously planning a thrilling adventure together, filled with excitement, trouble, and possibly romance, as they decide to ride off into the sunset and create unforgettable memories.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        53,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch with the other Love Ville program participants (conversing about Adam Smith and Maria Lopez conversing about their exciting experiences and plans on a dating program, including a potential date at Sn Petra's, exploring the town, and getting to know each other better, with a pact to say 'yes' to any adventurous suggestions that come their way during the week.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        111,
+        32
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "exploring Ville Village (walking around the village square, observing the architecture) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83d\udeb4",
+      "description": "having lunch with the other participants at the hobb cafe (conversing about two women, Isabella Rodriguez and Abigail Chen, meeting and spontaneously planning a thrilling adventure together, filled with excitement, trouble, and possibly romance, as they decide to ride off into the sunset and create unforgettable memories.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        56,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc68",
+      "description": "having lunch with the other Love Ville participants (sharing a bit about his own background and interests) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        53,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (conversing about Adam Smith and Maria Lopez conversing about their exciting experiences and plans on a dating program, including a potential date at Sn Petra's, exploring the town, and getting to know each other better, with a pact to say 'yes' to any adventurous suggestions that come their way during the week.) @ the Ville:The Rose and Crown Pub:pub:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:18:00"
+  }
+}

@@ -7,5 +7,5 @@ Variables:
 Conversation: 
 !<INPUT 0>!
 
-Summarize the conversation above in one sentence:
+Summarize the conversation above in one sentence. Focus on summarizing the content, capturing the emotions they express (e.g., enthusiasm, hesitation, agreement, conflict), and highlighting any schedules, plans, or agreements they make:
 This is a conversation about

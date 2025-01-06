@@ -9,6 +9,7 @@ Variables:
 <commentblockmarker>###</commentblockmarker>
 [Conversation]
 !<INPUT 0>!
+Generate the unfinish part of the prompt below:
 
 Write down if there is anything from the conversation that !<INPUT 1>! might have found interesting from !<INPUT 2>!'s perspective, in a full sentence. 
 

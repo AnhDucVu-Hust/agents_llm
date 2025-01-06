@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc4b\ud83d\udcba",
+      "description": "having lunch with the other Love Ville program participants at Hobbs Cafe (greeting the other participants and finding a seat at the table) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "having lunch with the other Love Ville program participants (choosing a seat and sitting down) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        101,
+        37
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "having lunch with other Love Ville participants at Hobb Cafe (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\u2708\ufe0f",
+      "description": "getting to know and talking to other participants at the hobb cafe (talking about travel experiences) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        56,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "socializing and getting to know the other Love Ville participants (sharing his own thoughts on the local mayor election) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udcac",
+      "description": "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (engaging in a brief but meaningful conversation with the fourth participant, discussing favorite books and philosophies) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:06:20"
+  }
+}

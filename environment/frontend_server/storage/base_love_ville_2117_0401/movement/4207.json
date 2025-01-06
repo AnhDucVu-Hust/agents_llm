@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (joining a group discussion about hobbies and interests) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        54,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "continuing to socialize and get to know the other Love Ville program participants (introducing herself to another new participant) @ the Ville:The Rose and Crown Pub:pub:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        103,
+        30
+      ],
+      "pronunciatio": "\u270a",
+      "description": "socializing and getting to know other Love Ville participants at Hobb Cafe (sharing his passion for social justice) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "getting to know and talking to other participants at the hobb cafe (sharing her own hobbies and interests) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        59,
+        20
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "socializing and getting to know the other Love Ville participants (asking about their thoughts on the local mayor election) @ the Ville:The Rose and Crown Pub:pub:behind the bar counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\u2744\ufe0f\ud83d\udca1",
+      "description": "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (participating in the second icebreaker question, sharing his perspective on how creativity shapes the world) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:41:10"
+  }
+}

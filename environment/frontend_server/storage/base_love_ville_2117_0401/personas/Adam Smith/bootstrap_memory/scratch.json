@@ -1,0 +1,984 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 15,
+  "curr_time": "February 13, 2023, 17:30:10",
+  "curr_tile": [
+    26,
+    49
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is always looking for ways to challenge people\u2019s preconceptions.",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Adam is also curious about who will be running for the local mayor election next month. Adam is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). This dating show is designed exclusively for heterosexual individuals seeking romantic connections. It brings together single men and women in a dynamic and engaging format, where they can explore potential relationships, build chemistry, and find love. The show emphasizes traditional man-woman pairings, creating a space for participants to connect and form meaningful bonds within a structured and entertaining environment. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 244,
+  "importance_ele_n": 6,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "",
+    "have breakfast at the Hobb Cafe at 9:00 am with the other Love Ville program participants",
+    "spend the day getting to know the other participants and engaging in program activities from 10:00 am to 5:00 pm",
+    "have dinner at the Hobb Cafe at 6:00 pm with the group",
+    "continue socializing and participating in program events from 7:00 pm to 7:30 pm, an"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (shaving)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (preparing a cup of coffee)",
+      5
+    ],
+    [
+      "meditating and journaling about his thoughts on creativity and the upcoming mayoral election (sitting in a comfortable position and taking deep breaths to center himself)",
+      5
+    ],
+    [
+      "meditating and journaling about his thoughts on creativity and the upcoming mayoral election (reflecting on the role of creativity in shaping society)",
+      10
+    ],
+    [
+      "meditating and journaling about his thoughts on creativity and the upcoming mayoral election (journaling about his thoughts on creativity and its impact on the world)",
+      15
+    ],
+    [
+      "meditating and journaling about his thoughts on creativity and the upcoming mayoral election (reflecting on the upcoming mayoral election and its potential impact on the community)",
+      10
+    ],
+    [
+      "meditating and journaling about his thoughts on creativity and the upcoming mayoral election (journaling about his thoughts on the mayoral candidates and their platforms)",
+      15
+    ],
+    [
+      "meditating and journaling about his thoughts on creativity and the upcoming mayoral election (reviewing his journal entries and making any final notes)",
+      5
+    ],
+    [
+      "reading and reflecting on philosophical texts related to creativity and human connection (selecting a philosophical text to read)",
+      5
+    ],
+    [
+      "reading and reflecting on philosophical texts related to creativity and human connection (reading the first section of the text)",
+      15
+    ],
+    [
+      "reading and reflecting on philosophical texts related to creativity and human connection (reflecting on the ideas presented in the text)",
+      10
+    ],
+    [
+      "reading and reflecting on philosophical texts related to creativity and human connection (writing down his thoughts and insights)",
+      10
+    ],
+    [
+      "reading and reflecting on philosophical texts related to creativity and human connection (reading the next section of the text)",
+      10
+    ],
+    [
+      "reading and reflecting on philosophical texts related to creativity and human connection (reflecting on how the text relates to creativity and human connection)",
+      5
+    ],
+    [
+      "reading and reflecting on philosophical texts related to creativity and human connection (summarizing his key takeaways from the reading)",
+      5
+    ],
+    [
+      "preparing for the day ahead, reviewing the Love Ville program schedule and mentally preparing to meet new people (reviewing the Love Ville program schedule)",
+      10
+    ],
+    [
+      "preparing for the day ahead, reviewing the Love Ville program schedule and mentally preparing to meet new people (reflecting on his goals for the day)",
+      10
+    ],
+    [
+      "preparing for the day ahead, reviewing the Love Ville program schedule and mentally preparing to meet new people (meditating to calm his mind)",
+      10
+    ],
+    [
+      "preparing for the day ahead, reviewing the Love Ville program schedule and mentally preparing to meet new people (choosing an outfit for the day)",
+      10
+    ],
+    [
+      "preparing for the day ahead, reviewing the Love Ville program schedule and mentally preparing to meet new people (reviewing his notes on the participants he met yesterday)",
+      10
+    ],
+    [
+      "preparing for the day ahead, reviewing the Love Ville program schedule and mentally preparing to meet new people (mentally preparing to meet new people)",
+      10
+    ],
+    [
+      "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants (taking a shower)",
+      15
+    ],
+    [
+      "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants (getting dressed)",
+      10
+    ],
+    [
+      "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants (styling his hair)",
+      5
+    ],
+    [
+      "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants (packing his bag with essentials (phone, wallet, notebook, pen))",
+      5
+    ],
+    [
+      "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants (reviewing the Love Ville program schedule and mentally preparing for the day)",
+      10
+    ],
+    [
+      "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants (walking to the Hobb Cafe)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (walking to the Hobb Cafe)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (greeting the Love Ville program participants)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (helping to prepare breakfast)",
+      10
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (on the way to engaging in conversation with the participants while cooking)",
+      0
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (conversing about a flirtatious and adventurous conversation between Isabella Rodriguez and Adam Smith, where they meet at a program, hit it off, and decide to explore the town together, getting to know each other better and potentially starting a romantic relationship.)",
+      21
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (sitting down to eat breakfast with the participants)",
+      9
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (on the way to continuing to engage in conversation and getting to know everyone)",
+      0
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (conversing about a flirtatious and adventurous conversation between Adam Smith and Abigail Chen, where they discuss their plans for the day, share stories, and get to know each other, with a potential romantic interest, over breakfast and looking forward to exploring the town, going snorkeling, and having more thrilling experiences together.)",
+      22
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (on the way to continuing to engage in conversation and getting to know everyone)",
+      0
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (conversing about two men, Adam Smith and Klaus Mueller, chatting and joking around as they try to impress women, including Isabella Rodriguez and another lady, at a social event, while also discussing food, particularly seafood, and planning to meet up at a fusion cafe for lunch.)",
+      28
+    ],
+    [
+      "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (listening to the facilitator explain the icebreaker activity)",
+      5
+    ],
+    [
+      "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (on the way to introducing himself to the group, sharing his name and a fun fact about himself)",
+      0
+    ],
+    [
+      "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (conversing about two friends, John Lin and Adam Smith, conversing about their shared love of food, planning a lunch and dinner getaway, and playfully flirting with each other as they embark on a mysterious adventure together.)",
+      20
+    ],
+    [
+      "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (participating in the first icebreaker question, sharing his thoughts on creativity)",
+      10
+    ],
+    [
+      "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (listening to other participants share their thoughts on creativity)",
+      10
+    ],
+    [
+      "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (participating in the second icebreaker question, sharing his perspective on how creativity shapes the world)",
+      10
+    ],
+    [
+      "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (preparing mentally for the speed dating activity, reflecting on his goals and intentions)",
+      5
+    ],
+    [
+      "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (greeting the first participant and introducing himself)",
+      5
+    ],
+    [
+      "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (engaging in a brief but meaningful conversation with the first participant, discussing shared interests and values)",
+      5
+    ],
+    [
+      "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (engaging in a brief but meaningful conversation with the second participant, discussing hobbies and passions)",
+      5
+    ],
+    [
+      "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (engaging in a brief but meaningful conversation with the third participant, discussing life goals and aspirations)",
+      5
+    ],
+    [
+      "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (engaging in a brief but meaningful conversation with the fourth participant, discussing favorite books and philosophies)",
+      5
+    ],
+    [
+      "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (engaging in a brief but meaningful conversation with the fifth participant, discussing travel experiences and cultural interests)",
+      10
+    ],
+    [
+      "reflecting on the morning's activities and conversations, jotting down key insights and potential connections to follow up on later (quietly reflecting and journaling about the experience)",
+      12
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (on the way to walking to the lunch area with the group)",
+      0
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (conversing about Abigail Chen and Adam Smith conversing about their writing and artistic processes, sharing a cup of coffee, and exploring the town of Ville Ville together, with discussions about food, adventures, and getting to know each other.)",
+      15
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (asking questions to get to know others better)",
+      15
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (on the way to on the way to sharing his thoughts on creativity and relationships)",
+      0
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (conversing about Klaus Mueller chatting with a stranger about their shared mission to win over hearts as part of the Love Ville crew)",
+      1
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (on the way to conversing about two people, Isabella Rodriguez and Adam Smith, conversing about their lunch and potentially meeting up for dessert later tonight)",
+      0
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (conversing about Adam Smith and Maria Lopez conversing about their exciting experiences and plans on a dating program, including a potential date at Sn Petra's, exploring the town, and getting to know each other better, with a pact to say 'yes' to any adventurous suggestions that come their way during the week.)",
+      21
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections (wrapping up the conversation and exchanging contact information)",
+      5
+    ],
+    [
+      "participating in a group discussion about the role of creativity in relationships, sharing his insights and listening to others' perspectives (on the way to shortened to end by 14:00 PM)",
+      0
+    ],
+    [
+      "participating in a group discussion about the role of creativity in relationships, sharing his insights and listening to others' perspectives (conversing about two individuals, John Lin and Adam Smith, conversing about meeting up for a midnight adventure at Sn Petra's place, exploring its twists and turns, and getting to know each other better after being brought together by a program, with hints of excitement, mystery, and potential romance)",
+      21
+    ],
+    [
+      "participating in a creative workshop with the Love Ville participants, collaborating on a group art project to foster connection and self-expression (introducing himself to the group and sharing his thoughts on creativity)",
+      10
+    ],
+    [
+      "participating in a creative workshop with the Love Ville participants, collaborating on a group art project to foster connection and self-expression (brainstorming ideas for the group art project with the participants)",
+      15
+    ],
+    [
+      "participating in a creative workshop with the Love Ville participants, collaborating on a group art project to foster connection and self-expression (collaborating with the group to create the art project)",
+      20
+    ],
+    [
+      "participating in a creative workshop with the Love Ville participants, collaborating on a group art project to foster connection and self-expression (taking a break to reflect on the creative process)",
+      5
+    ],
+    [
+      "participating in a creative workshop with the Love Ville participants, collaborating on a group art project to foster connection and self-expression (presenting the group art project to the other participants)",
+      10
+    ],
+    [
+      "participating in a group discussion about the role of creativity in relationships, sharing his insights and listening to others' perspectives (shortened to end by 14:00 PM)",
+      15
+    ],
+    [
+      "free time to relax and reflect on the day's experiences, or engage in informal conversations with other participants",
+      19
+    ],
+    [
+      "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection (introducing himself and sharing a bit about his background)",
+      5
+    ],
+    [
+      "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection (asking the participant about their interests and hobbies)",
+      10
+    ],
+    [
+      "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection (sharing his own interests and hobbies, looking for common ground)",
+      10
+    ],
+    [
+      "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection (discussing his book and the importance of creativity)",
+      10
+    ],
+    [
+      "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection (on the way to asking the participant about their thoughts on creativity and how it shapes the world)",
+      0
+    ],
+    [
+      "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection (conversing about Maria Lopez and Adam Smith conversing about getting to know each other, exploring the town, and planning adventures together after completing a creative project, while also exchanging playful banter and hints about their personal talents and interests.)",
+      18
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (listening to the facilitator introduce the topic of vulnerability)",
+      10
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (reflecting on his own experiences with vulnerability)",
+      10
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (on the way to sharing his thoughts on the importance of vulnerability in building meaningful connections)",
+      0
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (conversing about Klaus Mueller conversing with a stranger about their shared interest in crafts and the stranger's varied talents and hobbies)",
+      1
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (listening to other participants share their experiences and thoughts)",
+      20
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (engaging in a discussion with other participants about the challenges of being vulnerable)",
+      20
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (reflecting on the insights gained from the discussion)",
+      10
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (sharing a personal story about a time when being vulnerable led to a meaningful connection)",
+      15
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (listening to the facilitator summarize the key points of the discussion)",
+      8
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (thanking the facilitator and other participants for their contributions)",
+      5
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (reflecting on how he can apply what he learned to his own relationships)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the Love Ville program participants, engaging in conversation and getting to know everyone better (walking to the Hobb Cafe)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the Love Ville program participants, engaging in conversation and getting to know everyone better (greeting the Love Ville program participants)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the Love Ville program participants, engaging in conversation and getting to know everyone better (helping to prepare the ingredients for dinner)",
+      10
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the Love Ville program participants, engaging in conversation and getting to know everyone better (cooking dinner with the other participants)",
+      15
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the Love Ville program participants, engaging in conversation and getting to know everyone better (setting the table for dinner)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the Love Ville program participants, engaging in conversation and getting to know everyone better (sitting down to eat dinner with the participants)",
+      10
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the Love Ville program participants, engaging in conversation and getting to know everyone better (engaging in conversation and getting to know the participants better)",
+      10
+    ],
+    [
+      "participating in a group discussion about the role of creativity in relationships, sharing his insights and listening to others' perspectives",
+      60
+    ],
+    [
+      "preparing for bed, reflecting on the day's interactions and experiences in the Love Ville program",
+      120
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -12
+    ],
+    [
+      "sleeping",
+      -15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      27
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -19
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      9
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      14
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "meditating and journaling about his thoughts on creativity and the upcoming mayoral election",
+      60
+    ],
+    [
+      "reading and reflecting on philosophical texts related to creativity and human connection",
+      60
+    ],
+    [
+      "preparing for the day ahead, reviewing the Love Ville program schedule and mentally preparing to meet new people",
+      60
+    ],
+    [
+      "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants",
+      60
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone",
+      60
+    ],
+    [
+      "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives",
+      60
+    ],
+    [
+      "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections",
+      60
+    ],
+    [
+      "having lunch with a small group of Love Ville participants, engaging in deeper conversations to explore potential romantic connections",
+      60
+    ],
+    [
+      "participating in a group discussion about the role of creativity in relationships, sharing his insights and listening to others' perspectives",
+      60
+    ],
+    [
+      "participating in a creative workshop with the Love Ville participants, collaborating on a group art project to foster connection and self-expression",
+      60
+    ],
+    [
+      "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection",
+      60
+    ],
+    [
+      "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences",
+      120
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the Love Ville program participants, engaging in conversation and getting to know everyone better",
+      60
+    ],
+    [
+      "participating in a group discussion about the role of creativity in relationships, sharing his insights and listening to others' perspectives",
+      60
+    ],
+    [
+      "preparing for bed, reflecting on the day's interactions and experiences in the Love Ville program",
+      120
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:common room:common room sofa",
+  "act_start_time": "February 13, 2023, 17:27:00",
+  "act_duration": 15,
+  "act_description": "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (sharing a personal story about a time when being vulnerable led to a meaningful connection)",
+  "act_pronunciatio": "\u2764\ufe0f\ud83d\udcda",
+  "act_event": [
+    "Adam Smith",
+    "share",
+    "story"
+  ],
+  "act_obj_description": "occupied by Adam Smith and others participating in a group discussion",
+  "act_obj_pronunciatio": "\ud83d\udc65\ud83d\udcac",
+  "act_obj_event": [
+    "common room sofa",
+    "be occupied by",
+    "Adam Smith and others"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": -882,
+    "Abigail Chen": -942,
+    "Klaus Mueller": 420,
+    "John Lin": -588,
+    "Maria Lopez": 300
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      27,
+      48
+    ],
+    [
+      27,
+      47
+    ],
+    [
+      27,
+      46
+    ],
+    [
+      27,
+      45
+    ],
+    [
+      27,
+      44
+    ],
+    [
+      27,
+      43
+    ],
+    [
+      27,
+      42
+    ],
+    [
+      28,
+      42
+    ],
+    [
+      29,
+      42
+    ],
+    [
+      30,
+      42
+    ],
+    [
+      30,
+      41
+    ],
+    [
+      30,
+      40
+    ],
+    [
+      30,
+      39
+    ],
+    [
+      30,
+      38
+    ],
+    [
+      30,
+      37
+    ],
+    [
+      30,
+      36
+    ],
+    [
+      31,
+      36
+    ],
+    [
+      32,
+      36
+    ],
+    [
+      33,
+      36
+    ],
+    [
+      34,
+      36
+    ],
+    [
+      35,
+      36
+    ],
+    [
+      36,
+      36
+    ],
+    [
+      37,
+      36
+    ],
+    [
+      38,
+      36
+    ],
+    [
+      39,
+      36
+    ],
+    [
+      40,
+      36
+    ],
+    [
+      41,
+      36
+    ],
+    [
+      41,
+      35
+    ],
+    [
+      41,
+      34
+    ],
+    [
+      40,
+      34
+    ],
+    [
+      39,
+      34
+    ],
+    [
+      38,
+      34
+    ],
+    [
+      38,
+      33
+    ],
+    [
+      37,
+      33
+    ],
+    [
+      36,
+      33
+    ]
+  ]
+}

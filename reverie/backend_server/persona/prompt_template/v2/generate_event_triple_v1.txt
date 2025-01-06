@@ -6,6 +6,9 @@ Variables:
 !<INPUT 2>! -- Persona's full name. 
 
 <commentblockmarker>###</commentblockmarker>
+
+Generate the unfinish part of the prompt below:
+------------------
 Task: Turn the input into (subject, predicate, object). 
 
 Input: Sam Johnson is eating breakfast. 

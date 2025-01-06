@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83d\udcac",
+      "description": "attending the Love Ville program and doing the first day activity at Hobbs Cafe (conversing about Isabella Rodriguez and Klaus Mueller conversing about their cooking skills, taking a walk around the village, trying new dishes, and sharing personal experiences, including Isabella's newfound regrets in life.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude09",
+      "description": "having breakfast at the Hobb Cafe with the other Love Ville program participants (conversing about two friends, Maria Lopez and Abigail Chen, conversing about their personal connections, relationships, and plans for the day, including a potential date with someone and a trip to the parc Piscine Rouge, while exchanging flirtatious and playful comments with each other.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83c\udf74",
+      "description": "at Hobb Cafe cooking and eating breakfast with other Love Ville participants (conversing about Isabella Rodriguez and Klaus Mueller conversing about their cooking skills, taking a walk around the village, trying new dishes, and sharing personal experiences, including Isabella's newfound regrets in life.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        81,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a flirtatious and adventurous conversation between Adam Smith and Abigail Chen, where they discuss their plans for the day, share stories, and get to know each other, with a potential romantic interest, over breakfast and looking forward to exploring the town, going snorkeling, and having more thrilling experiences together. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey there, Abigail! Be careful cooking those delicious breakfast treats, you don't want to burn your lovely self! Haha, so do you have any fun plans for after this delicious breakfast? I'm Adam by the way, Adam Smith :)"
+        ],
+        [
+          "Abigail Chen",
+          "Hey Adam! It's so nice to meet you properly. I'm loving this whole new experience and exploring all these possibilities. So tell me, what brings you here today? And yes, I'm being careful...butikeronsVt ah! almost burned my tongue with this delicious coffee! Ouch :P"
+        ],
+        [
+          "Adam Smith",
+          " mottos are 'live fast, die young, and leave behind a good-looking corpse' and 'absense makes the heart grow fonder'. So either I'm in for a wild ride or some properielle dating! But all jokes aside, I'm glad I met you here, and I hope we can explore more of this beautiful town together after the program ends. Maybe grab some snacks, hit the park, and get to know each other better?"
+        ],
+        [
+          "Abigail Chen",
+          "Hmm, 'absense makes the heart grow fonder'? I'm not so sure about that, seems a little too risky! But I like your style, Adam. And yes, I'd love to explore the town with you after the program. Maybe we can start with that snorkel park everyone's been talking about? I've always been fascinated by the idea of snorkeling right in the middle of the city. And who knows, if we're lucky, we might even spot some wild dolphins?"
+        ],
+        [
+          "Adam Smith",
+          "Snorkeling sounds like a thrilling adventure! We should totally jump into this exciting experience together. And hey, if we spot some dolphins, it'll be a memorable sightsnorkel date. I've always been fascinated by the ocean and its mysterious charm. So, will you be my snorkel buddy, Abigail? ;)"
+        ],
+        [
+          "Abigail Chen",
+          "You've got yourself a deal, Snorkel Buddy! I've always been up for an adventure, and with someone as charming as you, it's going to be a blast. And who knows, maybe we'll even bump into some cute sea creatures ;) Looking forward to our little adventure Adam!"
+        ],
+        [
+          "Adam Smith",
+          " Pleasantly surprised by your adventurous spirit, Abie! You're keeping this charming guy assortedfted Cause I gotta say, this mysterious snokel date is gonna be legend - wait for it - dary! Can't wait to dive into this experience with you. Oh, and by the way, it's also nice to finally meet someone who can keep up with my wild shenanigans ;)"
+        ],
+        [
+          "Abigail Chen",
+          "You know what, Adam? I have a feeling this week is gonna be absolutely 'fin-tastic' with you around. ;)\n\nYes, let's keep the conversation going! Snorkeling can wait, there's plenty of time to dive into adventure later."
+        ],
+        [
+          "Adam Smith",
+          "Glad we're on the same page, Abie! Snorkeling aside, I've got a feeling there's so much more fun to be had in each other's company. You seem like just the fin-tastic mate I need for some wild adventures. So, how about we make this week one for the books? We can start with some crazy stories over lunch, and who knows where the rest of the day takes us?"
+        ],
+        [
+          "Abigail Chen",
+          "You're full of pleasant surprises, Adam! I can't wait to hear your craziest tales, maybe even share a few of my own. And as for this week, I say we seize every moment and make the most of it. Let's live it up and see where our paths take us. By the way, it's just Abigail...or Abby, if you're one of the lucky few ;)"
+        ],
+        [
+          "Adam Smith",
+          "Well, Abby, looks like we're in for a thrilling ride this week. I've got a good feeling about all the shenanigans we'll get up to. And who knows, maybe we'll even have a few fin-tastic stories to tell by the end of it."
+        ],
+        [
+          "Abigail Chen",
+          "Well, Mr. Smith, you certainly know how to brightening someone's morning. I'm glad I got to know you better over breakfast. Your wild stories and charm have already made this week a whole lot more interesting. So, you're stuck with me for the next seven days...or maybe longer if you're lucky ;)"
+        ],
+        [
+          "Adam Smith",
+          "In that case, Abby, consider yourself lucky... for you've stumbled upon a gem of a human. And I must say, I'm loving the sound of my name on your lips. Anyway, enough about me, tell me more about these wild stories you mentioned?;)"
+        ],
+        [
+          "Abigail Chen",
+          "Oh Adam, you're such a smooth talker! But I have a feeling there's more to you than meets the eye. You're like a mysterious novel, full of surprises and unwritten chapters. I'd love to delve deeper into your world and discover more of your hidden gems, perhaps over a delicious lunch date? And who knows, maybe I'll even get to be your muse, inspiring your next great adventure..."
+        ],
+        [
+          "Adam Smith",
+          "You know what they say, life is full of wonderful surprises, and I think finding you might just be one of them, Abby. And I must admit, I'm eager to turn the pages and explore all the hidden gems within your world. So, if you're up for it, let's embark on a journey of delicious meals, mischief, and who knows what other fun we could get into. And of course, I'd be honored if you'd be my muse for the week...or maybe longer?;)"
+        ],
+        [
+          "Abigail Chen",
+          "You're right, Adam, life's surprises are truly the spice of life! And I can't wait to explore all the flavors this week has in store\u2014especially with you around. So, shall we set sail on this culinary adventure and let our tastes buds guide us through this magical week? By the way, I do have a soft spot for spicy food, just saying ;)"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        44
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "attending the Love Ville program and cooking/eating with other participants at the Hobb Cafe (helping to prepare ingredients for the meal) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a flirtatious and adventurous conversation between Adam Smith and Abigail Chen, where they discuss their plans for the day, share stories, and get to know each other, with a potential romantic interest, over breakfast and looking forward to exploring the town, going snorkeling, and having more thrilling experiences together. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey there, Abigail! Be careful cooking those delicious breakfast treats, you don't want to burn your lovely self! Haha, so do you have any fun plans for after this delicious breakfast? I'm Adam by the way, Adam Smith :)"
+        ],
+        [
+          "Abigail Chen",
+          "Hey Adam! It's so nice to meet you properly. I'm loving this whole new experience and exploring all these possibilities. So tell me, what brings you here today? And yes, I'm being careful...butikeronsVt ah! almost burned my tongue with this delicious coffee! Ouch :P"
+        ],
+        [
+          "Adam Smith",
+          " mottos are 'live fast, die young, and leave behind a good-looking corpse' and 'absense makes the heart grow fonder'. So either I'm in for a wild ride or some properielle dating! But all jokes aside, I'm glad I met you here, and I hope we can explore more of this beautiful town together after the program ends. Maybe grab some snacks, hit the park, and get to know each other better?"
+        ],
+        [
+          "Abigail Chen",
+          "Hmm, 'absense makes the heart grow fonder'? I'm not so sure about that, seems a little too risky! But I like your style, Adam. And yes, I'd love to explore the town with you after the program. Maybe we can start with that snorkel park everyone's been talking about? I've always been fascinated by the idea of snorkeling right in the middle of the city. And who knows, if we're lucky, we might even spot some wild dolphins?"
+        ],
+        [
+          "Adam Smith",
+          "Snorkeling sounds like a thrilling adventure! We should totally jump into this exciting experience together. And hey, if we spot some dolphins, it'll be a memorable sightsnorkel date. I've always been fascinated by the ocean and its mysterious charm. So, will you be my snorkel buddy, Abigail? ;)"
+        ],
+        [
+          "Abigail Chen",
+          "You've got yourself a deal, Snorkel Buddy! I've always been up for an adventure, and with someone as charming as you, it's going to be a blast. And who knows, maybe we'll even bump into some cute sea creatures ;) Looking forward to our little adventure Adam!"
+        ],
+        [
+          "Adam Smith",
+          " Pleasantly surprised by your adventurous spirit, Abie! You're keeping this charming guy assortedfted Cause I gotta say, this mysterious snokel date is gonna be legend - wait for it - dary! Can't wait to dive into this experience with you. Oh, and by the way, it's also nice to finally meet someone who can keep up with my wild shenanigans ;)"
+        ],
+        [
+          "Abigail Chen",
+          "You know what, Adam? I have a feeling this week is gonna be absolutely 'fin-tastic' with you around. ;)\n\nYes, let's keep the conversation going! Snorkeling can wait, there's plenty of time to dive into adventure later."
+        ],
+        [
+          "Adam Smith",
+          "Glad we're on the same page, Abie! Snorkeling aside, I've got a feeling there's so much more fun to be had in each other's company. You seem like just the fin-tastic mate I need for some wild adventures. So, how about we make this week one for the books? We can start with some crazy stories over lunch, and who knows where the rest of the day takes us?"
+        ],
+        [
+          "Abigail Chen",
+          "You're full of pleasant surprises, Adam! I can't wait to hear your craziest tales, maybe even share a few of my own. And as for this week, I say we seize every moment and make the most of it. Let's live it up and see where our paths take us. By the way, it's just Abigail...or Abby, if you're one of the lucky few ;)"
+        ],
+        [
+          "Adam Smith",
+          "Well, Abby, looks like we're in for a thrilling ride this week. I've got a good feeling about all the shenanigans we'll get up to. And who knows, maybe we'll even have a few fin-tastic stories to tell by the end of it."
+        ],
+        [
+          "Abigail Chen",
+          "Well, Mr. Smith, you certainly know how to brightening someone's morning. I'm glad I got to know you better over breakfast. Your wild stories and charm have already made this week a whole lot more interesting. So, you're stuck with me for the next seven days...or maybe longer if you're lucky ;)"
+        ],
+        [
+          "Adam Smith",
+          "In that case, Abby, consider yourself lucky... for you've stumbled upon a gem of a human. And I must say, I'm loving the sound of my name on your lips. Anyway, enough about me, tell me more about these wild stories you mentioned?;)"
+        ],
+        [
+          "Abigail Chen",
+          "Oh Adam, you're such a smooth talker! But I have a feeling there's more to you than meets the eye. You're like a mysterious novel, full of surprises and unwritten chapters. I'd love to delve deeper into your world and discover more of your hidden gems, perhaps over a delicious lunch date? And who knows, maybe I'll even get to be your muse, inspiring your next great adventure..."
+        ],
+        [
+          "Adam Smith",
+          "You know what they say, life is full of wonderful surprises, and I think finding you might just be one of them, Abby. And I must admit, I'm eager to turn the pages and explore all the hidden gems within your world. So, if you're up for it, let's embark on a journey of delicious meals, mischief, and who knows what other fun we could get into. And of course, I'd be honored if you'd be my muse for the week...or maybe longer?;)"
+        ],
+        [
+          "Abigail Chen",
+          "You're right, Adam, life's surprises are truly the spice of life! And I can't wait to explore all the flavors this week has in store\u2014especially with you around. So, shall we set sail on this culinary adventure and let our tastes buds guide us through this magical week? By the way, I do have a soft spot for spicy food, just saying ;)"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:02:10"
+  }
+}

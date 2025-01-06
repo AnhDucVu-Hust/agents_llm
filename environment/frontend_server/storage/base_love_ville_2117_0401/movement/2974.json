@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc5c\ud83d\udd11",
+      "description": "going to the Hobbs Cafe (grabbing her bag and keys) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        125,
+        53
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f",
+      "description": "getting ready for the day, picking out an outfit and doing her hair and makeup (picking out an outfit for the day) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:blackboard",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        50
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready for the day and preparing to head to Hobb Cafe for breakfast (taking a shower) @ the Ville:Dorm for Oak Hill College:man's bathroom:shower",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        21
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83e\uddd6",
+      "description": "waking up and completing her morning routine (brushing her teeth and washing her face) @ the Ville:artist's co-living space:Abigail Chen's bathroom:shower",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        97,
+        67
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready to head to the Hobb Cafe (taking a shower) @ the Ville:Lin family's house:bathroom:shower",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        24,
+        68
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready and heading to the Hobb Cafe for breakfast with the Love Ville program participants (taking a shower) @ the Ville:Adam Smith's house:bathroom:toilet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:15:40"
+  }
+}

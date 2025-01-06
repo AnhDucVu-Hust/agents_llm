@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        14
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "going back home to rest for a while (checking her phone for messages) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        36,
+        28
+      ],
+      "pronunciatio": "\ud83c\udff0\ud83d\udcbb",
+      "description": "participating in a group activity organized by the Love Ville program (participating in a group game) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        83,
+        32
+      ],
+      "pronunciatio": "\ud83d\ude4f",
+      "description": "exploring Ville Village (sitting in a quiet spot, reflecting on the day) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\ude4f",
+      "description": "resting in her room (meditating to relax her mind) @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        59,
+        20
+      ],
+      "pronunciatio": "\ud83d\ude09\ud83d\udc98",
+      "description": "socializing and participating in Love Ville program activities (flirting with someone he finds interesting) @ the Ville:The Rose and Crown Pub:pub:behind the bar counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        53
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (reflecting on the insights gained from the discussion) @ the Ville:Adam Smith's house:main room:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:24:50"
+  }
+}

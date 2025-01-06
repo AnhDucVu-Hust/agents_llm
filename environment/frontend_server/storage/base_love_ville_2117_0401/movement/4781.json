@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udea3\u200d\u2640",
+      "description": "having lunch with the other Love Ville program participants at Hobbs Cafe (conversing about two women, Isabella Rodriguez and Abigail Chen, meeting and spontaneously planning a thrilling adventure together, filled with excitement, trouble, and possibly romance, as they decide to ride off into the sunset and create unforgettable memories.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        53,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Maria Lopez conversing about their exciting experiences and plans on a dating program, including a potential date at Sn Petra's, exploring the town, and getting to know each other better, with a pact to say 'yes' to any adventurous suggestions that come their way during the week. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Maria, fancy seeing you here! I couldn't help but notice your lively lunch discussions. Seems like you're having a ball. How's your day been so far? Mine's been pretty exciting, especially being here with you lovely folks."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Adam! It's been stellar: so much fun getting to know everyone here, but having you around certainly adds a certain 'spice' to the whole experience. I mean, who knew that a dating program could be so exciting? But yeah, I'm glad our paths crossed. You somehow manage to make even the dullest moments lively; it's captivating to engage with you!"
+        ],
+        [
+          "Adam Smith",
+          "You're too kind, Maria! I must admit, I'm having a blast getting to know everyone here too. And it's only Day 1! 7 more days of this spiced-up fun - I can hardly wait! By the way, I love your sense of style. That hat you're wearing is absolutely gorgeous!"
+        ],
+        [
+          "Maria Lopez",
+          "Well, Adam, I must say you definitely know how to make a girl feel special. I'm glad I caught your eye, and it seems like we're both having a fantastic time so far. Hmm, I wonder what other kinds of 'spice' we could uncover this week.Something tells me it's gonna get even more exciting... Just you wait!"
+        ],
+        [
+          "Adam Smith",
+          "You're the spice of Life, Maria! I'm thrilled to see what other exciting adventures this week has in store for us. And who knows, maybe we'll even find some extra spice hidden around the town... Sn Estrela's inserting itself into our little adventure somehow. hints hints ;)"
+        ],
+        [
+          "Maria Lopez",
+          "You know what, Adam? I have a feeling this week is going to be absolutely 'sizzlin'! We've barely started and already the temperatures are rising. Maybe we could sort of... explore the town together and spot some hidden gems? I hear there's some amazing sn Petra's or sn something like that, where they serve the spiciest dishes in town! Or would that be too much too soon?"
+        ],
+        [
+          "Adam Smith",
+          "Too soon for spice? I think not! Sn Petra's could be our little adventure for tomorrow. townhouse'T honestly think of a better way to spend a day, getting to know each other while ticking taste buds. How about we make it a date, just you and I? And who knows, maybe we'll find some secret spots along the way..."
+        ],
+        [
+          "Maria Lopez",
+          "Well then, I guess we both like a bit of spice in our lives. And I definitely wouldn't want to miss out on a delicious adventure. You're full of surprises, Adam! Sn Petra's it is then, tomorrow. And who knows, maybe we'll both get more than we bargained for..."
+        ],
+        [
+          "Adam Smith",
+          "I'm so glad we're on the same page, Maria! I think we're in for a thrilling ride this week. And now that we have a spicy plan for tomorrow, it's got me even more excited for what's to come. But for now, let's enjoy the rest of this delicious lunch and see where this adventure takes us next."
+        ],
+        [
+          "Maria Lopez",
+          "You know what they say, Adam? Life's too short for boring dates. I'm glad we're consensus builders. Oh, and I have a feeling Sn Petra's won't know what hit them tomorrow. Just thinking about the adventure gives me the goosebumps! By the way, have I mentioned how glad I am that we're finally getting to know each other better? Because I am MACHETE gladWOOP!"
+        ],
+        [
+          "Adam Smith",
+          "You really are something special, Maria. I can't wait to see where this newly found 'spicy' friendship of ours takes us. Now, how about we finish our lunch and create some more memories together? We've got a whole afternoon ahead of us!"
+        ],
+        [
+          "Maria Lopez",
+          "You know, Adam, I've been thinking. Since we're both clearly up for some fun and excitement, why don't we make a pact? A promise to say 'yes' to any adventurous suggestions that come our way this week. No backing out allowed! That first yes sets the tone for an unforgettable week, don't you think?"
+        ],
+        [
+          "Adam Smith",
+          "A pact it is then! I must admit, the prospect of a spicy week with you has me intrigued. And saying 'yes' to adventure... that sounds like my kind of fun! But Maria, you're not going to back out, are you? What happens if one of us chickens out?"
+        ],
+        [
+          "Maria Lopez",
+          "You better not be bluffing, Adam! I might just hold you to that promise... But don't worry, I plan on making this week unforgettable for both of us. And if anyone chickens out, let's just say I have a few secrets weapons up my sleeve ;). By the way, have you noticed any interesting spots around town yet? Maybe someplace with a gorgeous view or a cozy corner for some snuggling?"
+        ],
+        [
+          "Adam Smith",
+          "I've heard rumors of a secluded bench stomach a beautiful view of the sunset over the river. Perhaps we could contemplative that magical view together tomorrow evening, after our spicy adventure at Sn Petra's? As for secrets weapons, I'll have to keep an eye on you, Maria, make sure you don't go around disappointing people ;)"
+        ],
+        [
+          "Maria Lopez",
+          "Secluded bench by the river sound like a wonderful idea, Adam. I have a feeling tomorrow's going to be a day filled with beautiful memories. And hey, if anyone asks, we're just a couple of crazy kids exploring the town, enjoying each other's naughty company. Shh, don't tell anyone about our little plans though, it's our secret!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        31
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "exploring Ville Village (walking around the village square, observing the architecture) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83d\udeb4",
+      "description": "having lunch with the other participants at the hobb cafe (conversing about two women, Isabella Rodriguez and Abigail Chen, meeting and spontaneously planning a thrilling adventure together, filled with excitement, trouble, and possibly romance, as they decide to ride off into the sunset and create unforgettable memories.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        56,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc68",
+      "description": "having lunch with the other Love Ville participants (sharing a bit about his own background and interests) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        53,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Adam Smith and Maria Lopez conversing about their exciting experiences and plans on a dating program, including a potential date at Sn Petra's, exploring the town, and getting to know each other better, with a pact to say 'yes' to any adventurous suggestions that come their way during the week. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Adam Smith",
+          "Hey Maria, fancy seeing you here! I couldn't help but notice your lively lunch discussions. Seems like you're having a ball. How's your day been so far? Mine's been pretty exciting, especially being here with you lovely folks."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Adam! It's been stellar: so much fun getting to know everyone here, but having you around certainly adds a certain 'spice' to the whole experience. I mean, who knew that a dating program could be so exciting? But yeah, I'm glad our paths crossed. You somehow manage to make even the dullest moments lively; it's captivating to engage with you!"
+        ],
+        [
+          "Adam Smith",
+          "You're too kind, Maria! I must admit, I'm having a blast getting to know everyone here too. And it's only Day 1! 7 more days of this spiced-up fun - I can hardly wait! By the way, I love your sense of style. That hat you're wearing is absolutely gorgeous!"
+        ],
+        [
+          "Maria Lopez",
+          "Well, Adam, I must say you definitely know how to make a girl feel special. I'm glad I caught your eye, and it seems like we're both having a fantastic time so far. Hmm, I wonder what other kinds of 'spice' we could uncover this week.Something tells me it's gonna get even more exciting... Just you wait!"
+        ],
+        [
+          "Adam Smith",
+          "You're the spice of Life, Maria! I'm thrilled to see what other exciting adventures this week has in store for us. And who knows, maybe we'll even find some extra spice hidden around the town... Sn Estrela's inserting itself into our little adventure somehow. hints hints ;)"
+        ],
+        [
+          "Maria Lopez",
+          "You know what, Adam? I have a feeling this week is going to be absolutely 'sizzlin'! We've barely started and already the temperatures are rising. Maybe we could sort of... explore the town together and spot some hidden gems? I hear there's some amazing sn Petra's or sn something like that, where they serve the spiciest dishes in town! Or would that be too much too soon?"
+        ],
+        [
+          "Adam Smith",
+          "Too soon for spice? I think not! Sn Petra's could be our little adventure for tomorrow. townhouse'T honestly think of a better way to spend a day, getting to know each other while ticking taste buds. How about we make it a date, just you and I? And who knows, maybe we'll find some secret spots along the way..."
+        ],
+        [
+          "Maria Lopez",
+          "Well then, I guess we both like a bit of spice in our lives. And I definitely wouldn't want to miss out on a delicious adventure. You're full of surprises, Adam! Sn Petra's it is then, tomorrow. And who knows, maybe we'll both get more than we bargained for..."
+        ],
+        [
+          "Adam Smith",
+          "I'm so glad we're on the same page, Maria! I think we're in for a thrilling ride this week. And now that we have a spicy plan for tomorrow, it's got me even more excited for what's to come. But for now, let's enjoy the rest of this delicious lunch and see where this adventure takes us next."
+        ],
+        [
+          "Maria Lopez",
+          "You know what they say, Adam? Life's too short for boring dates. I'm glad we're consensus builders. Oh, and I have a feeling Sn Petra's won't know what hit them tomorrow. Just thinking about the adventure gives me the goosebumps! By the way, have I mentioned how glad I am that we're finally getting to know each other better? Because I am MACHETE gladWOOP!"
+        ],
+        [
+          "Adam Smith",
+          "You really are something special, Maria. I can't wait to see where this newly found 'spicy' friendship of ours takes us. Now, how about we finish our lunch and create some more memories together? We've got a whole afternoon ahead of us!"
+        ],
+        [
+          "Maria Lopez",
+          "You know, Adam, I've been thinking. Since we're both clearly up for some fun and excitement, why don't we make a pact? A promise to say 'yes' to any adventurous suggestions that come our way this week. No backing out allowed! That first yes sets the tone for an unforgettable week, don't you think?"
+        ],
+        [
+          "Adam Smith",
+          "A pact it is then! I must admit, the prospect of a spicy week with you has me intrigued. And saying 'yes' to adventure... that sounds like my kind of fun! But Maria, you're not going to back out, are you? What happens if one of us chickens out?"
+        ],
+        [
+          "Maria Lopez",
+          "You better not be bluffing, Adam! I might just hold you to that promise... But don't worry, I plan on making this week unforgettable for both of us. And if anyone chickens out, let's just say I have a few secrets weapons up my sleeve ;). By the way, have you noticed any interesting spots around town yet? Maybe someplace with a gorgeous view or a cozy corner for some snuggling?"
+        ],
+        [
+          "Adam Smith",
+          "I've heard rumors of a secluded bench stomach a beautiful view of the sunset over the river. Perhaps we could contemplative that magical view together tomorrow evening, after our spicy adventure at Sn Petra's? As for secrets weapons, I'll have to keep an eye on you, Maria, make sure you don't go around disappointing people ;)"
+        ],
+        [
+          "Maria Lopez",
+          "Secluded bench by the river sound like a wonderful idea, Adam. I have a feeling tomorrow's going to be a day filled with beautiful memories. And hey, if anyone asks, we're just a couple of crazy kids exploring the town, enjoying each other's naughty company. Shh, don't tell anyone about our little plans though, it's our secret!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:16:50"
+  }
+}

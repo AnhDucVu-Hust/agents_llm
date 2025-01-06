@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (joining a group discussion about hobbies and interests) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        96,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to socialize and get to know the other Love Ville program participants (discussing the Love Ville program and their expectations) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "socializing and getting to know other Love Ville participants at Hobb Cafe (asking about their interests and hobbies) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "getting to know and talking to other participants at the hobb cafe (sharing her own hobbies and interests) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        61,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "socializing and getting to know the other Love Ville participants (sharing his own interests and hobbies) @ the Ville:The Rose and Crown Pub:pub:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        46,
+        31
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (listening to other participants share their thoughts on creativity) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:29:30"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (helping to clean up after the cooking activity) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        36,
+        32
+      ],
+      "pronunciatio": "\ud83e\udd1d\ud83d\udcbb",
+      "description": "participating in a group activity organized by the Love Ville program (working on a collaborative project) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        50,
+        36
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f\ud83d\udca1",
+      "description": "exploring Ville Village (visiting a local craft shop and browsing handmade items) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        40,
+        18
+      ],
+      "pronunciatio": "\ud83d\udd8c\ufe0f",
+      "description": "resting in her room (sketching some ideas for her next digital art project) @ the Ville:artist's co-living space:Abigail Chen's room:closet",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc86\u200d\u2640",
+      "description": "socializing and participating in Love Ville program activities (taking a break and grabbing a drink) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        33,
+        36
+      ],
+      "pronunciatio": "\ud83d\udcad",
+      "description": "participating in a group discussion about the importance of vulnerability in building meaningful connections, sharing his thoughts and listening to others' experiences (reflecting on his own experiences with vulnerability) @ the Ville:Adam Smith's house:main room:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:28:30"
+  }
+}

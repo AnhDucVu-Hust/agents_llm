@@ -1,0 +1,221 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:19:50",
+  "curr_tile": [
+    41,
+    21
+  ],
+  "daily_plan_req": "Abigail Chen is now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology. She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.",
+  "currently": "Abigail Chen is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 226,
+  "importance_ele_n": 24,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other members",
+    "get to know other members from 10:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "explore the Ville Village from 1:30 pm to 5:00 pm",
+    "go to the hobb cafe at 6:00 pm to cook and eat dinner with other members",
+    "socialize with other members from 7:30 pm to 11:30 pm",
+    "",
+    "wake up and complete the morning routine at 8:00 a",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other member",
+    "get to know other members from 10:00 am to 12:00 p",
+    "have a lunch at 12:00 p",
+    "explore the Ville Village from 1:30 pm to 5:00 p",
+    "go to the hobb cafe at 6:00 pm to cook and eat dinner with other member"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and going to the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (drying off and applying skincare products)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (styling her hair)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (walking to the hobb cafe)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (greeting other members at the hobb cafe)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (choosing a breakfast recipe with other members)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (preparing ingredients with other members)",
+      15
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (cooking breakfast with other members)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (plating and serving breakfast with other members)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (eating breakfast with other members)",
+      5
+    ],
+    [
+      "getting to know other members at the hobb cafe",
+      60
+    ],
+    [
+      "continuing to get to know other members at the hobb cafe",
+      60
+    ],
+    [
+      "having lunch with other members at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other members",
+      60
+    ],
+    [
+      "socializing with other members at the hobb cafe",
+      300
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members",
+      60
+    ],
+    [
+      "getting to know other members at the hobb cafe",
+      60
+    ],
+    [
+      "continuing to get to know other members at the hobb cafe",
+      60
+    ],
+    [
+      "having lunch with other members at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other members",
+      60
+    ],
+    [
+      "socializing with other members at the hobb cafe",
+      300
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:Abigail Chen's bathroom:shower",
+  "act_start_time": "February 13, 2023, 08:15:00",
+  "act_duration": 5,
+  "act_description": "waking up and completing her morning routine (washing her face)",
+  "act_pronunciatio": "\ud83d\udebf\ud83d\udca6",
+  "act_event": [
+    "Abigail Chen",
+    "wash",
+    "face"
+  ],
+  "act_obj_description": "not being used",
+  "act_obj_pronunciatio": "\ud83e\udd14",
+  "act_obj_event": [
+    "shower",
+    "is",
+    "not being used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

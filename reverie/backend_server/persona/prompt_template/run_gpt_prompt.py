@@ -921,7 +921,6 @@ def run_gpt_prompt_event_triple(action_description, persona, verbose=False):
 
 
 
-
   prompt_template = "persona/prompt_template/v2/generate_event_triple_v1.txt"
   prompt_input = create_prompt_input(action_description, persona)
   prompt = generate_prompt(prompt_input, prompt_template)
@@ -1263,7 +1262,9 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
     else: 
       target_p_desc = f"{target_persona.name} is on the way to {target_act_desc}"
 
-
+    relationship = init_persona.scratch.relationships.get(target_persona.name,[])
+    if len(relationship) > 5:
+      relationship = relationship[-5:]
     prompt_input = []
     prompt_input += [context]
 
@@ -1277,6 +1278,9 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
 
     prompt_input += [init_p_desc]
     prompt_input += [target_p_desc]
+    prompt_input += [init_persona.name]
+    prompt_input += [target_persona.name]
+    prompt_input += ["\n".join(relationship)]
     prompt_input += [init_persona.name]
     prompt_input += [target_persona.name]
     return prompt_input
@@ -1570,7 +1574,7 @@ def run_gpt_prompt_summarize_conversation(persona, conversation, test_input=None
 
   # ChatGPT Plugin ===========================================================
   def __chat_func_clean_up(gpt_response, prompt=""): ############
-    ret = "conversing about " + gpt_response.strip()
+    ret = gpt_response.strip()
     return ret
 
   def __chat_func_validate(gpt_response, prompt=""): ############
@@ -1586,7 +1590,7 @@ def run_gpt_prompt_summarize_conversation(persona, conversation, test_input=None
   prompt_input = create_prompt_input(conversation, test_input)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = "conversing about what to eat for lunch" ########
-  special_instruction = "The output must continue the sentence above by filling in the <fill in> tag. Don't start with 'this is a conversation about...' Just finish the sentence but do not miss any important details (including who are chatting)." ########
+  special_instruction = "The output must continue the sentence above by filling in the <fill in> tag, start by 'conversing about'. Don't start with 'this is a conversation about...' Just finish the sentence but do not miss any important details (including who are chatting)." ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True,
@@ -2024,7 +2028,10 @@ def run_gpt_prompt_focal_pt(persona, statements, n, test_input=None, verbose=Fal
 
   # ChatGPT Plugin ===========================================================
   def __chat_func_clean_up(gpt_response, prompt=""): ############:
-    ret = ast.literal_eval(str(gpt_response))
+    if isinstance(gpt_response,list):
+      return gpt_response
+    else:
+      ret = ast.literal_eval(str(gpt_response))
     return ret
 
   def __chat_func_validate(gpt_response, prompt=""): ############
@@ -2041,7 +2048,7 @@ def run_gpt_prompt_focal_pt(persona, statements, n, test_input=None, verbose=Fal
   prompt_input = create_prompt_input(persona, statements, n)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = '["What should Jane do for lunch", "Does Jane like strawberry", "Who is Jane"]' ########
-  special_instruction = "Output must be a list of str." ########
+  special_instruction = "Create a list of strings that is answer to the question above, then return the result as a single string representing the Python list of strings as output " ########
   fail_safe = get_fail_safe(n) ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True,
@@ -2226,7 +2233,7 @@ def run_gpt_prompt_agent_chat_summarize_relationship(persona, target_persona, st
   prompt_input = create_prompt_input(persona, target_persona, statements)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = 'Jane Doe is working on a project' ########
-  special_instruction = 'The output should be a string that responds to the question.' ########
+  special_instruction = 'The output should be a string that responds to the question and wwill be empty if there is no information for this question' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True,
@@ -2635,9 +2642,6 @@ def run_gpt_prompt_memo_on_convo(persona, all_utt, test_input=None, verbose=Fals
 
 
   print ("asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 15") ########
-  gpt_param = {"engine": "openai/gpt-4o-mini", "max_tokens": 15,
-               "temperature": 0, "top_p": 1, "stream": False,
-               "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
   prompt_template = "persona/prompt_template/v3_ChatGPT/memo_on_convo_v1.txt" ########
   prompt_input = create_prompt_input(persona, all_utt)  ########
   prompt = generate_prompt(prompt_input, prompt_template)

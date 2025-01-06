@@ -1,0 +1,79 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two people, Isabella Rodriguez and Adam Smith, conversing about their lunch and potentially meeting up for dessert later tonight @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey stranger!\u00e9tisme lunching with thesovi \u0423\u043a\u0440\u0430\u0438\u043d\u044b acumulada florish pie?!"
+        ],
+        [
+          "Adam Smith",
+          "Hey there, I couldn't help but notice you from over here! How's your lunch today? Anyway, I'm Adam, it's nice to officially meet you. I've been thinking about getting to know you better over the past few days and here's my chance! Would you like to join me for dessert later tonight? I know a great spot that serves the most amazingcookies you'll ever taste."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        55,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "having lunch with the other Love Ville program participants (conversing about John Lin and Maria Lopez conversing about planning a cooking adventure together, potentially sparking a romantic connection, and making a friendly bet on the mayor election, with hints of a possible date and trip to Reykjav\u00edk.) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch with other Love Ville participants at Hobb Cafe (eating his lunch) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "having lunch with the other participants at the hobb cafe (conversing about Abigail Chen and Adam Smith conversing about their writing and artistic processes, sharing a cup of coffee, and exploring the town of Ville Ville together, with discussions about food, adventures, and getting to know each other.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "having lunch with the other Love Ville participants (conversing about John Lin and Maria Lopez conversing about planning a cooking adventure together, potentially sparking a romantic connection, and making a friendly bet on the mayor election, with hints of a possible date and trip to Reykjav\u00edk.) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two people, Isabella Rodriguez and Adam Smith, conversing about their lunch and potentially meeting up for dessert later tonight @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey stranger!\u00e9tisme lunching with thesovi \u0423\u043a\u0440\u0430\u0438\u043d\u044b acumulada florish pie?!"
+        ],
+        [
+          "Adam Smith",
+          "Hey there, I couldn't help but notice you from over here! How's your lunch today? Anyway, I'm Adam, it's nice to officially meet you. I've been thinking about getting to know you better over the past few days and here's my chance! Would you like to join me for dessert later tonight? I know a great spot that serves the most amazingcookies you'll ever taste."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:48:30"
+  }
+}

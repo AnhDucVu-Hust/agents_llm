@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udea3\u200d\u2640",
+      "description": "having lunch with the other Love Ville program participants at Hobbs Cafe (conversing about two women, Isabella Rodriguez and Abigail Chen, meeting and spontaneously planning a thrilling adventure together, filled with excitement, trouble, and possibly romance, as they decide to ride off into the sunset and create unforgettable memories.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch with the other Love Ville program participants (conversing about Adam Smith and Maria Lopez conversing about their exciting experiences and plans on a dating program, including a potential date at Sn Petra's, exploring the town, and getting to know each other better, with a pact to say 'yes' to any adventurous suggestions that come their way during the week.) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        120,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "exploring Ville Village (walking around the village square, observing the architecture) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83d\udeb4",
+      "description": "having lunch with the other participants at the hobb cafe (conversing about two women, Isabella Rodriguez and Abigail Chen, meeting and spontaneously planning a thrilling adventure together, filled with excitement, trouble, and possibly romance, as they decide to ride off into the sunset and create unforgettable memories.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        53,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two individuals, John Lin and Adam Smith, conversing about meeting up for a midnight adventure at Sn Petra's place, exploring its twists and turns, and getting to know each other better after being brought together by a program, with hints of excitement, mystery, and potential romance @ <persona> Adam Smith",
+      "chat": [
+        [
+          "John Lin",
+          "Hey Adam, fancy seeing you here! It's a small world, isn't it? Having fun getting to know everyone? I see you're deep in conversation already, but I couldn't resist interrupting... Hope you don't mind!"
+        ],
+        [
+          "Adam Smith",
+          "Hey John, I knew this program was meant for me when I heard you were taking part! It's fate that we've crossed paths like this. I couldn't resist the urge to come over and say hi. So, here I am, interrupting your lunch, but hey, the heart wants what it wants! How's your day been so far? "
+        ],
+        [
+          "John Lin",
+          "It's been great so far, Adam! But seeing you here makes it so much better. I must admit, I've been thinking about getting to know you better too. This whole program is a fantastic idea, bringing us all together like this. Hey, if you're free later, maybe we could kickstart our own adventure? Just the two of us?"
+        ],
+        [
+          "Adam Smith",
+          "I'd love to kickstart an adventure with you, John! Let's simplify the complexities of life and just focus on having a blast together. How about we meet later at that mysterious Sn Petra's place for some after-hours exploration? You know, create our own little midnight adventure?"
+        ],
+        [
+          "John Lin",
+          "That sounds like so much fun! I've been craving some late-night antics and Sn Petra's is the perfect spot for some mischievous exploration. You'll have to help me navigate those twists and turns, Adam. I have a feeling it'll be a wild ride."
+        ],
+        [
+          "Adam Smith",
+          "You know, John, I've been thinking about how Wanderlust and a taste for adventure seem to bring certain people together. I get the feeling that our paths were destined to cross like this. As they say, the world is yours to explore, and I can't think of anyone better to explore it with than you. So, shall we head to Sn Petra's tonight and embark on our little adventure? We can let our curiosities run wild!"
+        ],
+        [
+          "John Lin",
+          "Oh, Adam, you're such a charmer! I'm thrilled to pieces that you'd want to explore with me. We've only just met, and already I feel like Sn Petra's and its twisted paths are calling our names. And who knows what kind of trouble two curious souls might find themselves in, hey? I'll see you later for our adventure; don't keep me waiting too long!"
+        ],
+        [
+          "Adam Smith",
+          "Well, I wouldn't want to keep you waiting, Len. Besides, life is too short to delay the inevitable. Our irresistible allure is sure to ignite some mischievous shenanigans. So, I'll see you later tonight for some sneak peering into the unknown at Sn Petra's. Until then, daydream about the escapades awaiting us!"
+        ],
+        [
+          "John Lin",
+          "You've totally swept me off my feet, Adam! I can't wait to see where this newfound friendship takes us. Tonight's adventure promises to be a blast, and I'm so glad we have this opportunity to let our hairs down and explore.till later then rapides my heart!"
+        ],
+        [
+          "Adam Smith",
+          "Until later, my mischievous companion. I have a feeling tonight's adventure will be one for the books! Don't worry, I'll make sure the evening is filled with endless surprises. Timing is everything, so I'll see you at Sn Petra's awaits our presence. Ts \u767d\u96f2 Prevail!"
+        ],
+        [
+          "John Lin",
+          "Wow, you sure do know how to sweep a person off their feet! I'm blushing over here. See you tonight, my dashing adventuring companion. Until then, daydreams of our forthcoming escapades will have to sustain me!"
+        ],
+        [
+          "Adam Smith",
+          "Between you and me, Sn Petra's holds some secrets that need unraveling, and I for one can't wait to explore every twist and turn with you. It's as if the stars have aligned, bringing us together for this very purpose. Just think of all the adventures waiting to unfold! But, before we embark, we should probably devise a cunning plan. How about we meet at the western gates at midnight sharp? I'll bring the torch, you bring the maps ;)"
+        ],
+        [
+          "John Lin",
+          "Midnight at the western gates, you say? I have a feeling this adventure will be quite the thrill! I'll make sure to bring my best decoders and secret-cracking skills for those mysterious twists and turns. And hey, if anyone asks, we're just two souls daring to venture into the unknown...but shhh, it's our little secret. See you in a few hours, you dashing explorer! Until then, my lips are sealed."
+        ],
+        [
+          "Adam Smith",
+          "Before I forget, I have a spicy surprise planned for tonight. Let's just say, it'll add some kick to our adventure. Meet you at the gates,orreo at midnight!"
+        ],
+        [
+          "John Lin",
+          "Well, Mr. Explorer, you certainly know how to keep a girl on her toes! I can't wait to see what sort of trouble we'll get into tonight. I've never been one to back away from a mystery, especially one that involves a certain delicious scandal. Shall we bewitch the night away and dance with destiny? As long as there's an enchanting adventurer like you by my side, I'm game for any spellbinding scenario that awaits us."
+        ],
+        [
+          "Adam Smith",
+          "You know you're in for a wild ride, don't you? I'm so glad we have this little dating show to bring us together, or else I might not have found my exciting adventure buddy as soon! See you in a few hours, and bring your adventurous spirit!"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        54,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two individuals, John Lin and Adam Smith, conversing about meeting up for a midnight adventure at Sn Petra's place, exploring its twists and turns, and getting to know each other better after being brought together by a program, with hints of excitement, mystery, and potential romance @ <persona> John Lin",
+      "chat": [
+        [
+          "John Lin",
+          "Hey Adam, fancy seeing you here! It's a small world, isn't it? Having fun getting to know everyone? I see you're deep in conversation already, but I couldn't resist interrupting... Hope you don't mind!"
+        ],
+        [
+          "Adam Smith",
+          "Hey John, I knew this program was meant for me when I heard you were taking part! It's fate that we've crossed paths like this. I couldn't resist the urge to come over and say hi. So, here I am, interrupting your lunch, but hey, the heart wants what it wants! How's your day been so far? "
+        ],
+        [
+          "John Lin",
+          "It's been great so far, Adam! But seeing you here makes it so much better. I must admit, I've been thinking about getting to know you better too. This whole program is a fantastic idea, bringing us all together like this. Hey, if you're free later, maybe we could kickstart our own adventure? Just the two of us?"
+        ],
+        [
+          "Adam Smith",
+          "I'd love to kickstart an adventure with you, John! Let's simplify the complexities of life and just focus on having a blast together. How about we meet later at that mysterious Sn Petra's place for some after-hours exploration? You know, create our own little midnight adventure?"
+        ],
+        [
+          "John Lin",
+          "That sounds like so much fun! I've been craving some late-night antics and Sn Petra's is the perfect spot for some mischievous exploration. You'll have to help me navigate those twists and turns, Adam. I have a feeling it'll be a wild ride."
+        ],
+        [
+          "Adam Smith",
+          "You know, John, I've been thinking about how Wanderlust and a taste for adventure seem to bring certain people together. I get the feeling that our paths were destined to cross like this. As they say, the world is yours to explore, and I can't think of anyone better to explore it with than you. So, shall we head to Sn Petra's tonight and embark on our little adventure? We can let our curiosities run wild!"
+        ],
+        [
+          "John Lin",
+          "Oh, Adam, you're such a charmer! I'm thrilled to pieces that you'd want to explore with me. We've only just met, and already I feel like Sn Petra's and its twisted paths are calling our names. And who knows what kind of trouble two curious souls might find themselves in, hey? I'll see you later for our adventure; don't keep me waiting too long!"
+        ],
+        [
+          "Adam Smith",
+          "Well, I wouldn't want to keep you waiting, Len. Besides, life is too short to delay the inevitable. Our irresistible allure is sure to ignite some mischievous shenanigans. So, I'll see you later tonight for some sneak peering into the unknown at Sn Petra's. Until then, daydream about the escapades awaiting us!"
+        ],
+        [
+          "John Lin",
+          "You've totally swept me off my feet, Adam! I can't wait to see where this newfound friendship takes us. Tonight's adventure promises to be a blast, and I'm so glad we have this opportunity to let our hairs down and explore.till later then rapides my heart!"
+        ],
+        [
+          "Adam Smith",
+          "Until later, my mischievous companion. I have a feeling tonight's adventure will be one for the books! Don't worry, I'll make sure the evening is filled with endless surprises. Timing is everything, so I'll see you at Sn Petra's awaits our presence. Ts \u767d\u96f2 Prevail!"
+        ],
+        [
+          "John Lin",
+          "Wow, you sure do know how to sweep a person off their feet! I'm blushing over here. See you tonight, my dashing adventuring companion. Until then, daydreams of our forthcoming escapades will have to sustain me!"
+        ],
+        [
+          "Adam Smith",
+          "Between you and me, Sn Petra's holds some secrets that need unraveling, and I for one can't wait to explore every twist and turn with you. It's as if the stars have aligned, bringing us together for this very purpose. Just think of all the adventures waiting to unfold! But, before we embark, we should probably devise a cunning plan. How about we meet at the western gates at midnight sharp? I'll bring the torch, you bring the maps ;)"
+        ],
+        [
+          "John Lin",
+          "Midnight at the western gates, you say? I have a feeling this adventure will be quite the thrill! I'll make sure to bring my best decoders and secret-cracking skills for those mysterious twists and turns. And hey, if anyone asks, we're just two souls daring to venture into the unknown...but shhh, it's our little secret. See you in a few hours, you dashing explorer! Until then, my lips are sealed."
+        ],
+        [
+          "Adam Smith",
+          "Before I forget, I have a spicy surprise planned for tonight. Let's just say, it'll add some kick to our adventure. Meet you at the gates,orreo at midnight!"
+        ],
+        [
+          "John Lin",
+          "Well, Mr. Explorer, you certainly know how to keep a girl on her toes! I can't wait to see what sort of trouble we'll get into tonight. I've never been one to back away from a mystery, especially one that involves a certain delicious scandal. Shall we bewitch the night away and dance with destiny? As long as there's an enchanting adventurer like you by my side, I'm game for any spellbinding scenario that awaits us."
+        ],
+        [
+          "Adam Smith",
+          "You know you're in for a wild ride, don't you? I'm so glad we have this little dating show to bring us together, or else I might not have found my exciting adventure buddy as soon! See you in a few hours, and bring your adventurous spirit!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:29:00"
+  }
+}

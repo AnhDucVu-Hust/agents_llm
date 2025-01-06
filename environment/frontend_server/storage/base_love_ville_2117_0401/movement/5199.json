@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (engaging in a group discussion about hobbies and interests) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        58,
+        20
+      ],
+      "pronunciatio": "\ud83c\udf89\u2744\ufe0f",
+      "description": "participating in a group activity organized by the Love Ville program (participating in an icebreaker game) @ the Ville:The Rose and Crown Pub:pub:behind the bar counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        97,
+        32
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "exploring Ville Village (having a coffee at a local cafe) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\ude0c",
+      "description": "resting in her room (lying down on her bed and listening to calming music) @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "socializing and participating in Love Ville program activities (engaging in small talk with participants) @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83e\udd1d\ud83c\udfa8",
+      "description": "participating in a creative workshop with the Love Ville participants, collaborating on a group art project to foster connection and self-expression (collaborating with the group to create the art project) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:26:30"
+  }
+}

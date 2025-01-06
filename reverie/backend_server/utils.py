@@ -2,9 +2,9 @@
 #route to OpenRouter
 openai_base_url = "https://openrouter.ai/api/v1"
 #OpenRouter API Key
-openai_api_key = ""
+openai_api_key = "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"
 #OpenAI API key for calling embedding model
-openai_embedding_key =  ""
+openai_embedding_key =  "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"
 # Put your name
 key_owner = "ducva4"
 
@@ -65,7 +65,7 @@ new_decomp_schedule_param = {"engine": "deepseek/deepseek-chat", "max_tokens": 1
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 
-decide_to_talk_param = {"engine": "qwen/qwq-32b-preview", "max_tokens": 20, 
+decide_to_talk_param = {"engine": "qwen/qwq-32b-preview", "max_tokens": 50,
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 

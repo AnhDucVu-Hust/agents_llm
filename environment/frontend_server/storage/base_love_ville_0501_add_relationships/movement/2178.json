@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udca4",
+      "description": "waking up and completing her morning routine (waking up and stretching in bed) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        54
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        89,
+        74
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\ude34",
+      "description": "waking up and completing his morning routine (waking up and stretching in bed) @ the Ville:Lin family's house:Mei and John Lin's bedroom:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        31,
+        53
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading and reflecting on philosophical texts (selecting a philosophical text to read) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 06:03:00"
+  }
+}

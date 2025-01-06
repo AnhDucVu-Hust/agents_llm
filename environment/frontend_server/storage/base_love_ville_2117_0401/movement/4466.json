@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udcac",
+      "description": "having lunch with the other Love Ville program participants at Hobbs Cafe (conversing about Klaus Mueller and Isabella Rodriguez conversing about sharing a meal, specifically trying the spiced chocolate mousse, and exchanging gossip or untold stories at the Hobb Cafe.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        57,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about John Lin and Maria Lopez conversing about planning a cooking adventure together, potentially sparking a romantic connection, and making a friendly bet on the mayor election, with hints of a possible date and trip to Reykjav\u00edk. @ <persona> John Lin",
+      "chat": [
+        [
+          "John Lin",
+          "Hi there, Maria! Just popping by to say that I've been thinking about that cooking adventure we talked about. It sounds like a lot of fun and a great way to spend an afternoon. Maybe we could make it happen sooner rather than later? Oh, and by the way, you look lovely today!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks so much, you're not so bad yourself! I'm so glad you mentioned that, I've been thinking about it too. In fact, I was just daydreaming about what we could cook together. Maybe something with coffee, like a delicious coffee cr\u00e8me brunch? And yeah, let's set a date soon, I'm excited! Also, looking lovely as always, John ;)"
+        ],
+        [
+          "John Lin",
+          "I think we make a great cooking duo, and not just that, maybe even a great match too. I'm glad you agree that we should set a date soon, how about this weekend for our culinary adventure? And thank you, you're too kind :)"
+        ],
+        [
+          "Maria Lopez",
+          "This weekend sounds amazing! We can definitely make it work. And who knows, maybe we'll end up creating a masterpiece together. By the way, I love your shirt, very stylish! ;)"
+        ],
+        [
+          "John Lin",
+          "You're making me blush, Maria. I'm glad we're on the same page about our culinary adventure. We certainly should create something delicious together, and who knows what could come from that ;) Can't wait for the weekend then! Oh, and I'm curious, do you fancy a little bet on the mayor election? Just for fun, of course."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're in sync about this. And you never know, we might just end up with a delicious meal and a new passion project. As for the election bet, I'm always down for a friendly wager, especially when it's for a fun cause. Should we make it more interesting, perhaps with a little date involved? Just to spice things up ;)"
+        ],
+        [
+          "John Lin",
+          "A date involved, huh? That sounds like a delicious incentive to make this election bet even more tantalizing. I'm game if you are, Maria! We can figure out the details later, but for now, let's focus on this exciting adventure we're about to embark on. By the way, your smile is as dazzling as the sunlight on a summer's day."
+        ],
+        [
+          "Maria Lopez",
+          "You're too kind, John! I'm so glad we're both on the same page about so many things. It's like we're aligning perfectly, starting with our shared passion for cooking and coffee. Oh, and I can't deny that I'm intrigued by this bet and the potential 'spice' it adds to the mix. Hmm, what do you think about a little\u043e\u043b\u044c\u043d\u0430\u044f\u53c8\u306f \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc URL Reykjav\u00edk? Just throwing it out there as an idea, of course..."
+        ],
+        [
+          "John Lin",
+          "Maria, you're going to have to stop throwing out these captivating ideas! I'm having a hard time concentrating on anything else. So, to Reykjav\u00edk, huh? That's a fascinating suggestion, and I'm tempted to say yes immediately. But before I do, care to share any other whimsical ideas you might have up your sleeve? After all, we want this adventure to be memorable and truly spectacular."
+        ],
+        [
+          "Maria Lopez",
+          "You know what, John? I have a feeling that this adventure we're about to embark on might just be the start of something extraordinary. And who knows, maybe Reykjav\u00edk will be our little love nest. But enough with the hints, I want to see your reactions to the wildest ideas I have up my sleeve! Deal?"
+        ],
+        [
+          "John Lin",
+          "Alright, you've got me curious now, Miss Lopez! I'm all ears for your most whimsical ideas and I must say, I'm thrilled to see where this adventure leads us. And who knows, perhaps Reykjav\u00edk will indeed be our romantic sanctuary in the near future. But for now, let's just focus on the mouthwatering adventure ahead. I'm terrible at hiding my excitement!"
+        ],
+        [
+          "Maria Lopez",
+          "You know what they say, the couple that cooks together, stays together. But you and I won't be just any couple, oh no! We're going to spice things up and have some fun. I've got a feeling our culinary adventure is gonna be sizzling hot. But shh, that's a secret for now ;)"
+        ],
+        [
+          "John Lin",
+          "Well, Miss Lopez, you certainly know how to captivate a gentleman's heart. I'm thrilled to witness the feelings this adventure evokes within me. Your playful spirit and enchanting ideas have me onscreen and superstitious for what comes next. Perhaps, just perhaps, there's a hidden chef within you, waiting to tantalize my taste buds. Hmm, the possibilities are truly endless"
+        ],
+        [
+          "Maria Lopez",
+          "You're such a charmer, John! I have a feeling this adventure will be filled with delightful surprises. But you know what they say, the proof of the pudding is in the eating. We'll have to see if you really can tantalize my taste buds. Until then, I'll keep you on your toes ;)"
+        ],
+        [
+          "John Lin",
+          "You're going to have to Lecture me on keeping my appetite in check, Maria! The way you talk about our upcoming adventure has me Zenon in anticipation. I can hardly focus on anything else. I guess I'll just have to trust that you'll keep our culinary creation delicious and our date memorable."
+        ],
+        [
+          "Maria Lopez",
+          "Well, Mr. Lin, you seem to have a way with words... and a certain charm that's hard to resist. I must warn you, your skills might just be put to the test in the kitchen. As they say, practice makes perfect, so we'll see what deliciousness we can whip up together. And who knows, there might be a little extra spice added to the mix!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        81,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udcac",
+      "description": "having lunch with other Love Ville participants at Hobb Cafe (conversing about Klaus Mueller and Isabella Rodriguez conversing about sharing a meal, specifically trying the spiced chocolate mousse, and exchanging gossip or untold stories at the Hobb Cafe.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        42,
+        32
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "getting to know and talking to other participants at the hobb cafe (wrapping up conversations and saying goodbye) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        58,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about John Lin and Maria Lopez conversing about planning a cooking adventure together, potentially sparking a romantic connection, and making a friendly bet on the mayor election, with hints of a possible date and trip to Reykjav\u00edk. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "John Lin",
+          "Hi there, Maria! Just popping by to say that I've been thinking about that cooking adventure we talked about. It sounds like a lot of fun and a great way to spend an afternoon. Maybe we could make it happen sooner rather than later? Oh, and by the way, you look lovely today!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks so much, you're not so bad yourself! I'm so glad you mentioned that, I've been thinking about it too. In fact, I was just daydreaming about what we could cook together. Maybe something with coffee, like a delicious coffee cr\u00e8me brunch? And yeah, let's set a date soon, I'm excited! Also, looking lovely as always, John ;)"
+        ],
+        [
+          "John Lin",
+          "I think we make a great cooking duo, and not just that, maybe even a great match too. I'm glad you agree that we should set a date soon, how about this weekend for our culinary adventure? And thank you, you're too kind :)"
+        ],
+        [
+          "Maria Lopez",
+          "This weekend sounds amazing! We can definitely make it work. And who knows, maybe we'll end up creating a masterpiece together. By the way, I love your shirt, very stylish! ;)"
+        ],
+        [
+          "John Lin",
+          "You're making me blush, Maria. I'm glad we're on the same page about our culinary adventure. We certainly should create something delicious together, and who knows what could come from that ;) Can't wait for the weekend then! Oh, and I'm curious, do you fancy a little bet on the mayor election? Just for fun, of course."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're in sync about this. And you never know, we might just end up with a delicious meal and a new passion project. As for the election bet, I'm always down for a friendly wager, especially when it's for a fun cause. Should we make it more interesting, perhaps with a little date involved? Just to spice things up ;)"
+        ],
+        [
+          "John Lin",
+          "A date involved, huh? That sounds like a delicious incentive to make this election bet even more tantalizing. I'm game if you are, Maria! We can figure out the details later, but for now, let's focus on this exciting adventure we're about to embark on. By the way, your smile is as dazzling as the sunlight on a summer's day."
+        ],
+        [
+          "Maria Lopez",
+          "You're too kind, John! I'm so glad we're both on the same page about so many things. It's like we're aligning perfectly, starting with our shared passion for cooking and coffee. Oh, and I can't deny that I'm intrigued by this bet and the potential 'spice' it adds to the mix. Hmm, what do you think about a little\u043e\u043b\u044c\u043d\u0430\u044f\u53c8\u306f \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc URL Reykjav\u00edk? Just throwing it out there as an idea, of course..."
+        ],
+        [
+          "John Lin",
+          "Maria, you're going to have to stop throwing out these captivating ideas! I'm having a hard time concentrating on anything else. So, to Reykjav\u00edk, huh? That's a fascinating suggestion, and I'm tempted to say yes immediately. But before I do, care to share any other whimsical ideas you might have up your sleeve? After all, we want this adventure to be memorable and truly spectacular."
+        ],
+        [
+          "Maria Lopez",
+          "You know what, John? I have a feeling that this adventure we're about to embark on might just be the start of something extraordinary. And who knows, maybe Reykjav\u00edk will be our little love nest. But enough with the hints, I want to see your reactions to the wildest ideas I have up my sleeve! Deal?"
+        ],
+        [
+          "John Lin",
+          "Alright, you've got me curious now, Miss Lopez! I'm all ears for your most whimsical ideas and I must say, I'm thrilled to see where this adventure leads us. And who knows, perhaps Reykjav\u00edk will indeed be our romantic sanctuary in the near future. But for now, let's just focus on the mouthwatering adventure ahead. I'm terrible at hiding my excitement!"
+        ],
+        [
+          "Maria Lopez",
+          "You know what they say, the couple that cooks together, stays together. But you and I won't be just any couple, oh no! We're going to spice things up and have some fun. I've got a feeling our culinary adventure is gonna be sizzling hot. But shh, that's a secret for now ;)"
+        ],
+        [
+          "John Lin",
+          "Well, Miss Lopez, you certainly know how to captivate a gentleman's heart. I'm thrilled to witness the feelings this adventure evokes within me. Your playful spirit and enchanting ideas have me onscreen and superstitious for what comes next. Perhaps, just perhaps, there's a hidden chef within you, waiting to tantalize my taste buds. Hmm, the possibilities are truly endless"
+        ],
+        [
+          "Maria Lopez",
+          "You're such a charmer, John! I have a feeling this adventure will be filled with delightful surprises. But you know what they say, the proof of the pudding is in the eating. We'll have to see if you really can tantalize my taste buds. Until then, I'll keep you on your toes ;)"
+        ],
+        [
+          "John Lin",
+          "You're going to have to Lecture me on keeping my appetite in check, Maria! The way you talk about our upcoming adventure has me Zenon in anticipation. I can hardly focus on anything else. I guess I'll just have to trust that you'll keep our culinary creation delicious and our date memorable."
+        ],
+        [
+          "Maria Lopez",
+          "Well, Mr. Lin, you seem to have a way with words... and a certain charm that's hard to resist. I must warn you, your skills might just be put to the test in the kitchen. As they say, practice makes perfect, so we'll see what deliciousness we can whip up together. And who knows, there might be a little extra spice added to the mix!"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcdd\ud83d\udcad",
+      "description": "reflecting on the morning's activities and conversations, jotting down key insights and potential connections to follow up on later (quietly reflecting and journaling about the experience) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:24:20"
+  }
+}

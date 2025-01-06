@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending the Love Ville program and cooking/eating breakfast with other members at Hobbs Cafe (conversing about Isabella Rodriguez and Klaus Mueller conversing about getting to know each other better, exchanging charming compliments and playful suggestions for a game to break the ice.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        92,
+        37
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "having breakfast at the Hobb Cafe with the other Love Ville participants (greeting the other Love Ville participants) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        81,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "having breakfast at Hobb Cafe with other participants (introducing himself to the other participants) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        49,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        80,
+        39
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "arriving at the Hobb Cafe and meeting other Love Ville participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        50,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (greeting the other participants and introducing himself) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:08:10"
+  }
+}

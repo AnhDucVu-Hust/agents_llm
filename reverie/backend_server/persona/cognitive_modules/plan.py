@@ -494,7 +494,7 @@ def _long_term_planning(persona, new_day):
   persona.scratch.f_daily_schedule = generate_hourly_schedule(persona, 
                                                               wake_up_hour)
   persona.scratch.f_daily_schedule_hourly_org = (persona.scratch
-                                                   .f_daily_schedule[:])
+.f_daily_schedule[:])
 
 
   # Added March 4 -- adding plan to the memory.
@@ -659,7 +659,7 @@ def _choose_retrieved(persona, retrieved):
   INPUT
     persona: Current <Persona> instance whose action we are determining. 
     retrieved: A dictionary of <ConceptNode> that were retrieved from the 
-               the persona's associative memory. This dictionary takes the
+              persona's associative memory. This dictionary takes the
                following form: 
                dictionary[event.description] = 
                  {["curr_event"] = <ConceptNode>, 
@@ -811,7 +811,7 @@ def _create_react(persona, inserted_act, inserted_act_dur,
   p = persona 
 
   min_sum = 0
-  for i in range (p.scratch.get_f_daily_schedule_hourly_org_index()): 
+  for i in range(p.scratch.get_f_daily_schedule_hourly_org_index()):
     min_sum += p.scratch.f_daily_schedule_hourly_org[i][1]
   start_hour = int (min_sum/60)
 
@@ -893,14 +893,14 @@ def _chat_react(maze, persona, focused_event, reaction_mode, personas):
       chatting_with_buffer = {}
       chatting_with_buffer[init_persona.name] = 800
 
-    act_pronunciatio = "💬" 
+    act_pronunciatio = "💬"
     act_obj_description = None
     act_obj_pronunciatio = None
     act_obj_event = (None, None, None)
 
     _create_react(p, inserted_act, inserted_act_dur,
       act_address, act_event, chatting_with, convo, chatting_with_buffer, chatting_end_time,
-      act_pronunciatio, act_obj_description, act_obj_pronunciatio, 
+      act_pronunciatio, act_obj_description, act_obj_pronunciatio,
       act_obj_event, act_start_time)
 
 

@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        15
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "attending the Love Ville program and cooking/eating breakfast with other members at Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        51
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "having breakfast at the Hobb Cafe with the other Love Ville participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "having breakfast at Hobb Cafe with other participants (introducing himself to the other participants) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        38,
+        25
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        71
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "arriving at the Hobb Cafe and meeting other Love Ville participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        30,
+        37
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (greeting the other participants and introducing himself) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:00:30"
+  }
+}

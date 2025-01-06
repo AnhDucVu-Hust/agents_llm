@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\u2615\ufe0f\ud83d\ude02",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (sharing a funny story about her cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83c\udfb5",
+      "description": "continuing to socialize and get to know the other Love Ville program participants (asking the participant about their favorite music and artists) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        116,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "socializing and getting to know other Love Ville participants at Hobb Cafe (listening to others' perspectives on social issues) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7f\ud83d\udcac",
+      "description": "getting to know and talking to other participants at the hobb cafe (discussing favorite movies and TV shows) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        61,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc42",
+      "description": "socializing and getting to know the other Love Ville participants (listening attentively to their responses) @ the Ville:The Rose and Crown Pub:pub:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "participating in a speed dating activity, engaging in brief but meaningful conversations with each participant to explore potential connections (engaging in a brief but meaningful conversation with the first participant, discussing shared interests and values) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:51:00"
+  }
+}

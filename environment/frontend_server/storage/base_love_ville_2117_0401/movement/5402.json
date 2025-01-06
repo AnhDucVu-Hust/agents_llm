@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83d\udcac",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (conversing about two individuals, Isabella Rodriguez and Klaus Mueller, conversing about exploring a village, getting to know each other, and discovering its hidden gems together on their first official date.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        38,
+        41
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "participating in a group activity organized by the Love Ville program (taking a short break) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        57,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "exploring Ville Village (conversing about two individuals, Isabella Rodriguez and Klaus Mueller, conversing about exploring a village, getting to know each other, and discovering its hidden gems together on their first official date.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcd6\ud83c\udfa8",
+      "description": "resting in her room (reading a book about digital art techniques) @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        61,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "socializing and participating in Love Ville program activities (asking participants about their interests and hobbies) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        28
+      ],
+      "pronunciatio": "\ud83d\ude0c\ud83d\udcac",
+      "description": "free time to relax and reflect on the day's experiences, or engage in informal conversations with other participants @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:00:20"
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:34:30",
+  "curr_tile": [
+    73,
+    19
+  ],
+  "daily_plan_req": "John Lin is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
+  "name": "John Lin",
+  "first_name": "John",
+  "last_name": "Lin",
+  "age": 45,
+  "innate": "patient, kind, organized",
+  "learned": "John Lin is a pharmacy shop keeper at the Willow Market and Pharmacy who loves to help people. He is always looking for ways to make the process of getting medication easier for his customers.",
+  "currently": "John Lin is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat,  6pm to cook and eat dinner. In real life, he is taking online classes to stay up to date on new medications and treatments. John is also curious about who will be running for the local mayor election next month and he is asking everyone he meets about who will be running in the election.",
+  "lifestyle": "John Lin goes to bed around 10pm, awakes up around 6am, ",
+  "living_area": "the Ville:Lin family's house:Mei and John Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 207,
+  "importance_ele_n": 9,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have breakfast at 7:00 am",
+    "get ready for the Love Ville program at 8:00 am",
+    "arrive at the Hobb Cafe at 9:00 am",
+    "participate in the Love Ville program at the Hobb Cafe from 9:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "explore the Ville Village from 1:00 to 5:00 pm",
+    "arrive at the Hobb Cafe at 6:00 pm",
+    "participate in the Love Ville program at the Hobb Cafe from 6:00 to 8:00 pm,",
+    "have dinner at 8:00 pm,",
+    "go back to the accommodation at 9:00 pm,",
+    "review the day and plan for tomorrow from 9:30 to 10:00 pm, and"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (styling his hair)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (preparing his bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (checking his phone for messages and updates)",
+      5
+    ],
+    [
+      "having breakfast (preparing his breakfast)",
+      10
+    ],
+    [
+      "having breakfast (eating his breakfast)",
+      20
+    ],
+    [
+      "having breakfast (reading the news on his phone)",
+      15
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      10
+    ],
+    [
+      "having breakfast (brushing his teeth)",
+      5
+    ],
+    [
+      "getting ready for the Love Ville program (brushing his teeth)",
+      5
+    ],
+    [
+      "getting ready for the Love Ville program (taking a shower)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (getting dressed)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (styling his hair)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (packing his bag with essentials)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (checking his appearance in the mirror)",
+      5
+    ],
+    [
+      "getting ready for the Love Ville program (putting on his shoes)",
+      5
+    ],
+    [
+      "arriving at the Hobb Cafe and meeting other Love Ville participants (walking to the Hobb Cafe)",
+      15
+    ],
+    [
+      "arriving at the Hobb Cafe and meeting other Love Ville participants (on the way to entering the Hobb Cafe and looking for the Love Ville group)",
+      0
+    ],
+    [
+      "arriving at the Hobb Cafe and meeting other Love Ville participants (conversing about two individuals, Maria Lopez and John Lin, conversing and getting to know each other while exploring the possibilities of a romantic connection during their time at Love Ville, discussing plans for a meal together, playing a game of truth or dare, and potentially sharing a kiss in a secluded spot.)",
+      21
+    ],
+    [
+      "arriving at the Hobb Cafe and meeting other Love Ville participants (introducing himself to the Love Ville group)",
+      9
+    ],
+    [
+      "arriving at the Hobb Cafe and meeting other Love Ville participants (listening to others introduce themselves)",
+      10
+    ],
+    [
+      "arriving at the Hobb Cafe and meeting other Love Ville participants (asking others about their interests and hobbies)",
+      10
+    ],
+    [
+      "arriving at the Hobb Cafe and meeting other Love Ville participants (sharing his own interests and hobbies)",
+      5
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe (introducing himself to other participants)",
+      15
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe (listening to the program facilitator's introduction)",
+      15
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe (participating in an icebreaker activity)",
+      20
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe (engaging in small talk with other participants)",
+      20
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe (asking other participants about their interests)",
+      15
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe (sharing his own interests with other participants)",
+      15
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe (participating in a group discussion about dating preferences)",
+      10
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "arriving at the Hobb Cafe for the evening Love Ville program",
+      60
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe",
+      60
+    ],
+    [
+      "having dinner at the Hobb Cafe with other Love Ville participants",
+      60
+    ],
+    [
+      "going back to his accommodation",
+      60
+    ],
+    [
+      "reviewing the day and planning for tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "getting ready for the Love Ville program",
+      60
+    ],
+    [
+      "arriving at the Hobb Cafe and meeting other Love Ville participants",
+      60
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe",
+      120
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville participants",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "arriving at the Hobb Cafe for the evening Love Ville program",
+      60
+    ],
+    [
+      "participating in the Love Ville program at the Hobb Cafe",
+      60
+    ],
+    [
+      "having dinner at the Hobb Cafe with other Love Ville participants",
+      60
+    ],
+    [
+      "going back to his accommodation",
+      60
+    ],
+    [
+      "reviewing the day and planning for tomorrow",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:31:00",
+  "act_duration": 21,
+  "act_description": "arriving at the Hobb Cafe and meeting other Love Ville participants (conversing about two individuals, Maria Lopez and John Lin, conversing and getting to know each other while exploring the possibilities of a romantic connection during their time at Love Ville, discussing plans for a meal together, playing a game of truth or dare, and potentially sharing a kiss in a secluded spot.)",
+  "act_pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+  "act_event": [
+    "John Lin",
+    "converse",
+    "Maria Lopez and John Lin"
+  ],
+  "act_obj_description": "occupied by John Lin and Maria Lopez, with two cups of coffee on the table, and a board game of truth or dare in the middle of the table, indicating an ongoing social engagement and a potential romantic connection between the two individuals",
+  "act_obj_pronunciatio": "\ud83d\udc95\ud83c\udfb2",
+  "act_obj_event": [
+    "cafe customer seating",
+    "be occupied by",
+    "John Lin and Maria Lopez"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 778
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

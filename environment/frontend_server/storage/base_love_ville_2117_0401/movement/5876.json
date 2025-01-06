@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (participating in a group cooking activity) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        36,
+        32
+      ],
+      "pronunciatio": "\ud83e\udd1d\ud83d\udcbb",
+      "description": "participating in a group activity organized by the Love Ville program (working on a collaborative project) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        34,
+        44
+      ],
+      "pronunciatio": "\ud83c\udfde\ufe0f\ud83d\udeb6",
+      "description": "exploring Ville Village (walking along the river and enjoying the scenery) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        38,
+        21
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca6",
+      "description": "resting in her room (taking a short nap) (freshening up in the bathroom) @ the Ville:artist's co-living space:Abigail Chen's bathroom:bathroom sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        60,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc98\ud83d\udc6b",
+      "description": "socializing and participating in Love Ville program activities (participating in a speed dating activity) @ the Ville:The Rose and Crown Pub:pub:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection (conversing about Maria Lopez and Adam Smith conversing about getting to know each other, exploring the town, and planning adventures together after completing a creative project, while also exchanging playful banter and hints about their personal talents and interests.) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:19:20"
+  }
+}

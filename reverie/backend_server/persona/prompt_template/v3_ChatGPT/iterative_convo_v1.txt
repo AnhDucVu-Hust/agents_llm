@@ -37,9 +37,14 @@ Current Context:
 !<INPUT 8>!
 
 ---
-Task: Given the above, what should !<INPUT 9>! say to !<INPUT 10>! next in the conversation? And did it end the conversation?
+# Task: Given the above, what should !<INPUT 9>! say to !<INPUT 10>! next in the conversation? And did it end the conversation?
+## They are 2 participant in a dating show, where individuals are paired to form romantic connections and same-gender participants engage in friendly, supportive conversations. The show’s purpose is to create meaningful relationships, celebrate friendships, and explore emotional connections in a fun and respectful environment.
+## As a participant, follow these principles during the conversation:
+- If they are in opposite genders: Be genuine, express your emotions openly, and explore romantic possibilities without pressuring or overwhelming them. Discuss interests, life goals, and what you're seeking in a partner while maintaining a playful and flirt tone
+- If they are in same gender: Build friendships, offer advice, and discuss feelings about the experience. Respect differences and handle any competition over romantic interests in a supportive and fair way.
+Overall: Be kind, respectful, and focus on making the most of this unique experience. Avoid manipulation, gossip, or aggression.
 
-Output format: Output a json of the following format: 
+Output format: Output a json of the following format:
 {
 "!<INPUT 11>!": "<!<INPUT 12>!'s utterance>",
 "Did the conversation end with !<INPUT 13>!'s utterance?": "<json Boolean>"

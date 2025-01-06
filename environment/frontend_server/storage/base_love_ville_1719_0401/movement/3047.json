@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        14
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+      "description": "getting ready for the Love Ville program (drying her hair and styling it) @ the Ville:Isabella Rodriguez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        127,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude09",
+      "description": "waking up and completing her morning routine (conversing about a flirtatious conversation between Maria Lopez and Klaus Mueller, where they discuss their morning routines, plan a coffee date, and propose a game of truth or dare with a reward of wearing each other's pajamas, all while exchanging playful and charming remarks.) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:blackboard",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude09",
+      "description": "waking up and completing his morning routine (conversing about a flirtatious conversation between Maria Lopez and Klaus Mueller, where they discuss their morning routines, plan a coffee date, and propose a game of truth or dare with a reward of wearing each other's pajamas, all while exchanging playful and charming remarks.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        39,
+        21
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "waking up and completing her morning routine (taking a shower) @ the Ville:artist's co-living space:Abigail Chen's bathroom:bathroom sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        89,
+        74
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "getting ready for the Love Ville program (getting dressed) @ the Ville:Lin family's house:Mei and John Lin's bedroom:desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (packing his bag with essentials (notebook, pen, etc.)) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:27:50"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udcac",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (conversing about flirting and conversing about cooking and sharing a meal together, specifically making a Snickers pie, between John Lin and Isabella Rodriguez, with Abigail mentioned as Isabella's partner in the cooking plans.) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        83,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udcac",
+      "description": "getting to know and socializing with the other Love Ville program participants (talking about her studies in physics and asking about their academic interests) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude18",
+      "description": "at Hobb Cafe cooking and eating breakfast with other Love Ville participants (conversing about flirtatious and playful banter between Abigail Chen and Klaus Mueller, two ensign and lieutenant respectively, as they discuss their potential romantic interests, make plans for an impulsive adventure to explore a village and its swimming spot, and exchange teasing and suggestive comments.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude09",
+      "description": "getting to know and talking to other participants at the hobb cafe (conversing about flirtatious and playful banter between Abigail Chen and Klaus Mueller, two ensign and lieutenant respectively, as they discuss their potential romantic interests, make plans for an impulsive adventure to explore a village and its swimming spot, and exchange teasing and suggestive comments.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, John Lin and Adam Smith, conversing about their shared love of food, planning a lunch and dinner getaway, and playfully flirting with each other as they embark on a mysterious adventure together. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "John Lin",
+          "Hey Adam, i couldn't help but notice your breakfast game is on point! mirrored don't you think so? Haha"
+        ],
+        [
+          "Adam Smith",
+          "Oh, John! You're too kind. I've got a weakness for a good breakfast - especially when it's shared with good company. I do believe that food tastes better when it's enjoyed together, don't you agree? "
+        ],
+        [
+          "John Lin",
+          "You're right about that! Shared meals are always better, especially when there's a variety of delicious dishes on the table. I don't know about you, but I'm a sucka for some spicy shrimp stir fry! It's a great way to start the day, don't you think? By the way, nice apron ;)"
+        ],
+        [
+          "Adam Smith",
+          "You know what they say, 'the way to a person's heart is through their stomach.' But I think in our case, it might be the other way around. Our hearts seem to beat for Adventure, and Luckily, I'm starving ;)"
+        ],
+        [
+          "John Lin",
+          "You're right about that! It's like our stomachs are leading us on an adventure. Oh, the possibilities are endless! But, I have a feeling the day will get even more interesting. ;)"
+        ],
+        [
+          "Adam Smith",
+          "You're a hard one to read, John. But I think I speak for both of us when I say, the adventure has just begun. And I can't wait to see where our stomachs lead us next. Maybe we'll even go snorkeling later ;)"
+        ],
+        [
+          "John Lin",
+          "Snorkeling huh? That sounds like a tasty adventure. I'm glad I'm wearing my swimming trunks under these shorts! Perhaps we could dive into some seafood later as a reward for our hard work here in the kitchen? Though the day is young, and there's so much to uncover, I have a feeling it's gonna be a wild ride. Your appetite for adventure is quiteigenence stimulating... wholesomely comforting."
+        ],
+        [
+          "Adam Smith",
+          "You're quite the mysterious one, John. But I think I'd like to get to know you better. How about we skip lunch and go straight for dinner? I know a great place that serves the best seafood in town. Just think about it as two adventurers rewarding themselves after a hard day's work."
+        ],
+        [
+          "John Lin",
+          "I can't deny that this mysterious adventure we're on sounds oh-so-tasty. Though, I should warn you, I'm a slow eater, so you may end up waiting quite some time for dinner! We could always grab a quick lunch while we're out exploring, keep our strength up for the big feast later ;)."
+        ],
+        [
+          "Adam Smith",
+          "Well, I for one, am always up for a quick bite if it means keeping my energy levels up for our big adventure. And who knows, we might just find some tasty treats to tempt our palates. But, I must admit, the prospect of a delicious dinner at thatestis Pietran seafood spot is giving me goosebumps! How about we keep this date Vire if you're willing to brave it ;)"
+        ],
+        [
+          "John Lin",
+          "You're irresistible, Adam. I'd love to join you for a quick lunch and see where the rest of this delicious day takes us. I have a feeling it's going to be a feast for the senses! But before we dash off, I want to hear more about this seafood spot you keep tantalizing me with. Something tells me it might be worth the wait!"
+        ],
+        [
+          "Adam Smith",
+          "You're going to have to earn that dinner, John. I have a feeling you're going to love the view just as much as the menu. Prepare for a little adventure, and let's see where the day takes us. We can figure out the restaurant later - for now, let's just embrace the unknown!"
+        ],
+        [
+          "John Lin",
+          "You know what they say, balancing adrenaline and \u0441\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0443\u044efish is the key to a memorable adventure. And I think our senses are about to go on an exciting rollercoaster ride today. So, shall we embrace this delightful chaos and see where this tasty journey takes us?</br> No, this conversation has definitely not ended :)"
+        ],
+        [
+          "Adam Smith",
+          "Well hello there, adventurous John! I'm thrilled to see you embracing the spirit of exploration. And yes, this unknown we're diving into together is certainly thrilling. But before we embark on our grand adventure, let's seal this pact with a kiss...a kiss on the cheek, of course. Scheme we keep the mystery alive by meeting somewhere exciting for that lunch? Just the two of us and our tantalizing prospects!"
+        ],
+        [
+          "John Lin",
+          "A kiss on the cheek? Why, Adam, you're too kind. But I think I'd like to keep you on your toes a little longer. How about a handshake for now, sealing our adventure pact? After all, we've got a mysterious lunch date to look forward to and plenty of unknowns to uncover. But, if you're really insistening, maybe a kiss on the hand would do ;)"
+        ],
+        [
+          "Adam Smith",
+          "A handshake it is then, but only because I'm fascinated to see where this adventure will take us. But just so you know, I've always been aCACHESweeter as peque\u00f1os when it comes to kisses ;). And for now, let's keep our lunch plans mysterious and llevar. We can uncover the location later!"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, John Lin and Adam Smith, conversing about their shared love of food, planning a lunch and dinner getaway, and playfully flirting with each other as they embark on a mysterious adventure together. @ <persona> John Lin",
+      "chat": [
+        [
+          "John Lin",
+          "Hey Adam, i couldn't help but notice your breakfast game is on point! mirrored don't you think so? Haha"
+        ],
+        [
+          "Adam Smith",
+          "Oh, John! You're too kind. I've got a weakness for a good breakfast - especially when it's shared with good company. I do believe that food tastes better when it's enjoyed together, don't you agree? "
+        ],
+        [
+          "John Lin",
+          "You're right about that! Shared meals are always better, especially when there's a variety of delicious dishes on the table. I don't know about you, but I'm a sucka for some spicy shrimp stir fry! It's a great way to start the day, don't you think? By the way, nice apron ;)"
+        ],
+        [
+          "Adam Smith",
+          "You know what they say, 'the way to a person's heart is through their stomach.' But I think in our case, it might be the other way around. Our hearts seem to beat for Adventure, and Luckily, I'm starving ;)"
+        ],
+        [
+          "John Lin",
+          "You're right about that! It's like our stomachs are leading us on an adventure. Oh, the possibilities are endless! But, I have a feeling the day will get even more interesting. ;)"
+        ],
+        [
+          "Adam Smith",
+          "You're a hard one to read, John. But I think I speak for both of us when I say, the adventure has just begun. And I can't wait to see where our stomachs lead us next. Maybe we'll even go snorkeling later ;)"
+        ],
+        [
+          "John Lin",
+          "Snorkeling huh? That sounds like a tasty adventure. I'm glad I'm wearing my swimming trunks under these shorts! Perhaps we could dive into some seafood later as a reward for our hard work here in the kitchen? Though the day is young, and there's so much to uncover, I have a feeling it's gonna be a wild ride. Your appetite for adventure is quiteigenence stimulating... wholesomely comforting."
+        ],
+        [
+          "Adam Smith",
+          "You're quite the mysterious one, John. But I think I'd like to get to know you better. How about we skip lunch and go straight for dinner? I know a great place that serves the best seafood in town. Just think about it as two adventurers rewarding themselves after a hard day's work."
+        ],
+        [
+          "John Lin",
+          "I can't deny that this mysterious adventure we're on sounds oh-so-tasty. Though, I should warn you, I'm a slow eater, so you may end up waiting quite some time for dinner! We could always grab a quick lunch while we're out exploring, keep our strength up for the big feast later ;)."
+        ],
+        [
+          "Adam Smith",
+          "Well, I for one, am always up for a quick bite if it means keeping my energy levels up for our big adventure. And who knows, we might just find some tasty treats to tempt our palates. But, I must admit, the prospect of a delicious dinner at thatestis Pietran seafood spot is giving me goosebumps! How about we keep this date Vire if you're willing to brave it ;)"
+        ],
+        [
+          "John Lin",
+          "You're irresistible, Adam. I'd love to join you for a quick lunch and see where the rest of this delicious day takes us. I have a feeling it's going to be a feast for the senses! But before we dash off, I want to hear more about this seafood spot you keep tantalizing me with. Something tells me it might be worth the wait!"
+        ],
+        [
+          "Adam Smith",
+          "You're going to have to earn that dinner, John. I have a feeling you're going to love the view just as much as the menu. Prepare for a little adventure, and let's see where the day takes us. We can figure out the restaurant later - for now, let's just embrace the unknown!"
+        ],
+        [
+          "John Lin",
+          "You know what they say, balancing adrenaline and \u0441\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u0443\u044efish is the key to a memorable adventure. And I think our senses are about to go on an exciting rollercoaster ride today. So, shall we embrace this delightful chaos and see where this tasty journey takes us?</br> No, this conversation has definitely not ended :)"
+        ],
+        [
+          "Adam Smith",
+          "Well hello there, adventurous John! I'm thrilled to see you embracing the spirit of exploration. And yes, this unknown we're diving into together is certainly thrilling. But before we embark on our grand adventure, let's seal this pact with a kiss...a kiss on the cheek, of course. Scheme we keep the mystery alive by meeting somewhere exciting for that lunch? Just the two of us and our tantalizing prospects!"
+        ],
+        [
+          "John Lin",
+          "A kiss on the cheek? Why, Adam, you're too kind. But I think I'd like to keep you on your toes a little longer. How about a handshake for now, sealing our adventure pact? After all, we've got a mysterious lunch date to look forward to and plenty of unknowns to uncover. But, if you're really insistening, maybe a kiss on the hand would do ;)"
+        ],
+        [
+          "Adam Smith",
+          "A handshake it is then, but only because I'm fascinated to see where this adventure will take us. But just so you know, I've always been aCACHESweeter as peque\u00f1os when it comes to kisses ;). And for now, let's keep our lunch plans mysterious and llevar. We can uncover the location later!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:58:50"
+  }
+}

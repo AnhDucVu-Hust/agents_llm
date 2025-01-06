@@ -1,0 +1,79 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (chatting with someone she connected with during speed dating) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and John Lin conversing about planning a weekend of cooking together and taking their culinary skills to the next level @ <persona> John Lin",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey John, nice to see you again! I was thinking, since we're both free this weekend, we could take our cooking skills to the next level and whip up a storm in the kitchen. What do you say? \ud83c\udf73\ud83c\udf72"
+        ],
+        [
+          "John Lin",
+          "I'd love to. A culinary adventure with you sounds like the perfect way to spend a weekend. And who knows, maybe we'll create a masterpiece that'll blow everyone's minds. But more importantly, it's a great excuse to spend some quality time together.mixed_smile That being said, the real question is, are you ready for the challenge, Maria?stuck_out_tongue_winking_eye"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        53,
+        22
+      ],
+      "pronunciatio": "\ud83c\udfef\ud83d\uddbc",
+      "description": "exploring Ville Village (visiting the village museum) @ the Ville:Oak Hill College:library:library sofa",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcd6\ud83c\udfa8",
+      "description": "resting in her room (reading a book about digital art techniques) @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and John Lin conversing about planning a weekend of cooking together and taking their culinary skills to the next level @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey John, nice to see you again! I was thinking, since we're both free this weekend, we could take our cooking skills to the next level and whip up a storm in the kitchen. What do you say? \ud83c\udf73\ud83c\udf72"
+        ],
+        [
+          "John Lin",
+          "I'd love to. A culinary adventure with you sounds like the perfect way to spend a weekend. And who knows, maybe we'll create a masterpiece that'll blow everyone's minds. But more importantly, it's a great excuse to spend some quality time together.mixed_smile That being said, the real question is, are you ready for the challenge, Maria?stuck_out_tongue_winking_eye"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        36,
+        28
+      ],
+      "pronunciatio": "\ud83d\ude0c\ud83d\udcac",
+      "description": "free time to relax and reflect on the day's experiences, or engage in informal conversations with other participants @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:12:40"
+  }
+}

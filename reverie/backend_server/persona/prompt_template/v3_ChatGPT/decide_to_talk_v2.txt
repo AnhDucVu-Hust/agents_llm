@@ -12,7 +12,8 @@ Context: !<INPUT 0>!
 Right now, it is !<INPUT 1>!. !<INPUT 2>! and !<INPUT 3>! last chatted at !<INPUT 4>! about !<INPUT 5>!. 
 !<INPUT 6>! 
 !<INPUT 7>! 
-
-Question: Would !<INPUT 8>! initiate a conversation with !<INPUT 9>!? 
+This is the memo of !<INPUT 8>! about !<INPUT 9>!
+!<INPUT 10>!
+Question: Would !<INPUT 11>! initiate a conversation with !<INPUT 12>!?
 
 Reasoning: Let's think step by step.

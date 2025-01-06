@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "having breakfast (getting dressed for the day) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "waking up and completing her morning routine (conversing about their experiences, expectations, and plans while participating in the Love Ville program, where Maria Lopez and Klaus Mueller express enthusiasm and agreement as they discuss their interests, make plans for a hike at 5 pm, and explore possibilities for socializing and getting to know other participants.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "waking up and completing his morning routine (conversing about their experiences, expectations, and plans while participating in the Love Ville program, where Maria Lopez and Klaus Mueller express enthusiasm and agreement as they discuss their interests, make plans for a hike at 5 pm, and explore possibilities for socializing and getting to know other participants.) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        67
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "having breakfast (checking his emails) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast (reviewing his notes from the previous day's interactions and reflecting on his goals for the day) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:51:20"
+  }
+}

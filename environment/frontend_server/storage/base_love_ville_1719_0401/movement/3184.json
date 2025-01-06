@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f\ud83d\udc84",
+      "description": "getting ready for the Love Ville program (putting on her outfit and accessories) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        55
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f\ud83d\udc55",
+      "description": "getting ready for the day and preparing to head to the Hobb Cafe for breakfast (choosing an outfit for the day and getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "going to Hobb Cafe to meet other participants at the Love Ville program (introducing himself to other participants) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "waking up and completing her morning routine (getting dressed) @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        89,
+        70
+      ],
+      "pronunciatio": "\ud83e\ude9e",
+      "description": "getting ready for the Love Ville program (checking his appearance in the mirror) @ the Ville:Lin family's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\u2601\ufe0f",
+      "description": "preparing to head to the hobb cafe for breakfast with the Love Ville program participants (checking the weather and adjusting his outfit if necessary) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:50:40"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udc4b",
+      "description": "attending the Love Ville program and doing the first day activity at Hobbs Cafe (arriving at Hobbs Cafe and greeting the other participants) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        54
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f\ud83e\ude9e",
+      "description": "getting ready for the day, picking out an outfit and doing her hair and makeup (grabbing her bag and checking her appearance in the mirror) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83e\ude9e",
+      "description": "getting ready for the day and preparing to head to Hobb Cafe for breakfast (checking his appearance in the mirror) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        64,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "cooking and eating breakfast with the other participants at the hobb cafe (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        80,
+        43
+      ],
+      "pronunciatio": "\ud83d\udeb6\ufe0f\ud83c\udfe0",
+      "description": "attending the Love Ville program and cooking/eating with other participants at the Hobb Cafe (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        41,
+        34
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:02:30"
+  }
+}

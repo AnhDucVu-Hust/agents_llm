@@ -1,0 +1,321 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude18",
+      "description": "attending the Love Ville program and doing the first day activity at Hobbs Cafe (conversing about a flirtatious and adventurous conversation between Isabella Rodriguez and Adam Smith, where they meet at a program, hit it off, and decide to explore the town together, getting to know each other better and potentially starting a romantic relationship.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Maria Lopez and Abigail Chen, conversing about their personal connections, relationships, and plans for the day, including a potential date with someone and a trip to the parc Piscine Rouge, while exchanging flirtatious and playful comments with each other. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Abigail! I couldn't help but notice you having a galactically awesome conversation with John over there. Looks like you two really hit it off! I think I spot some serious fireworks potential there. \ud83d\udc41\ud83c\udfc6\ud83c\udf89"
+        ],
+        [
+          "Abigail Chen",
+          "Hey Maria, you're not wrong there! I think I've found my morning cup of coffee \ud83d\ude09 But shhh, let's not interrupt the cosmic connection OVER THERE. We don't want toLITERAL\u30b9\u30d1\u30a4\u30c0\u30fc\u30b9 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439Parry too early haha! But thanks, this pancake is indeed delish \ud83d\ude0b"
+        ],
+        [
+          "Maria Lopez",
+          "Well, I think it's time for an interstellar adventure, what do you say? You and your 'cup of coffee' wanna blast off with me sometime? \ud83d\udcab"
+        ],
+        [
+          "Abigail Chen",
+          "An interstellar adventure sounds like the perfect plan! We could create our own cosmic connection, Maria \ud83e\udd2a Perhaps a trip to the parc Piscine Rouge later today? It's a lovely spot to watch the galaxies collide \ud83d\ude0f"
+        ],
+        [
+          "Maria Lopez",
+          " v\u0129 \u064a\u0642\u0648\u0644\u0648\u0646 \u0623\u0646 \u0627\u0644\u0646\u062c\u0648\u0645 \u0645\u0628\u0646\u064a\u0629 \u0644\u0644\u0627\u0644\u062a\u0642\u0627\u0621 \u060c \u0648\u0631\u0628\u0645\u0627 \u064a\u0646\u062a\u0638\u0631\u0646\u0627 destino Rom\u00e1ntico \u0647\u0646\u0627\u0643 \u0641\u064a \u0627\u0644\u0645\u0633\u0627\u0621 \ud83d\udc65 Tigris for two, anyone?\ud83c\udf03\ud83d\ude18"
+        ],
+        [
+          "Abigail Chen",
+          "I'm glad the universes aligned and brought us together, Maria! A langue de Constantino for two by the evening stars sounds like a wonderful way to spend the night. And who knows, the possibilities are endless when cosmos collide \ud83d\ude09"
+        ],
+        [
+          "Maria Lopez",
+          "You're such a scorching comet, Abigail! I'm glad you're within my orbit. See you at the parc this evening, and who knows what adventures await us under the stars! \ud83d\ude18"
+        ],
+        [
+          "Abigail Chen",
+          "You're a bright comet in my sky, Maria. I'm thrilled that our paths have crossed in this cosmic dance. This evening promises to be aiutare scintillating adventure. Until then, I'll be daydreaming of the galaxies we'll explore together."
+        ],
+        [
+          "Maria Lopez",
+          "Well, well, well... Looks like we've both got some exciting plans lined up! You and your coffee date, me and my... evening\u5730\u5716 zosta\u0142awyiania faith! But hey, lets grab our \uc0ac\uace0 olduk\u00e7a manners and jog over to the pool, shall we?Cab we excuse ourselves, dearies? ;)"
+        ],
+        [
+          "Abigail Chen",
+          "Until then, Maria, I'll be counting down the minutes until our universes collide again this evening. It's a date! \ud83d\ude18"
+        ],
+        [
+          "Maria Lopez",
+          "Hey, our breakfasts are calling us, how about we rocket over to the pool and make some waves? We wouldn't want our meal to cool down now, would we? \ud83d\ude0e"
+        ],
+        [
+          "Abigail Chen",
+          "The pool it is then! I've been struggling to determine the best way to spend my afternoon, and you've helped me splash down the right idea! Let's make a dash for it, the morning chit-chat can wait \ud83d\ude01"
+        ],
+        [
+          "Maria Lopez",
+          "Looks like we're both in for a thrilling day! Adding some spontaneous splashes to it makes it even more produsqueew\u5e03\u7f6e Republic the evening. By the way, you didn't happen to notice a certain dashing gentlemanSerial the breakfast table, did you? I noticed a tall, dark-haired guy who seemed rather intriguing.."
+        ],
+        [
+          "Abigail Chen",
+          "Hmm, a tall dark mystery man, Intriguing! But alas, I'm afraid I haven't had the pleasure of locking eyes with this mysterious guy you speak of. Maybe he's a stowaway from another galaxy, here to steal the hearts of ladies at the Hobb Cafe. If so, consider mine officially stolen! Lols!"
+        ],
+        [
+          "Maria Lopez",
+          "Sorry to hear that, I guess the mysterious man is just a myth then... or perhaps a historical figure, like a space explorer who has travelled across the galaxies and settled in our midst! In any case, I'm glad our paths have crossed, Abigail. It seems like we're both in for a thrilling day filled with exciting plans and cosmic connections."
+        ],
+        [
+          "Abigail Chen",
+          "Well, if we don't spot our mysterious affections today, it's destined to be a Galactic getaway with just you and I, Maria! The stars have aligned for us, and here's to hoping that our Joneses align too ;). Shall we rocket outta here or are you dying to say hi to prince charming over there?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a romantic and cosmic adventure between Klaus Mueller and John Lin, where they discuss their shared interest in coffee, cooking, and potentially setting up a double date with Abigail, all while exchanging playful and flirtatious banter. @ <persona> John Lin",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey John, nice to see you here! I must say, I've noticed you've got an eye for detail; the way you kept the affirming nods up your sleeve during that intriguing breakfast conversation with Abigail was impressive. So, is there a special someone you have in mind for all this romantic planning?"
+        ],
+        [
+          "John Lin",
+          "Ah Klaus, you're a \u03b3\u03bd\u03c9\u03c3\u03c4\u03cc\u03c2 observer! Yes, I have someone special in mind, but it's a surprise! You'll have to wait and see who I've got my eye on. But I can tell you, she's someone who appreciates a good cup of coffee and a well-cooked meal ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "Well, if she's into coffee and delicious meals, I might just have a few suggestions up my sleeve too. And you know what they say about shared interests... However, I'm even more curious about the lucky lady now! But I suppose we both have some secrets to keep for a bit longer. Let's enjoy the mysterywhile it lasts!"
+        ],
+        [
+          "John Lin",
+          "You're right, Klaus! Shared interests are a great foundation for a budding romance. I'm glad we're keeping each other on our toes with these charming secrets. But I have a feeling you're the type of guy who can help physicist reveal the mysteries of the universe... or at least, the mystery of a certain someone's favorite coffee spot!"
+        ],
+        [
+          "Klaus Mueller",
+          "You know, I've been thinking about transforming one of the Hobb Cafe's tables into a cosmic portal that enables us to explore the universe over a cup of coffee. Care to join me on this interstellar adventure, Captain Lin? And who knows, we might just unlock some romantic mysteries along the way..."
+        ],
+        [
+          "John Lin",
+          "I'm all for cosmic adventures, especially when they involve coffee and a certain someone. And who knows, maybe we'll end up discovering new romantic galaxies along the way. So, when do we set sail, Captain Mueller?"
+        ],
+        [
+          "Klaus Mueller",
+          "Gladly, Captain Lin! I think we're both due for an intergalactic voyage to some unpublished coffee worlds. And who knows, maybe we'll find some hidden treasures out there that no one has ever seen before. Say, around 10 pm tonight after the scritte dinner? We could even cook up a meal together before our expedition, what say you?"
+        ],
+        [
+          "John Lin",
+          "I've got my space suit at the ready, Captain Mueller! For a mission like this, we might need some extra fuel... perhaps some nice red wine to go with our meal? I hear the galaxies have some excellent resultant varieties."
+        ],
+        [
+          "Klaus Mueller",
+          "Red wine, you say? That's a very intriguing idea. I have a feeling that with a bottle of wine and our cooking skills, we might just charm our way into a few galaxies' worth of secrets. And you know what they say about discovered treasure, right? That's a bond worth exploring medicated by the juiceiloququence of grapes. So, shall we say 10 pm sharp, Captain? prepare your spaceships for a cosmic adventure!"
+        ],
+        [
+          "John Lin",
+          "You're a very persuasive man, Captain Mueller! How could anyone refuse such a tantalizing offer? I'm thrilled to embark on this cosmic voyage with you, especially with the prospect of unlocking hidden romantic treasures. So, 10 pm it is! See you then for our pre-flight meal and some intergalactic exploration."
+        ],
+        [
+          "Klaus Mueller",
+          "Glad we're on the same page, Captain Lin! By the way, I have a feeling your 'someone special' might be someone I know. Any hints or hints or, better yet, a subtle hint of synergy between our potential bli with this mysterious lady?"
+        ],
+        [
+          "John Lin",
+          "Klaus, you're an enigma wrapped in a mystery! But I'll give you a hint: this lady's name begins with an A. And if you can unravel that clue, you might just be able to Alianza with the person I have in mind. As for the synergy, well, let's just say that the universe has a way of bringing like-minded souls together. So, until tonight's cosmic adventure, may the force of love and coffee be with you!"
+        ],
+        [
+          "Klaus Mueller",
+          "Well, Captain Lin, it seems like we're both jailbreaking the universe's secrets tonight! As for your mysterious lady, I have a feeling it might be someone who's also participating in the program, someone I've been meaning to talk to. Is this 'A' person maybe... Abigail? And if so, I think the universe just might be hinting at a\u30e9\u30b9\u3080 grouped date, what say you?;)"
+        ],
+        [
+          "John Lin",
+          "Klaus, you're such a meticulousVerboso observer! How did you guess so correctly? Yes, it is indeed Abigail that I've been hostingButtonText all this flirty banter towards. And now that you mention it, a collective date sounds like the universe's way of bringing intended souls together. I think the darling Abigail would love that! We turn Prusia often, don't we? So, let's make it happen, Captain Mueller! Having you as a wingman will definitely increase the hit rate of my awkward flirting."
+        ],
+        [
+          "Klaus Mueller",
+          " \u0633\u0639\u064a\u062fierten Words cannot express the joy that's sparkling within me at the prospect of a double date with you and charming Abigail. And if you think your flirting's awkward, I can assure you that mine's even more so! But together, we might just create a\u043e\u0431\u0449e act that'll make our hearts sprint. So, let's embark on this romantic journey, where the destination is a cosmic Soci Viene filled with fun, laughter, and who knows what other delightful surprises!"
+        ],
+        [
+          "John Lin",
+          "You're an unforgettable reactor, Captain! You seem to have a magical key to every locked door, including the ones leading to secret cosmic dates. I'm delighted to have you as my guide in this bewildering universe of love and coffee aromas. And now, the sunbed of our mission awaits... Our guitars are buzzing with anticipation."
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Maria Lopez and Abigail Chen, conversing about their personal connections, relationships, and plans for the day, including a potential date with someone and a trip to the parc Piscine Rouge, while exchanging flirtatious and playful comments with each other. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Abigail! I couldn't help but notice you having a galactically awesome conversation with John over there. Looks like you two really hit it off! I think I spot some serious fireworks potential there. \ud83d\udc41\ud83c\udfc6\ud83c\udf89"
+        ],
+        [
+          "Abigail Chen",
+          "Hey Maria, you're not wrong there! I think I've found my morning cup of coffee \ud83d\ude09 But shhh, let's not interrupt the cosmic connection OVER THERE. We don't want toLITERAL\u30b9\u30d1\u30a4\u30c0\u30fc\u30b9 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439Parry too early haha! But thanks, this pancake is indeed delish \ud83d\ude0b"
+        ],
+        [
+          "Maria Lopez",
+          "Well, I think it's time for an interstellar adventure, what do you say? You and your 'cup of coffee' wanna blast off with me sometime? \ud83d\udcab"
+        ],
+        [
+          "Abigail Chen",
+          "An interstellar adventure sounds like the perfect plan! We could create our own cosmic connection, Maria \ud83e\udd2a Perhaps a trip to the parc Piscine Rouge later today? It's a lovely spot to watch the galaxies collide \ud83d\ude0f"
+        ],
+        [
+          "Maria Lopez",
+          " v\u0129 \u064a\u0642\u0648\u0644\u0648\u0646 \u0623\u0646 \u0627\u0644\u0646\u062c\u0648\u0645 \u0645\u0628\u0646\u064a\u0629 \u0644\u0644\u0627\u0644\u062a\u0642\u0627\u0621 \u060c \u0648\u0631\u0628\u0645\u0627 \u064a\u0646\u062a\u0638\u0631\u0646\u0627 destino Rom\u00e1ntico \u0647\u0646\u0627\u0643 \u0641\u064a \u0627\u0644\u0645\u0633\u0627\u0621 \ud83d\udc65 Tigris for two, anyone?\ud83c\udf03\ud83d\ude18"
+        ],
+        [
+          "Abigail Chen",
+          "I'm glad the universes aligned and brought us together, Maria! A langue de Constantino for two by the evening stars sounds like a wonderful way to spend the night. And who knows, the possibilities are endless when cosmos collide \ud83d\ude09"
+        ],
+        [
+          "Maria Lopez",
+          "You're such a scorching comet, Abigail! I'm glad you're within my orbit. See you at the parc this evening, and who knows what adventures await us under the stars! \ud83d\ude18"
+        ],
+        [
+          "Abigail Chen",
+          "You're a bright comet in my sky, Maria. I'm thrilled that our paths have crossed in this cosmic dance. This evening promises to be aiutare scintillating adventure. Until then, I'll be daydreaming of the galaxies we'll explore together."
+        ],
+        [
+          "Maria Lopez",
+          "Well, well, well... Looks like we've both got some exciting plans lined up! You and your coffee date, me and my... evening\u5730\u5716 zosta\u0142awyiania faith! But hey, lets grab our \uc0ac\uace0 olduk\u00e7a manners and jog over to the pool, shall we?Cab we excuse ourselves, dearies? ;)"
+        ],
+        [
+          "Abigail Chen",
+          "Until then, Maria, I'll be counting down the minutes until our universes collide again this evening. It's a date! \ud83d\ude18"
+        ],
+        [
+          "Maria Lopez",
+          "Hey, our breakfasts are calling us, how about we rocket over to the pool and make some waves? We wouldn't want our meal to cool down now, would we? \ud83d\ude0e"
+        ],
+        [
+          "Abigail Chen",
+          "The pool it is then! I've been struggling to determine the best way to spend my afternoon, and you've helped me splash down the right idea! Let's make a dash for it, the morning chit-chat can wait \ud83d\ude01"
+        ],
+        [
+          "Maria Lopez",
+          "Looks like we're both in for a thrilling day! Adding some spontaneous splashes to it makes it even more produsqueew\u5e03\u7f6e Republic the evening. By the way, you didn't happen to notice a certain dashing gentlemanSerial the breakfast table, did you? I noticed a tall, dark-haired guy who seemed rather intriguing.."
+        ],
+        [
+          "Abigail Chen",
+          "Hmm, a tall dark mystery man, Intriguing! But alas, I'm afraid I haven't had the pleasure of locking eyes with this mysterious guy you speak of. Maybe he's a stowaway from another galaxy, here to steal the hearts of ladies at the Hobb Cafe. If so, consider mine officially stolen! Lols!"
+        ],
+        [
+          "Maria Lopez",
+          "Sorry to hear that, I guess the mysterious man is just a myth then... or perhaps a historical figure, like a space explorer who has travelled across the galaxies and settled in our midst! In any case, I'm glad our paths have crossed, Abigail. It seems like we're both in for a thrilling day filled with exciting plans and cosmic connections."
+        ],
+        [
+          "Abigail Chen",
+          "Well, if we don't spot our mysterious affections today, it's destined to be a Galactic getaway with just you and I, Maria! The stars have aligned for us, and here's to hoping that our Joneses align too ;). Shall we rocket outta here or are you dying to say hi to prince charming over there?"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        80,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a romantic and cosmic adventure between Klaus Mueller and John Lin, where they discuss their shared interest in coffee, cooking, and potentially setting up a double date with Abigail, all while exchanging playful and flirtatious banter. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey John, nice to see you here! I must say, I've noticed you've got an eye for detail; the way you kept the affirming nods up your sleeve during that intriguing breakfast conversation with Abigail was impressive. So, is there a special someone you have in mind for all this romantic planning?"
+        ],
+        [
+          "John Lin",
+          "Ah Klaus, you're a \u03b3\u03bd\u03c9\u03c3\u03c4\u03cc\u03c2 observer! Yes, I have someone special in mind, but it's a surprise! You'll have to wait and see who I've got my eye on. But I can tell you, she's someone who appreciates a good cup of coffee and a well-cooked meal ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "Well, if she's into coffee and delicious meals, I might just have a few suggestions up my sleeve too. And you know what they say about shared interests... However, I'm even more curious about the lucky lady now! But I suppose we both have some secrets to keep for a bit longer. Let's enjoy the mysterywhile it lasts!"
+        ],
+        [
+          "John Lin",
+          "You're right, Klaus! Shared interests are a great foundation for a budding romance. I'm glad we're keeping each other on our toes with these charming secrets. But I have a feeling you're the type of guy who can help physicist reveal the mysteries of the universe... or at least, the mystery of a certain someone's favorite coffee spot!"
+        ],
+        [
+          "Klaus Mueller",
+          "You know, I've been thinking about transforming one of the Hobb Cafe's tables into a cosmic portal that enables us to explore the universe over a cup of coffee. Care to join me on this interstellar adventure, Captain Lin? And who knows, we might just unlock some romantic mysteries along the way..."
+        ],
+        [
+          "John Lin",
+          "I'm all for cosmic adventures, especially when they involve coffee and a certain someone. And who knows, maybe we'll end up discovering new romantic galaxies along the way. So, when do we set sail, Captain Mueller?"
+        ],
+        [
+          "Klaus Mueller",
+          "Gladly, Captain Lin! I think we're both due for an intergalactic voyage to some unpublished coffee worlds. And who knows, maybe we'll find some hidden treasures out there that no one has ever seen before. Say, around 10 pm tonight after the scritte dinner? We could even cook up a meal together before our expedition, what say you?"
+        ],
+        [
+          "John Lin",
+          "I've got my space suit at the ready, Captain Mueller! For a mission like this, we might need some extra fuel... perhaps some nice red wine to go with our meal? I hear the galaxies have some excellent resultant varieties."
+        ],
+        [
+          "Klaus Mueller",
+          "Red wine, you say? That's a very intriguing idea. I have a feeling that with a bottle of wine and our cooking skills, we might just charm our way into a few galaxies' worth of secrets. And you know what they say about discovered treasure, right? That's a bond worth exploring medicated by the juiceiloququence of grapes. So, shall we say 10 pm sharp, Captain? prepare your spaceships for a cosmic adventure!"
+        ],
+        [
+          "John Lin",
+          "You're a very persuasive man, Captain Mueller! How could anyone refuse such a tantalizing offer? I'm thrilled to embark on this cosmic voyage with you, especially with the prospect of unlocking hidden romantic treasures. So, 10 pm it is! See you then for our pre-flight meal and some intergalactic exploration."
+        ],
+        [
+          "Klaus Mueller",
+          "Glad we're on the same page, Captain Lin! By the way, I have a feeling your 'someone special' might be someone I know. Any hints or hints or, better yet, a subtle hint of synergy between our potential bli with this mysterious lady?"
+        ],
+        [
+          "John Lin",
+          "Klaus, you're an enigma wrapped in a mystery! But I'll give you a hint: this lady's name begins with an A. And if you can unravel that clue, you might just be able to Alianza with the person I have in mind. As for the synergy, well, let's just say that the universe has a way of bringing like-minded souls together. So, until tonight's cosmic adventure, may the force of love and coffee be with you!"
+        ],
+        [
+          "Klaus Mueller",
+          "Well, Captain Lin, it seems like we're both jailbreaking the universe's secrets tonight! As for your mysterious lady, I have a feeling it might be someone who's also participating in the program, someone I've been meaning to talk to. Is this 'A' person maybe... Abigail? And if so, I think the universe just might be hinting at a\u30e9\u30b9\u3080 grouped date, what say you?;)"
+        ],
+        [
+          "John Lin",
+          "Klaus, you're such a meticulousVerboso observer! How did you guess so correctly? Yes, it is indeed Abigail that I've been hostingButtonText all this flirty banter towards. And now that you mention it, a collective date sounds like the universe's way of bringing intended souls together. I think the darling Abigail would love that! We turn Prusia often, don't we? So, let's make it happen, Captain Mueller! Having you as a wingman will definitely increase the hit rate of my awkward flirting."
+        ],
+        [
+          "Klaus Mueller",
+          " \u0633\u0639\u064a\u062fierten Words cannot express the joy that's sparkling within me at the prospect of a double date with you and charming Abigail. And if you think your flirting's awkward, I can assure you that mine's even more so! But together, we might just create a\u043e\u0431\u0449e act that'll make our hearts sprint. So, let's embark on this romantic journey, where the destination is a cosmic Soci Viene filled with fun, laughter, and who knows what other delightful surprises!"
+        ],
+        [
+          "John Lin",
+          "You're an unforgettable reactor, Captain! You seem to have a magical key to every locked door, including the ones leading to secret cosmic dates. I'm delighted to have you as my guide in this bewildering universe of love and coffee aromas. And now, the sunbed of our mission awaits... Our guitars are buzzing with anticipation."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "at the Hobb Cafe cooking and eating breakfast with the Love Ville program participants, engaging in conversation and getting to know everyone (conversing about a flirtatious and adventurous conversation between Isabella Rodriguez and Adam Smith, where they meet at a program, hit it off, and decide to explore the town together, getting to know each other better and potentially starting a romantic relationship.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:39:20"
+  }
+}

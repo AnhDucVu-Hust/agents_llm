@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (chatting with a participant she finds interesting) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        121,
+        33
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "continuing to socialize and get to know the other Love Ville program participants (asking the participant about their hobbies and interests) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udc65",
+      "description": "at Hobb Cafe cooking and eating breakfast with other Love Ville participants (eating breakfast with other participants) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        83,
+        26
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "getting to know and talking to other participants at the hobb cafe (asking about their hobbies and interests) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        54,
+        26
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udc6b",
+      "description": "socializing and getting to know the other Love Ville participants (conversing about two friends, John Lin and Adam Smith, conversing about their shared love of food, planning a lunch and dinner getaway, and playfully flirting with each other as they embark on a mysterious adventure together.) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udc6b",
+      "description": "participating in a group icebreaker activity with the Love Ville program participants, sharing his thoughts on creativity and getting to know others' perspectives (conversing about two friends, John Lin and Adam Smith, conversing about their shared love of food, planning a lunch and dinner getaway, and playfully flirting with each other as they embark on a mysterious adventure together.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:08:50"
+  }
+}

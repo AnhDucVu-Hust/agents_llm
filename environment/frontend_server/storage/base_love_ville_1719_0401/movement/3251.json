@@ -1,0 +1,95 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller conversing about getting to know each other better, exchanging charming compliments and playful suggestions for a game to break the ice. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi there, I don't think we've met yet! I'm Isabella, but you can call me Bella. I couldn't help but notice your energetic introduction earlier. It definitely captured everyone's attention!"
+        ],
+        [
+          "Klaus Mueller",
+          "Pleasure to meet you, Bella! I'm Klaus, but you can definitely call me Klaux. Couldn't let a beauty like you go without introducing myself. Your dimples are too charming to be left un \u0646\u0641\u0648\u0630 hearted, and I must admit, I'm curious to know more about this energetic person everyone's been talking about."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Well, Klaux, you're too kind! I must say, I'm intrigued by your mysterious aura. You seem like quite the interesting fellow. So, tell me more about this captivating person behind the dashing smile?"
+        ],
+        [
+          "Klaus Mueller",
+          "Why thank you, Bella! I aim to charm and captivate, and it seems like I've succeeded with you. You'll have to let me in on the secret to your radiant glow and infectious energy - it's certainly working its magic on me. And as they say, curiosity killed the cat, but I think it's time we satisfied yours, don't you agree? How about a little game, just the two of us? It could be a fun way to get to know each other better"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        117,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "having breakfast at the Hobb Cafe with the other Love Ville participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller conversing about getting to know each other better, exchanging charming compliments and playful suggestions for a game to break the ice. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi there, I don't think we've met yet! I'm Isabella, but you can call me Bella. I couldn't help but notice your energetic introduction earlier. It definitely captured everyone's attention!"
+        ],
+        [
+          "Klaus Mueller",
+          "Pleasure to meet you, Bella! I'm Klaus, but you can definitely call me Klaux. Couldn't let a beauty like you go without introducing myself. Your dimples are too charming to be left un \u0646\u0641\u0648\u0630 hearted, and I must admit, I'm curious to know more about this energetic person everyone's been talking about."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Well, Klaux, you're too kind! I must say, I'm intrigued by your mysterious aura. You seem like quite the interesting fellow. So, tell me more about this captivating person behind the dashing smile?"
+        ],
+        [
+          "Klaus Mueller",
+          "Why thank you, Bella! I aim to charm and captivate, and it seems like I've succeeded with you. You'll have to let me in on the secret to your radiant glow and infectious energy - it's certainly working its magic on me. And as they say, curiosity killed the cat, but I think it's time we satisfied yours, don't you agree? How about a little game, just the two of us? It could be a fun way to get to know each other better"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        90,
+        65
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "arriving at the Hobb Cafe and meeting other Love Ville participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        37,
+        36
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "at the hobb cafe cooking and eating breakfast with the Love Ville program participants (greeting the other participants and introducing himself) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:01:50"
+  }
+}

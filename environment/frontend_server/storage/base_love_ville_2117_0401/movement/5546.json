@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing the Love Ville program activity at Hobbs Cafe (chatting with someone she connected with during speed dating) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        55,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "participating in a group activity organized by the Love Ville program (participating in a group discussion) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        57,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfdb\ufe0f",
+      "description": "exploring Ville Village (visiting the village museum) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        40,
+        18
+      ],
+      "pronunciatio": "\ud83d\udecf\ufe0f\u2640",
+      "description": "resting in her room (taking a short nap) (lying down on her bed) @ the Ville:artist's co-living space:Abigail Chen's room:closet",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        53,
+        20
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "socializing and participating in Love Ville program activities (asking participants about their interests and hobbies) @ the Ville:The Rose and Crown Pub:pub:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        35,
+        30
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "participating in a one-on-one conversation with a Love Ville participant, exploring shared interests and potential romantic connection (asking the participant about their interests and hobbies) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:24:20"
+  }
+}

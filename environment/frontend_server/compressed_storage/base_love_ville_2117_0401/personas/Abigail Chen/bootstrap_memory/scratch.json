@@ -1,0 +1,520 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 16,
+  "curr_time": "February 13, 2023, 17:30:10",
+  "curr_tile": [
+    36,
+    22
+  ],
+  "daily_plan_req": "Abigail Chen is now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology. She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.",
+  "currently": "Abigail Chen is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). This dating show is designed exclusively for heterosexual individuals seeking romantic connections. It brings together single men and women in a dynamic and engaging format, where they can explore potential relationships, build chemistry, and find love. The show emphasizes traditional man-woman pairings, creating a space for participants to connect and form meaningful bonds within a structured and entertaining environment. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 221,
+  "importance_ele_n": 22,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "head to the hobb cafe at 8:30 am",
+    "cook and eat breakfast with the other participants at 9:00 am",
+    "get to know and talk to other participants from 9:30 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "go back to her room to rest from 1:00 pm to 5:00 pm",
+    "head to the hobb cafe at 5:30 pm",
+    "cook and eat dinner with the other participants from 6:00 pm to 7:00 pm",
+    "get to know and talk to other participants from 7:00 pm to 11:00 pm, and",
+    "",
+    "wake up and complete the morning routine at 8:00 a",
+    "head to the hobb cafe at 8:30 a",
+    "cook and eat breakfast with the other participants at 9:00 a",
+    "get to know and talk to other participants from 9:30 am to 12:00 p",
+    "have a lunch at 12:00 p"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (taking a quick shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (drying off and applying skincare products)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed and styling her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (grabbing her bag and heading to the hobb cafe)",
+      5
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (walking to the hobb cafe)",
+      5
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (on the way to greeting the other participants)",
+      0
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (conversing about a flirtatious and playful exchange between Abigail Chen and John Lin, two individuals who meet over breakfast and engage in a charming conversation, discussing food, sharing secrets, and making plans for a future date, with a clear romantic undertone.)",
+      21
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (helping to prepare the ingredients)",
+      10
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (on the way to cooking breakfast with the group)",
+      0
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (conversing about two friends, Maria Lopez and Abigail Chen, conversing about their personal connections, relationships, and plans for the day, including a potential date with someone and a trip to the parc Piscine Rouge, while exchanging flirtatious and playful comments with each other.)",
+      16
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (on the way to cooking breakfast with the group)",
+      0
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (conversing about a flirtatious and adventurous conversation between Adam Smith and Abigail Chen, where they discuss their plans for the day, share stories, and get to know each other, with a potential romantic interest, over breakfast and looking forward to exploring the town, going snorkeling, and having more thrilling experiences together.)",
+      22
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (on the way to cooking breakfast with the group)",
+      0
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (conversing about Isabella Rodriguez and Abigail Chen conversing about their morning encounter, forming a connection, and making plans for a fun-filled day of adventures, dares, and possibly a date, exploring the town and getting to know each other better.)",
+      14
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe (eating breakfast with the group)",
+      11
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe (on the way to introducing herself to a group of participants)",
+      0
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe (conversing about flirtatious and playful banter between Abigail Chen and Klaus Mueller, two ensign and lieutenant respectively, as they discuss their potential romantic interests, make plans for an impulsive adventure to explore a village and its swimming spot, and exchange teasing and suggestive comments.)",
+      15
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe (introducing herself to a group of participants)",
+      10
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe (asking about their hobbies and interests)",
+      20
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe (sharing her own hobbies and interests)",
+      20
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe (discussing favorite movies and TV shows)",
+      20
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe (talking about travel experiences)",
+      10
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe (wrapping up conversations and saying goodbye)",
+      14
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (on the way to walking to the hobb cafe)",
+      0
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (conversing about Abigail Chen and Adam Smith conversing about their writing and artistic processes, sharing a cup of coffee, and exploring the town of Ville Ville together, with discussions about food, adventures, and getting to know each other.)",
+      15
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (greeting the other participants)",
+      5
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (sitting down at the table with the other participants)",
+      5
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (on the way to ordering her lunch)",
+      0
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (conversing about two women, Isabella Rodriguez and Abigail Chen, meeting and spontaneously planning a thrilling adventure together, filled with excitement, trouble, and possibly romance, as they decide to ride off into the sunset and create unforgettable memories.)",
+      21
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (chatting with the other participants while waiting for the food)",
+      10
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (eating her lunch)",
+      15
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (continuing to chat with the other participants)",
+      10
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe (saying goodbye to the other participants)",
+      5
+    ],
+    [
+      "going back to her room to rest",
+      10
+    ],
+    [
+      "resting in her room (lying down on her bed and listening to calming music)",
+      30
+    ],
+    [
+      "resting in her room (reading a book about digital art techniques)",
+      45
+    ],
+    [
+      "resting in her room (taking a short nap) (lying down on her bed)",
+      5
+    ],
+    [
+      "resting in her room (taking a short nap) (closing her eyes and relaxing)",
+      5
+    ],
+    [
+      "resting in her room (taking a short nap) (falling asleep)",
+      10
+    ],
+    [
+      "resting in her room (taking a short nap) (taking a short nap)",
+      20
+    ],
+    [
+      "resting in her room (taking a short nap) (waking up)",
+      5
+    ],
+    [
+      "resting in her room (taking a short nap) (stretching and yawning)",
+      5
+    ],
+    [
+      "resting in her room (taking a short nap) (getting up from her bed)",
+      5
+    ],
+    [
+      "resting in her room (taking a short nap) (freshening up in the bathroom)",
+      5
+    ],
+    [
+      "resting in her room (sketching some ideas for her next digital art project)",
+      30
+    ],
+    [
+      "resting in her room (browsing social media for inspiration)",
+      30
+    ],
+    [
+      "resting in her room (meditating to relax her mind)",
+      15
+    ],
+    [
+      "resting in her room (organizing her digital art files on her laptop)",
+      15
+    ],
+    [
+      "resting in her room (preparing her outfit for the dinner at the hobb cafe)",
+      15
+    ],
+    [
+      "cooking and eating dinner with the other participants at the hobb cafe (walking to the hobb cafe)",
+      5
+    ],
+    [
+      "cooking and eating dinner with the other participants at the hobb cafe (greeting the other participants)",
+      5
+    ],
+    [
+      "cooking and eating dinner with the other participants at the hobb cafe (discussing the dinner menu with the other participants)",
+      10
+    ],
+    [
+      "cooking and eating dinner with the other participants at the hobb cafe (helping to prepare the ingredients)",
+      10
+    ],
+    [
+      "cooking and eating dinner with the other participants at the hobb cafe (cooking the dinner with the other participants)",
+      15
+    ],
+    [
+      "cooking and eating dinner with the other participants at the hobb cafe (setting the table)",
+      5
+    ],
+    [
+      "cooking and eating dinner with the other participants at the hobb cafe (eating dinner with the other participants)",
+      10
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe",
+      300
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -14
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -14
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      24
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "cooking and eating breakfast with the other participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe",
+      120
+    ],
+    [
+      "having lunch with the other participants at the hobb cafe",
+      60
+    ],
+    [
+      "going back to her room to rest",
+      60
+    ],
+    [
+      "resting in her room",
+      240
+    ],
+    [
+      "cooking and eating dinner with the other participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know and talking to other participants at the hobb cafe",
+      300
+    ]
+  ],
+  "act_address": "the Ville:artist's co-living space:Abigail Chen's room:desk",
+  "act_start_time": "February 13, 2023, 17:22:00",
+  "act_duration": 15,
+  "act_description": "resting in her room (meditating to relax her mind)",
+  "act_pronunciatio": "\ud83d\ude4f",
+  "act_event": [
+    "Abigail Chen",
+    "meditate",
+    "mind"
+  ],
+  "act_obj_description": "empty and unused",
+  "act_obj_pronunciatio": "\ud83d\udeae",
+  "act_obj_event": [
+    "desk",
+    "is",
+    "empty and unused"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "John Lin": -2112,
+    "Maria Lopez": -2004,
+    "Adam Smith": -942,
+    "Isabella Rodriguez": -756,
+    "Klaus Mueller": -1596
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
