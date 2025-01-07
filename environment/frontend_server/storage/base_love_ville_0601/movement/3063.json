@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        83,
+        14
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83d\udc69",
+      "description": "getting ready for the Love Ville program (drying her hair and styling it) @ the Ville:Isabella Rodriguez's apartment:bathroom:toilet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        131,
+        57
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe (taking a quick shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        53
+      ],
+      "pronunciatio": "\ud83e\uddb7\ud83d\udebf",
+      "description": "getting ready for the day, preparing to go to the Hobb Cafe for breakfast (brushing his teeth and washing his face) @ the Ville:Dorm for Oak Hill College:man's bathroom:shower",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        40,
+        21
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "waking up and completing her morning routine (taking a quick shower) @ the Ville:artist's co-living space:Abigail Chen's bathroom:toilet",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        71
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2642",
+      "description": "getting ready to head to the Hobb Cafe (styling his hair) @ the Ville:Lin family's house:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        45
+      ],
+      "pronunciatio": "\ud83d\udd12\ud83d\udeaa",
+      "description": "heading to the Hobb Cafe (locking up his room and heading out) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:30:30"
+  }
+}

@@ -235,7 +235,8 @@ def generate_poig_score(persona, event_type, description):
     return run_gpt_prompt_chat_poignancy(persona, 
                            persona.scratch.act_description)[0]
 
-
+def generate_relationships_thought(personas,persona,whisper):
+  return run_gpt_prompt_relationship_status_by_whisper(personas,persona,whisper)
 def load_history_via_whisper(personas, whispers):
   for count, row in enumerate(whispers): 
     persona = personas[row[0]]
@@ -249,6 +250,10 @@ def load_history_via_whisper(personas, whispers):
     keywords = set([s, p, o])
     thought_poignancy = generate_poig_score(persona, "event", whisper)
     thought_embedding_pair = (thought, get_embedding(thought))
+    relationships_thought = generate_relationships_thought(personas,persona,whisper)
+    for thought in relationships_thought:
+      target_persona_name = list(thought.keys())[0]
+      persona.scratch.update_relationship(persona.scratch.curr_time,target_persona_name, thought[target_persona_name])
     persona.a_mem.add_thought(created, expiration, s, p, o, 
                               thought, keywords, thought_poignancy, 
                               thought_embedding_pair, None)

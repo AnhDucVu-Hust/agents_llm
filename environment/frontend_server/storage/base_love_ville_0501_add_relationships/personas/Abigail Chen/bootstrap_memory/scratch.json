@@ -1,51 +1,367 @@
 {
-  "vision_r": 8, 
-  "att_bandwidth": 8, 
-  "retention": 8, 
-  "curr_time": null, 
-  "curr_tile": null, 
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {},
+  "curr_time": "February 13, 2023, 09:11:40",
+  "curr_tile": [
+    76,
+    22
+  ],
   "daily_plan_req": "Abigail Chen is now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
-  "name": "Abigail Chen", 
-  "first_name": "Abigail", 
-  "last_name": "Chen", 
-  "age": 25, 
-  "innate": "open-minded, curious, determined", 
-  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology. She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.", 
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She is always looking for new ways to combine art and technology. She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.",
   "currently": "Abigail Chen is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). As a participant, your goal is to form genuine connections, whether romantic or platonic, while embracing the experience fully. Treat everyone with respect and kindness, and be honest about your feelings, intentions, and preferences. When interacting with the opposite gender, focus on getting to know them, being yourself, and expressing interest naturally without pressure. With the same gender, build strong friendships, offer emotional support, and handle any competition respectfully. Engage in all activities, share your thoughts openly, and reflect daily on who made an impact on you. Avoid aggression, manipulation, or gossip, and remember that this is a unique opportunity to explore relationships, create memories, and enjoy every moment to the fullest!. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
-  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.", 
-  "living_area": "the Ville:artist's co-living space:Abigail Chen's room", 
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
   "concept_forget": 100,
   "daily_reflection_time": 180,
   "daily_reflection_size": 5,
   "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10, 
-  "kw_strg_thought_reflect_th": 9, 
-
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 250,
-  "importance_ele_n": 0, 
-  "thought_count": 5, 
-
-  "daily_req": [], 
-  "f_daily_schedule": [],
-  "f_daily_schedule_hourly_org": [],
-  "act_address": null, 
-  "act_start_time": null, 
-  "act_duration": null, 
-  "act_description": null, 
-  "act_pronunciatio": null, 
-  "act_event": ["Abigail Chen", null, null], 
-  "act_obj_description": null, 
-  "act_obj_pronunciatio": null, 
-  "act_obj_event": [null, null, null], 
-  "chatting_with": null, 
-  "chat": null,
-  "chatting_with_buffer": {}, 
-  "chatting_end_time": null,
-  "act_path_set": false, 
+  "importance_trigger_curr": 149,
+  "importance_ele_n": 66,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to the hobb cafe at 9:00 am to cook and eat breakfast with other members",
+    "get to know other members from 10:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "explore the Ville Village from 1:00 pm to 5:00 pm",
+    "go to the hobb cafe at 6:00 pm to cook and eat dinner with other members",
+    "get to know other members from 7:00 pm to 10:00 pm",
+    "reflect on the day and plan for tomorrow from 10:00 pm to 11:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (choosing an outfit for the day)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (styling her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (packing her bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (checking her phone for messages and notifications)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (putting on her shoes and leaving her room)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (walking to the hobb cafe)",
+      10
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (greeting other members at the hobb cafe)",
+      5
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (on the way to helping to prepare breakfast)",
+      0
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (conversing about their excitement and nervousness regarding the Love Ville program, sharing their interests and goals, and making plans to meet up in the evening at a caf\u00e9 with a group of people from the program, with Abigail Chen and Adam Smith expressing enthusiasm and agreement about the unique experience and looking forward to getting to know each other and the rest of the group better.)",
+      21
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (eating breakfast with other members)",
+      20
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members (cleaning up after breakfast)",
+      10
+    ],
+    [
+      "getting to know other members at the hobb cafe (introducing herself to a group of members)",
+      10
+    ],
+    [
+      "getting to know other members at the hobb cafe (asking about their hobbies and interests)",
+      15
+    ],
+    [
+      "getting to know other members at the hobb cafe (sharing her own hobbies and interests)",
+      15
+    ],
+    [
+      "getting to know other members at the hobb cafe (discussing favorite foods and cuisines)",
+      10
+    ],
+    [
+      "getting to know other members at the hobb cafe (talking about her work as a digital artist)",
+      15
+    ],
+    [
+      "getting to know other members at the hobb cafe (asking about their professions)",
+      15
+    ],
+    [
+      "getting to know other members at the hobb cafe (discussing favorite movies and TV shows)",
+      10
+    ],
+    [
+      "getting to know other members at the hobb cafe (sharing her favorite art and animation styles)",
+      15
+    ],
+    [
+      "getting to know other members at the hobb cafe (exchanging contact information with members she connected with)",
+      9
+    ],
+    [
+      "having lunch with other members at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other members",
+      60
+    ],
+    [
+      "getting to know other members at the hobb cafe",
+      180
+    ],
+    [
+      "reflecting on the day and planning for tomorrow",
+      60
+    ],
+    [
+      "getting ready for bed and preparing to sleep",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to the hobb cafe to cook and eat breakfast with other members",
+      60
+    ],
+    [
+      "getting to know other members at the hobb cafe",
+      120
+    ],
+    [
+      "having lunch with other members at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "going to the hobb cafe to cook and eat dinner with other members",
+      60
+    ],
+    [
+      "getting to know other members at the hobb cafe",
+      180
+    ],
+    [
+      "reflecting on the day and planning for tomorrow",
+      60
+    ],
+    [
+      "getting ready for bed and preparing to sleep",
+      60
+    ]
+  ],
+  "act_address": "<persona> Adam Smith",
+  "act_start_time": "February 13, 2023, 09:10:20",
+  "act_duration": 21,
+  "act_description": "conversing about their excitement and nervousness regarding the Love Ville program, sharing their interests and goals, and making plans to meet up in the evening at a caf\u00e9 with a group of people from the program, with Abigail Chen and Adam Smith expressing enthusiasm and agreement about the unique experience and looking forward to getting to know each other and the rest of the group better.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Abigail Chen",
+    "chat with",
+    "Adam Smith"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Adam Smith",
+  "chat": [
+    [
+      "Abigail Chen",
+      "Hi Adam! I'm Abigail. It's so great to see you here at the Hobb Cafe. I must say, I'm nervous and excited to be a part of this whole Love Ville experience, and meeting everyone today. Are you feeling the same?"
+    ],
+    [
+      "Adam Smith",
+      "Hi Abigail! I'm so glad to meet you too. I must admit, I feel the same way; this whole experience is so new and exciting. It's refreshing to see someone as enthusiastic as you are about it. I'm a bit nervous as well, but mornings like these, meeting everyone, make me even more curious and excited about the week ahead."
+    ],
+    [
+      "Abigail Chen",
+      "I know right? It's such a wonderful opportunity, and I'm so glad we're both here together. I feel like there are so many interesting people to meet and so many possibilities for connections. I'm curious, what brings you here to the Love Ville program?"
+    ],
+    [
+      "Adam Smith",
+      "Well, I recently published a book about creativity and its impact on the world. It's been a really fulfilling experience, but I guess I'm here because I'm looking for new experiences and connections too. I find the whole concept of the Love Ville program fascinating, and I'm curious to see where this week takes us all. By the way, do you have any plans for this evening? Any preferences on how to spend your time here?"
+    ],
+    [
+      "Abigail Chen",
+      "I think that's fascinating! As for the evening, I was thinking of joining a few others from the program for a get-together at that new caf\u00e9 down the street - heard it has a nice ambiance for conversations, which is exactly what I'm looking for tonight. But I'm all ears to hear any other suggestions you might have?"
+    ],
+    [
+      "Adam Smith",
+      "That sounds like a wonderful idea! I think a group setting could be really fun and a great way to get to know a few people better. I'm keen to join you if that's okay. We could share a few laughs, get to know each other, and see what everyone else is up to. And who knows, we might find some common interests along the way!"
+    ],
+    [
+      "Abigail Chen",
+      "That sounds amazing! I'm so looking forward to tonight. It's great to find someone who enjoys discussing and exploring new connections. I think we have a lot to talk about and I'm excited to hear more about your book and creative interests. And of course, getting to know everyone better is a priority! See you tonight, Adam!"
+    ],
+    [
+      "Adam Smith",
+      "It's wonderful to meet you, Abigail. I think we share a similar excitement and nervousness about this whole new experience. I'm looking forward to our evening plans and getting to know you all better. Until later then!"
+    ],
+    [
+      "Abigail Chen",
+      "It's lovely to have met you, Adam! I'm really looking forward to our evening plans and getting to know you better. The group dynamic should be a lot of fun! See you later!"
+    ],
+    [
+      "Adam Smith",
+      "It's nice to see someone so enthusiastic about the program and making plans. I must say, I'm also intrigued to see how the week unfolds and what activities we'll get up to. We have a great group here, and I think everyone is eager to immerse themselves in this unique experience. I'm really looking forward to it!"
+    ],
+    [
+      "Abigail Chen",
+      "It's a comforting thought to know that we're all in this together and sharing such a unique and exciting experience. I'm really grateful to be part of this group and curious to see what activities we'll get up to as well! And of course, the nervousness is definitely there, but it's such an exciting feeling too. It's a great icebreaker, knowing we're all a bit nervous and can support each other through that. So lovely to chat with you, Adam! I'll see you later!"
+    ],
+    [
+      "Adam Smith",
+      "It's wonderful to have met you, Abigail! I'm so glad we could connect and share our thoughts on this exciting opportunity. I think we're both eager to dive into the week's adventures and see what Love Ville has in store for us. Have a fantastic day, and I'll see you this evening!"
+    ],
+    [
+      "Abigail Chen",
+      "It's an absolute pleasure getting to know you, Adam! I feel like I've known you for much longer than just this breakfast session. The way you talk about your book and your passion for creativity really fascinates me. I'm thrilled to see what else we'll discuss and discover together this week. Anyway, I better get going, but I'll see you this evening for sure!"
+    ],
+    [
+      "Adam Smith",
+      "It's delightful to have met you, Abigail, and I must say, I'm even more excited for the week ahead, seeing your enthusiasm and the potential for new connections. I hope you have a wonderful day, and I'll see you this evening with the group!"
+    ],
+    [
+      "Abigail Chen",
+      "It's so great to have met you, Adam, I feel like we've already connected so well! I'm really looking forward to seeing what the week brings and exploring this beautiful village. I hope you have a wonderful day too, and I'll see you this evening with the gang!"
+    ],
+    [
+      "Adam Smith",
+      "It's such a pleasure to meet someone so full of beans! I'm so intrigued to see what activities we'll embark on and how this experience will unfold. I feel like we're in for a real treat! Have a splendiferous day, Abigail, and I'll see you this evening with the crew!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Adam Smith": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:32:00",
+  "act_path_set": true,
   "planned_path": []
 }

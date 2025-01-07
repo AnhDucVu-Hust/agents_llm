@@ -1,5 +1,5 @@
-export ORIGIN=base_love_ville
-export TARGET=base_love_ville_0501_add_relationships
+export ORIGIN=base_love_ville_0601
+export TARGET=base_love_ville_0601_step_2
 
 # Navigate to the backend server directory
 cd reverie/backend_server || {

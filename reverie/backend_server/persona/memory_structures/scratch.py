@@ -166,7 +166,11 @@ class Scratch:
       self.att_bandwidth = scratch_load["att_bandwidth"]
       self.retention = scratch_load["retention"]
       if "relationships" in scratch_load.keys():
-        self.replationships = scratch_load['relationships']
+        self.relationships = scratch_load['relationships']
+      for k,v in self.relationships.items():
+        for i in range(len(self.relationships[k])):
+          self.relationships[k][i]['date'] = datetime.datetime.strptime(self.relationships[k][i]['date'] ,
+                                                  "%B %d, %Y, %H:%M:%S")
       if scratch_load["curr_time"]: 
         self.curr_time = datetime.datetime.strptime(scratch_load["curr_time"],
                                                   "%B %d, %Y, %H:%M:%S")
@@ -249,6 +253,10 @@ class Scratch:
     scratch["att_bandwidth"] = self.att_bandwidth
     scratch["retention"] = self.retention
     scratch["relationships"] = self.relationships
+    print(f"Relationship: {self.relationships}")
+    for k,v in scratch["relationships"].items():
+      for i in range(len(scratch["relationships"][k])):
+        scratch["relationships"][k][i]["date"] = scratch["relationships"][k][i]["date"].strftime("%B %d, %Y, %H:%M:%S")
     scratch["curr_time"] = self.curr_time.strftime("%B %d, %Y, %H:%M:%S")
     scratch["curr_tile"] = self.curr_tile
     scratch["daily_plan_req"] = self.daily_plan_req

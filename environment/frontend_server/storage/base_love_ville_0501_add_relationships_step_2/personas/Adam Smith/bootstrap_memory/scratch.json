@@ -1,0 +1,614 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "John Lin": [
+      {
+        "date": "February 13, 2023, 08:52:50",
+        "status": "Adam Smith Adam Smith found it interesting that he and John Lin share similar motivations for joining the Love Ville program, and he's excited about the prospect of connecting with like-minded individuals through planned activities and shared interests."
+      }
+    ],
+    "Isabella Rodriguez": [
+      {
+        "date": "February 13, 2023, 09:06:50",
+        "status": "Adam Smith Isabella's enthusiasm and her dual role as both the cafe owner and a participant in the program caught my attention. Her friendliness and positivity make me look forward to getting to know her and the other participants better."
+      }
+    ],
+    "Abigail Chen": [
+      {
+        "date": "February 13, 2023, 09:31:50",
+        "status": "Adam Smith Abigail Chen's enthusiasm and proactive plans for socializing within the program piqued Adam Smith's interest, aligning with his own desires to connect and share ideas."
+      }
+    ],
+    "Maria Lopez": [
+      {
+        "date": "February 13, 2023, 10:00:50",
+        "status": "Adam Smith Adam Smith finds it interesting that he has connected with Maria Lopez over shared hobbies like hiking and stargazing, and they are planning activities together such as a hike and a game night, which also includes the possibility of meeting other participants like Isabella and Abigail, whom he has a crush on, in a more relaxed setting."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 10:09:00",
+  "curr_tile": [
+    75,
+    19
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is always looking for ways to challenge people\u2019s preconceptions.",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Adam is also curious about who will be running for the local mayor election next month. Adam is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples).  As a participant, your goal is to form genuine connections, whether romantic or platonic, while embracing the experience fully. Treat everyone with respect and kindness, and be honest about your feelings, intentions, and preferences. When interacting with the opposite gender, focus on getting to know them, being yourself, and expressing interest naturally without pressure. With the same gender, build strong friendships, offer emotional support, and handle any competition respectfully. Engage in all activities, share your thoughts openly, and reflect daily on who made an impact on you. Avoid aggression, manipulation, or gossip, and remember that this is a unique opportunity to explore relationships, create memories, and enjoy every moment to the fullest. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 242,
+  "importance_ele_n": 3,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "",
+    "have breakfast at the Hobb Cafe at 9:00 am with the other Love Ville program participants",
+    "spend the day getting to know the other participants and engaging in program activities from 10:00 am to 5:00 pm",
+    "have dinner at the Hobb Cafe at 6:00 pm with the group",
+    "continue socializing and building connections with the other participants from 7:00 pm to 7:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a quick shower)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (drying off and applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (preparing a cup of tea)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (drinking his tea and reflecting on the day ahead)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (tidying up his living space)",
+      5
+    ],
+    [
+      "meditating and journaling about his thoughts and intentions for the Love Ville program (sitting in a comfortable position and taking deep breaths to center himself)",
+      5
+    ],
+    [
+      "meditating and journaling about his thoughts and intentions for the Love Ville program (reflecting on his goals for the Love Ville program)",
+      10
+    ],
+    [
+      "meditating and journaling about his thoughts and intentions for the Love Ville program (journaling about his thoughts and feelings about the program)",
+      15
+    ],
+    [
+      "meditating and journaling about his thoughts and intentions for the Love Ville program (meditating on the qualities he values in a potential partner)",
+      10
+    ],
+    [
+      "meditating and journaling about his thoughts and intentions for the Love Ville program (journaling about his intentions for forming connections during the program)",
+      10
+    ],
+    [
+      "meditating and journaling about his thoughts and intentions for the Love Ville program (reflecting on how he can be authentic and respectful in his interactions)",
+      5
+    ],
+    [
+      "meditating and journaling about his thoughts and intentions for the Love Ville program (closing his journal and taking a moment to set his intentions for the day)",
+      5
+    ],
+    [
+      "reading and reflecting on his book about creativity while enjoying a cup of tea (brewing a cup of tea)",
+      5
+    ],
+    [
+      "reading and reflecting on his book about creativity while enjoying a cup of tea (sitting down in a comfortable chair with his tea and book)",
+      5
+    ],
+    [
+      "reading and reflecting on his book about creativity while enjoying a cup of tea (reading a chapter of his book about creativity)",
+      20
+    ],
+    [
+      "reading and reflecting on his book about creativity while enjoying a cup of tea (reflecting on the ideas presented in the chapter)",
+      15
+    ],
+    [
+      "reading and reflecting on his book about creativity while enjoying a cup of tea (journaling about his thoughts and insights from the chapter)",
+      10
+    ],
+    [
+      "reading and reflecting on his book about creativity while enjoying a cup of tea (taking a moment to sip his tea and relax)",
+      5
+    ],
+    [
+      "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast (taking a shower)",
+      15
+    ],
+    [
+      "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast (getting dressed in casual but presentable clothes)",
+      10
+    ],
+    [
+      "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast (styling his hair)",
+      5
+    ],
+    [
+      "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast (packing a small bag with essentials (wallet, phone, notebook, pen))",
+      10
+    ],
+    [
+      "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast (reviewing his notes on the Love Ville program and mentally preparing for the day)",
+      5
+    ],
+    [
+      "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast (putting on his shoes and grabbing his coat)",
+      5
+    ],
+    [
+      "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time (getting dressed and ready to leave his room)",
+      10
+    ],
+    [
+      "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time (packing his bag with essentials for the day)",
+      5
+    ],
+    [
+      "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time (walking to the Hobb Cafe)",
+      15
+    ],
+    [
+      "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time (reflecting on his goals for the Love Ville Program)",
+      10
+    ],
+    [
+      "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time (on the way to mentally preparing to meet new people and engage in conversation)",
+      0
+    ],
+    [
+      "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time (conversing about their participation in the Love Ville program, where John Lin and Adam Smith, two enthusiastic and slightly nervous participants, discuss their interests, motivations, and expectations, while making plans to attend a gaming night, potentially cook together with Klaus Mueller, and get to know each other better throughout the week, expressing excitement, agreement, and a sense of camaraderie as they look forward to exploring the possibilities of the program together.)",
+      23
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (on the way to walking into the Hobb Cafe and greeting the other participants)",
+      0
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (conversing about their participation in the Love Ville program, expressing enthusiasm and nervousness, and making plans to grab coffee together at 8pm tonight to get to know each other better, between Isabella Rodriguez, the cafe owner, and Adam Smith, a fellow participant.)",
+      12
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (on the way to introducing himself to the group and sharing a brief background)",
+      0
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (conversing about their excitement and nervousness regarding the Love Ville program, sharing their interests and goals, and making plans to meet up in the evening at a caf\u00e9 with a group of people from the program, with Abigail Chen and Adam Smith expressing enthusiasm and agreement about the unique experience and looking forward to getting to know each other and the rest of the group better.)",
+      21
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (helping to prepare breakfast ingredients with the group)",
+      10
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (on the way to cooking breakfast with the group, engaging in light conversation)",
+      0
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (conversing about their shared interests, making plans for a group hike and game night, and discussing potential romantic connections, with Adam Smith and Maria Lopez expressing enthusiasm and agreement as they get to know each other in the Love Ville setting.)",
+      22
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (sitting down to eat breakfast with the group, asking questions to get to know others better)",
+      15
+    ],
+    [
+      "participating in a group icebreaker activity at the Hobb Cafe, sharing interesting facts about himself and learning about the other participants (on the way to listening to the facilitator explain the icebreaker activity)",
+      0
+    ],
+    [
+      "participating in a group icebreaker activity at the Hobb Cafe, sharing interesting facts about himself and learning about the other participants (conversing about their shared passions for hiking and movies, with enthusiasm and agreement, as Adam Smith and Klaus Mueller discuss their plans to meet up with Maria Lopez and Isabella Rodriguez for a coffee date, and also invite Abigail Chen to join, while exchanging information about other people they've met, including John Lin, and making lighthearted comments about potential romantic connections.)",
+      17
+    ],
+    [
+      "participating in a group icebreaker activity at the Hobb Cafe, sharing interesting facts about himself and learning about the other participants (thinking of an interesting fact about himself to share)",
+      5
+    ],
+    [
+      "participating in a group icebreaker activity at the Hobb Cafe, sharing interesting facts about himself and learning about the other participants (sharing his interesting fact with the group)",
+      5
+    ],
+    [
+      "participating in a group icebreaker activity at the Hobb Cafe, sharing interesting facts about himself and learning about the other participants (listening to the other participants share their interesting facts)",
+      15
+    ],
+    [
+      "participating in a group icebreaker activity at the Hobb Cafe, sharing interesting facts about himself and learning about the other participants (asking follow-up questions to participants whose facts intrigued him)",
+      10
+    ],
+    [
+      "participating in a speed dating activity at the Hobb Cafe, engaging in brief one-on-one conversations with each participant to make initial connections",
+      53
+    ],
+    [
+      "having lunch at the Hobb Cafe with the other participants, continuing to engage in lively conversation and getting to know them better",
+      60
+    ],
+    [
+      "participating in a group discussion activity at the Hobb Cafe, sharing his thoughts on creativity and listening to others' perspectives",
+      60
+    ],
+    [
+      "participating in a creative workshop at the Hobb Cafe, collaborating with other participants on a group art project",
+      240
+    ],
+    [
+      "having dinner at the Hobb Cafe with the other participants, enjoying good food and engaging in lively conversation",
+      60
+    ],
+    [
+      "socializing and building connections with the other participants at the Hobb Cafe, engaging in meaningful conversations and getting to know them better",
+      60
+    ],
+    [
+      "getting ready for bed, reflecting on the day's interactions and connections made during the Love Ville program",
+      60
+    ],
+    [
+      "sleeping",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -3
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "meditating and journaling about his thoughts and intentions for the Love Ville program",
+      60
+    ],
+    [
+      "reading and reflecting on his book about creativity while enjoying a cup of tea",
+      60
+    ],
+    [
+      "preparing for the day ahead and getting ready to head to the Hobb Cafe for breakfast",
+      60
+    ],
+    [
+      "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time",
+      60
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them",
+      60
+    ],
+    [
+      "participating in a group icebreaker activity at the Hobb Cafe, sharing interesting facts about himself and learning about the other participants",
+      60
+    ],
+    [
+      "participating in a speed dating activity at the Hobb Cafe, engaging in brief one-on-one conversations with each participant to make initial connections",
+      60
+    ],
+    [
+      "having lunch at the Hobb Cafe with the other participants, continuing to engage in lively conversation and getting to know them better",
+      60
+    ],
+    [
+      "participating in a group discussion activity at the Hobb Cafe, sharing his thoughts on creativity and listening to others' perspectives",
+      60
+    ],
+    [
+      "participating in a creative workshop at the Hobb Cafe, collaborating with other participants on a group art project",
+      240
+    ],
+    [
+      "having dinner at the Hobb Cafe with the other participants, enjoying good food and engaging in lively conversation",
+      60
+    ],
+    [
+      "socializing and building connections with the other participants at the Hobb Cafe, engaging in meaningful conversations and getting to know them better",
+      60
+    ],
+    [
+      "getting ready for bed, reflecting on the day's interactions and connections made during the Love Ville program",
+      60
+    ],
+    [
+      "sleeping",
+      180
+    ]
+  ],
+  "act_address": "<persona> Klaus Mueller",
+  "act_start_time": "February 13, 2023, 10:08:30",
+  "act_duration": 17,
+  "act_description": "conversing about their shared passions for hiking and movies, with enthusiasm and agreement, as Adam Smith and Klaus Mueller discuss their plans to meet up with Maria Lopez and Isabella Rodriguez for a coffee date, and also invite Abigail Chen to join, while exchanging information about other people they've met, including John Lin, and making lighthearted comments about potential romantic connections.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Adam Smith",
+    "chat with",
+    "Klaus Mueller"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Klaus Mueller",
+  "chat": [
+    [
+      "Adam Smith",
+      "Hey there! You seem like an interesting guy. I'm Adam, what's your name?"
+    ],
+    [
+      "Klaus Mueller",
+      "Hey Adam! I'm Klaus. Yes, I certainly am! It's pretty hard to miss the shared passions of hiking and movies during conversations here, huh? The\u6f6e\u6d41 is so strong here with so many lovely people around. By the way, I'm a huge fan of the\u8001\u5927\u54e5 movie series. Did you watch them?"
+    ],
+    [
+      "Adam Smith",
+      "I've watched some of the Older Brother movies, but I think I missed the latest one! I'm a big fan of the franchise too. It's been a crazy ride these past few days, getting to know so many people here in Love Ville. By the way, have you met Maria Lopez yet? She's someone I've really connected with over the past few days, we even have a hike planned for later in the week!"
+    ],
+    [
+      "Klaus Mueller",
+      "I've noticed her too! She seems really cool, and I love her energy. I'm sure the two of you will have a blast on your hike! Hey, if you two are up for it, Isabella Rodriguez and I would love some company on our coffee date later. It'd be nice to all hang out together!"
+    ],
+    [
+      "Adam Smith",
+      "That sounds amazing! Maria would love that too, I'm sure. It'll be a great opportunity to get to know you both better. I'm always up for making new friends, especially when there's coffee and a chance to chat about one of my favorite topics: hiking! So, yes, count me in!"
+    ],
+    [
+      "Klaus Mueller",
+      "JOY! That's awesome. So you've both agreed to join us later? We can all hang out together, getting to know each other better over some delicious coffee. By the way, have you heard about the rooftop garden here in Hobb's Cafe? It's a great little spot, perfect for continued conversations and getting some fresh air too!"
+    ],
+    [
+      "Adam Smith",
+      "I haven't seen the rooftop garden yet! It sounds like a great spot to continue our conversation. I'm excited to check it out later. By the way, do you know Abigail Chen? She's also someone I've really enjoyed getting to know here."
+    ],
+    [
+      "Klaus Mueller",
+      "Abigale Chen? I think we've all been enjoying getting to know her, she's so talented! I heard she's also a big fan of art, just like Isabella. By the way, have you noticed the super cute apron designs they have here? They're so fun and unique, I think they add a nice touch to the whole cooking experience!"
+    ],
+    [
+      "Adam Smith",
+      "Ya, the aprons are awesome! They're so fun and kinda cute too, I noticed that as well. And yes! I think Abigail would love to join us for coffee later. I'll make sure to invite her. It's a great opportunity for all of us to bond, and who knows, maybe we'll make some new friends too."
+    ],
+    [
+      "Klaus Mueller",
+      "It's destiny, Adam! It seems like we're all meant to have a great time together. And who knows, maybe some cute couples will form from all this bonding. Hey, you know what they say, couples who hike together, stay together!"
+    ],
+    [
+      "Adam Smith",
+      " destino seems to have brought us all together! I'm so glad to have met you, Klaus, and I'm looking forward to our coffee date later. By the way, have you seen John Lin around? He's someone I'd love to get to know better."
+    ],
+    [
+      "Klaus Mueller",
+      "Sadly I haven't noticed John Lin around recently. But I'm sure you'll manage to chat him up later! By the way, I think Maria might have a crush on you. I noticed her watching you adoringly during our morning conversation."
+    ],
+    [
+      "Adam Smith",
+      "Oh really? That's so great to hear! I think Maria is quite special and I've been enjoying getting to know her. She seems like someone who could really make me ascent. Hey, I've been meaning to ask, do you know if anyone here has seen John Lin around? I've been\u3057\u3088\u3046\u3068ing to have a chat with him."
+    ],
+    [
+      "Klaus Mueller",
+      "John Lin just walked past us a few moments ago. He seemed to be heading towards the juice bar. Why don't you go ahead and talk to him? Also, I think it's quite obvious now. Maria adores you! You should go talk to her too, she's by the egg station."
+    ],
+    [
+      "Adam Smith",
+      "Looks like we're both trying to locate the same person! Yeah, I'll go ahead and talk to him. Thanks for letting me know. It was great chatting with you, Klaus! See you later, and hopefully, John too!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "John Lin": 343,
+    "Isabella Rodriguez": 427,
+    "Abigail Chen": 577,
+    "Maria Lopez": 751,
+    "Klaus Mueller": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:26:00",
+  "act_path_set": true,
+  "planned_path": []
+}

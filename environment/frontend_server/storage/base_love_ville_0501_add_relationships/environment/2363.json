@@ -6,18 +6,18 @@
   },
   "Klaus Mueller": {
     "maze": "the_ville",
-    "x": 131,
-    "y": 46
+    "x": 127,
+    "y": 47
   },
   "Maria Lopez": {
     "maze": "the_ville",
-    "x": 126,
-    "y": 54
+    "x": 127,
+    "y": 57
   },
   "Abigail Chen": {
     "maze": "the_ville",
-    "x": 36,
-    "y": 22
+    "x": 40,
+    "y": 18
   },
   "John Lin": {
     "maze": "the_ville",
@@ -26,7 +26,7 @@
   },
   "Adam Smith": {
     "maze": "the_ville",
-    "x": 20,
-    "y": 65
+    "x": 23,
+    "y": 62
   }
 }

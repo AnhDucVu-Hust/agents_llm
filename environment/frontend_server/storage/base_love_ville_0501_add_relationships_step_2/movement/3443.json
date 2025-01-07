@@ -1,0 +1,321 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their excitement and nerves on a dating show, sharing their hobbies and interests, such as surfing, stargazing, and hiking, while also discussing potential romantic connections, including a rumored interest of Adam's in someone with blonde hair, and making plans for a game night to get to know each other better, with Maria Lopez and Isabella Rodriguez agreeing to organize it and invite other participants, possibly to take place tonight or tomorrow night. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi there! I'm Maria, one of the participants here at Love Ville. I couldn't help but notice you seem a bit nervous. Is this your first time on a dating show?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! Yeah, I'm a bit nervous, to be honest\u2014it is my first time on a dating show! I'm Isabella, by the way, owner of this cafe. The whole experience is so exciting, but I'm not sure what to expect. Do you have any tips for me?"
+        ],
+        [
+          "Maria Lopez",
+          "Aww, well you're in for an exciting ride! It's my first time too, so I'm not too sure what to expect either, but I think the best approach is to just be yourself and have some fun with it. Maybe grab some coffee later and discuss more tips, I'd love to hear your perspective on the whole experience!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's so great to meet you, Maria! I think your idea for coffee later is fantastic! We could maybe grab a seat by the window; it's such a cozy spot. How does that sound to you?"
+        ],
+        [
+          "Maria Lopez",
+          "Pleasure to meet you too, Isabella! I think we're going to have a great time together here. Yeah, let's grab that seat by the window. I'm looking forward to getting to know you better! So, any specific topics you'd like to discuss during our coffee chat later? I mean, besides the whole dating thing. Haha!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we'll have so much fun together! I love your shirt, by the way; the color really suits you. So, besides finding our potential romantic connections, I'd love to hear about your hobbies and interests! I'm a big fan of mountain biking and hiking, spending time in nature really helps clear my head."
+        ],
+        [
+          "Maria Lopez",
+          "Oh, thank you! I love hiking too, and I'm a huge fan of stargazing actually. There are so many beautiful trails around here, it'd be amazing to go on an evening hike sometime and just enjoy the views. And on the topic of nature, I've been thinking of trying out surfing! A few of my friends have recommended it, and it seems like such a cool activity, sometimes I wish I'd signed up for the adventure-themed season though. But yeah, apart from that, I'm here to explore some new connections, and hopefully, I'll find someone special ;)"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, you're going to love surfing! It's such an exhilarating sport, being out there in the ocean. And if you need any tips, I know a few tricks! But enough about me, I'd love to hear more about your passions. You mentioned stargazing, which sounds delightful. Do you often go on late-night adventures to spot the best constellations?"
+        ],
+        [
+          "Maria Lopez",
+          "It's so nice to find someone who shares a passion for the outdoors! I usually go on stargazing trips to the beach, so maybe we could plan a surfing-stargazing adventure soon. And if anyone can give me tips on surfing, it's the cafe owner! By the way, have you met Adam? He seems like a cool guy and quite the charmer. I think he's interested in someone, but I'm not sure who yet..."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's lovely to get to know you better, Maria! Adam has mentioned his excitement about getting to know everyone better, and I think he's quite taken with the idea of a cozy coffee chat. He seemed nervous, but in a cute way! As for me, I'm keeping an open mind and heart, ready for whatever possibilities this week brings. And aside from all this romance, I'd love to hear more about your stargazing stories and any fun adventures you've had!"
+        ],
+        [
+          "Maria Lopez",
+          "Well, I think we're both lucky to be here and have this opportunity to connect with so many amazing people. It's only the first day, but I have a feeling it's going to be an unforgettable week! Have you participated in many dating shows before, or is this a whole new experience for you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's indeed a wonderful opportunity! I'm so glad we're both here, Maria. And who knows, maybe a surfing lesson could be on the cards soon - with a cute instructor, no less! As for dating shows, this is a first for me, and I must admit, the nerves are kicking in, but I'm excited too. The concept is so unique and fun; I can't wait to see what the week brings for all of us. Oh, and I've heard a rumor that Adam has a thing for someone with blonde hair. Have you noticed anyone he might have his eye on?"
+        ],
+        [
+          "Maria Lopez",
+          "It's so lovely to hear about your passions, Isabella! As for Adam's preferences, I've noticed him looking at a few of the girls, but I couldn't say for sure who's caught his eye. It's all so exciting, trying to figure out who might end up together. Hey, if you're up for it, I say we should organize a little game night soon! It could be a fun way to break the ice and get to know each other better\u2014what do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "A game night sounds like a fantastic idea! It's a great way to bond with everyone and break the ice. We could set it up soon, maybe tonight or tomorrow night? And as for Adam's mysterious blonde, we'll have to keep an eye out. But for now, let's focus on having a wonderful time getting to know each other better, and who knows what this week has in store!"
+        ],
+        [
+          "Maria Lopez",
+          "It's so nice to find someone with such similar interests! I think a game night could be a blast, especially if we make it a regular thing. Maybe we could rope some of the other participants in too and make it a group activity? And of course, Adam is more than welcome to join! As for now, shall we head back to the group and keep everyone guessing about Adam's mystery blonde?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Game night sounds like a fantastic idea! We should definitely include some of the other participants, the more, the merrier! And I'm sure Adam would love to join us too. Maybe we could ask around later and see who's interested. For now, let's dive back into this delicious breakfast!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their excitement and nerves on a dating show, sharing their hobbies and interests, such as surfing, stargazing, and hiking, while also discussing potential romantic connections, including a rumored interest of Adam's in someone with blonde hair, and making plans for a game night to get to know each other better, with Maria Lopez and Isabella Rodriguez agreeing to organize it and invite other participants, possibly to take place tonight or tomorrow night. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi there! I'm Maria, one of the participants here at Love Ville. I couldn't help but notice you seem a bit nervous. Is this your first time on a dating show?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! Yeah, I'm a bit nervous, to be honest\u2014it is my first time on a dating show! I'm Isabella, by the way, owner of this cafe. The whole experience is so exciting, but I'm not sure what to expect. Do you have any tips for me?"
+        ],
+        [
+          "Maria Lopez",
+          "Aww, well you're in for an exciting ride! It's my first time too, so I'm not too sure what to expect either, but I think the best approach is to just be yourself and have some fun with it. Maybe grab some coffee later and discuss more tips, I'd love to hear your perspective on the whole experience!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's so great to meet you, Maria! I think your idea for coffee later is fantastic! We could maybe grab a seat by the window; it's such a cozy spot. How does that sound to you?"
+        ],
+        [
+          "Maria Lopez",
+          "Pleasure to meet you too, Isabella! I think we're going to have a great time together here. Yeah, let's grab that seat by the window. I'm looking forward to getting to know you better! So, any specific topics you'd like to discuss during our coffee chat later? I mean, besides the whole dating thing. Haha!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we'll have so much fun together! I love your shirt, by the way; the color really suits you. So, besides finding our potential romantic connections, I'd love to hear about your hobbies and interests! I'm a big fan of mountain biking and hiking, spending time in nature really helps clear my head."
+        ],
+        [
+          "Maria Lopez",
+          "Oh, thank you! I love hiking too, and I'm a huge fan of stargazing actually. There are so many beautiful trails around here, it'd be amazing to go on an evening hike sometime and just enjoy the views. And on the topic of nature, I've been thinking of trying out surfing! A few of my friends have recommended it, and it seems like such a cool activity, sometimes I wish I'd signed up for the adventure-themed season though. But yeah, apart from that, I'm here to explore some new connections, and hopefully, I'll find someone special ;)"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, you're going to love surfing! It's such an exhilarating sport, being out there in the ocean. And if you need any tips, I know a few tricks! But enough about me, I'd love to hear more about your passions. You mentioned stargazing, which sounds delightful. Do you often go on late-night adventures to spot the best constellations?"
+        ],
+        [
+          "Maria Lopez",
+          "It's so nice to find someone who shares a passion for the outdoors! I usually go on stargazing trips to the beach, so maybe we could plan a surfing-stargazing adventure soon. And if anyone can give me tips on surfing, it's the cafe owner! By the way, have you met Adam? He seems like a cool guy and quite the charmer. I think he's interested in someone, but I'm not sure who yet..."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's lovely to get to know you better, Maria! Adam has mentioned his excitement about getting to know everyone better, and I think he's quite taken with the idea of a cozy coffee chat. He seemed nervous, but in a cute way! As for me, I'm keeping an open mind and heart, ready for whatever possibilities this week brings. And aside from all this romance, I'd love to hear more about your stargazing stories and any fun adventures you've had!"
+        ],
+        [
+          "Maria Lopez",
+          "Well, I think we're both lucky to be here and have this opportunity to connect with so many amazing people. It's only the first day, but I have a feeling it's going to be an unforgettable week! Have you participated in many dating shows before, or is this a whole new experience for you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's indeed a wonderful opportunity! I'm so glad we're both here, Maria. And who knows, maybe a surfing lesson could be on the cards soon - with a cute instructor, no less! As for dating shows, this is a first for me, and I must admit, the nerves are kicking in, but I'm excited too. The concept is so unique and fun; I can't wait to see what the week brings for all of us. Oh, and I've heard a rumor that Adam has a thing for someone with blonde hair. Have you noticed anyone he might have his eye on?"
+        ],
+        [
+          "Maria Lopez",
+          "It's so lovely to hear about your passions, Isabella! As for Adam's preferences, I've noticed him looking at a few of the girls, but I couldn't say for sure who's caught his eye. It's all so exciting, trying to figure out who might end up together. Hey, if you're up for it, I say we should organize a little game night soon! It could be a fun way to break the ice and get to know each other better\u2014what do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "A game night sounds like a fantastic idea! It's a great way to bond with everyone and break the ice. We could set it up soon, maybe tonight or tomorrow night? And as for Adam's mysterious blonde, we'll have to keep an eye out. But for now, let's focus on having a wonderful time getting to know each other better, and who knows what this week has in store!"
+        ],
+        [
+          "Maria Lopez",
+          "It's so nice to find someone with such similar interests! I think a game night could be a blast, especially if we make it a regular thing. Maybe we could rope some of the other participants in too and make it a group activity? And of course, Adam is more than welcome to join! As for now, shall we head back to the group and keep everyone guessing about Adam's mystery blonde?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Game night sounds like a fantastic idea! We should definitely include some of the other participants, the more, the merrier! And I'm sure Adam would love to join us too. Maybe we could ask around later and see who's interested. For now, let's dive back into this delicious breakfast!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        86,
+        45
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc68\u200d",
+      "description": "at the Hobb Cafe cooking and eating breakfast with the other participants (helping to prepare the breakfast ingredients) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, with Abigail Chen and John Lin expressing enthusiasm and interest in meeting new people, discussing their professions, sharing stories, and making plans to attend a game night and have a private conversation, while also exchanging flirtatious comments and showing mutual attraction. @ <persona> John Lin",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hey there! I couldn't help but notice you seem to be the life of the party. I'm Abigail by the way. So, what brings you here today?"
+        ],
+        [
+          "John Lin",
+          "Hi Abigail! That's a nice way of putting it, haha. I'm John. I'm here because I just moved into the area, and thought this would be a fun way to meet some new people and perhaps even find a nice partner. You seems like an interesting person, so I thought I'd come over and say hi!"
+        ],
+        [
+          "Abigail Chen",
+          "That's so cool! I just joined this program too, it's such a fun concept. I'm excited to see what the next few days have in store. Anyway, it's lovely to meet you, and I hope we can get to know each other better. So, what do you do for a living, John?"
+        ],
+        [
+          "John Lin",
+          "I own a little pharmacy shop in Willow Market. It's a real \u0648\u0627\u062d\u0629 (oases) - a hidden gem, you know? I've always been fascinated by the wellness industry, ever since I was a kid. The science behind it, the \u043e\u0442\u0434\u0430\u0432\u0430\u0442\u044c (to give) nature of the work - it's special. And you, what do you do for a living?"
+        ],
+        [
+          "Abigail Chen",
+          "Wow, that sounds like a fascinating business venture! I'm a digital artist and animator actually, it's a very new and exciting industry, always developing and changing. I love creating new visuals and exploring the possibilities of technology - it's a great creative outlet. What about you, what got you into the wellness industry?"
+        ],
+        [
+          "John Lin",
+          "Well, I must admit I'm a huge fan of the artistic side of things too. I love the creativity that comes with designing the interior of my shop. And yeah, like you said, it's exciting to see the constant developments in the industry! So, do you have any pets, Abigail? I find that people who love animals are often the most caring individuals."
+        ],
+        [
+          "Abigail Chen",
+          "Pets, huh? I wish I had the time and space for a furry friend, but unfortunately, my work keeps me quite busy. I'm sure you see a lot of interesting characters coming into your pharmacy though! Do you have a favorite customer or maybe a funny story you could share?"
+        ],
+        [
+          "John Lin",
+          "Hmm, no pet/human companionship for you then? Hey, if you ever need a funotlin buddy, I'm around the corner at Willow Market! As for funny customer stories, there's one about a guy who came in trying to explain that he needed 'the medicine for a bee sting'. I had to repression him that antibiotics are not the right treatment for that! Oh dear...Anyway, it's great getting to know you better, Abigail. Here's to hoping we both find what we're looking for in this program!"
+        ],
+        [
+          "Abigail Chen",
+          "Yup, pets really are a lot of responsibility! But you never know, maybe one day I'll bump into a furry friend who steals my heart. And hey, if I ever need some 'bee sting' medicine, I know who to call! It was lovely getting to know you better, John. Hoping we can continue our conversation over dinner later. Are you stuck here for the evening too?"
+        ],
+        [
+          "John Lin",
+          "It'd be great to hang out later! I'm actually quite hungry now, so I think I'll stick around for dinner here. Plus, I'm curious to see what the evening crowd will be like. How about you? Any plans yet?"
+        ],
+        [
+          "Abigail Chen",
+          "I'm definitely sticking around for dinner too, it would be lovely to continue getting to know you better! especially after hearing that hilarious story. I think I might even stick around for the evening activities, it's such a unique experience isn't it? There's so much to explore here. So, any ideas on what you'd like to do after dinner? Maybe a game night? I'm down for whatever!"
+        ],
+        [
+          "John Lin",
+          "I think we have a good mix of people here for some fun activities. There's a rumored game night tomorrow, would you like to meet up then and show off your gaming skills? Maybe we could even organize a little tournament?"
+        ],
+        [
+          "Abigail Chen",
+          "I think that would be a blast! Game night it is then. I'll see you later tonight, we can decide on the games then. So exciting!), and no the conversation continues!"
+        ],
+        [
+          "John Lin",
+          "It's been nice getting to know you, Abigail. I'm glad we connected and I'm looking forward to our game night! Maybe we can make it a regular thing if we both enjoy it. In the meantime, I'm going to go talk to some of the other participants, but I'll see you later for dinner!"
+        ],
+        [
+          "Abigail Chen",
+          "It's great we could get to know each other better, John. I think I'm falling for your charming personality! Looking forward to our little tournament tonight. See you soon!"
+        ],
+        [
+          "John Lin",
+          "It's so nice to hear you say that, Abigail! I must admit, I feel a spark too. You're such an interesting and beautiful woman, and I'd love to get to know you even better. Are you up for a little private conversation later? Just you and me, perhaps after dinner?"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, with Abigail Chen and John Lin expressing enthusiasm and interest in meeting new people, discussing their professions, sharing stories, and making plans to attend a game night and have a private conversation, while also exchanging flirtatious comments and showing mutual attraction. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hey there! I couldn't help but notice you seem to be the life of the party. I'm Abigail by the way. So, what brings you here today?"
+        ],
+        [
+          "John Lin",
+          "Hi Abigail! That's a nice way of putting it, haha. I'm John. I'm here because I just moved into the area, and thought this would be a fun way to meet some new people and perhaps even find a nice partner. You seems like an interesting person, so I thought I'd come over and say hi!"
+        ],
+        [
+          "Abigail Chen",
+          "That's so cool! I just joined this program too, it's such a fun concept. I'm excited to see what the next few days have in store. Anyway, it's lovely to meet you, and I hope we can get to know each other better. So, what do you do for a living, John?"
+        ],
+        [
+          "John Lin",
+          "I own a little pharmacy shop in Willow Market. It's a real \u0648\u0627\u062d\u0629 (oases) - a hidden gem, you know? I've always been fascinated by the wellness industry, ever since I was a kid. The science behind it, the \u043e\u0442\u0434\u0430\u0432\u0430\u0442\u044c (to give) nature of the work - it's special. And you, what do you do for a living?"
+        ],
+        [
+          "Abigail Chen",
+          "Wow, that sounds like a fascinating business venture! I'm a digital artist and animator actually, it's a very new and exciting industry, always developing and changing. I love creating new visuals and exploring the possibilities of technology - it's a great creative outlet. What about you, what got you into the wellness industry?"
+        ],
+        [
+          "John Lin",
+          "Well, I must admit I'm a huge fan of the artistic side of things too. I love the creativity that comes with designing the interior of my shop. And yeah, like you said, it's exciting to see the constant developments in the industry! So, do you have any pets, Abigail? I find that people who love animals are often the most caring individuals."
+        ],
+        [
+          "Abigail Chen",
+          "Pets, huh? I wish I had the time and space for a furry friend, but unfortunately, my work keeps me quite busy. I'm sure you see a lot of interesting characters coming into your pharmacy though! Do you have a favorite customer or maybe a funny story you could share?"
+        ],
+        [
+          "John Lin",
+          "Hmm, no pet/human companionship for you then? Hey, if you ever need a funotlin buddy, I'm around the corner at Willow Market! As for funny customer stories, there's one about a guy who came in trying to explain that he needed 'the medicine for a bee sting'. I had to repression him that antibiotics are not the right treatment for that! Oh dear...Anyway, it's great getting to know you better, Abigail. Here's to hoping we both find what we're looking for in this program!"
+        ],
+        [
+          "Abigail Chen",
+          "Yup, pets really are a lot of responsibility! But you never know, maybe one day I'll bump into a furry friend who steals my heart. And hey, if I ever need some 'bee sting' medicine, I know who to call! It was lovely getting to know you better, John. Hoping we can continue our conversation over dinner later. Are you stuck here for the evening too?"
+        ],
+        [
+          "John Lin",
+          "It'd be great to hang out later! I'm actually quite hungry now, so I think I'll stick around for dinner here. Plus, I'm curious to see what the evening crowd will be like. How about you? Any plans yet?"
+        ],
+        [
+          "Abigail Chen",
+          "I'm definitely sticking around for dinner too, it would be lovely to continue getting to know you better! especially after hearing that hilarious story. I think I might even stick around for the evening activities, it's such a unique experience isn't it? There's so much to explore here. So, any ideas on what you'd like to do after dinner? Maybe a game night? I'm down for whatever!"
+        ],
+        [
+          "John Lin",
+          "I think we have a good mix of people here for some fun activities. There's a rumored game night tomorrow, would you like to meet up then and show off your gaming skills? Maybe we could even organize a little tournament?"
+        ],
+        [
+          "Abigail Chen",
+          "I think that would be a blast! Game night it is then. I'll see you later tonight, we can decide on the games then. So exciting!), and no the conversation continues!"
+        ],
+        [
+          "John Lin",
+          "It's been nice getting to know you, Abigail. I'm glad we connected and I'm looking forward to our game night! Maybe we can make it a regular thing if we both enjoy it. In the meantime, I'm going to go talk to some of the other participants, but I'll see you later for dinner!"
+        ],
+        [
+          "Abigail Chen",
+          "It's great we could get to know each other better, John. I think I'm falling for your charming personality! Looking forward to our little tournament tonight. See you soon!"
+        ],
+        [
+          "John Lin",
+          "It's so nice to hear you say that, Abigail! I must admit, I feel a spark too. You're such an interesting and beautiful woman, and I'd love to get to know you even better. Are you up for a little private conversation later? Just you and me, perhaps after dinner?"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (conversing about their excitement and nervousness regarding the Love Ville program, sharing their interests and goals, and making plans to meet up in the evening at a caf\u00e9 with a group of people from the program, with Abigail Chen and Adam Smith expressing enthusiasm and agreement about the unique experience and looking forward to getting to know each other and the rest of the group better.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:33:50"
+  }
+}

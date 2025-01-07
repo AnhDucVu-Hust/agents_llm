@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc65",
+      "description": "attending the Love Ville Program at Hobbs Cafe (conversing about their participation in the Love Ville program, expressing enthusiasm and nervousness, and making plans to grab coffee together at 8pm tonight to get to know each other better, between Isabella Rodriguez, the cafe owner, and Adam Smith, a fellow participant.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        83,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc65",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (choosing a breakfast recipe with the group) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        109,
+        50
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready for the day and preparing to head to the Hobb Cafe for breakfast (taking a shower) @ the Ville:Dorm for Oak Hill College:man's bathroom:bathroom sink",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (greeting other members at the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "attending the Love Ville program at the Ville Village to get familiar with the program (conversing about their participation in the Love Ville program, where John Lin and Adam Smith, two enthusiastic and slightly nervous participants, discuss their interests, motivations, and expectations, while making plans to attend a gaming night, potentially cook together with Klaus Mueller, and get to know each other better throughout the week, expressing excitement, agreement, and a sense of camaraderie as they look forward to exploring the possibilities of the program together.) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac\u2615\ufe0f",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (conversing about their participation in the Love Ville program, expressing enthusiasm and nervousness, and making plans to grab coffee together at 8pm tonight to get to know each other better, between Isabella Rodriguez, the cafe owner, and Adam Smith, a fellow participant.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:10:00"
+  }
+}

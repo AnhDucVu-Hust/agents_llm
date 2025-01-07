@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (preparing her breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        131,
+        52
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udc86\u200d",
+      "description": "waking up and completing her morning routine (washing her face and applying skincare products) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:blackboard",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        46
+      ],
+      "pronunciatio": "\ud83e\uddb7",
+      "description": "waking up and completing his morning routine (brushing his teeth) @ the Ville:Dorm for Oak Hill College:man's bathroom:shower",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        92,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having breakfast (eating his breakfast) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        70
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready for the day (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:10:00"
+  }
+}

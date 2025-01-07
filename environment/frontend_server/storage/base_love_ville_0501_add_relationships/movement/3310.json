@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc65",
+      "description": "attending the Love Ville Program at Hobbs Cafe (conversing about their participation in the Love Ville program, expressing enthusiasm and nervousness, and making plans to grab coffee together at 8pm tonight to get to know each other better, between Isabella Rodriguez, the cafe owner, and Adam Smith, a fellow participant.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        34
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc65",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (choosing a breakfast recipe with the group) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        109,
+        50
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready for the day and preparing to head to the Hobb Cafe for breakfast (taking a shower) @ the Ville:Dorm for Oak Hill College:man's bathroom:bathroom sink",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their excitement and nervousness regarding the Love Ville program, sharing their interests and goals, and making plans to meet up in the evening at a caf\u00e9 with a group of people from the program, with Abigail Chen and Adam Smith expressing enthusiasm and agreement about the unique experience and looking forward to getting to know each other and the rest of the group better. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hi Adam! I'm Abigail. It's so great to see you here at the Hobb Cafe. I must say, I'm nervous and excited to be a part of this whole Love Ville experience, and meeting everyone today. Are you feeling the same?"
+        ],
+        [
+          "Adam Smith",
+          "Hi Abigail! I'm so glad to meet you too. I must admit, I feel the same way; this whole experience is so new and exciting. It's refreshing to see someone as enthusiastic as you are about it. I'm a bit nervous as well, but mornings like these, meeting everyone, make me even more curious and excited about the week ahead."
+        ],
+        [
+          "Abigail Chen",
+          "I know right? It's such a wonderful opportunity, and I'm so glad we're both here together. I feel like there are so many interesting people to meet and so many possibilities for connections. I'm curious, what brings you here to the Love Ville program?"
+        ],
+        [
+          "Adam Smith",
+          "Well, I recently published a book about creativity and its impact on the world. It's been a really fulfilling experience, but I guess I'm here because I'm looking for new experiences and connections too. I find the whole concept of the Love Ville program fascinating, and I'm curious to see where this week takes us all. By the way, do you have any plans for this evening? Any preferences on how to spend your time here?"
+        ],
+        [
+          "Abigail Chen",
+          "I think that's fascinating! As for the evening, I was thinking of joining a few others from the program for a get-together at that new caf\u00e9 down the street - heard it has a nice ambiance for conversations, which is exactly what I'm looking for tonight. But I'm all ears to hear any other suggestions you might have?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful idea! I think a group setting could be really fun and a great way to get to know a few people better. I'm keen to join you if that's okay. We could share a few laughs, get to know each other, and see what everyone else is up to. And who knows, we might find some common interests along the way!"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds amazing! I'm so looking forward to tonight. It's great to find someone who enjoys discussing and exploring new connections. I think we have a lot to talk about and I'm excited to hear more about your book and creative interests. And of course, getting to know everyone better is a priority! See you tonight, Adam!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to meet you, Abigail. I think we share a similar excitement and nervousness about this whole new experience. I'm looking forward to our evening plans and getting to know you all better. Until later then!"
+        ],
+        [
+          "Abigail Chen",
+          "It's lovely to have met you, Adam! I'm really looking forward to our evening plans and getting to know you better. The group dynamic should be a lot of fun! See you later!"
+        ],
+        [
+          "Adam Smith",
+          "It's nice to see someone so enthusiastic about the program and making plans. I must say, I'm also intrigued to see how the week unfolds and what activities we'll get up to. We have a great group here, and I think everyone is eager to immerse themselves in this unique experience. I'm really looking forward to it!"
+        ],
+        [
+          "Abigail Chen",
+          "It's a comforting thought to know that we're all in this together and sharing such a unique and exciting experience. I'm really grateful to be part of this group and curious to see what activities we'll get up to as well! And of course, the nervousness is definitely there, but it's such an exciting feeling too. It's a great icebreaker, knowing we're all a bit nervous and can support each other through that. So lovely to chat with you, Adam! I'll see you later!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to have met you, Abigail! I'm so glad we could connect and share our thoughts on this exciting opportunity. I think we're both eager to dive into the week's adventures and see what Love Ville has in store for us. Have a fantastic day, and I'll see you this evening!"
+        ],
+        [
+          "Abigail Chen",
+          "It's an absolute pleasure getting to know you, Adam! I feel like I've known you for much longer than just this breakfast session. The way you talk about your book and your passion for creativity really fascinates me. I'm thrilled to see what else we'll discuss and discover together this week. Anyway, I better get going, but I'll see you this evening for sure!"
+        ],
+        [
+          "Adam Smith",
+          "It's delightful to have met you, Abigail, and I must say, I'm even more excited for the week ahead, seeing your enthusiasm and the potential for new connections. I hope you have a wonderful day, and I'll see you this evening with the group!"
+        ],
+        [
+          "Abigail Chen",
+          "It's so great to have met you, Adam, I feel like we've already connected so well! I'm really looking forward to seeing what the week brings and exploring this beautiful village. I hope you have a wonderful day too, and I'll see you this evening with the gang!"
+        ],
+        [
+          "Adam Smith",
+          "It's such a pleasure to meet someone so full of beans! I'm so intrigued to see what activities we'll embark on and how this experience will unfold. I feel like we're in for a real treat! Have a splendiferous day, Abigail, and I'll see you this evening with the crew!"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "attending the Love Ville program at the Ville Village to get familiar with the program (conversing about their participation in the Love Ville program, where John Lin and Adam Smith, two enthusiastic and slightly nervous participants, discuss their interests, motivations, and expectations, while making plans to attend a gaming night, potentially cook together with Klaus Mueller, and get to know each other better throughout the week, expressing excitement, agreement, and a sense of camaraderie as they look forward to exploring the possibilities of the program together.) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their excitement and nervousness regarding the Love Ville program, sharing their interests and goals, and making plans to meet up in the evening at a caf\u00e9 with a group of people from the program, with Abigail Chen and Adam Smith expressing enthusiasm and agreement about the unique experience and looking forward to getting to know each other and the rest of the group better. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hi Adam! I'm Abigail. It's so great to see you here at the Hobb Cafe. I must say, I'm nervous and excited to be a part of this whole Love Ville experience, and meeting everyone today. Are you feeling the same?"
+        ],
+        [
+          "Adam Smith",
+          "Hi Abigail! I'm so glad to meet you too. I must admit, I feel the same way; this whole experience is so new and exciting. It's refreshing to see someone as enthusiastic as you are about it. I'm a bit nervous as well, but mornings like these, meeting everyone, make me even more curious and excited about the week ahead."
+        ],
+        [
+          "Abigail Chen",
+          "I know right? It's such a wonderful opportunity, and I'm so glad we're both here together. I feel like there are so many interesting people to meet and so many possibilities for connections. I'm curious, what brings you here to the Love Ville program?"
+        ],
+        [
+          "Adam Smith",
+          "Well, I recently published a book about creativity and its impact on the world. It's been a really fulfilling experience, but I guess I'm here because I'm looking for new experiences and connections too. I find the whole concept of the Love Ville program fascinating, and I'm curious to see where this week takes us all. By the way, do you have any plans for this evening? Any preferences on how to spend your time here?"
+        ],
+        [
+          "Abigail Chen",
+          "I think that's fascinating! As for the evening, I was thinking of joining a few others from the program for a get-together at that new caf\u00e9 down the street - heard it has a nice ambiance for conversations, which is exactly what I'm looking for tonight. But I'm all ears to hear any other suggestions you might have?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful idea! I think a group setting could be really fun and a great way to get to know a few people better. I'm keen to join you if that's okay. We could share a few laughs, get to know each other, and see what everyone else is up to. And who knows, we might find some common interests along the way!"
+        ],
+        [
+          "Abigail Chen",
+          "That sounds amazing! I'm so looking forward to tonight. It's great to find someone who enjoys discussing and exploring new connections. I think we have a lot to talk about and I'm excited to hear more about your book and creative interests. And of course, getting to know everyone better is a priority! See you tonight, Adam!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to meet you, Abigail. I think we share a similar excitement and nervousness about this whole new experience. I'm looking forward to our evening plans and getting to know you all better. Until later then!"
+        ],
+        [
+          "Abigail Chen",
+          "It's lovely to have met you, Adam! I'm really looking forward to our evening plans and getting to know you better. The group dynamic should be a lot of fun! See you later!"
+        ],
+        [
+          "Adam Smith",
+          "It's nice to see someone so enthusiastic about the program and making plans. I must say, I'm also intrigued to see how the week unfolds and what activities we'll get up to. We have a great group here, and I think everyone is eager to immerse themselves in this unique experience. I'm really looking forward to it!"
+        ],
+        [
+          "Abigail Chen",
+          "It's a comforting thought to know that we're all in this together and sharing such a unique and exciting experience. I'm really grateful to be part of this group and curious to see what activities we'll get up to as well! And of course, the nervousness is definitely there, but it's such an exciting feeling too. It's a great icebreaker, knowing we're all a bit nervous and can support each other through that. So lovely to chat with you, Adam! I'll see you later!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to have met you, Abigail! I'm so glad we could connect and share our thoughts on this exciting opportunity. I think we're both eager to dive into the week's adventures and see what Love Ville has in store for us. Have a fantastic day, and I'll see you this evening!"
+        ],
+        [
+          "Abigail Chen",
+          "It's an absolute pleasure getting to know you, Adam! I feel like I've known you for much longer than just this breakfast session. The way you talk about your book and your passion for creativity really fascinates me. I'm thrilled to see what else we'll discuss and discover together this week. Anyway, I better get going, but I'll see you this evening for sure!"
+        ],
+        [
+          "Adam Smith",
+          "It's delightful to have met you, Abigail, and I must say, I'm even more excited for the week ahead, seeing your enthusiasm and the potential for new connections. I hope you have a wonderful day, and I'll see you this evening with the group!"
+        ],
+        [
+          "Abigail Chen",
+          "It's so great to have met you, Adam, I feel like we've already connected so well! I'm really looking forward to seeing what the week brings and exploring this beautiful village. I hope you have a wonderful day too, and I'll see you this evening with the gang!"
+        ],
+        [
+          "Adam Smith",
+          "It's such a pleasure to meet someone so full of beans! I'm so intrigued to see what activities we'll embark on and how this experience will unfold. I feel like we're in for a real treat! Have a splendiferous day, Abigail, and I'll see you this evening with the crew!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:11:40"
+  }
+}

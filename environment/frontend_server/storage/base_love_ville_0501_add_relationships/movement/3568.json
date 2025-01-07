@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, exchanging interests, and making plans, with Isabella Rodriguez and Klaus Mueller expressing enthusiasm and agreement as they discuss their participation in the Love Ville program, make a plan to meet for coffee and sightseeing at 2 pm, consider visiting a charming caf\u00e9 and having a picnic in the park, and seal a pact to support each other in achieving their relationship goals. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi there! I'm Isabella, one of the participants in the Love Ville program. I couldn't help but notice your cooking skills! That omelet looks amazing! Suppose you're here as a participant too? In that case, I think it'd be nice to introduce myself and maybe get to know you better over a cup of coffee later?"
+        ],
+        [
+          "Klaus Mueller",
+          "It's so great to meet you, Isabella! I'm Klaus, and I must say, I love your enthusiasm. Cooking is definitely one of my hobbies, and I enjoy making delicious meals from scratch. So, would you like to grab that cup of coffee after we're done here? We could get to know each other better and maybe explore the city too. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's lovely to meet you too, Klaus! I think we might have a lot in common. I love exploring new places, and it would be so much fun to discover hidden gems around the city with a fellow adventurer. And of course, I'd love to see your cooking skills in action again. How about we meet around 2 pm for coffee and Sightseeing? By the way, do you have any favorite spots in the city?"
+        ],
+        [
+          "Klaus Mueller",
+          "This is such a lovely cafe, isn't it? I'm so glad we could meet here. I've been to a few places around the city, but I'm sure there are so many hidden gems to uncover. I like how you enjoy exploring new places too. So, any recommendations for our adventure later? ;)"
+        ],
+        [
+          "Isabella Rodriguez",
+          "This place is indeed a great spot for our first meet-up! I'm so excited to see what other adventures await us. So, any special interests or places you've been meaning to check out? P.S. I'd love to sample more of your cooking sometime ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "I've been wanting to check out this charming caf\u00e9 down the street that serves amazing pastries! And if you're up for it, we could even go for a little picnic in the park later. Just the two of us, some good food, and great conversation. What do you say?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think that sounds like the perfect way to spend the afternoon! I've been meaning to try some of the pastries here too, they look delicious! And a picnic in the park sounds incredibly relaxing. I'm so looking forward to it :)."
+        ],
+        [
+          "Klaus Mueller",
+          "This place really is something special. I'm so glad we're both here right now, isn't it great how things work out? So, any plans for the rest of the week you'd like to discuss? I'm all ears :P"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have so many plans for the week, but they're all up in the air until I get to know people better. Luckily, the week is still young! We have time to plan something fun. By the way, have you been assigned to any specific tasks this week? Or are you just here to enjoy the ride?"
+        ],
+        [
+          "Klaus Mueller",
+          "This dating thing is new to me, but I think I'm gonna enjoy it. I'm really liking this whole experience, getting to know people and all. So, any tasks you're looking forward to? Or maybe there's someone you have your eye on? ;]"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to getting to know you better, Klaus! And as for tasks, I'm excited for the gaming night we have planned. I love a good gaming tournament, and I think it'll be a great opportunity to bond with everyone. As for romantic interests, I'm keeping an open mind, but I must admit, getting to know you has been very enjoyable!"
+        ],
+        [
+          "Klaus Mueller",
+          "Gaming night sounds like a blast! I'm really looking forward to it now. And as for romantic interests, well, I guess it's safe to say we're both on the same page there. Hey, if you're up for it, let's make a pact to help each other out in achieving our relationship goals, what do you say? ;)"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I say we seal that pact with a high-five! We definitely should try our best to support each other, and who knows what might happen ;) And yes, I think this week is going to be lots of fun!"
+        ],
+        [
+          "Klaus Mueller",
+          "Wow, high-five! I'm glad we're on the same page, Isabella. And I have a feeling this week is gonna be amazing for both of us. So, shall we finish up our breakfast and start this amazing day?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "This breakfast date sure feels like the perfect start to an amazing week together. I'm so glad I got to know you, Isabella! We've got an exciting day ahead of us, and who knows what might unfold later on. But before we part ways, how about a little good morning kiss to seal our newly formed alliance?"
+        ],
+        [
+          "Klaus Mueller",
+          "You're such a charmer, Isabella! I'm so glad we're having this lovely breakfast date and getting to know each other better. So, while we enjoy this wonderful morning, why don't you tell me a bit more about yourself? Any hobbies or dreams you've been dreaming about?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        108,
+        36
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83d\udcac",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (conversing about getting to know each other, sharing their interests and hobbies, and making plans for a romantic evening, with Maria Lopez and Adam Smith enthusiastically agreeing to meet at 6 pm at the lobby of Maria's dorm to grab coffee, go on a stroll, and have a candlelit dinner, showcasing their excitement and eagerness to explore their budding connection.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, exchanging interests, and making plans, with Isabella Rodriguez and Klaus Mueller expressing enthusiasm and agreement as they discuss their participation in the Love Ville program, make a plan to meet for coffee and sightseeing at 2 pm, consider visiting a charming caf\u00e9 and having a picnic in the park, and seal a pact to support each other in achieving their relationship goals. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi there! I'm Isabella, one of the participants in the Love Ville program. I couldn't help but notice your cooking skills! That omelet looks amazing! Suppose you're here as a participant too? In that case, I think it'd be nice to introduce myself and maybe get to know you better over a cup of coffee later?"
+        ],
+        [
+          "Klaus Mueller",
+          "It's so great to meet you, Isabella! I'm Klaus, and I must say, I love your enthusiasm. Cooking is definitely one of my hobbies, and I enjoy making delicious meals from scratch. So, would you like to grab that cup of coffee after we're done here? We could get to know each other better and maybe explore the city too. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's lovely to meet you too, Klaus! I think we might have a lot in common. I love exploring new places, and it would be so much fun to discover hidden gems around the city with a fellow adventurer. And of course, I'd love to see your cooking skills in action again. How about we meet around 2 pm for coffee and Sightseeing? By the way, do you have any favorite spots in the city?"
+        ],
+        [
+          "Klaus Mueller",
+          "This is such a lovely cafe, isn't it? I'm so glad we could meet here. I've been to a few places around the city, but I'm sure there are so many hidden gems to uncover. I like how you enjoy exploring new places too. So, any recommendations for our adventure later? ;)"
+        ],
+        [
+          "Isabella Rodriguez",
+          "This place is indeed a great spot for our first meet-up! I'm so excited to see what other adventures await us. So, any special interests or places you've been meaning to check out? P.S. I'd love to sample more of your cooking sometime ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "I've been wanting to check out this charming caf\u00e9 down the street that serves amazing pastries! And if you're up for it, we could even go for a little picnic in the park later. Just the two of us, some good food, and great conversation. What do you say?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think that sounds like the perfect way to spend the afternoon! I've been meaning to try some of the pastries here too, they look delicious! And a picnic in the park sounds incredibly relaxing. I'm so looking forward to it :)."
+        ],
+        [
+          "Klaus Mueller",
+          "This place really is something special. I'm so glad we're both here right now, isn't it great how things work out? So, any plans for the rest of the week you'd like to discuss? I'm all ears :P"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have so many plans for the week, but they're all up in the air until I get to know people better. Luckily, the week is still young! We have time to plan something fun. By the way, have you been assigned to any specific tasks this week? Or are you just here to enjoy the ride?"
+        ],
+        [
+          "Klaus Mueller",
+          "This dating thing is new to me, but I think I'm gonna enjoy it. I'm really liking this whole experience, getting to know people and all. So, any tasks you're looking forward to? Or maybe there's someone you have your eye on? ;]"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to getting to know you better, Klaus! And as for tasks, I'm excited for the gaming night we have planned. I love a good gaming tournament, and I think it'll be a great opportunity to bond with everyone. As for romantic interests, I'm keeping an open mind, but I must admit, getting to know you has been very enjoyable!"
+        ],
+        [
+          "Klaus Mueller",
+          "Gaming night sounds like a blast! I'm really looking forward to it now. And as for romantic interests, well, I guess it's safe to say we're both on the same page there. Hey, if you're up for it, let's make a pact to help each other out in achieving our relationship goals, what do you say? ;)"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I say we seal that pact with a high-five! We definitely should try our best to support each other, and who knows what might happen ;) And yes, I think this week is going to be lots of fun!"
+        ],
+        [
+          "Klaus Mueller",
+          "Wow, high-five! I'm glad we're on the same page, Isabella. And I have a feeling this week is gonna be amazing for both of us. So, shall we finish up our breakfast and start this amazing day?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "This breakfast date sure feels like the perfect start to an amazing week together. I'm so glad I got to know you, Isabella! We've got an exciting day ahead of us, and who knows what might unfold later on. But before we part ways, how about a little good morning kiss to seal our newly formed alliance?"
+        ],
+        [
+          "Klaus Mueller",
+          "You're such a charmer, Isabella! I'm so glad we're having this lovely breakfast date and getting to know each other better. So, while we enjoy this wonderful morning, why don't you tell me a bit more about yourself? Any hobbies or dreams you've been dreaming about?"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (conversing about their introduction to each other, sharing their enthusiasm and nervousness about the Love Ville Program, and discussing their intentions to meet new people and potentially find someone special, between Abigail Chen and John Lin.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having breakfast with other participants at the Hobb Cafe (eating his breakfast) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\u2764\ufe0f",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (conversing about getting to know each other, sharing their interests and hobbies, and making plans for a romantic evening, with Maria Lopez and Adam Smith enthusiastically agreeing to meet at 6 pm at the lobby of Maria's dorm to grab coffee, go on a stroll, and have a candlelit dinner, showcasing their excitement and eagerness to explore their budding connection.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:54:40"
+  }
+}

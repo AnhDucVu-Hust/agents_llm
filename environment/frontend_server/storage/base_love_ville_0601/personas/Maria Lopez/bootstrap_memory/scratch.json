@@ -1,0 +1,395 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 07:35:50",
+        "status": "Maria Lopez Klaus Mueller seems really nice and shares some of my interests, especially in cooking and trying new cuisines. Maybe we can plan a cooking session together during the program."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 09:20:30",
+  "curr_tile": [
+    74,
+    22
+  ],
+  "daily_plan_req": "Maria Lopez is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas. Maria is looking for someone who shares her energy and enthusiasm for life. She values curiosity, humor, and someone who isn\u2019t afraid to dive into deep conversations about the world, science, or even gaming. She seeks a partner who is open-minded, supportive, and willing to join her in exploring new experiences together\u2014whether it\u2019s a spontaneous adventure or a quiet moment of shared discovery. Maria is most compatible with someone who shares her boundless energy and passion for learning. She thrives in relationships where both partners can engage in stimulating conversations, share their interests, and support each other\u2019s ambitions",
+  "currently": "Maria Lopez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). As a participant, your goal is to form genuine connections, whether romantic or platonic, while embracing the experience fully. Treat everyone with respect and kindness, and be honest about your feelings, intentions, and preferences. When interacting with the opposite gender, focus on getting to know them, being yourself, and expressing interest naturally without pressure. With the same gender, build strong friendships, offer emotional support, and handle any competition respectfully. Engage in all activities, share your thoughts openly, and reflect daily on who made an impact on you. Avoid aggression, manipulation, or gossip, and remember that this is a unique opportunity to explore relationships, create memories, and enjoy every moment to the fullest!. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Maria Lopez goes to bed around 10am, awakes up around 7am, eats dinner around 6pm. She likes listening to music and admire people in academia",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": -12,
+  "importance_ele_n": 44,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the Hobb cafe for breakfast at 9:00 am",
+    "get to know the other participants at the Hobb cafe from 10:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "take a walk around the Ville Village from 1:00 pm to 3:00 pm",
+    "go back to her room to rest and listen to music from 3:00 pm to 5:00 pm",
+    "go to the Hobb cafe for dinner at 6:00 pm",
+    "get to know the other participants at the Hobb cafe from 7:00 pm to 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and applying skincare products)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (on the way to taking a quick shower)",
+      0
+    ],
+    [
+      "waking up and completing her morning routine (conversing about their interests, hobbies, and expectations while participating in the Love Ville program, with Maria Lopez and Klaus Mueller expressing enthusiasm and agreement as they discover common passions, such as cooking, gaming, and outdoor activities, and making plans to meet for breakfast at the Hobb Cafe and potentially explore the Ville Village together.)",
+      25
+    ],
+    [
+      "waking up and completing her morning routine (taking a quick shower)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (drying off and applying body lotion)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her hair and styling it)",
+      10
+    ],
+    [
+      "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe (taking a quick shower)",
+      15
+    ],
+    [
+      "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe (drying her hair and applying light makeup)",
+      15
+    ],
+    [
+      "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe (choosing an outfit for the day and packing her bag with essentials for the day)",
+      10
+    ],
+    [
+      "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe (checking her phone for any updates or messages)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (walking to the Hobb Cafe)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (greeting the other participants)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (choosing a breakfast recipe with the group)",
+      10
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (on the way to helping to prepare ingredients for breakfast)",
+      0
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (conversing about their interests, hobbies, and potential connections, with Maria Lopez and John Lin expressing enthusiasm and agreement as they discuss their shared loves of cooking, gaming, and books, and make plans for a gaming night, potentially a weekly event, while also touching on the topic of local elections and gossip about a potential candidate, Emily Parker.)",
+      24
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (helping to prepare ingredients for breakfast)",
+      15
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (cooking breakfast with the group)",
+      15
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (plating and serving breakfast)",
+      5
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants (eating breakfast with the group)",
+      5
+    ],
+    [
+      "at the Hobb Cafe getting to know the other participants over breakfast (introducing herself to a new participant)",
+      5
+    ],
+    [
+      "at the Hobb Cafe getting to know the other participants over breakfast (asking about the participant's hobbies and interests)",
+      10
+    ],
+    [
+      "at the Hobb Cafe getting to know the other participants over breakfast (sharing her own hobbies and interests)",
+      10
+    ],
+    [
+      "at the Hobb Cafe getting to know the other participants over breakfast (discussing her studies in physics)",
+      10
+    ],
+    [
+      "at the Hobb Cafe getting to know the other participants over breakfast (asking the participant about their career or studies)",
+      1
+    ],
+    [
+      "at the Hobb Cafe continuing to get to know the other participants over breakfast",
+      60
+    ],
+    [
+      "having lunch at the Hobb Cafe with the other participants",
+      60
+    ],
+    [
+      "taking a walk around the Ville Village with some of the other participants",
+      180
+    ],
+    [
+      "back in her room resting and listening to music",
+      120
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the other participants",
+      60
+    ],
+    [
+      "at the Hobb Cafe getting to know the other participants over dinner",
+      180
+    ],
+    [
+      "back in her room getting ready for bed and reflecting on the day",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe",
+      60
+    ],
+    [
+      "at the Hobb Cafe cooking and eating breakfast with the other participants",
+      60
+    ],
+    [
+      "at the Hobb Cafe getting to know the other participants over breakfast",
+      60
+    ],
+    [
+      "at the Hobb Cafe continuing to get to know the other participants over breakfast",
+      60
+    ],
+    [
+      "having lunch at the Hobb Cafe with the other participants",
+      60
+    ],
+    [
+      "taking a walk around the Ville Village with some of the other participants",
+      180
+    ],
+    [
+      "back in her room resting and listening to music",
+      120
+    ],
+    [
+      "at the Hobb Cafe cooking and eating dinner with the other participants",
+      60
+    ],
+    [
+      "at the Hobb Cafe getting to know the other participants over dinner",
+      180
+    ],
+    [
+      "back in her room getting ready for bed and reflecting on the day",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "<persona> John Lin",
+  "act_start_time": "February 13, 2023, 09:14:10",
+  "act_duration": 24,
+  "act_description": "conversing about their interests, hobbies, and potential connections, with Maria Lopez and John Lin expressing enthusiasm and agreement as they discuss their shared loves of cooking, gaming, and books, and make plans for a gaming night, potentially a weekly event, while also touching on the topic of local elections and gossip about a potential candidate, Emily Parker.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Maria Lopez",
+    "chat with",
+    "John Lin"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "John Lin",
+  "chat": [
+    [
+      "Maria Lopez",
+      "Hey there! I haven't seen you around. I'm Maria, what's your name?"
+    ],
+    [
+      "John Lin",
+      "Hi Maria, I'm John! Yeah, I just got here this morning. It's so great to meet you! The Love Ville program sounds like so much fun, and I'm excited to get to know everyone. Say, do you come here often? *Wink*"
+    ],
+    [
+      "Maria Lopez",
+      "I'm here for the first time as well! I signed up for the Love Ville program, it seems like such an exciting opportunity to meet new people and who knows.. maybe find someone special.. *giggle*. I'm a huge fan of cooking and games, do you have any hobbies you enjoy?"
+    ],
+    [
+      "John Lin",
+      "I have so many! I work at a pharmacy during the day, so I'm always running around helping people and making sure they have the medications they need. But after work, you'll catch me either reading a good book, tending to my garden, or jamming out to some Hip Hop tunes. I'm a pretty big fan of Travis Scott, if you ever want to discuss some new music releases. And of course, I'm here to find someone special too! I'm a big believer in the power of mutual respect and kindness in relationships, both platonic and romantic."
+    ],
+    [
+      "Maria Lopez",
+      "It's great to meet you, John! I love cooking and gaming, so I'm really excited for the breakfasts and potential cooking sessions we'll have here. I also love a good book, especially romance novels! And it's so cool that you work at a pharmacy, it's like you're a real-life hero to the people who need your help. So, any favorite games you'd recommend? I'm always looking for new ones to play!"
+    ],
+    [
+      "John Lin",
+      "I'm a bit of a gamer myself! I mostly play the classics, you know, the games that never seem to get old. But I'm always down for some friendly competition. Maybe we could challenge each other sometime? As for books, I mostly read historical fiction, anything with a good adventure and some fantasy never hurts! And I completely agree, it's an exciting time to be here and get to know everyone. The energy in the cafe is incredible! We should definitely keep each other updated on our favorite games and books."
+    ],
+    [
+      "Maria Lopez",
+      "It's so nice to properly meet you, John! I think we're going to have a great time over the next week getting to know each other and hanging out. So, any classic games you'd recommend I play? I'm always up for some fun and friendly competition!"
+    ],
+    [
+      "John Lin",
+      "It's been a blast getting to know you a bit, Maria! I think we share a lot of similar interests, which is super exciting. Maybe we could plan a gaming night soon, or a book club of sorts, and discuss our favorite classics. And if anyone can recommend a good romantic novel, it's definitely you! By the way, have you heard anyone talking about the upcoming local elections? I'm curious to know who's running for mayor."
+    ],
+    [
+      "Maria Lopez",
+      "It's wonderful meeting you too, John! I haven't heard any gossip about the elections, but I'd love to hear more about your gaming recommendations. Maybe we could plan a gaming date soon, it'd be fun to see your skills in action! And if you ever need any recommendations for romantic novels, you know who to ask ;)."
+    ],
+    [
+      "John Lin",
+      "We should totally plan that gaming night soon, it'd be a blast! And if you're up for it, maybe we couldeven make it a double date and invite some other friends along. As for the elections, I've heard a few people mention a potential candidate named Emily Parker, have you heard anything about her?"
+    ],
+    [
+      "Maria Lopez",
+      "I haven't heard of Emily Parker, but I'd love to hear more about the potential candidates. And yeah, a gaming date night sounds amazing! We could even make it a weekly thing if everyone enjoys it. As for sexy recommendations, have you seen that new gamer girl cosplay? Now, that's a sight for sore eyes! :p"
+    ],
+    [
+      "John Lin",
+      "It's quite funny you should mention that, I actually heard a few people chatting about her earlier today. They were saying how Emily Parker has a real shot at winning, and might even have a few surprises up her sleeve. But of course, it's always hard to tell with these things. Hey, if you're up for it, maybe we could explore some of these cosplays in person... just the two of us ;)"
+    ],
+    [
+      "Maria Lopez",
+      "I think we should go for it! A gaming date sounds like so much fun, especially if we make it a weekly thing. And yeah, I've heard of Emily Parker now, thanks for filling me in. So, any specific game you'd recommend for our first gaming night? Also, I'm all ears if you have any Ej Parker gossip to share ;)"
+    ],
+    [
+      "John Lin",
+      "Um, Maria.. Before we get too ahead of ourselves, I think it'd be fun to share some of our favorite games first! I mean, we want to make sure we're not just all talk, right? I'm a sucker for some old school Mario Kart, but I also\u73b0\u4eca\u5404\u79cd each new release. Maybe we could set up a little tournament for our first date, winner gets a special prize? And of course, I'll fill you in on the latest gossip about Emily Parker too ;)"
+    ],
+    [
+      "Maria Lopez",
+      "Old school Mario Kart sounds like a fantastic idea for our gaming night! Maybe we can play a few rounds and then discuss our favorite levels or characters over some snacks. And I must say, the prospect of a special prize is quite intriguing... Any ideas what it could be, John? ;)"
+    ],
+    [
+      "John Lin",
+      "Well, I think the prize should be chosen by the winner! That way, it'll be extra special. And if you're the one picking, it'll be a nice incentive to beat me at the game. As for relationship gossip, I've heard rumors that a few couples might form during this program. Seems like there's some serious flirting going on already! But remember, we're here to have fun and make meaningful connections, so no pressure whatsoever."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": 172,
+    "John Lin": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:38:00",
+  "act_path_set": true,
+  "planned_path": []
+}

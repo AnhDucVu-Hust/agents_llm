@@ -17,7 +17,14 @@ from global_methods import *
 from persona.prompt_template.run_gpt_prompt import *
 from persona.prompt_template.gpt_structure import *
 from persona.cognitive_modules.retrieve import *
+import logging
 
+# Configure logging
+logging.basicConfig(
+    filename='/Users/vuanhduc/Documents/generative_agentsreflection.log',  # Log file name
+    level=logging.INFO,         # Set the logging level to INFO
+    format='%(asctime)s - %(levelname)s - %(message)s'  # Log message format
+)
 def generate_focal_points(persona, n=3): 
   if debug: print ("GNS FUNCTION: <generate_focal_points>")
   
@@ -106,8 +113,11 @@ def run_reflect(persona):
   Output: 
     None
   """
-  # Reflection requires certain focal points. Generate that first. 
+  # Reflection requires certain focal points. Generate that first.
+  logging.info("Start run reflect:")
+  logging.info("Generate focal points")
   focal_points = generate_focal_points(persona, 3)
+  logging.info(f"Focal points of {persona.scratch.name}:{focal_points}")
   # Retrieve the relevant Nodes object for each of the focal points. 
   # <retrieved> has keys of focal points, and values of the associated Nodes. 
   retrieved = new_retrieve(persona, focal_points)
@@ -117,9 +127,11 @@ def run_reflect(persona):
   for focal_pt, nodes in retrieved.items(): 
     xx = [i.embedding_key for i in nodes]
     for xxx in xx: print (xxx)
-
+    logging.info("Generate insights and evidences")
     thoughts = generate_insights_and_evidence(persona, nodes, 5)
-    for thought, evidence in thoughts.items(): 
+    logging.info(thoughts)
+    for thought, evidence in thoughts.items():
+      logging.info(f"From thought: {thought}")
       created = persona.scratch.curr_time
       expiration = persona.scratch.curr_time + datetime.timedelta(days=30)
       s, p, o = generate_action_event_triple(thought, persona)
@@ -180,7 +192,8 @@ def reflect(persona):
   Output: 
     None
   """
-  if reflection_trigger(persona): 
+  if reflection_trigger(persona):
+
     run_reflect(persona)
     reset_reflection_counter(persona)
 

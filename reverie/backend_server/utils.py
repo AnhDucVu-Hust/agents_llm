@@ -2,9 +2,9 @@
 #route to OpenRouter
 openai_base_url = "https://openrouter.ai/api/v1"
 #OpenRouter API Key
-openai_api_key = ""
+openai_api_key = "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"
 #OpenAI API key for calling embedding model
-openai_embedding_key =  ""
+openai_embedding_key =  "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"
 # Put your name
 key_owner = "ducva4"
 
@@ -105,11 +105,11 @@ chat_poignancy_param = {"engine": "meta-llama/llama-3.3-70b-instruct", "max_toke
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 #ChatGPT
-focal_pt_param = {"engine": "meta-llama/llama-3.3-70b-instruct", "max_tokens": 15, 
+focal_pt_param = {"engine": "meta-llama/llama-3.3-70b-instruct", "max_tokens": 500,
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 
-insight_and_guidance_param = {"engine": "openai/gpt-4o", "max_tokens": 150, 
+insight_and_guidance_param = {"engine":"meta-llama/llama-3.3-70b-instruct", "max_tokens": 150,
                "temperature": 0.5, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 #ChatGPT
@@ -136,12 +136,14 @@ generate_next_convo_line_param = {"engine": "deepseek/deepseek-chat", "max_token
 generate_whisper_inner_thought_param = {"engine": "meta-llama/llama-3.3-70b-instruct", "max_tokens": 50, 
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
-
+relationship_status_by_whisper_param = {"engine": "meta-llama/llama-3.3-70b-instruct", "max_tokens": 100,
+               "temperature": 0, "top_p": 1, "stream": False,
+               "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 planning_thought_on_convo_param = {"engine": "meta-llama/llama-3.3-70b-instruct", "max_tokens": 50, 
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 
-memo_on_convo_param = {"engine": "qwen/qwq-32b-preview", "max_tokens": 15, 
+memo_on_convo_param = {"engine": "qwen/qwq-32b-preview", "max_tokens": 100,
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 #ChatGPT
@@ -149,6 +151,6 @@ generate_safety_score_param = {"engine": "meta-llama/llama-3.3-70b-instruct", "m
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
 #ChatGPT
-generate_iterative_chat_utt_param = {"engine": "cohere/command-r", "max_tokens": 50, 
+generate_iterative_chat_utt_param = {"engine": "microsoft/wizardlm-2-8x22b", "max_tokens": 100,
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}

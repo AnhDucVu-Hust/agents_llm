@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udeb6\ud83d\udc95",
+      "description": "having breakfast (getting ready to leave for the Love Ville program) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and expectations while participating in the Love Ville program, with Maria Lopez and Klaus Mueller expressing enthusiasm and agreement as they discover common passions, such as cooking, gaming, and outdoor activities, and making plans to meet for breakfast at the Hobb Cafe and potentially explore the Ville Village together.) @ the Ville:Dorm for Oak Hill College:common room:pool table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "waking up and completing his morning routine (conversing about their interests, hobbies, and expectations while participating in the Love Ville program, with Maria Lopez and Klaus Mueller expressing enthusiasm and agreement as they discover common passions, such as cooking, gaming, and outdoor activities, and making plans to meet for breakfast at the Hobb Cafe and potentially explore the Ville Village together.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        93,
+        65
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83e\uddf9",
+      "description": "having breakfast (cleaning up after breakfast) @ the Ville:Lin family's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        68
+      ],
+      "pronunciatio": "\ud83e\ude9e",
+      "description": "getting ready for the day (checking his appearance in the mirror) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:58:50"
+  }
+}

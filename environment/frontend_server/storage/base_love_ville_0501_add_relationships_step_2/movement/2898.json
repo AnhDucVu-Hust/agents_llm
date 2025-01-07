@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        14
+      ],
+      "pronunciatio": "\ud83d\udec0\ud83d\udc55",
+      "description": "going to Hobbs Cafe to prepare for the Love Ville Program (getting dressed and ready for the day) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        87,
+        30
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca8",
+      "description": "waking up and completing her morning routine (drying off and getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        93,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc85\ud83e\uddd6",
+      "description": "waking up and completing his morning routine (drying off and applying lotion) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        40,
+        18
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83e\uddd6",
+      "description": "waking up and completing her morning routine (waking up and stretching in bed) @ the Ville:artist's co-living space:Abigail Chen's room:closet",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        116,
+        32
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "attending the Love Ville program at the Ville Village to get familiar with the program (asking questions about the program and activities) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        65
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udc55",
+      "description": "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time (getting dressed and ready to leave his room) @ the Ville:Adam Smith's house:main room:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:03:00"
+  }
+}

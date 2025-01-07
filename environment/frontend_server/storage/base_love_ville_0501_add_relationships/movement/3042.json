@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd13\ud83d\udca1",
+      "description": "going to Hobbs Cafe to prepare for the Love Ville Program (unlocking the cafe and turning on the lights) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        130,
+        53
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83e\uddd6\u200d",
+      "description": "getting ready for the day, listening to music and preparing to head to the Hobb Cafe (brushing her teeth and washing her face) @ the Ville:Dorm for Oak Hill College:woman's bathroom:toilet",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        36
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "waking up and completing his morning routine (conversing about their participation in the Love Ville program, expressing enthusiasm and curiosity about the upcoming activities, including a gaming night, and making plans to grab coffee, cook together, and continue their conversation throughout the day, between Klaus Mueller and John Lin, who share common interests in video games and cooking.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f",
+      "description": "waking up and completing her morning routine (choosing an outfit for the day) @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        97,
+        32
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "attending the Love Ville program at the Ville Village to get familiar with the program (conversing about their participation in the Love Ville program, expressing enthusiasm and curiosity about the upcoming activities, including a gaming night, and making plans to grab coffee, cook together, and continue their conversation throughout the day, between Klaus Mueller and John Lin, who share common interests in video games and cooking.) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        65,
+        30
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "walking to the Hobb Cafe, mentally preparing to meet the other Love Ville participants for the first time (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:27:00"
+  }
+}

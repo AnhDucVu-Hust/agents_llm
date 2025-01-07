@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddd6\u200d\u2640",
+      "description": "getting ready for the Love Ville program (applying makeup) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        127,
+        56
+      ],
+      "pronunciatio": "\ud83d\udc84\ud83d\udd25",
+      "description": "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe (drying her hair and applying light makeup) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:blackboard",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\udc55",
+      "description": "getting ready for the day, preparing to go to the Hobb Cafe for breakfast (getting dressed) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        21
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udc86",
+      "description": "waking up and completing her morning routine (drying off and applying skincare products) @ the Ville:artist's co-living space:Abigail Chen's bathroom:shower",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        97,
+        70
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f\ud83d\udcf1",
+      "description": "getting ready to head to the Hobb Cafe (packing his bag with essentials (e.g., wallet, phone, keys)) @ the Ville:Lin family's house:Mei and John Lin's bedroom:bed",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        33,
+        36
+      ],
+      "pronunciatio": "\ud83d\udeb6\ufe0f\u2615",
+      "description": "heading to the Hobb Cafe (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:40:50"
+  }
+}

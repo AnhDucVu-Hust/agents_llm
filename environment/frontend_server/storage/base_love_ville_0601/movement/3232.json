@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc5c\ud83d\udcbc",
+      "description": "getting ready for the Love Ville program (grabbing her bag and checking her essentials) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        55
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f\ud83e\uddf3",
+      "description": "getting ready for the day, choosing an outfit and preparing for breakfast at the Hobb Cafe (choosing an outfit for the day and packing her bag with essentials for the day) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\udc5e\ud83e\udde5",
+      "description": "getting ready for the day, preparing to go to the Hobb Cafe for breakfast (putting on his shoes and grabbing his jacket) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        44,
+        31
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f\u2615",
+      "description": "waking up and completing her morning routine (grabbing her bag and heading to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        59
+      ],
+      "pronunciatio": "\ud83d\udd12\ud83d\udeaa",
+      "description": "getting ready to head to the Hobb Cafe (locking his door and heading out) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udfe0\ud83d\udc4b",
+      "description": "heading to the Hobb Cafe (arriving at the Hobb Cafe and greeting the other participants) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:58:40"
+  }
+}

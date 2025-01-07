@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "attending the Love Ville Program at Hobbs Cafe (conversing about their participation in the Love Ville program, expressing enthusiasm and openness to meeting new people and potential romantic connections, with a shared interest in gaming, and making plans to spend time together over the next week, including a gaming duel and exploring the cafe and city, with Isabella Rodriguez and Abigail Chen eagerly anticipating their next activities and getting to know each other better.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, sharing their interests and hobbies, and making plans for a romantic evening, with Maria Lopez and Adam Smith enthusiastically agreeing to meet at 6 pm at the lobby of Maria's dorm to grab coffee, go on a stroll, and have a candlelit dinner, showcasing their excitement and eagerness to explore their budding connection. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey, I couldn't help but notice you from over here. I'm Maria Lopez, a fellow Love Ville participant! Nice to meet you."
+        ],
+        [
+          "Adam Smith",
+          "Nice to meet you too, Maria! I'm Adam. I must say, I'm thrilled to be part of this exciting program, and even more thrilled to get to know you better. So, tell me more about yourself? What are some hobbies and interests that bring you joy?"
+        ],
+        [
+          "Maria Lopez",
+          " quanh here's the most interesting person I've met so far! I'm usually not one to believe in love at first sight, but you've got me reconsidering. So, do you have any plans for tonight? Because I'd love to continue getting to know you better."
+        ],
+        [
+          "Adam Smith",
+          "Why don't we grab a coffee later tonight? It's supposed to be a great evening, and we could make our way around the city's best spots. Just the two of us getting to know each other better."
+        ],
+        [
+          "Maria Lopez",
+          "You know what, I think that's a fantastic idea! I've been curious to try this new cafe nearby, they serve the most amazinglical citrusy coffee with a hint of lavender syrup. How about we go there later? We could grab a seat by the window, people watch and get to know each other even more!"
+        ],
+        [
+          "Adam Smith",
+          "Sounds like a wonderful plan! I love the idea of people-watching while catching up with each other. By the way, what do you do for a living? Or do you pursue any hobby that you're passionate about?"
+        ],
+        [
+          "Maria Lopez",
+          "By day, I'm a student at Oak Hill College, studying the intricacies of physics, and by night, I'm a part-time Twitch streamer. But enough about me, what brings you joy in life, Adam? Any hobbies that you're passionate about or perhaps a hidden talent you'd like to share?"
+        ],
+        [
+          "Adam Smith",
+          "I'm a philosopher by trade, but in my free time, I enjoy exploring new ideas and challenging people's preconceptions. It's actually what brought me to this show! And you, what made you join the Love Ville program?"
+        ],
+        [
+          "Maria Lopez",
+          "You're a physicist and a gamer, that's so cool! I never thought I'd meet someone who shares both of my passions. I've been streaming on Twitch for a while, it's a great platform to connect with like-minded people. As for what brought me here, I guess I just wanted to explore a different side of life, step out of my comfort zone, and see what new experiences await. How about you, what made you decide to join the show?"
+        ],
+        [
+          "Adam Smith",
+          "Speaking of new experiences, Maria, how about we take this chance to explore a different kind of adventure? Say, a cozy stroll in the park followed by a intimate candlelit dinner just the two of us? I'd love to get to know you further and explore this budding connection we seem to have."
+        ],
+        [
+          "Maria Lopez",
+          "You know what, Adam, I think that sounds like a wonderful idea! In the spirit of exploring new experiences, I'd love to further explore this connection and see where this date could lead. When it comes to sexy jokes, I've got a few up my sleeve! How about we make it a surprise and see where the evening takes us?"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad to hear that, Maria! Looking forward to our date later tonight. I'll meet you at the lobby of your dorm around 6 pm, how does that sound?"
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait! See you at 6pm then, Adam!"
+        ],
+        [
+          "Adam Smith",
+          "Until later tonight then, Maria! I'm really looking forward to it."
+        ],
+        [
+          "Maria Lopez",
+          "What a delightful conversation! I'm so glad we're getting to know each other better. See you later, Adam!"
+        ],
+        [
+          "Adam Smith",
+          "It was nice talking to you, Maria, see you later!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc65",
+      "description": "at the Hobb Cafe cooking and eating breakfast with the other participants (cooking breakfast with the other participants) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc95",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (conversing about their participation in the Love Ville program, expressing enthusiasm and openness to meeting new people and potential romantic connections, with a shared interest in gaming, and making plans to spend time together over the next week, including a gaming duel and exploring the cafe and city, with Isabella Rodriguez and Abigail Chen eagerly anticipating their next activities and getting to know each other better.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast with other participants at the Hobb Cafe (eating his breakfast) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, sharing their interests and hobbies, and making plans for a romantic evening, with Maria Lopez and Adam Smith enthusiastically agreeing to meet at 6 pm at the lobby of Maria's dorm to grab coffee, go on a stroll, and have a candlelit dinner, showcasing their excitement and eagerness to explore their budding connection. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey, I couldn't help but notice you from over here. I'm Maria Lopez, a fellow Love Ville participant! Nice to meet you."
+        ],
+        [
+          "Adam Smith",
+          "Nice to meet you too, Maria! I'm Adam. I must say, I'm thrilled to be part of this exciting program, and even more thrilled to get to know you better. So, tell me more about yourself? What are some hobbies and interests that bring you joy?"
+        ],
+        [
+          "Maria Lopez",
+          " quanh here's the most interesting person I've met so far! I'm usually not one to believe in love at first sight, but you've got me reconsidering. So, do you have any plans for tonight? Because I'd love to continue getting to know you better."
+        ],
+        [
+          "Adam Smith",
+          "Why don't we grab a coffee later tonight? It's supposed to be a great evening, and we could make our way around the city's best spots. Just the two of us getting to know each other better."
+        ],
+        [
+          "Maria Lopez",
+          "You know what, I think that's a fantastic idea! I've been curious to try this new cafe nearby, they serve the most amazinglical citrusy coffee with a hint of lavender syrup. How about we go there later? We could grab a seat by the window, people watch and get to know each other even more!"
+        ],
+        [
+          "Adam Smith",
+          "Sounds like a wonderful plan! I love the idea of people-watching while catching up with each other. By the way, what do you do for a living? Or do you pursue any hobby that you're passionate about?"
+        ],
+        [
+          "Maria Lopez",
+          "By day, I'm a student at Oak Hill College, studying the intricacies of physics, and by night, I'm a part-time Twitch streamer. But enough about me, what brings you joy in life, Adam? Any hobbies that you're passionate about or perhaps a hidden talent you'd like to share?"
+        ],
+        [
+          "Adam Smith",
+          "I'm a philosopher by trade, but in my free time, I enjoy exploring new ideas and challenging people's preconceptions. It's actually what brought me to this show! And you, what made you join the Love Ville program?"
+        ],
+        [
+          "Maria Lopez",
+          "You're a physicist and a gamer, that's so cool! I never thought I'd meet someone who shares both of my passions. I've been streaming on Twitch for a while, it's a great platform to connect with like-minded people. As for what brought me here, I guess I just wanted to explore a different side of life, step out of my comfort zone, and see what new experiences await. How about you, what made you decide to join the show?"
+        ],
+        [
+          "Adam Smith",
+          "Speaking of new experiences, Maria, how about we take this chance to explore a different kind of adventure? Say, a cozy stroll in the park followed by a intimate candlelit dinner just the two of us? I'd love to get to know you further and explore this budding connection we seem to have."
+        ],
+        [
+          "Maria Lopez",
+          "You know what, Adam, I think that sounds like a wonderful idea! In the spirit of exploring new experiences, I'd love to further explore this connection and see where this date could lead. When it comes to sexy jokes, I've got a few up my sleeve! How about we make it a surprise and see where the evening takes us?"
+        ],
+        [
+          "Adam Smith",
+          "I'm glad to hear that, Maria! Looking forward to our date later tonight. I'll meet you at the lobby of your dorm around 6 pm, how does that sound?"
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait! See you at 6pm then, Adam!"
+        ],
+        [
+          "Adam Smith",
+          "Until later tonight then, Maria! I'm really looking forward to it."
+        ],
+        [
+          "Maria Lopez",
+          "What a delightful conversation! I'm so glad we're getting to know each other better. See you later, Adam!"
+        ],
+        [
+          "Adam Smith",
+          "It was nice talking to you, Maria, see you later!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:46:00"
+  }
+}

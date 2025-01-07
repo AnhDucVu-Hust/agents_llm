@@ -1,16 +1,33 @@
 {
-  "vision_r": 8, 
-  "att_bandwidth": 8, 
-  "retention": 8, 
-  "curr_time": null, 
-  "curr_tile": null, 
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 08:25:50",
+        "status": "John Lin John Lin found Klaus Mueller's passion for video games and the idea of gaming nights particularly interesting."
+      }
+    ],
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 08:52:50",
+        "status": "John Lin Adam Smith, who shares similar interests in creativity, books, and gaming, seems like a great potential friend and connection in the Love Ville program."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 09:11:40",
+  "curr_tile": [
+    91,
+    67
+  ],
   "daily_plan_req": "John Lin is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
-  "name": "John Lin", 
-  "first_name": "John", 
-  "last_name": "Lin", 
-  "age": 45, 
-  "innate": "patient, kind, organized", 
-  "learned": "John Lin is a pharmacy shop keeper at the Willow Market and Pharmacy who loves to help people. He is always looking for ways to make the process of getting medication easier for his customers.", 
+  "name": "John Lin",
+  "first_name": "John",
+  "last_name": "Lin",
+  "age": 45,
+  "innate": "patient, kind, organized",
+  "learned": "John Lin is a pharmacy shop keeper at the Willow Market and Pharmacy who loves to help people. He is always looking for ways to make the process of getting medication easier for his customers.",
   "currently": "John Lin is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). As a participant, your goal is to form genuine connections, whether romantic or platonic, while embracing the experience fully. Treat everyone with respect and kindness, and be honest about your feelings, intentions, and preferences. When interacting with the opposite gender, focus on getting to know them, being yourself, and expressing interest naturally without pressure. With the same gender, build strong friendships, offer emotional support, and handle any competition respectfully. Engage in all activities, share your thoughts openly, and reflect daily on who made an impact on you. Avoid aggression, manipulation, or gossip, and remember that this is a unique opportunity to explore relationships, create memories, and enjoy every moment to the fullest! Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat,  6pm to cook and eat dinner. In real life, he is taking online classes to stay up to date on new medications and treatments. John is also curious about who will be running for the local mayor election next month and he is asking everyone he meets about who will be running in the election.",
   "lifestyle": "John Lin goes to bed around 10pm, awakes up around 6am, ",
   "living_area": "the Ville:Lin family's house:Mei and John Lin's bedroom",
@@ -18,34 +35,313 @@
   "daily_reflection_time": 180,
   "daily_reflection_size": 5,
   "overlap_reflect_th": 4,
-  "kw_strg_event_reflect_th": 10, 
-  "kw_strg_thought_reflect_th": 9, 
-
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
   "recency_w": 1,
   "relevance_w": 1,
   "importance_w": 1,
   "recency_decay": 0.995,
   "importance_trigger_max": 250,
-  "importance_trigger_curr": 250,
-  "importance_ele_n": 0, 
-  "thought_count": 5, 
-
-  "daily_req": [], 
-  "f_daily_schedule": [],
-  "f_daily_schedule_hourly_org": [],
-  "act_address": null, 
-  "act_start_time": null, 
-  "act_duration": null, 
-  "act_description": null, 
-  "act_pronunciatio": null, 
-  "act_event": ["John Lin", null, null], 
-  "act_obj_description": null, 
-  "act_obj_pronunciatio": null, 
-  "act_obj_event": [null, null, null], 
-  "chatting_with": null, 
+  "importance_trigger_curr": 85,
+  "importance_ele_n": 81,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "attend the Love Ville program at the Ville Village from 7:00 am to 9:00 am to get familiar with the program",
+    "have breakfast with other participants at the Hobb Cafe from 9:00 am to 10:00 am",
+    "participate in a team-building activity from 10:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "participate in a group discussion from 1:00 pm to 3:00 pm",
+    "take a break and rest for a while from 3:00 pm to 5:00 pm",
+    "participate in a social mixer from 5:00 pm to 6:00 pm",
+    "have dinner with other participants at the Hobb Cafe from 6:00 pm to 7:00 pm,",
+    "participate in a game night from 7:00 pm to 9:00 pm,",
+    "reflect on the day and think about who made an impact on him from 9:00 pm to 10:00 pm, and"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (preparing and eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (packing his bag for the day)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (arriving at the Ville Village and checking in at the registration desk)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (receiving a welcome packet and program schedule)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (introducing himself to other participants)",
+      20
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (listening to the program orientation and rules)",
+      20
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (asking questions about the program and activities)",
+      15
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (on the way to mingling with other participants and making small talk)",
+      0
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (conversing about their participation in the Love Ville program, expressing enthusiasm and curiosity about the upcoming activities, including a gaming night, and making plans to grab coffee, cook together, and continue their conversation throughout the day, between Klaus Mueller and John Lin, who share common interests in video games and cooking.)",
+      21
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (on the way to exchanging contact information with a few participants)",
+      0
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (conversing about their participation in the Love Ville program, where John Lin and Adam Smith, two enthusiastic and slightly nervous participants, discuss their interests, motivations, and expectations, while making plans to attend a gaming night, potentially cook together with Klaus Mueller, and get to know each other better throughout the week, expressing excitement, agreement, and a sense of camaraderie as they look forward to exploring the possibilities of the program together.)",
+      23
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program (heading to the Hobb Cafe for breakfast)",
+      1
+    ],
+    [
+      "having breakfast with other participants at the Hobb Cafe (greeting other participants and introducing himself)",
+      10
+    ],
+    [
+      "having breakfast with other participants at the Hobb Cafe (choosing a seat and sitting down)",
+      5
+    ],
+    [
+      "having breakfast with other participants at the Hobb Cafe (looking at the menu and deciding what to order)",
+      5
+    ],
+    [
+      "having breakfast with other participants at the Hobb Cafe (ordering his breakfast)",
+      5
+    ],
+    [
+      "having breakfast with other participants at the Hobb Cafe (engaging in small talk with other participants)",
+      15
+    ],
+    [
+      "having breakfast with other participants at the Hobb Cafe (eating his breakfast)",
+      15
+    ],
+    [
+      "having breakfast with other participants at the Hobb Cafe (thanking the staff and saying goodbye to other participants)",
+      5
+    ],
+    [
+      "participating in a team-building activity with other participants",
+      120
+    ],
+    [
+      "having lunch with other participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "participating in a group discussion with other participants",
+      120
+    ],
+    [
+      "taking a break and resting for a while",
+      120
+    ],
+    [
+      "participating in a social mixer with other participants",
+      60
+    ],
+    [
+      "having dinner with other participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "participating in a game night with other participants",
+      120
+    ],
+    [
+      "reflecting on the day and thinking about who made an impact on him",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "attending the Love Ville program at the Ville Village to get familiar with the program",
+      120
+    ],
+    [
+      "having breakfast with other participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "participating in a team-building activity with other participants",
+      120
+    ],
+    [
+      "having lunch with other participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "participating in a group discussion with other participants",
+      120
+    ],
+    [
+      "taking a break and resting for a while",
+      120
+    ],
+    [
+      "participating in a social mixer with other participants",
+      60
+    ],
+    [
+      "having dinner with other participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "participating in a game night with other participants",
+      120
+    ],
+    [
+      "reflecting on the day and thinking about who made an impact on him",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Lin family's house:common room:common room table",
+  "act_start_time": "February 13, 2023, 08:53:00",
+  "act_duration": 23,
+  "act_description": "attending the Love Ville program at the Ville Village to get familiar with the program (conversing about their participation in the Love Ville program, where John Lin and Adam Smith, two enthusiastic and slightly nervous participants, discuss their interests, motivations, and expectations, while making plans to attend a gaming night, potentially cook together with Klaus Mueller, and get to know each other better throughout the week, expressing excitement, agreement, and a sense of camaraderie as they look forward to exploring the possibilities of the program together.)",
+  "act_pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+  "act_event": [
+    "John Lin",
+    "converse",
+    "participation in Love Ville program"
+  ],
+  "act_obj_description": "empty and tidy, with a few chairs pulled up to it, but no one is currently sitting at it, as John Lin and Adam Smith are standing and conversing near the window",
+  "act_obj_pronunciatio": "\ud83d\udecb\ufe0f",
+  "act_obj_event": [
+    "common room table",
+    "is",
+    "empty and tidy"
+  ],
+  "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {}, 
+  "chatting_with_buffer": {
+    "Klaus Mueller": 525,
+    "Adam Smith": 687
+  },
   "chatting_end_time": null,
-  "act_path_set": false, 
+  "act_path_set": true,
   "planned_path": []
 }

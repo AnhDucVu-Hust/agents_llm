@@ -1,0 +1,484 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 07:34:50",
+        "status": "Maria Lopez might have found it interesting that Klaus Mueller is a huge fan of sociology and"
+      }
+    ],
+    "Isabella Rodriguez": [
+      {
+        "date": "February 13, 2023, 09:37:50",
+        "status": "Maria Lopez Maria Lopez's enthusiasm for shared interests and her proactive suggestion for a group game night suggest a compatible and engaging personality."
+      }
+    ],
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 10:00:50",
+        "status": "Maria Lopez I found Adam Smith to be an interesting person to talk to. He shares similar interests in hiking and stargazing, and he seems friendly and open to group activities like game nights and hiking trips. It was nice to connect with someone who is also new to Love Ville and experiencing the same nerves about meeting new people. We even discussed potential romantic interests, which added a layer of fun to our conversation.Overall, Adam seems like a great potential friend and maybe even a romantic prospect in the future."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 10:09:10",
+  "curr_tile": [
+    80,
+    37
+  ],
+  "daily_plan_req": "Maria Lopez is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Maria Lopez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). As a participant, your goal is to form genuine connections, whether romantic or platonic, while embracing the experience fully. Treat everyone with respect and kindness, and be honest about your feelings, intentions, and preferences. When interacting with the opposite gender, focus on getting to know them, being yourself, and expressing interest naturally without pressure. With the same gender, build strong friendships, offer emotional support, and handle any competition respectfully. Engage in all activities, share your thoughts openly, and reflect daily on who made an impact on you. Avoid aggression, manipulation, or gossip, and remember that this is a unique opportunity to explore relationships, create memories, and enjoy every moment to the fullest!. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Maria Lopez goes to bed around 10am, awakes up around 7am, eats dinner around 6pm. She likes listening to music and admire people in academia",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 20,
+  "importance_ele_n": 30,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "head to the hobb cafe at 9:00 am",
+    "attend the Love Ville program at the Ville Village from 10:00 am",
+    "have a lunch at 12:00 pm",
+    "continue attending the Love Ville program from 1:00 to 5:00 pm",
+    "head back to the hobb cafe at 6:00 pm",
+    "have a dinner at 6:30 pm",
+    "watch a movie from 8:00 to 9:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and turning off her alarm)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (on the way to washing her face)",
+      0
+    ],
+    [
+      "waking up and completing her morning routine (conversing about their interests, expectations, and plans for the Love Ville program, with Maria Lopez and Klaus Mueller, two students at Oak Hill College, expressing enthusiasm and agreement as they discuss their shared passions for gaming and science, and make plans to grab breakfast at the Hobb Cafe, organize a gaming night, and possibly a friendly gaming tournament, all while looking forward to forming meaningful connections and having fun during their time together in the program.)",
+      24
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a quick shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (brushing her hair)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (grabbing her bag and preparing to leave her room)",
+      5
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to head to the Hobb Cafe (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to head to the Hobb Cafe (taking a quick shower)",
+      15
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to head to the Hobb Cafe (getting dressed and styling her hair)",
+      5
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to head to the Hobb Cafe (applying light makeup)",
+      5
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to head to the Hobb Cafe (packing her bag with essentials for the day)",
+      1
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (walking to the Hobb Cafe)",
+      5
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (greeting the other participants at the Hobb Cafe)",
+      5
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (choosing a breakfast recipe with the group)",
+      10
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (on the way to helping to prepare the ingredients for breakfast)",
+      0
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (conversing about their excitement and nerves on a dating show, sharing their hobbies and interests, such as surfing, stargazing, and hiking, while also discussing potential romantic connections, including a rumored interest of Adam's in someone with blonde hair, and making plans for a game night to get to know each other better, with Maria Lopez and Isabella Rodriguez agreeing to organize it and invite other participants, possibly to take place tonight or tomorrow night.)",
+      24
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (on the way to setting the table and serving breakfast)",
+      0
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (conversing about their shared interests, making plans for a group hike and game night, and discussing potential romantic connections, with Adam Smith and Maria Lopez expressing enthusiasm and agreement as they get to know each other in the Love Ville setting.)",
+      22
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (setting the table and serving breakfast)",
+      6
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (eating breakfast and chatting with the other participants)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the Ville Village, meeting and getting to know the other participants (introducing herself to the group)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the Ville Village, meeting and getting to know the other participants (listening to other participants introduce themselves)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the Ville Village, meeting and getting to know the other participants (engaging in small talk with a participant she finds interesting)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the Ville Village, meeting and getting to know the other participants (participating in an icebreaker activity)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the Ville Village, meeting and getting to know the other participants (reflecting on the interactions she had and noting who made an impact on her)",
+      3
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants (introducing herself to a new participant)",
+      5
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants (asking the participant about their hobbies and interests)",
+      10
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants (sharing her own hobbies and interests)",
+      5
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants (engaging in a group activity with other participants)",
+      15
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants (taking a break and getting a drink)",
+      5
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants (joining a conversation with a group of participants)",
+      10
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants (exchanging contact information with a participant she connected with)",
+      5
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants (reflecting on the interactions she had during the session)",
+      5
+    ],
+    [
+      "having lunch with other Love Ville participants at the Ville Village",
+      60
+    ],
+    [
+      "continuing to attend the Love Ville program, participating in activities and getting to know other participants better",
+      300
+    ],
+    [
+      "heading back to the Hobb Cafe for dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "having dinner at the Hobb Cafe with other Love Ville participants",
+      60
+    ],
+    [
+      "watching a movie with other Love Ville participants at the Ville Village",
+      60
+    ],
+    [
+      "continuing to watch the movie with other Love Ville participants at the Ville Village",
+      60
+    ],
+    [
+      "getting ready for bed, reflecting on her first day at the Love Ville program",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "getting ready for the day, listening to music and preparing to head to the Hobb Cafe",
+      60
+    ],
+    [
+      "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants",
+      60
+    ],
+    [
+      "attending the Love Ville program at the Ville Village, meeting and getting to know the other participants",
+      60
+    ],
+    [
+      "continuing to attend the Love Ville program, engaging in activities and conversations with other participants",
+      60
+    ],
+    [
+      "having lunch with other Love Ville participants at the Ville Village",
+      60
+    ],
+    [
+      "continuing to attend the Love Ville program, participating in activities and getting to know other participants better",
+      300
+    ],
+    [
+      "heading back to the Hobb Cafe for dinner with other Love Ville participants",
+      60
+    ],
+    [
+      "having dinner at the Hobb Cafe with other Love Ville participants",
+      60
+    ],
+    [
+      "watching a movie with other Love Ville participants at the Ville Village",
+      60
+    ],
+    [
+      "continuing to watch the movie with other Love Ville participants at the Ville Village",
+      60
+    ],
+    [
+      "getting ready for bed, reflecting on her first day at the Love Ville program",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 10:01:00",
+  "act_duration": 22,
+  "act_description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (conversing about their shared interests, making plans for a group hike and game night, and discussing potential romantic connections, with Adam Smith and Maria Lopez expressing enthusiasm and agreement as they get to know each other in the Love Ville setting.)",
+  "act_pronunciatio": "\ud83d\udcac\ufe0f\u2764",
+  "act_event": [
+    "Maria Lopez",
+    "converse",
+    "Adam Smith and Maria Lopez"
+  ],
+  "act_obj_description": "being used by Maria Lopez and Adam Smith, among other Love Ville participants, for eating breakfast and socializing",
+  "act_obj_pronunciatio": "\ud83c\udf74\ud83d\udc65",
+  "act_obj_event": [
+    "cafe customer seating",
+    "cafe customer seating",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": -126,
+    "Isabella Rodriguez": 612,
+    "Adam Smith": 750
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      78,
+      37
+    ],
+    [
+      77,
+      37
+    ],
+    [
+      77,
+      36
+    ],
+    [
+      77,
+      35
+    ],
+    [
+      77,
+      34
+    ],
+    [
+      77,
+      33
+    ],
+    [
+      77,
+      32
+    ],
+    [
+      77,
+      31
+    ],
+    [
+      77,
+      30
+    ],
+    [
+      77,
+      29
+    ],
+    [
+      77,
+      28
+    ],
+    [
+      77,
+      27
+    ],
+    [
+      77,
+      26
+    ],
+    [
+      77,
+      25
+    ],
+    [
+      78,
+      25
+    ],
+    [
+      79,
+      25
+    ]
+  ]
+}

@@ -6,6 +6,14 @@ Variables:
 
 <commentblockmarker>###</commentblockmarker>
 !<INPUT 0>!
-
-Given only the information above, what are !<INPUT 1>! most salient high-level questions we can answer about the subjects in the statements?
+Please  just continue writing the rest of the prompt below, starting from where it was left off:
+"""
+Given only the information above, these are !<INPUT 1>! most salient high-level questions we can answer about the subjects in the statements?
+For example:
+Answer:
+1) Who is Jane?
+2) What does Jane feel about who that have talked with her?
+3) What is Jane's ideal type of boyfriend?
+--------------
+Answer:
 1)

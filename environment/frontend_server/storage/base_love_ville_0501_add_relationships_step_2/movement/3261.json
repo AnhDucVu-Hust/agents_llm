@@ -1,0 +1,159 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their participation in the Love Ville program, expressing enthusiasm and nervousness, and making plans to grab coffee together at 8pm tonight to get to know each other better, between Isabella Rodriguez, the cafe owner, and Adam Smith, a fellow participant. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Adam, I'm Isabella! Nice to meet you. I'm one of the participants in the Love Ville program too. I'm so nervous but super excited to get to know everyone. I own the cafe here, so I've been busy preparing the place for the program's activities. What brings you here today?"
+        ],
+        [
+          "Adam Smith",
+          "Hi Isabella! It's great to meet you too. I'm also nervous about meeting everyone, but programs like this are such a fun way to connect with new people, aren't they? I'm here a bit early to get a feel for the place and meet some of the other participants. It's a lovely cafe you have here."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's lovely to hear you say that, Adam! I'm really looking forward to getting to know everyone too. It's going to be an exciting week, isn't it? Hey, if you're free later, maybe we could grab a coffee together and get to know each other better?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds amazing! I'd love to grab a coffee with you later and get to know you better. Maybe we could sit somewhere cozy and chat over our shared experiences and expectations for the program, what do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful idea! There's a nice spot by the window where we could sit and watch the world go by while enjoying our coffee. How does that sound?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like the perfect way to spend some time together before we're engrossed in all the activities. Maybe around 8pm tonight? I'm really looking forward to delving into some deep conversations and getting to know you on a deeper level."
+        ],
+        [
+          "Isabella Rodriguez",
+          "ieland! I think we're going to have a great week ahead of us. I'll see you later then, Adam! Have a wonderful afternoon."
+        ],
+        [
+          "Adam Smith",
+          "It's so great to have met you, Isabella! I'm thrilled to see what this week has in store for us. I think we're going to have a lot of fun and maybe even find some special connections. I'll see you later tonight; until then, embrace the unknown and let the excitement build!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's wonderful to meet someone so enthusiastic about the program! I'm glad we're both here today. I must say, you have a great energy about you, Adam, it's infectious! See you later tonight, enjoy the rest of your afternoon!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to have bumped into you today, Isabella! I must say, your positive energy is\u0631\u0648\u0633 glad we share the same enthusiasm for this experience. I hope we can explore more of our shared interests and deepest thoughts throughout the week. Anyway, I better get going now, but I'll see you later tonight at 8pm sharp!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's fantastic to hear your enthusiasm, Adam! I'm even more excited now for the week ahead. See you later!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to have met you, Isabella! I'm so glad we share a positive outlook towards this experience. I'm excited to see where this week takes us. I'll see you later tonight, take care!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        112,
+        47
+      ],
+      "pronunciatio": "\ud83d\udeb6\ufe0f\u2615",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        109,
+        50
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+      "description": "getting ready for the day and preparing to head to the Hobb Cafe for breakfast (taking a shower) @ the Ville:Dorm for Oak Hill College:man's bathroom:bathroom sink",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        42,
+        32
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        67
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "attending the Love Ville program at the Ville Village to get familiar with the program (conversing about their participation in the Love Ville program, where John Lin and Adam Smith, two enthusiastic and slightly nervous participants, discuss their interests, motivations, and expectations, while making plans to attend a gaming night, potentially cook together with Klaus Mueller, and get to know each other better throughout the week, expressing excitement, agreement, and a sense of camaraderie as they look forward to exploring the possibilities of the program together.) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their participation in the Love Ville program, expressing enthusiasm and nervousness, and making plans to grab coffee together at 8pm tonight to get to know each other better, between Isabella Rodriguez, the cafe owner, and Adam Smith, a fellow participant. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Adam, I'm Isabella! Nice to meet you. I'm one of the participants in the Love Ville program too. I'm so nervous but super excited to get to know everyone. I own the cafe here, so I've been busy preparing the place for the program's activities. What brings you here today?"
+        ],
+        [
+          "Adam Smith",
+          "Hi Isabella! It's great to meet you too. I'm also nervous about meeting everyone, but programs like this are such a fun way to connect with new people, aren't they? I'm here a bit early to get a feel for the place and meet some of the other participants. It's a lovely cafe you have here."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's lovely to hear you say that, Adam! I'm really looking forward to getting to know everyone too. It's going to be an exciting week, isn't it? Hey, if you're free later, maybe we could grab a coffee together and get to know each other better?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds amazing! I'd love to grab a coffee with you later and get to know you better. Maybe we could sit somewhere cozy and chat over our shared experiences and expectations for the program, what do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful idea! There's a nice spot by the window where we could sit and watch the world go by while enjoying our coffee. How does that sound?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like the perfect way to spend some time together before we're engrossed in all the activities. Maybe around 8pm tonight? I'm really looking forward to delving into some deep conversations and getting to know you on a deeper level."
+        ],
+        [
+          "Isabella Rodriguez",
+          "ieland! I think we're going to have a great week ahead of us. I'll see you later then, Adam! Have a wonderful afternoon."
+        ],
+        [
+          "Adam Smith",
+          "It's so great to have met you, Isabella! I'm thrilled to see what this week has in store for us. I think we're going to have a lot of fun and maybe even find some special connections. I'll see you later tonight; until then, embrace the unknown and let the excitement build!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's wonderful to meet someone so enthusiastic about the program! I'm glad we're both here today. I must say, you have a great energy about you, Adam, it's infectious! See you later tonight, enjoy the rest of your afternoon!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to have bumped into you today, Isabella! I must say, your positive energy is\u0631\u0648\u0633 glad we share the same enthusiasm for this experience. I hope we can explore more of our shared interests and deepest thoughts throughout the week. Anyway, I better get going now, but I'll see you later tonight at 8pm sharp!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's fantastic to hear your enthusiasm, Adam! I'm even more excited now for the week ahead. See you later!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to have met you, Isabella! I'm so glad we share a positive outlook towards this experience. I'm excited to see where this week takes us. I'll see you later tonight, take care!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:03:30"
+  }
+}

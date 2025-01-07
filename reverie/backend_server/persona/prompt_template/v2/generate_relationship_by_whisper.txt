@@ -1,0 +1,18 @@
+agent_chat_v1.txt
+
+Variables:
+!<INPUT 0>! -- Name of all persons
+!<INPUT 1>! -- Init persona
+!<INPUT 2>! -- The statement
+!<INPUT 3>! -- Init persona
+<commentblockmarker>###</commentblockmarker>
+Given all personas: !<INPUT 0>!
+Statement come from !<INPUT 1>!: !<INPUT 2>!
+
+Determine if this statement represents any thought of !<INPUT 3>! to other personas that can affect to their relationships
+If yes, your output will be form like a list of dictionary python, with each dictionary have key is the name of the target persona and value is the thought
+If no, return an empty list in python
+Just give the response, don't explain anything
+For example:
+[{'Jane Doe':'thinking that Jane Doe is very cute'}]
+------------------------

@@ -20,7 +20,7 @@ import logging
 
 # Configure logging
 logging.basicConfig(
-    filename='../../api.log',  # Log file name
+    filename='../../api_2.log',  # Log file name
     level=logging.INFO,         # Set the logging level to INFO
     format='%(asctime)s - %(levelname)s - %(message)s'  # Log message format
 )
@@ -168,7 +168,6 @@ def ChatGPT_safe_generate_response(prompt,
   # print ("000asdfhia")
     if verbose: 
       print ("---- repeat count: \n", i, curr_gpt_response)
-      print (curr_gpt_response)
       print ("~~~~")
     if func_validate(curr_gpt_response, prompt=prompt): 
       return func_clean_up(curr_gpt_response, prompt=prompt)

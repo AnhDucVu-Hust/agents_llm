@@ -9,7 +9,7 @@ import re
 import datetime
 import sys
 import ast
-
+import json
 sys.path.append('../../')
 
 from global_methods import *
@@ -864,8 +864,9 @@ def run_gpt_prompt_pronunciatio(action_description, persona, verbose=False):
 
 def run_gpt_prompt_event_triple(action_description, persona, verbose=False): 
   def create_prompt_input(action_description, persona): 
-    if "(" in action_description: 
+    if "(" in action_description and ")" in action_description:
       action_description = action_description.split("(")[-1].split(")")[0]
+    action_description = action_description.strip(persona.name)
     prompt_input = [persona.name, 
                     action_description,
                     persona.name]
@@ -2036,9 +2037,10 @@ def run_gpt_prompt_focal_pt(persona, statements, n, test_input=None, verbose=Fal
 
   def __chat_func_validate(gpt_response, prompt=""): ############
     try: 
-      __func_clean_up(gpt_response, prompt)
+      __chat_func_clean_up(gpt_response, prompt)
       return True
     except:
+      raise TypeError("BLOCK")
       return False 
 
 
@@ -2053,6 +2055,10 @@ def run_gpt_prompt_focal_pt(persona, statements, n, test_input=None, verbose=Fal
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True,
                                          focal_pt_param['engine'])
+  with open("/Users/vuanhduc/Documents/generative_agents/focal_pt.txt","a") as f:
+    f.write(prompt+"\n")
+    f.write("------------\n")
+    f.write(str(output))
   if output != False: 
     return output, [output, prompt, focal_pt_param, prompt_input, fail_safe]
   # ChatGPT Plugin ===========================================================
@@ -2083,18 +2089,20 @@ def run_gpt_prompt_insight_and_guidance(persona, statements, n, test_input=None,
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    gpt_response = "1. " + gpt_response.strip()
+    #gpt_response = "1. " + gpt_response.strip()
     ret = dict()
-    for i in gpt_response.split("\n"): 
-      row = i[2:]
-      if '(because of ' in row:
-        thought = row.split("(because of ")[0].strip()
-        evi_raw = row.split("(because of ")[1].split(")")[0].strip()
-        evi_raw = re.findall(r'\d+', evi_raw)
-        evi_raw = [int(i.strip()) for i in evi_raw]
-        ret[thought] = evi_raw
-      else:
-        ret[row] = row
+    for i in gpt_response.split("\n"):
+      if len(i)>2:
+        if i[0].isdigit() and i[1]==".":
+          row = i[2:]
+          if '(because of ' in row:
+            thought = row.split("(because of ")[0].strip()
+            evi_raw = row.split("(because of ")[1].split(")")[0].strip()
+            evi_raw = re.findall(r'\d+', evi_raw)
+            evi_raw = [int(i.strip()) for i in evi_raw]
+            ret[thought] = evi_raw
+          else:
+            ret[row] = row
     return ret
 
   def __func_validate(gpt_response, prompt=""): 
@@ -2542,8 +2550,8 @@ def run_gpt_prompt_generate_next_convo_line(persona, interlocutor_desc, prev_con
 
 
 
-def run_gpt_prompt_generate_whisper_inner_thought(persona, whisper, test_input=None, verbose=False): 
-  def create_prompt_input(persona, whisper, test_input=None): 
+def run_gpt_prompt_generate_whisper_inner_thought(persona, whisper, test_input=None, verbose=False):
+  def create_prompt_input(persona, whisper, test_input=None):
     prompt_input = [persona.scratch.name, whisper]
     return prompt_input
   
@@ -2582,6 +2590,9 @@ def run_gpt_prompt_planning_thought_on_convo(persona, all_utt, test_input=None, 
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
+    if '"' not in gpt_response:
+      return gpt_response.strip(persona.name).strip()
+
     return gpt_response.split('"')[0].strip()
 
   def __func_validate(gpt_response, prompt=""): 
@@ -2608,8 +2619,43 @@ def run_gpt_prompt_planning_thought_on_convo(persona, all_utt, test_input=None, 
   
   return output, [output, prompt, planning_thought_on_convo_param, prompt_input, fail_safe]
 
+def run_gpt_prompt_relationship_status_by_whisper(personas, init_persona,whisper,verbose=False):
+  def create_prompt_input(personas, init_persona, whisper, test_input=None):
+    all_name = " ".join([x.scratch.name for x in personas])
+    prompt_input = [all_name, init_persona.scratch.name, whisper, init_persona.scratch.name]
+    return prompt_input
 
+  def __func_clean_up(gpt_response, prompt=""):
+    start = gpt_response.find('[')
+    end = gpt_response.find(']', start)
+    if start != -1 and end != -1:
+      result = gpt_response[start:end+1]
+      result = ast.literal_eval(result)
+      return result
 
+  def __func_validate(gpt_response, prompt=""):
+    try:
+      __func_clean_up(gpt_response, prompt)
+      return True
+    except:
+      return False
+
+  def get_fail_safe():
+    return "..."
+
+  prompt_template = "persona/prompt_template/v2/generate_relationship_by_whi.txt"
+  prompt_input = create_prompt_input(personas, init_persona,whisper)
+  prompt = generate_prompt(prompt_input, prompt_template)
+
+  fail_safe = get_fail_safe()
+  output = safe_generate_response(prompt, relationship_status_by_whisper_param, 5, fail_safe,
+                                  __func_validate, __func_clean_up)
+
+  if debug or verbose:
+    print_run_prompts(prompt_template, persona, relationship_status_by_whisper_param,
+                      prompt_input, prompt, output)
+
+  return output, [output, prompt, generate_whisper_inner_thought_param, prompt_input, fail_safe]
 def run_gpt_prompt_memo_on_convo(persona, all_utt, test_input=None, verbose=False): 
   def create_prompt_input(persona, all_utt, test_input=None): 
     prompt_input = [all_utt, persona.scratch.name, persona.scratch.name, persona.scratch.name]
@@ -2631,11 +2677,11 @@ def run_gpt_prompt_memo_on_convo(persona, all_utt, test_input=None, verbose=Fals
 
   # ChatGPT Plugin ===========================================================
   def __chat_func_clean_up(gpt_response, prompt=""): ############
-    return gpt_response.strip()
+    return gpt_response.strip(persona.scratch.name).strip()
 
   def __chat_func_validate(gpt_response, prompt=""): ############
     try: 
-      __func_clean_up(gpt_response, prompt)
+      __chat_func_clean_up(gpt_response, prompt)
       return True
     except:
       return False 
@@ -2763,11 +2809,27 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
       convo_str += ": ".join(i) + "\n"
     if convo_str == "": 
       convo_str = "[The conversation has not started yet -- start it!]"
+    if target_persona.scratch.name in init_persona.scratch.relationships:
+      relation_status = init_persona.scratch.relationships[target_persona.scratch.name]
+      if len(relation_status)>5:
+        relation_status = "\n".join(relation_status[-5:])
+      else:
+        relation_status = "\n".join(relation_status)
+    else:
+      relation_status = ""
 
-    init_iss = f"Here is Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss()}"
+    init_iss = f"Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss()}"
+    gender_target = [x.lower() for x in target_persona.scratch.learned.split()]
+    gender_init = [x.lower() for x in init_persona.scratch.learned.split()]
+    if 'he' in gender_target and 'he' in gender_init:
+      post = " (they are both male)"
+    elif 'she' in gender_init and 'she' in gender_target:
+      post = " (they are both female)"
+    else:
+      post = " (they are in opposite genders)"
     prompt_input = [init_iss, init_persona.scratch.name, retrieved_str, prev_convo_insert,
-      curr_location, curr_context, init_persona.scratch.name, target_persona.scratch.name,
-      convo_str, init_persona.scratch.name, target_persona.scratch.name,
+      curr_location, curr_context, init_persona.scratch.name, target_persona.scratch.name+post,
+      convo_str, relation_status, init_persona.scratch.name, target_persona.scratch.name,
       init_persona.scratch.name, init_persona.scratch.name,
       init_persona.scratch.name
       ]

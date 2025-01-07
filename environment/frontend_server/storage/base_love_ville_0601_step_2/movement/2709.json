@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating her breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        129,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, hobbies, and expectations while participating in the Love Ville program, with Maria Lopez and Klaus Mueller expressing enthusiasm and agreement as they discover common passions, such as cooking, gaming, and outdoor activities, and making plans to meet for breakfast at the Hobb Cafe and potentially explore the Ville Village together. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Good morning!\u8cde My name is Maria Lopez, and I'm a intern here. I'm a huge fan of physics! So Klaus, what brings you here this morning?"
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning, Maria! I'm Klaus. It's a pleasure to meet you. I'm here because I'm participating in the Love Ville program, which aims to help us singles find meaningful connections. I heard they have a great success rate, and I wanted to give it a shot! I'm in my second year at Oak Hill College, studying sociology. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Pleasants to meet you, Klaus! I'm also here for the same program! It's such a wonderful opportunity to meet like-minded people and experience new connections. I'm glad to hear about your studies too. I'm a big fan of understanding how the world works, so to speak. what's your favorite part of studying sociology?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome! I love the idea of exploring new connections too. It's exciting to think about the possibilities. I usually find myself drawn to people who are passionate about making a difference in the world, and I'm curious: What kind of interests do you have outside of physics?"
+        ],
+        [
+          "Maria Lopez",
+          "That's fantastic! I love gaming and streaming, it's a great way to wind down and connect with my viewers. I'm also a massive music fanatic, love listening to all sorts of genres. What about you, any secret passions you'd like to share Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome! I'm a bit of a gamer too, and I love finding new music. It's quite the passion of mine, especially when I'm studying or cooking up some new dishes. Speaking of which, do you like to cook at all? It's one of my favorite ways to unwind and experiment with new flavors."
+        ],
+        [
+          "Maria Lopez",
+          " \u0645\u0628\u0627\u0634\u0631\u0647! Me too, I love cooking up new recipes, it's a wonderful stress reliever after a long day of studying. I'm also a bit of a foodie, so I'd rather not cook sometimes and just indulge in some good old takeaway. Do you have any favorite cuisines you like to indulge in?"
+        ],
+        [
+          "Klaus Mueller",
+          "I love all sorts of cuisines! But if I had to pick one, I'd say Italian food is my weakness, especially a good old pizza. It's hard to beat that comfort food. And hey, if we're both into cooking, maybe we could whip up a meal together sometime during this program. That'd be fun! So, what brings you to the Love Ville program, Maria? Any specific interests you're hoping to explore here?"
+        ],
+        [
+          "Maria Lopez",
+          "Italian is a great comfort food indeed! Supercoupe! I think we might just be a match made in heaven then. Cooking together sounds like a wonderful idea, especially if we get to feast on the fruits of our labor afterward. And who knows, we might even end up creating a masterpiece! As for what brought me here, I guess you could say I'm looking for someone who aligns with my interests and passions. I thrive off energy and enthusiasm, and I'm curious to see if anyone here shares my vibe. You know, someone who can keep up with my boundless appetite for life! Hehe. So, any particular interests you hope to explore further during your time here? Or better yet, what's your ideal date night?"
+        ],
+        [
+          "Klaus Mueller",
+          "Well, Maria, I must say you sound like a very vibrant and fun person! I'm hoping to find someone who shares my passions too, and it seems like we might have quite a bit in common. As for my ideal date night, I'd say it would involve a cozy evening, perhaps a nice walk followed by a good meal, some yummy Italian food or even getting experimental in the kitchen together. Some good music in the background never hurt anybody either! Then again, I'm also open to new ideas and adventures, so I'm excited to see what possibilities the next few days hold for all of us here."
+        ],
+        [
+          "Maria Lopez",
+          "I think we have a lot of similarities, Klaus! It's exciting to find someone who shares my passions. I'm glad we can explore our interests together in the upcoming days. Hmm, an ideal date night of mine would involve some adventurous activities during the day, like rock climbing or trying out a new extreme sport, followed by a romantic dinner, maybe by the beach, with some tasty seafood and smooth jazz music. We could even build a bonfire and roast marshmallows under the stars, just like old times. Who knows, we might even spot a shooting star and make a wish! Then again, I'm bias towards anything that involves the great outdoors. What about you, any adventurous bones in your body? ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "Maria, you sound like a thrilling person filled with vibrant energy! Your date ideas sound like so much fun and definitely outside the box. I must admit, I'm a bit of an adventure seeker too, and it sounds like we both enjoy the great outdoors. Perhaps we could plan a date with some rock climbing or another exciting activity, followed by a cozy dinner date. We could even make it a group thing if you'd like! As for now, I'd love to get to know you better over breakfast. Would you like to join me at the hobb cafe? I'm headed there in a bit."
+        ],
+        [
+          "Maria Lopez",
+          "I'd love to! Breakfast at the Hobb Cafe sounds like a great way to start our day. I'm starved! See you there in a bit, Klaus :)."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm so glad you could join me! I must admit, I was a bit nervous about the whole dating thing, but you seem like an awesome person and it's exciting to think about the possibilities. So, any plans for after breakfast?"
+        ],
+        [
+          "Maria Lopez",
+          "Super excited to get to know you better, Klaus! As for my plans after breakfast, I was thinking of heading to the Ville Village for some exploring. It's such a beautiful day outside, so why not make the most of it, right? Anyway, I'd love to hear more about your interests and what brings you here to the Love Ville program."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm thrilled you're joining me for breakfast, Maria! And yeah, I was nervous too, butr\u00eda it's so much better than expected. Meeting someone who shares your passions is exhilarating! So, help me understand your love for the outdoors. What's your favorite adventure activity?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, hobbies, and expectations while participating in the Love Ville program, with Maria Lopez and Klaus Mueller expressing enthusiasm and agreement as they discover common passions, such as cooking, gaming, and outdoor activities, and making plans to meet for breakfast at the Hobb Cafe and potentially explore the Ville Village together. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Good morning!\u8cde My name is Maria Lopez, and I'm a intern here. I'm a huge fan of physics! So Klaus, what brings you here this morning?"
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning, Maria! I'm Klaus. It's a pleasure to meet you. I'm here because I'm participating in the Love Ville program, which aims to help us singles find meaningful connections. I heard they have a great success rate, and I wanted to give it a shot! I'm in my second year at Oak Hill College, studying sociology. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Pleasants to meet you, Klaus! I'm also here for the same program! It's such a wonderful opportunity to meet like-minded people and experience new connections. I'm glad to hear about your studies too. I'm a big fan of understanding how the world works, so to speak. what's your favorite part of studying sociology?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome! I love the idea of exploring new connections too. It's exciting to think about the possibilities. I usually find myself drawn to people who are passionate about making a difference in the world, and I'm curious: What kind of interests do you have outside of physics?"
+        ],
+        [
+          "Maria Lopez",
+          "That's fantastic! I love gaming and streaming, it's a great way to wind down and connect with my viewers. I'm also a massive music fanatic, love listening to all sorts of genres. What about you, any secret passions you'd like to share Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome! I'm a bit of a gamer too, and I love finding new music. It's quite the passion of mine, especially when I'm studying or cooking up some new dishes. Speaking of which, do you like to cook at all? It's one of my favorite ways to unwind and experiment with new flavors."
+        ],
+        [
+          "Maria Lopez",
+          " \u0645\u0628\u0627\u0634\u0631\u0647! Me too, I love cooking up new recipes, it's a wonderful stress reliever after a long day of studying. I'm also a bit of a foodie, so I'd rather not cook sometimes and just indulge in some good old takeaway. Do you have any favorite cuisines you like to indulge in?"
+        ],
+        [
+          "Klaus Mueller",
+          "I love all sorts of cuisines! But if I had to pick one, I'd say Italian food is my weakness, especially a good old pizza. It's hard to beat that comfort food. And hey, if we're both into cooking, maybe we could whip up a meal together sometime during this program. That'd be fun! So, what brings you to the Love Ville program, Maria? Any specific interests you're hoping to explore here?"
+        ],
+        [
+          "Maria Lopez",
+          "Italian is a great comfort food indeed! Supercoupe! I think we might just be a match made in heaven then. Cooking together sounds like a wonderful idea, especially if we get to feast on the fruits of our labor afterward. And who knows, we might even end up creating a masterpiece! As for what brought me here, I guess you could say I'm looking for someone who aligns with my interests and passions. I thrive off energy and enthusiasm, and I'm curious to see if anyone here shares my vibe. You know, someone who can keep up with my boundless appetite for life! Hehe. So, any particular interests you hope to explore further during your time here? Or better yet, what's your ideal date night?"
+        ],
+        [
+          "Klaus Mueller",
+          "Well, Maria, I must say you sound like a very vibrant and fun person! I'm hoping to find someone who shares my passions too, and it seems like we might have quite a bit in common. As for my ideal date night, I'd say it would involve a cozy evening, perhaps a nice walk followed by a good meal, some yummy Italian food or even getting experimental in the kitchen together. Some good music in the background never hurt anybody either! Then again, I'm also open to new ideas and adventures, so I'm excited to see what possibilities the next few days hold for all of us here."
+        ],
+        [
+          "Maria Lopez",
+          "I think we have a lot of similarities, Klaus! It's exciting to find someone who shares my passions. I'm glad we can explore our interests together in the upcoming days. Hmm, an ideal date night of mine would involve some adventurous activities during the day, like rock climbing or trying out a new extreme sport, followed by a romantic dinner, maybe by the beach, with some tasty seafood and smooth jazz music. We could even build a bonfire and roast marshmallows under the stars, just like old times. Who knows, we might even spot a shooting star and make a wish! Then again, I'm bias towards anything that involves the great outdoors. What about you, any adventurous bones in your body? ;)"
+        ],
+        [
+          "Klaus Mueller",
+          "Maria, you sound like a thrilling person filled with vibrant energy! Your date ideas sound like so much fun and definitely outside the box. I must admit, I'm a bit of an adventure seeker too, and it sounds like we both enjoy the great outdoors. Perhaps we could plan a date with some rock climbing or another exciting activity, followed by a cozy dinner date. We could even make it a group thing if you'd like! As for now, I'd love to get to know you better over breakfast. Would you like to join me at the hobb cafe? I'm headed there in a bit."
+        ],
+        [
+          "Maria Lopez",
+          "I'd love to! Breakfast at the Hobb Cafe sounds like a great way to start our day. I'm starved! See you there in a bit, Klaus :)."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm so glad you could join me! I must admit, I was a bit nervous about the whole dating thing, but you seem like an awesome person and it's exciting to think about the possibilities. So, any plans for after breakfast?"
+        ],
+        [
+          "Maria Lopez",
+          "Super excited to get to know you better, Klaus! As for my plans after breakfast, I was thinking of heading to the Ville Village for some exploring. It's such a beautiful day outside, so why not make the most of it, right? Anyway, I'd love to hear more about your interests and what brings you here to the Love Ville program."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm thrilled you're joining me for breakfast, Maria! And yeah, I was nervous too, butr\u00eda it's so much better than expected. Meeting someone who shares your passions is exhilarating! So, help me understand your love for the outdoors. What's your favorite adventure activity?"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        89,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcf1\ud83d\udcf0",
+      "description": "having breakfast (reading the news on his phone) @ the Ville:Lin family's house:common room:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        47,
+        53
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2642",
+      "description": "getting ready for the day (styling his hair) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:31:30"
+  }
+}

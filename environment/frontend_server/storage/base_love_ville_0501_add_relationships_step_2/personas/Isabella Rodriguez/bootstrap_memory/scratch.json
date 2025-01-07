@@ -1,0 +1,481 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 09:06:50",
+        "status": "Isabella Rodriguez Adam was really enthusiastic about the program and seemed open to getting to know people. I think we're going to have a great time together this week."
+      }
+    ],
+    "Maria Lopez": [
+      {
+        "date": "February 13, 2023, 09:37:50",
+        "status": "Isabella Rodriguez might have found Maria's passion for stargazing and hiking interesting, as they share a love for the outdoors and nature."
+      }
+    ],
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 10:07:50",
+        "status": "Isabella Rodriguez Isabella Rodriguez found Klaus Mueller to be an interesting and compatible participant in the Love Ville program due to their shared interests in cooking, hiking, movies, and a passion for creating meaningful relationships."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 10:09:10",
+  "curr_tile": [
+    75,
+    21
+  ],
+  "daily_plan_req": "Isabella Rodriguez now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. Now she is joining the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. The Hobbs Cafe now is used for the program",
+  "currently": "Isabella Rodriguez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). This dating show is designed exclusively for heterosexual individuals seeking romantic connections. It brings together single men and women in a dynamic and engaging format, where they can explore potential relationships, build chemistry, and find love. The show emphasizes traditional man-woman pairings, creating a space for participants to connect and form meaningful bonds within a structured and entertaining environment. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She always does exercise at 8pm",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 149,
+  "importance_ele_n": 1,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have a breakfast at 7:00 am",
+    "go to Hobbs Cafe at 8:00 am to prepare for the Love Ville Program",
+    "attend the Love Ville Program at 9:00 am",
+    "have a lunch at 12:00 pm",
+    "continue the Love Ville Program until 6:00 pm",
+    "have a dinner at 6:00 pm",
+    "do exercise at 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed and making her bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (styling her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (preparing her bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (checking her phone for messages and updates)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (putting on her shoes and heading out)",
+      5
+    ],
+    [
+      "having breakfast (brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "having breakfast (preparing a cup of coffee)",
+      5
+    ],
+    [
+      "having breakfast (making scrambled eggs and toast)",
+      15
+    ],
+    [
+      "having breakfast (sitting down to eat her breakfast)",
+      20
+    ],
+    [
+      "having breakfast (cleaning up the kitchen)",
+      10
+    ],
+    [
+      "going to Hobbs Cafe to prepare for the Love Ville Program (getting dressed and ready for the day)",
+      15
+    ],
+    [
+      "going to Hobbs Cafe to prepare for the Love Ville Program (walking to Hobbs Cafe)",
+      10
+    ],
+    [
+      "going to Hobbs Cafe to prepare for the Love Ville Program (unlocking the cafe and turning on the lights)",
+      5
+    ],
+    [
+      "going to Hobbs Cafe to prepare for the Love Ville Program (setting up the tables and chairs for the program)",
+      15
+    ],
+    [
+      "going to Hobbs Cafe to prepare for the Love Ville Program (preparing the coffee and tea station)",
+      10
+    ],
+    [
+      "going to Hobbs Cafe to prepare for the Love Ville Program (checking the schedule and materials for the program)",
+      5
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (on the way to greeting the participants as they arrive at Hobbs Cafe)",
+      0
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (conversing about their participation in the Love Ville program, expressing enthusiasm and nervousness, and making plans to grab coffee together at 8pm tonight to get to know each other better, between Isabella Rodriguez, the cafe owner, and Adam Smith, a fellow participant.)",
+      12
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (greeting the participants as they arrive at Hobbs Cafe)",
+      3
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (on the way to introducing herself and the Love Ville Program to the participants)",
+      0
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (conversing about their excitement and nerves on a dating show, sharing their hobbies and interests, such as surfing, stargazing, and hiking, while also discussing potential romantic connections, including a rumored interest of Adam's in someone with blonde hair, and making plans for a game night to get to know each other better, with Maria Lopez and Isabella Rodriguez agreeing to organize it and invite other participants, possibly to take place tonight or tomorrow night.)",
+      24
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (introducing herself and the Love Ville Program to the participants)",
+      6
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (on the way to facilitating an icebreaker activity to help participants get to know each other)",
+      0
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (conversing about their interests, hobbies, and expectations from the Love Ville program, with Klaus Mueller and Isabella Rodriguez expressing enthusiasm and agreement on their shared passions for cooking, hiking, and movies, and making plans to meet for a coffee date at 6 PM to get to know each other better.)",
+      25
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (on the way to facilitating an icebreaker activity to help participants get to know each other)",
+      0
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (conversing about meeting each other at the Love Ville program, sharing their passion for art, feeling a romantic connection, and making plans to explore the city together, including a walk and a visit to the rooftop garden of Hobb's Cafe, while also discussing their interests and crushes, including Abigail's admiration for John Lin.)",
+      15
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (facilitating an icebreaker activity to help participants get to know each other)",
+      30
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (observing the participants and taking mental notes on their interactions)",
+      15
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (engaging in one-on-one conversations with participants to learn more about them)",
+      30
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (taking a short break to refresh herself)",
+      15
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe (leading a group discussion on dating preferences and expectations)",
+      5
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe",
+      300
+    ],
+    [
+      "having dinner at Hobbs Cafe with the Love Ville Program participants",
+      60
+    ],
+    [
+      "relaxing and socializing with the Love Ville Program participants at Hobbs Cafe",
+      60
+    ],
+    [
+      "doing exercise at Hobbs Cafe",
+      60
+    ],
+    [
+      "relaxing and socializing with the Love Ville Program participants at Hobbs Cafe",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "going to Hobbs Cafe to prepare for the Love Ville Program",
+      60
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe",
+      180
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "attending the Love Ville Program at Hobbs Cafe",
+      300
+    ],
+    [
+      "having dinner at Hobbs Cafe with the Love Ville Program participants",
+      60
+    ],
+    [
+      "relaxing and socializing with the Love Ville Program participants at Hobbs Cafe",
+      60
+    ],
+    [
+      "doing exercise at Hobbs Cafe",
+      60
+    ],
+    [
+      "relaxing and socializing with the Love Ville Program participants at Hobbs Cafe",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "<persona> Abigail Chen",
+  "act_start_time": "February 13, 2023, 10:08:10",
+  "act_duration": 15,
+  "act_description": "conversing about meeting each other at the Love Ville program, sharing their passion for art, feeling a romantic connection, and making plans to explore the city together, including a walk and a visit to the rooftop garden of Hobb's Cafe, while also discussing their interests and crushes, including Abigail's admiration for John Lin.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "Abigail Chen"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Abigail Chen",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Hi there! I couldn't help but notice you from across the room, and I just had to come over and say hi! My name's Isabella, what's yours?"
+    ],
+    [
+      "Abigail Chen",
+      "Hi Isabella! I'm Abigail. It's so nice to meet you. I've seen you around, and I wanted to say hi too! I'm a massive fan of your work; your digital art is so captivating!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Wow, thank you so much! I'm blushing :') What brings you to the Love Ville program? Are you enjoying it so far?"
+    ],
+    [
+      "Abigail Chen",
+      "I signed up for the program to meet new people and explore potential romantic connections. I'm an artist too, so I especially appreciate your work! I'm on day one, and it's been so much fun getting to know everyone. I'm hoping to make some real connections here. What about you?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Well, I own the cafe where the program is being hosted! So I thought I'd join in on the fun and maybe meet someone special. It's only day one for me too, but I'm so glad I got to talk to you. I definitely feel a connection already ;)"
+    ],
+    [
+      "Abigail Chen",
+      "It's so great to finally meet someone who shares my passion for art! I've been drawing and painting since I was little, and it's still a huge part of my life today. What about you? When did you first discover your love for digital art?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "It's fate that we met, Abigail! I believe in love at first sight, and I feel like there's a spark between us. I'd love to get to know you better and maybe, just maybe, we could explore this connection further?;)"
+    ],
+    [
+      "Abigail Chen",
+      "I feel the same way! It's like the universe brought us together. I'm so glad I decided to join this program and meet someone as wonderful as you. Maybe we could explore this connection further sometime soon? How about we continue this conversation over a walk? We could get to know each other better and see where this goes?"
+    ],
+    [
+      "Isabella Rodriguez",
+      " pleasure's all mine, Abigail! A walk sounds like a brilliant idea; let's explore the city together and see where this fresh, lovely scent blows us :P Shall we go now or in a bit? Befrei time's yours!"
+    ],
+    [
+      "Abigail Chen",
+      "The pleasure's all mine, Isabella! I think we should seize the day and explore this wonderful opportunity. How about we head out now and let fate guide us? :)"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Let's go then! I'll grab my stuff and meet you outside :)"
+    ],
+    [
+      "Abigail Chen",
+      "I'm so excited to see where this new path leads us. The city is so beautiful this time of year; it's the perfect setting for a romantic adventure. So, leading us somewhere beautiful, I hear the rooftop garden here in Hobb's Cafe is exquisite!"
+    ],
+    [
+      "Isabella Rodriguez",
+      "Wow, the rooftop garden! It's like a magical hideaway in the sky. I'm so excited to see it; I've heard so much about it but never been up there! Let's go and enjoy this little piece of heaven :)"
+    ],
+    [
+      "Abigail Chen",
+      "The rooftop garden is indeed a hidden gem, isn't it? I'm so delighted to share this special place with someone as special as you. This whole experience feels like a wonderful dream, and I'm excited to see where our steps take us."
+    ],
+    [
+      "Isabella Rodriguez",
+      "This is definitely a wonderful experience. By the way, did you have anyone catches your eye here? Or maybe you have some criteria in mind for your dream guy?"
+    ],
+    [
+      "Abigail Chen",
+      "To be honest, I have been noticing someone. You may find this a bitapplicationforward, but I've been admirer from afar John Lin. He seems really intriguing and I love the way he expresses himself. But I'm not the only one who's interested, there's bound to be some competition. Oh, and I do have a soft spot for tall guys!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Adam Smith": 426,
+    "Maria Lopez": 612,
+    "Klaus Mueller": 792,
+    "Abigail Chen": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:23:00",
+  "act_path_set": true,
+  "planned_path": []
+}

@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending the Love Ville Program at Hobbs Cafe (conversing about their interests, hobbies, and expectations from the Love Ville program, with Klaus Mueller and Isabella Rodriguez expressing enthusiasm and agreement on their shared passions for cooking, hiking, and movies, and making plans to meet for a coffee date at 6 PM to get to know each other better.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        86,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac\ufe0f\u2764",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (conversing about their shared interests, making plans for a group hike and game night, and discussing potential romantic connections, with Adam Smith and Maria Lopez expressing enthusiasm and agreement as they get to know each other in the Love Ville setting.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "at the Hobb Cafe cooking and eating breakfast with the other participants (conversing about their interests, hobbies, and expectations from the Love Ville program, with Klaus Mueller and Isabella Rodriguez expressing enthusiasm and agreement on their shared passions for cooking, hiking, and movies, and making plans to meet for a coffee date at 6 PM to get to know each other better.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (conversing about getting to know each other, with Abigail Chen and John Lin expressing enthusiasm and interest in meeting new people, discussing their professions, sharing stories, and making plans to attend a game night and have a private conversation, while also exchanging flirtatious comments and showing mutual attraction.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        83,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+      "description": "having breakfast with other participants at the Hobb Cafe (conversing about getting to know each other, with Abigail Chen and John Lin expressing enthusiasm and interest in meeting new people, discussing their professions, sharing stories, and making plans to attend a game night and have a private conversation, while also exchanging flirtatious comments and showing mutual attraction.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (conversing about their shared interests, making plans for a group hike and game night, and discussing potential romantic connections, with Adam Smith and Maria Lopez expressing enthusiasm and agreement as they get to know each other in the Love Ville setting.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:08:00"
+  }
+}

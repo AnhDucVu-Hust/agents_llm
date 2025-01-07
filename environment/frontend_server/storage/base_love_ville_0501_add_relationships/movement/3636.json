@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "attending the Love Ville Program at Hobbs Cafe (conversing about getting to know each other, exchanging interests, and making plans, with Isabella Rodriguez and Klaus Mueller expressing enthusiasm and agreement as they discuss their participation in the Love Ville program, make a plan to meet for coffee and sightseeing at 2 pm, consider visiting a charming caf\u00e9 and having a picnic in the park, and seal a pact to support each other in achieving their relationship goals.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        98,
+        43
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udc6b",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (setting the table and serving breakfast) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "at the Hobb Cafe cooking and eating breakfast with the other participants (conversing about getting to know each other, exchanging interests, and making plans, with Isabella Rodriguez and Klaus Mueller expressing enthusiasm and agreement as they discuss their participation in the Love Ville program, make a plan to meet for coffee and sightseeing at 2 pm, consider visiting a charming caf\u00e9 and having a picnic in the park, and seal a pact to support each other in achieving their relationship goals.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc65",
+      "description": "going to the hobb cafe to cook and eat breakfast with other members (eating breakfast with other members) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        83,
+        26
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "participating in a team-building activity with other participants (introducing himself to the group) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc6b",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with the other Love Ville participants, engaging in conversation and getting to know them (helping to prepare breakfast ingredients with the group) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:06:00"
+  }
+}

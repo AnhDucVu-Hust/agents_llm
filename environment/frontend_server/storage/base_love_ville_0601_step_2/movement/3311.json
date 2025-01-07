@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, particularly cooking and philosophy, with enthusiasm and playful banter, as Isabella Rodriguez and Adam Smith, two participants in the Love Ville program, hit it off, making plans to grab coffee and dessert after the lunch break, and possibly taking a stroll in the park, excitedly looking forward to getting to know each other better. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi there,cutie! I couldn't help but notice you in the kitchen. Adam, right? I'm Isabella, but please call me Bella. Pleased to meet you"
+        ],
+        [
+          "Adam Smith",
+          "Pleasure to meet you, Bella! Yeah, it's Adam. I must admit, I noticed you too. Let me guess, you're also a huge fan of cooking, huh? Your scrambled eggs look delicious!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "You're too kind! I must say, I'm a sucker for a man who can cook. So, what brings you to the Love Ville program? "
+        ],
+        [
+          "Adam Smith",
+          "Well, I'm actually here because I recently published a book, and I thought this would be a fun way to celebrate! I'm also a bit of a philosophy nerd, so I thought it'd be a great opportunity to meet like-minded people. And of course, the chance to connect with someone special was hard to resist. How about you, Bella? Any semispecial somewhere here sesh?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh wow, a published author! That's an impressive feat. I'm here because I own this cafe and wanted to meet some new people, maybe find someone who shares my interests. And of course, the chance to find love was too good to pass up. I'm a huge believer in the power of Nusantara drama, and I'd love to hear about your book - it sounds fascinating! Maybe we could grab a coffee later and discuss it further?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds amazing! I'd love to further discuss my work with you. And to be honest, getting to know you a bit more would be great, too. How about we grab that coffee after the lunch break? We could sit somewhere cozy and dive into our mutual love for philosophy and the intriguing complexities of life."
+        ],
+        [
+          "Isabella Rodriguez",
+          " Pleasure to look forward our lunch tea break! I'm so curious about your book, Adam. And to think that you're a philosophy nerd too, it's just too good to be true! Oh, and by the way, dessert is on me later if you're up for it!"
+        ],
+        [
+          "Adam Smith",
+          "Pleasure to have met you, Isabella. I must say, your scrambled eggs comment was quite the egg-cuse me for being forward, but I've been egged on by the thought of getting to know you better. How about we crack open this philosophical discussion during lunch and see where things go? We can dive into the mezzanine of life and explore the vast universe together."
+        ],
+        [
+          "Isabella Rodriguez",
+          " v\u0161echno nejlep\u0161\u00ed k \u0440\u0435\u0441\u0442 Thakur! Jsem r\u00e1da, \u017ee jsem t\u011b tu potkala. Rica ot F\u00fcrth zapadero teiko , Adam. U\u017e\u00edvejte si remaining kapsu Velikonoc!"
+        ],
+        [
+          "Adam Smith",
+          "You're too kind, Isabella! I must say, I'm egg-cited to get to know you better. And now, if you'll excuse me, I need to go stock up on some more eggtremely good puns for our next chat."
+        ],
+        [
+          "Isabella Rodriguez",
+          "You're such a delight, Adam! I must say, your puns are truly egg- cellent! I'm so glad we met too. See you during the lunch break then!"
+        ],
+        [
+          "Adam Smith",
+          "bsen't we skip the lunch this once and dive straight into dessert? I have a sweet tooth that won't stop buzzing about the prospect of a delicious treat and engaging conversation."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think skipping lunch and jumping straight to dessert sounds like a fantastic idea! I can't wait to hear more of your eggcuse me, I mean excellent puns, Adam. And of course, getting to know you better is definitely the cherry on top! "
+        ],
+        [
+          "Adam Smith",
+          "You know what, Isabella? I think skipping the small talk and diving into the deep end is a brilliant idea! I'm so intrigued by your interest in Nusantara drama - it's not every day you meet someone who's so passionate about the intricacies of life. Perhaps after our dessert, we could take a stroll in the park and continue our philosophical eggtravaganza."
+        ],
+        [
+          "Isabella Rodriguez",
+          "OMG, I love your approach to life and all the egg puns! I think we're really cracking up here , Adam. So, any special plans for the rest of this fine egg-filled day? "
+        ],
+        [
+          "Adam Smith",
+          "You know what they say, life is a delicate dish best enjoyed with a sprinkling of philosophy and a dash of existential thought. And as for our lunch plans, I say we \u0421\u0442\u0430\u0440\u0442\u0443\u0435\u043c a new trend and go straight for the sweet stuff. How does that sound, Isabella?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc65",
+      "description": "at the Hobb Cafe cooking and eating breakfast with the other participants (choosing a breakfast recipe with the group) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc6b",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (choosing a breakfast recipe to cook with others) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        25
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going to the hobb cafe to cook and eat breakfast with the other participants (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending the Hobb Cafe gathering to cook and eat with other Love Ville program participants (introducing himself to new people) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, particularly cooking and philosophy, with enthusiasm and playful banter, as Isabella Rodriguez and Adam Smith, two participants in the Love Ville program, hit it off, making plans to grab coffee and dessert after the lunch break, and possibly taking a stroll in the park, excitedly looking forward to getting to know each other better. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi there,cutie! I couldn't help but notice you in the kitchen. Adam, right? I'm Isabella, but please call me Bella. Pleased to meet you"
+        ],
+        [
+          "Adam Smith",
+          "Pleasure to meet you, Bella! Yeah, it's Adam. I must admit, I noticed you too. Let me guess, you're also a huge fan of cooking, huh? Your scrambled eggs look delicious!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "You're too kind! I must say, I'm a sucker for a man who can cook. So, what brings you to the Love Ville program? "
+        ],
+        [
+          "Adam Smith",
+          "Well, I'm actually here because I recently published a book, and I thought this would be a fun way to celebrate! I'm also a bit of a philosophy nerd, so I thought it'd be a great opportunity to meet like-minded people. And of course, the chance to connect with someone special was hard to resist. How about you, Bella? Any semispecial somewhere here sesh?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh wow, a published author! That's an impressive feat. I'm here because I own this cafe and wanted to meet some new people, maybe find someone who shares my interests. And of course, the chance to find love was too good to pass up. I'm a huge believer in the power of Nusantara drama, and I'd love to hear about your book - it sounds fascinating! Maybe we could grab a coffee later and discuss it further?"
+        ],
+        [
+          "Adam Smith",
+          "That sounds amazing! I'd love to further discuss my work with you. And to be honest, getting to know you a bit more would be great, too. How about we grab that coffee after the lunch break? We could sit somewhere cozy and dive into our mutual love for philosophy and the intriguing complexities of life."
+        ],
+        [
+          "Isabella Rodriguez",
+          " Pleasure to look forward our lunch tea break! I'm so curious about your book, Adam. And to think that you're a philosophy nerd too, it's just too good to be true! Oh, and by the way, dessert is on me later if you're up for it!"
+        ],
+        [
+          "Adam Smith",
+          "Pleasure to have met you, Isabella. I must say, your scrambled eggs comment was quite the egg-cuse me for being forward, but I've been egged on by the thought of getting to know you better. How about we crack open this philosophical discussion during lunch and see where things go? We can dive into the mezzanine of life and explore the vast universe together."
+        ],
+        [
+          "Isabella Rodriguez",
+          " v\u0161echno nejlep\u0161\u00ed k \u0440\u0435\u0441\u0442 Thakur! Jsem r\u00e1da, \u017ee jsem t\u011b tu potkala. Rica ot F\u00fcrth zapadero teiko , Adam. U\u017e\u00edvejte si remaining kapsu Velikonoc!"
+        ],
+        [
+          "Adam Smith",
+          "You're too kind, Isabella! I must say, I'm egg-cited to get to know you better. And now, if you'll excuse me, I need to go stock up on some more eggtremely good puns for our next chat."
+        ],
+        [
+          "Isabella Rodriguez",
+          "You're such a delight, Adam! I must say, your puns are truly egg- cellent! I'm so glad we met too. See you during the lunch break then!"
+        ],
+        [
+          "Adam Smith",
+          "bsen't we skip the lunch this once and dive straight into dessert? I have a sweet tooth that won't stop buzzing about the prospect of a delicious treat and engaging conversation."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think skipping lunch and jumping straight to dessert sounds like a fantastic idea! I can't wait to hear more of your eggcuse me, I mean excellent puns, Adam. And of course, getting to know you better is definitely the cherry on top! "
+        ],
+        [
+          "Adam Smith",
+          "You know what, Isabella? I think skipping the small talk and diving into the deep end is a brilliant idea! I'm so intrigued by your interest in Nusantara drama - it's not every day you meet someone who's so passionate about the intricacies of life. Perhaps after our dessert, we could take a stroll in the park and continue our philosophical eggtravaganza."
+        ],
+        [
+          "Isabella Rodriguez",
+          "OMG, I love your approach to life and all the egg puns! I think we're really cracking up here , Adam. So, any special plans for the rest of this fine egg-filled day? "
+        ],
+        [
+          "Adam Smith",
+          "You know what they say, life is a delicate dish best enjoyed with a sprinkling of philosophy and a dash of existential thought. And as for our lunch plans, I say we \u0421\u0442\u0430\u0440\u0442\u0443\u0435\u043c a new trend and go straight for the sweet stuff. How does that sound, Isabella?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:11:50"
+  }
+}

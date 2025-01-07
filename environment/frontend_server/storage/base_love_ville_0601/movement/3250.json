@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending the Love Ville program and cooking and eating breakfast with other members at Hobbs Cafe (greeting other members at the cafe) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        51
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "at the Hobb Cafe cooking and eating breakfast with the other participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\udeb6\ufe0f\u2615",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        32
+      ],
+      "pronunciatio": "\ud83d\udc55\ud83d\udecb\ufe0f",
+      "description": "going to the hobb cafe to cook and eat breakfast with the other participants (getting dressed and ready to go to the hobb cafe) @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        80,
+        49
+      ],
+      "pronunciatio": "\ud83d\udeb6\ufe0f\u2615",
+      "description": "attending the Hobb Cafe gathering to cook and eat with other Love Ville program participants (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "cooking and eating breakfast with the other Love Ville program participants at the Hobb Cafe (greeting the other participants and introducing himself) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:01:40"
+  }
+}

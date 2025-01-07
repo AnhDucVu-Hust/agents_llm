@@ -1,0 +1,321 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their passions, interests, and experiences, with Abigail Chen and Isabella Rodriguez expressing enthusiasm and curiosity about each other, discussing topics such as cooking, philosophy, art, and science fiction, and making plans to explore the surroundings of the cafe together, potentially watching a movie, and getting to know each other better, with a hint of romantic interest and a positive outlook on their time in the Love Ville program. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hi, I don't think we've met yet! I'm Abigail Chen. What's your name? You seem to have a real passion for cooking, does that extend to philosophy too?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hi Abigail! I'm Isabella. It's so nice to meet you. I love cooking, it's definitely one of my passions, and a great way to connect with people. Philosophy too, there's so much to unpack and discuss! I'm a bit of an avid reader, especially when it comes to works that make you think and question the world. What about you, do you have any hobbies or interests outside of cooking?"
+        ],
+        [
+          "Abigail Chen",
+          "I'm also into lots of different artsy stuff, like painting and animation! I've always been curious about the culinary arts too, but I'm not very skilled when it comes to cooking. I think it's amazing how food can bring people together. I'm really enjoying getting to know everyone here and learning more about their passions."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's awesome! I feel like art and cooking are very creative fields, and they definitely complement each other. It's so cool how we all have such diverse passions and talents here. I think it'd be so much fun to learn more about animation, it seems like a challenging and rewarding hobby. So, what brings you to the Love Ville program? Are you looking for new friendships or perhaps a chance at love?"
+        ],
+        [
+          "Abigail Chen",
+          "I signed up for the Love Ville program mostly because I've been really curious about the whole experience. I mean, a week of getting to know new people and potentially finding someone I really connect with, it's such a cool opportunity. I'm usually not so lucky when it comes to love, so I thought, why not give it a shot? And here I am, having lovely conversations already! As for what I'm looking for, I guess I'm keeping an open mind. I'd love to find someone who shares my passions and can match my curiosity. Someone who's not afraid to explore new ideas and go on little adventures. But, I'm also just excited to make new friends and get relationship advice from new perspectives!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Well, I'm glad you're here, Abigail! It's so nice to have someone to talk to about all things art and philosophy. And who knows, maybe some sparks will fly too! This program is a great way to explore new connections and I'm so glad we could meet here. I think it'd be fun to dive into some adventures together and explore some new ideas. Who knows what could happen?"
+        ],
+        [
+          "Abigail Chen",
+          "It's nice to find someone who shares my passions! I usually spend my time drawing, running around with a camera, or looking for new tech gadgets to play with. It's just so cool how much variety there is among the participants here. And yeah, who knows, maybe some sparks will fly for both of us! Anyway, it's only been a day, but I'm really looking forward to seeing what the week has in store. So glad I got to meet you, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's only the first day, but I have a good feeling about this week. I think we're going to have so much fun getting to know each other and the people here. By the way, do you have any favorite books or philosopical topics you like discussing? I'm always looking for new recommendations!"
+        ],
+        [
+          "Abigail Chen",
+          "I'm definitely up for some adventure-seeking and new experiences! As for philosophical topics, I've always been fascinated by the idea of perception and reality. The way we interpret the world around us is so intriguing. Also, anything related to time travel gets me excited! As for books, I recently picked up this adorable graphic novel called 'Space Krymson' - it's about this cute alien who gets lost in time and space. The artwork is amazing! What about you? Any recommendations for some mental stimulation?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "..."
+        ],
+        [
+          "Abigail Chen",
+          "I love a good sci-fi adventure! Time travel stories always get me hooked too. And graphic novels are adorable - I feel like they're an underrated art form. Have you watched any good movies lately? I'm always looking for recommendations and this week seems like the perfect time to binge-watch something fun!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't watched any good sci-fi movies lately, but I've been meaning to re-watch The Terminator! As for books, I'm reading 'The Time Keeper' by Mitch Albom. It's a fascinating tale about a man who gets a second chance at life after discovering the secrets of time. I think you'd enjoy it! Oh, and Abigail, I wanted to ask, have you met anyone here yet? I'm curious to know if you've hit it off with anyone yet?"
+        ],
+        [
+          "Abigail Chen",
+          "I haven't met many people yet, to be honest! But I must say, I'm really enjoying getting to know you. And yes, The Terminator is a great movie! Maybe we could arrange a movie night this week and watch it together? As for The Time Keeper, I've heard of it but haven't gotten around to reading it. I might just have to borrow your copy! agree So, what do you think about this whole experience so far? Any interesting encounters aside from me, of course?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "This show really is something else! It's so much fun getting to know everyone and explore all these amazing connections. I think we might have some guys here with some interesting perspectives on the world. Have you noticed anyone yet? Or are you keeping your options open?"
+        ],
+        [
+          "Abigail Chen",
+          "It's only the first day, but I have a good feeling about the potential romantic prospects here. There are some intriguing possibilities, including a certain someone I've been getting to know ;). But I don't want to jinx it! How about you? Any love at first sight moments yet?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hahaha same! I think there are some promising prospects too. It's exciting to see how things might unfold. But hey, we just met and I want to make sure I get to know everyone here. You're definitely on my radar, though ;). How about we make a deal to explore this wonderful cafe and its surroundings together later? Just the two of us, exploring and getting to know each other better. Does that sound like a plan?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, hobbies, and potential connections, with Maria Lopez and John Lin expressing enthusiasm and agreement as they discuss their shared loves of cooking, gaming, and books, and make plans for a gaming night, potentially a weekly event, while also touching on the topic of local elections and gossip about a potential candidate, Emily Parker. @ <persona> John Lin",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey there! I haven't seen you around. I'm Maria, what's your name?"
+        ],
+        [
+          "John Lin",
+          "Hi Maria, I'm John! Yeah, I just got here this morning. It's so great to meet you! The Love Ville program sounds like so much fun, and I'm excited to get to know everyone. Say, do you come here often? *Wink*"
+        ],
+        [
+          "Maria Lopez",
+          "I'm here for the first time as well! I signed up for the Love Ville program, it seems like such an exciting opportunity to meet new people and who knows.. maybe find someone special.. *giggle*. I'm a huge fan of cooking and games, do you have any hobbies you enjoy?"
+        ],
+        [
+          "John Lin",
+          "I have so many! I work at a pharmacy during the day, so I'm always running around helping people and making sure they have the medications they need. But after work, you'll catch me either reading a good book, tending to my garden, or jamming out to some Hip Hop tunes. I'm a pretty big fan of Travis Scott, if you ever want to discuss some new music releases. And of course, I'm here to find someone special too! I'm a big believer in the power of mutual respect and kindness in relationships, both platonic and romantic."
+        ],
+        [
+          "Maria Lopez",
+          "It's great to meet you, John! I love cooking and gaming, so I'm really excited for the breakfasts and potential cooking sessions we'll have here. I also love a good book, especially romance novels! And it's so cool that you work at a pharmacy, it's like you're a real-life hero to the people who need your help. So, any favorite games you'd recommend? I'm always looking for new ones to play!"
+        ],
+        [
+          "John Lin",
+          "I'm a bit of a gamer myself! I mostly play the classics, you know, the games that never seem to get old. But I'm always down for some friendly competition. Maybe we could challenge each other sometime? As for books, I mostly read historical fiction, anything with a good adventure and some fantasy never hurts! And I completely agree, it's an exciting time to be here and get to know everyone. The energy in the cafe is incredible! We should definitely keep each other updated on our favorite games and books."
+        ],
+        [
+          "Maria Lopez",
+          "It's so nice to properly meet you, John! I think we're going to have a great time over the next week getting to know each other and hanging out. So, any classic games you'd recommend I play? I'm always up for some fun and friendly competition!"
+        ],
+        [
+          "John Lin",
+          "It's been a blast getting to know you a bit, Maria! I think we share a lot of similar interests, which is super exciting. Maybe we could plan a gaming night soon, or a book club of sorts, and discuss our favorite classics. And if anyone can recommend a good romantic novel, it's definitely you! By the way, have you heard anyone talking about the upcoming local elections? I'm curious to know who's running for mayor."
+        ],
+        [
+          "Maria Lopez",
+          "It's wonderful meeting you too, John! I haven't heard any gossip about the elections, but I'd love to hear more about your gaming recommendations. Maybe we could plan a gaming date soon, it'd be fun to see your skills in action! And if you ever need any recommendations for romantic novels, you know who to ask ;)."
+        ],
+        [
+          "John Lin",
+          "We should totally plan that gaming night soon, it'd be a blast! And if you're up for it, maybe we couldeven make it a double date and invite some other friends along. As for the elections, I've heard a few people mention a potential candidate named Emily Parker, have you heard anything about her?"
+        ],
+        [
+          "Maria Lopez",
+          "I haven't heard of Emily Parker, but I'd love to hear more about the potential candidates. And yeah, a gaming date night sounds amazing! We could even make it a weekly thing if everyone enjoys it. As for sexy recommendations, have you seen that new gamer girl cosplay? Now, that's a sight for sore eyes! :p"
+        ],
+        [
+          "John Lin",
+          "It's quite funny you should mention that, I actually heard a few people chatting about her earlier today. They were saying how Emily Parker has a real shot at winning, and might even have a few surprises up her sleeve. But of course, it's always hard to tell with these things. Hey, if you're up for it, maybe we could explore some of these cosplays in person... just the two of us ;)"
+        ],
+        [
+          "Maria Lopez",
+          "I think we should go for it! A gaming date sounds like so much fun, especially if we make it a weekly thing. And yeah, I've heard of Emily Parker now, thanks for filling me in. So, any specific game you'd recommend for our first gaming night? Also, I'm all ears if you have any Ej Parker gossip to share ;)"
+        ],
+        [
+          "John Lin",
+          "Um, Maria.. Before we get too ahead of ourselves, I think it'd be fun to share some of our favorite games first! I mean, we want to make sure we're not just all talk, right? I'm a sucker for some old school Mario Kart, but I also\u73b0\u4eca\u5404\u79cd each new release. Maybe we could set up a little tournament for our first date, winner gets a special prize? And of course, I'll fill you in on the latest gossip about Emily Parker too ;)"
+        ],
+        [
+          "Maria Lopez",
+          "Old school Mario Kart sounds like a fantastic idea for our gaming night! Maybe we can play a few rounds and then discuss our favorite levels or characters over some snacks. And I must say, the prospect of a special prize is quite intriguing... Any ideas what it could be, John? ;)"
+        ],
+        [
+          "John Lin",
+          "Well, I think the prize should be chosen by the winner! That way, it'll be extra special. And if you're the one picking, it'll be a nice incentive to beat me at the game. As for relationship gossip, I've heard rumors that a few couples might form during this program. Seems like there's some serious flirting going on already! But remember, we're here to have fun and make meaningful connections, so no pressure whatsoever."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciatio": "\ud83c\udf73\ud83d\udc65",
+      "description": "at the Hobb Cafe, cooking and eating breakfast with other Love Ville participants (cooking breakfast with other participants) @ the Ville:Dorm for Oak Hill College:kitchen:toaster",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their passions, interests, and experiences, with Abigail Chen and Isabella Rodriguez expressing enthusiasm and curiosity about each other, discussing topics such as cooking, philosophy, art, and science fiction, and making plans to explore the surroundings of the cafe together, potentially watching a movie, and getting to know each other better, with a hint of romantic interest and a positive outlook on their time in the Love Ville program. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Abigail Chen",
+          "Hi, I don't think we've met yet! I'm Abigail Chen. What's your name? You seem to have a real passion for cooking, does that extend to philosophy too?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hi Abigail! I'm Isabella. It's so nice to meet you. I love cooking, it's definitely one of my passions, and a great way to connect with people. Philosophy too, there's so much to unpack and discuss! I'm a bit of an avid reader, especially when it comes to works that make you think and question the world. What about you, do you have any hobbies or interests outside of cooking?"
+        ],
+        [
+          "Abigail Chen",
+          "I'm also into lots of different artsy stuff, like painting and animation! I've always been curious about the culinary arts too, but I'm not very skilled when it comes to cooking. I think it's amazing how food can bring people together. I'm really enjoying getting to know everyone here and learning more about their passions."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's awesome! I feel like art and cooking are very creative fields, and they definitely complement each other. It's so cool how we all have such diverse passions and talents here. I think it'd be so much fun to learn more about animation, it seems like a challenging and rewarding hobby. So, what brings you to the Love Ville program? Are you looking for new friendships or perhaps a chance at love?"
+        ],
+        [
+          "Abigail Chen",
+          "I signed up for the Love Ville program mostly because I've been really curious about the whole experience. I mean, a week of getting to know new people and potentially finding someone I really connect with, it's such a cool opportunity. I'm usually not so lucky when it comes to love, so I thought, why not give it a shot? And here I am, having lovely conversations already! As for what I'm looking for, I guess I'm keeping an open mind. I'd love to find someone who shares my passions and can match my curiosity. Someone who's not afraid to explore new ideas and go on little adventures. But, I'm also just excited to make new friends and get relationship advice from new perspectives!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Well, I'm glad you're here, Abigail! It's so nice to have someone to talk to about all things art and philosophy. And who knows, maybe some sparks will fly too! This program is a great way to explore new connections and I'm so glad we could meet here. I think it'd be fun to dive into some adventures together and explore some new ideas. Who knows what could happen?"
+        ],
+        [
+          "Abigail Chen",
+          "It's nice to find someone who shares my passions! I usually spend my time drawing, running around with a camera, or looking for new tech gadgets to play with. It's just so cool how much variety there is among the participants here. And yeah, who knows, maybe some sparks will fly for both of us! Anyway, it's only been a day, but I'm really looking forward to seeing what the week has in store. So glad I got to meet you, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's only the first day, but I have a good feeling about this week. I think we're going to have so much fun getting to know each other and the people here. By the way, do you have any favorite books or philosopical topics you like discussing? I'm always looking for new recommendations!"
+        ],
+        [
+          "Abigail Chen",
+          "I'm definitely up for some adventure-seeking and new experiences! As for philosophical topics, I've always been fascinated by the idea of perception and reality. The way we interpret the world around us is so intriguing. Also, anything related to time travel gets me excited! As for books, I recently picked up this adorable graphic novel called 'Space Krymson' - it's about this cute alien who gets lost in time and space. The artwork is amazing! What about you? Any recommendations for some mental stimulation?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "..."
+        ],
+        [
+          "Abigail Chen",
+          "I love a good sci-fi adventure! Time travel stories always get me hooked too. And graphic novels are adorable - I feel like they're an underrated art form. Have you watched any good movies lately? I'm always looking for recommendations and this week seems like the perfect time to binge-watch something fun!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't watched any good sci-fi movies lately, but I've been meaning to re-watch The Terminator! As for books, I'm reading 'The Time Keeper' by Mitch Albom. It's a fascinating tale about a man who gets a second chance at life after discovering the secrets of time. I think you'd enjoy it! Oh, and Abigail, I wanted to ask, have you met anyone here yet? I'm curious to know if you've hit it off with anyone yet?"
+        ],
+        [
+          "Abigail Chen",
+          "I haven't met many people yet, to be honest! But I must say, I'm really enjoying getting to know you. And yes, The Terminator is a great movie! Maybe we could arrange a movie night this week and watch it together? As for The Time Keeper, I've heard of it but haven't gotten around to reading it. I might just have to borrow your copy! agree So, what do you think about this whole experience so far? Any interesting encounters aside from me, of course?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "This show really is something else! It's so much fun getting to know everyone and explore all these amazing connections. I think we might have some guys here with some interesting perspectives on the world. Have you noticed anyone yet? Or are you keeping your options open?"
+        ],
+        [
+          "Abigail Chen",
+          "It's only the first day, but I have a good feeling about the potential romantic prospects here. There are some intriguing possibilities, including a certain someone I've been getting to know ;). But I don't want to jinx it! How about you? Any love at first sight moments yet?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hahaha same! I think there are some promising prospects too. It's exciting to see how things might unfold. But hey, we just met and I want to make sure I get to know everyone here. You're definitely on my radar, though ;). How about we make a deal to explore this wonderful cafe and its surroundings together later? Just the two of us, exploring and getting to know each other better. Does that sound like a plan?"
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, hobbies, and potential connections, with Maria Lopez and John Lin expressing enthusiasm and agreement as they discuss their shared loves of cooking, gaming, and books, and make plans for a gaming night, potentially a weekly event, while also touching on the topic of local elections and gossip about a potential candidate, Emily Parker. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey there! I haven't seen you around. I'm Maria, what's your name?"
+        ],
+        [
+          "John Lin",
+          "Hi Maria, I'm John! Yeah, I just got here this morning. It's so great to meet you! The Love Ville program sounds like so much fun, and I'm excited to get to know everyone. Say, do you come here often? *Wink*"
+        ],
+        [
+          "Maria Lopez",
+          "I'm here for the first time as well! I signed up for the Love Ville program, it seems like such an exciting opportunity to meet new people and who knows.. maybe find someone special.. *giggle*. I'm a huge fan of cooking and games, do you have any hobbies you enjoy?"
+        ],
+        [
+          "John Lin",
+          "I have so many! I work at a pharmacy during the day, so I'm always running around helping people and making sure they have the medications they need. But after work, you'll catch me either reading a good book, tending to my garden, or jamming out to some Hip Hop tunes. I'm a pretty big fan of Travis Scott, if you ever want to discuss some new music releases. And of course, I'm here to find someone special too! I'm a big believer in the power of mutual respect and kindness in relationships, both platonic and romantic."
+        ],
+        [
+          "Maria Lopez",
+          "It's great to meet you, John! I love cooking and gaming, so I'm really excited for the breakfasts and potential cooking sessions we'll have here. I also love a good book, especially romance novels! And it's so cool that you work at a pharmacy, it's like you're a real-life hero to the people who need your help. So, any favorite games you'd recommend? I'm always looking for new ones to play!"
+        ],
+        [
+          "John Lin",
+          "I'm a bit of a gamer myself! I mostly play the classics, you know, the games that never seem to get old. But I'm always down for some friendly competition. Maybe we could challenge each other sometime? As for books, I mostly read historical fiction, anything with a good adventure and some fantasy never hurts! And I completely agree, it's an exciting time to be here and get to know everyone. The energy in the cafe is incredible! We should definitely keep each other updated on our favorite games and books."
+        ],
+        [
+          "Maria Lopez",
+          "It's so nice to properly meet you, John! I think we're going to have a great time over the next week getting to know each other and hanging out. So, any classic games you'd recommend I play? I'm always up for some fun and friendly competition!"
+        ],
+        [
+          "John Lin",
+          "It's been a blast getting to know you a bit, Maria! I think we share a lot of similar interests, which is super exciting. Maybe we could plan a gaming night soon, or a book club of sorts, and discuss our favorite classics. And if anyone can recommend a good romantic novel, it's definitely you! By the way, have you heard anyone talking about the upcoming local elections? I'm curious to know who's running for mayor."
+        ],
+        [
+          "Maria Lopez",
+          "It's wonderful meeting you too, John! I haven't heard any gossip about the elections, but I'd love to hear more about your gaming recommendations. Maybe we could plan a gaming date soon, it'd be fun to see your skills in action! And if you ever need any recommendations for romantic novels, you know who to ask ;)."
+        ],
+        [
+          "John Lin",
+          "We should totally plan that gaming night soon, it'd be a blast! And if you're up for it, maybe we couldeven make it a double date and invite some other friends along. As for the elections, I've heard a few people mention a potential candidate named Emily Parker, have you heard anything about her?"
+        ],
+        [
+          "Maria Lopez",
+          "I haven't heard of Emily Parker, but I'd love to hear more about the potential candidates. And yeah, a gaming date night sounds amazing! We could even make it a weekly thing if everyone enjoys it. As for sexy recommendations, have you seen that new gamer girl cosplay? Now, that's a sight for sore eyes! :p"
+        ],
+        [
+          "John Lin",
+          "It's quite funny you should mention that, I actually heard a few people chatting about her earlier today. They were saying how Emily Parker has a real shot at winning, and might even have a few surprises up her sleeve. But of course, it's always hard to tell with these things. Hey, if you're up for it, maybe we could explore some of these cosplays in person... just the two of us ;)"
+        ],
+        [
+          "Maria Lopez",
+          "I think we should go for it! A gaming date sounds like so much fun, especially if we make it a weekly thing. And yeah, I've heard of Emily Parker now, thanks for filling me in. So, any specific game you'd recommend for our first gaming night? Also, I'm all ears if you have any Ej Parker gossip to share ;)"
+        ],
+        [
+          "John Lin",
+          "Um, Maria.. Before we get too ahead of ourselves, I think it'd be fun to share some of our favorite games first! I mean, we want to make sure we're not just all talk, right? I'm a sucker for some old school Mario Kart, but I also\u73b0\u4eca\u5404\u79cd each new release. Maybe we could set up a little tournament for our first date, winner gets a special prize? And of course, I'll fill you in on the latest gossip about Emily Parker too ;)"
+        ],
+        [
+          "Maria Lopez",
+          "Old school Mario Kart sounds like a fantastic idea for our gaming night! Maybe we can play a few rounds and then discuss our favorite levels or characters over some snacks. And I must say, the prospect of a special prize is quite intriguing... Any ideas what it could be, John? ;)"
+        ],
+        [
+          "John Lin",
+          "Well, I think the prize should be chosen by the winner! That way, it'll be extra special. And if you're the one picking, it'll be a nice incentive to beat me at the game. As for relationship gossip, I've heard rumors that a few couples might form during this program. Seems like there's some serious flirting going on already! But remember, we're here to have fun and make meaningful connections, so no pressure whatsoever."
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "cooking and eating breakfast with the other Love Ville program participants at the Hobb Cafe (conversing about their interests, particularly cooking and philosophy, with enthusiasm and playful banter, as Isabella Rodriguez and Adam Smith, two participants in the Love Ville program, hit it off, making plans to grab coffee and dessert after the lunch break, and possibly taking a stroll in the park, excitedly looking forward to getting to know each other better.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:35:30"
+  }
+}

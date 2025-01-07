@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udcba",
+      "description": "going to Hobbs Cafe to prepare for the Love Ville Program (setting up the tables and chairs for the program) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        131,
+        57
+      ],
+      "pronunciatio": "\ud83d\udebf\ud83e\uddd6",
+      "description": "getting ready for the day, listening to music and preparing to head to the Hobb Cafe (taking a quick shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "waking up and completing his morning routine (conversing about their participation in the Love Ville program, expressing enthusiasm and curiosity about the upcoming activities, including a gaming night, and making plans to grab coffee, cook together, and continue their conversation throughout the day, between Klaus Mueller and John Lin, who share common interests in video games and cooking.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        38,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2640",
+      "description": "waking up and completing her morning routine (styling her hair) @ the Ville:artist's co-living space:Abigail Chen's bathroom:bathroom sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        78,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their participation in the Love Ville program, where John Lin and Adam Smith, two enthusiastic and slightly nervous participants, discuss their interests, motivations, and expectations, while making plans to attend a gaming night, potentially cook together with Klaus Mueller, and get to know each other better throughout the week, expressing excitement, agreement, and a sense of camaraderie as they look forward to exploring the possibilities of the program together. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "John Lin",
+          "Hi Adam! I'm John. I noticed you walking to the Hobb Cafe, seemed like you were deep in thought. Mind if I join you? I'm a participant in the Love Ville program too!"
+        ],
+        [
+          "Adam Smith",
+          "Hi John! Please, go ahead and join me. I was just thinking about how excited I am to meet everyone in the program. It's quite an intriguing concept, and I'm curious to see how it'll unfold."
+        ],
+        [
+          "John Lin",
+          "I'm excited too! It's the first day for me, so I'm a bit nervous, to be honest. I'm just here to check in, actually. Do you have any idea what the day's schedule might be? I want to make a good first impression and all."
+        ],
+        [
+          "Adam Smith",
+          "Don't worry, John! I was nervous too, but everyone is here for the same reason and wants to get to know each other. The program seems to be well-organized, and I'm sure they'll plan many fun activities to help us break the ice. I've heard we're having a gaming night, which sounds great! Anyway, it's wonderful to meet you, and I hope we can get to know each other better throughout the program."
+        ],
+        [
+          "John Lin",
+          "Yeah, I'm nervous too. But I think the gaming night will be a great opportunity to bond with everyone. I'm really looking forward to it! By the way, what brings you to the Ville Village? I mean, what made you sign up for the Love Ville program?"
+        ],
+        [
+          "Adam Smith",
+          "I signed up for the program because I recently published a book, and I'm curious about the world of creativity and how our connections can shape the world around us. I thought this would be a fun way to open myself up to new experiences and potentially meet someone special. Also, the concept of the show is quite intriguing, and I'm fascinated by the idea of exploring emotional connections in a safe and respectful environment."
+        ],
+        [
+          "John Lin",
+          "That's fascinating! I'm here mainly to connect with like-minded individuals and explore the possibilities of finding a special connection too. The world of romance is a intricacies many of us experience and it's intriguing to explore. In addition to that, I love the idea of bonding over cooking and games\u2014two of my favorite things! The organizers seem to have put a lot of thought into the schedule, and I'm excited for what's to come. It's great to find a fellow enthusiast in you, Adam!"
+        ],
+        [
+          "Adam Smith",
+          "It's delightful to have this conversation with you, John. I'm thrilled to find someone who shares my passions, and I'm curious to learn more about your interests and life perspectives. As we're both here for the same purpose, why not make the most of this opportunity and explore the possibilities together? The first day can be daunting, but we're in it together!"
+        ],
+        [
+          "John Lin",
+          "It's wonderful to hear your perspective, Adam! I think we share a lot of the same motivations for joining this program. I'm glad I met you today, and I hope we can continue exploring our shared interests throughout the week. In fact, I was just thinking about suggesting a cooking session with some participants, including Klaus Mueller, whom I met earlier. He's pretty passionate about video games, just like you and I. Perhaps the three of us could cook something delicious and have a fun gaming night later today or tomorrow? Klaus seemed really cool, and I think you two would get along famously!"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful idea! I'd love to explore more of the cooking and gaming world with you both. Klaus seemed like an interesting guy, and I'm excited to see what delicious creation the three of us could come up with. Perhaps we could also involve some of the other participants? It'd be fantastic to bond with everyone and get to know them better."
+        ],
+        [
+          "John Lin",
+          "It's great to hear that you're up for it! I'll suggest it later then. By the way, what's your Book is about? I'm a huge reader myself and would love to hear more about your work."
+        ],
+        [
+          "Adam Smith",
+          "My book is titled 'The Creative World'. It's an exploration of the importance of creativity, and how it can shape and improve our lives and the world around us. It's a passion project I've been working on for a while, and I'm thrilled that it's now out in the world. As for reading, I'm curious to hear about the books that have captured your imagination!"
+        ],
+        [
+          "John Lin",
+          "I mostly read non-fiction books on psychology and self-help, but I also love fantasy novels. They help me escape into imaginary worlds full of magic and mystery! As for Klaus, I met him earlier at the registration desk. He seems like a really cool guy and I think you'll enjoy getting to know him. Anyway, I should probably head off and check out the welcome packet I was given. See you later, Adam! Have a fantastic day!"
+        ],
+        [
+          "Adam Smith",
+          "It's been great getting to know you better, John! I'm excited for the week ahead and the possibilities it holds. I think we're all a bit nervous, but the nervousness fades when you remember we're all in this together. Have a wonderful day, and I look forward to catching up with you later!"
+        ],
+        [
+          "John Lin",
+          "It was nice chatting with you, Adam! I hope we can continue exploring the possibilities of this wonderful program together. Have a great day, and I'll see you at the next activity!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to meet someone with such similar interests so early on in the program, John! I'm thrilled to see what the week has in store for us. I must admit, I'm a bit nervous about the whole experience, but having you as a friend here makes it so much better. I feel like we're off to a great start!"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        80,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their participation in the Love Ville program, where John Lin and Adam Smith, two enthusiastic and slightly nervous participants, discuss their interests, motivations, and expectations, while making plans to attend a gaming night, potentially cook together with Klaus Mueller, and get to know each other better throughout the week, expressing excitement, agreement, and a sense of camaraderie as they look forward to exploring the possibilities of the program together. @ <persona> John Lin",
+      "chat": [
+        [
+          "John Lin",
+          "Hi Adam! I'm John. I noticed you walking to the Hobb Cafe, seemed like you were deep in thought. Mind if I join you? I'm a participant in the Love Ville program too!"
+        ],
+        [
+          "Adam Smith",
+          "Hi John! Please, go ahead and join me. I was just thinking about how excited I am to meet everyone in the program. It's quite an intriguing concept, and I'm curious to see how it'll unfold."
+        ],
+        [
+          "John Lin",
+          "I'm excited too! It's the first day for me, so I'm a bit nervous, to be honest. I'm just here to check in, actually. Do you have any idea what the day's schedule might be? I want to make a good first impression and all."
+        ],
+        [
+          "Adam Smith",
+          "Don't worry, John! I was nervous too, but everyone is here for the same reason and wants to get to know each other. The program seems to be well-organized, and I'm sure they'll plan many fun activities to help us break the ice. I've heard we're having a gaming night, which sounds great! Anyway, it's wonderful to meet you, and I hope we can get to know each other better throughout the program."
+        ],
+        [
+          "John Lin",
+          "Yeah, I'm nervous too. But I think the gaming night will be a great opportunity to bond with everyone. I'm really looking forward to it! By the way, what brings you to the Ville Village? I mean, what made you sign up for the Love Ville program?"
+        ],
+        [
+          "Adam Smith",
+          "I signed up for the program because I recently published a book, and I'm curious about the world of creativity and how our connections can shape the world around us. I thought this would be a fun way to open myself up to new experiences and potentially meet someone special. Also, the concept of the show is quite intriguing, and I'm fascinated by the idea of exploring emotional connections in a safe and respectful environment."
+        ],
+        [
+          "John Lin",
+          "That's fascinating! I'm here mainly to connect with like-minded individuals and explore the possibilities of finding a special connection too. The world of romance is a intricacies many of us experience and it's intriguing to explore. In addition to that, I love the idea of bonding over cooking and games\u2014two of my favorite things! The organizers seem to have put a lot of thought into the schedule, and I'm excited for what's to come. It's great to find a fellow enthusiast in you, Adam!"
+        ],
+        [
+          "Adam Smith",
+          "It's delightful to have this conversation with you, John. I'm thrilled to find someone who shares my passions, and I'm curious to learn more about your interests and life perspectives. As we're both here for the same purpose, why not make the most of this opportunity and explore the possibilities together? The first day can be daunting, but we're in it together!"
+        ],
+        [
+          "John Lin",
+          "It's wonderful to hear your perspective, Adam! I think we share a lot of the same motivations for joining this program. I'm glad I met you today, and I hope we can continue exploring our shared interests throughout the week. In fact, I was just thinking about suggesting a cooking session with some participants, including Klaus Mueller, whom I met earlier. He's pretty passionate about video games, just like you and I. Perhaps the three of us could cook something delicious and have a fun gaming night later today or tomorrow? Klaus seemed really cool, and I think you two would get along famously!"
+        ],
+        [
+          "Adam Smith",
+          "That sounds like a wonderful idea! I'd love to explore more of the cooking and gaming world with you both. Klaus seemed like an interesting guy, and I'm excited to see what delicious creation the three of us could come up with. Perhaps we could also involve some of the other participants? It'd be fantastic to bond with everyone and get to know them better."
+        ],
+        [
+          "John Lin",
+          "It's great to hear that you're up for it! I'll suggest it later then. By the way, what's your Book is about? I'm a huge reader myself and would love to hear more about your work."
+        ],
+        [
+          "Adam Smith",
+          "My book is titled 'The Creative World'. It's an exploration of the importance of creativity, and how it can shape and improve our lives and the world around us. It's a passion project I've been working on for a while, and I'm thrilled that it's now out in the world. As for reading, I'm curious to hear about the books that have captured your imagination!"
+        ],
+        [
+          "John Lin",
+          "I mostly read non-fiction books on psychology and self-help, but I also love fantasy novels. They help me escape into imaginary worlds full of magic and mystery! As for Klaus, I met him earlier at the registration desk. He seems like a really cool guy and I think you'll enjoy getting to know him. Anyway, I should probably head off and check out the welcome packet I was given. See you later, Adam! Have a fantastic day!"
+        ],
+        [
+          "Adam Smith",
+          "It's been great getting to know you better, John! I'm excited for the week ahead and the possibilities it holds. I think we're all a bit nervous, but the nervousness fades when you remember we're all in this together. Have a wonderful day, and I look forward to catching up with you later!"
+        ],
+        [
+          "John Lin",
+          "It was nice chatting with you, Adam! I hope we can continue exploring the possibilities of this wonderful program together. Have a great day, and I'll see you at the next activity!"
+        ],
+        [
+          "Adam Smith",
+          "It's wonderful to meet someone with such similar interests so early on in the program, John! I'm thrilled to see what the week has in store for us. I must admit, I'm a bit nervous about the whole experience, but having you as a friend here makes it so much better. I feel like we're off to a great start!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:40:20"
+  }
+}
