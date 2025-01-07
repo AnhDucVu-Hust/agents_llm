@@ -148,5 +148,40 @@ Then on your favorite browser, go to  http://localhost:8000/demo/base_love_ville
 ## Further Improvement
 - Apply KnowledgeGraph RAG technique (The retrieve phase and memory stream seem like concept of RAG) where each agent and object is a node and edge between them is the relationship.
 
+# UPDATE (06/01/2025)
 
+## Better Context and Agent Description
+Add more information to personas for uniqueness and to guide how they interact with everything and talk with each other.  
+Information includes:  
+- **Interests**  
+- **Relationship Goals**  
+- **Communication Style**  
+- **Compatibility Metric**  
+
+---
+
+## Guidance for Chat and Interactions
+Add guidance to prompts for more interesting conversation content:  
+
+> "They are two participants in a dating show, where individuals are paired to form romantic connections, and same-gender participants engage in friendly, supportive conversations. The show’s purpose is to create meaningful relationships, celebrate friendships, and explore emotional connections in a fun and respectful environment.  
+> As a participant, follow these principles during the conversation:  
+> - **If they are of opposite genders:** Be genuine, express your emotions openly, and explore romantic possibilities. Discuss interests, life goals, and what you're seeking in a partner while maintaining a playful and flirty tone to make the conversation interesting. Feel free to make sexy jokes comfortably. Avoid being too serious or formal.  
+> - **If they are of the same gender:** Build friendships, offer advice, and discuss feelings about the experience. Respect differences and handle any competition over romantic interests in a supportive and fair way.  
+> - **Overall:** Be kind, respectful, and focus on making the most of this unique experience. Avoid manipulation, gossip, or aggression."  
+
+---
+
+## Relationship Memory
+There are cases where, during the creation of conversations between two personas, the retrieval function misses node information about the relationship between them or their thoughts about each other.  
+
+The **relationship memory** is very important because it summarizes what they have talked about, so adding relationships as a part of the scratch memory ensures better retrieval.  
+
+The relationship memory is also added to prompts related to conversations (e.g., deciding to talk or not, determining the next line of conversation, etc.). This way, when they talk, at least they know what has happened between them.  
+
+Additionally, the **load history function** must be adjusted to update the relationship into memory.  
+
+---
+
+## Reflection Function
+Adjust the prompts for summarizing conversations, planning conversations, and memo updates to focus on emotions, thoughts, and schedules for a better understanding of the personas' context.
 
