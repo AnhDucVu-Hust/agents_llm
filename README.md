@@ -172,6 +172,8 @@ Add guidance to prompts for more interesting conversation content:
 ---
 
 ## Relationship Memory
+
+
 There are cases where, during the creation of conversations between two personas, the retrieval function misses node information about the relationship between them or their thoughts about each other.  
 
 The **relationship memory** is very important because it summarizes what they have talked about, so adding relationships as a part of the scratch memory ensures better retrieval.  
