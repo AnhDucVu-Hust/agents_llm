@@ -158,7 +158,7 @@ Information includes:
 - **Communication Style**  
 - **Compatibility Metric**  
 <p align="center" width="100%">
-<img src="asset/relationship_memory.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
+<img src="asset/flirt.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 ---
 
@@ -168,9 +168,6 @@ Add guidance to prompts for more interesting conversation content:
 <img src="asset/bro talk.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
 
-<p align="center" width="100%">
-<img src="asset/flirt.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
-</p>
 > "They are two participants in a dating show, where individuals are paired to form romantic connections, and same-gender participants engage in friendly, supportive conversations. The show’s purpose is to create meaningful relationships, celebrate friendships, and explore emotional connections in a fun and respectful environment.  
 > As a participant, follow these principles during the conversation:  
 > - **If they are of opposite genders:** Be genuine, express your emotions openly, and explore romantic possibilities. Discuss interests, life goals, and what you're seeking in a partner while maintaining a playful and flirty tone to make the conversation interesting. Feel free to make sexy jokes comfortably. Avoid being too serious or formal.  
