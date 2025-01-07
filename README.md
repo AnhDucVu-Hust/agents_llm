@@ -173,6 +173,9 @@ Add guidance to prompts for more interesting conversation content:
 
 ## Relationship Memory
 
+<p align="center" width="100%">
+<img src="asset/relationship_memory.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
+</p>
 
 There are cases where, during the creation of conversations between two personas, the retrieval function misses node information about the relationship between them or their thoughts about each other.  
 
