@@ -157,7 +157,9 @@ Information includes:
 - **Relationship Goals**  
 - **Communication Style**  
 - **Compatibility Metric**  
-
+<p align="center" width="100%">
+<img src="asset/relationship_memory.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
+</p>
 ---
 
 ## Guidance for Chat and Interactions
@@ -174,7 +176,9 @@ Add guidance to prompts for more interesting conversation content:
 > - **If they are of opposite genders:** Be genuine, express your emotions openly, and explore romantic possibilities. Discuss interests, life goals, and what you're seeking in a partner while maintaining a playful and flirty tone to make the conversation interesting. Feel free to make sexy jokes comfortably. Avoid being too serious or formal.  
 > - **If they are of the same gender:** Build friendships, offer advice, and discuss feelings about the experience. Respect differences and handle any competition over romantic interests in a supportive and fair way.  
 > - **Overall:** Be kind, respectful, and focus on making the most of this unique experience. Avoid manipulation, gossip, or aggression."  
-
+<p align="center" width="100%">
+<img src="asset/talk to someone about crush.png" style="width: 80%; min-width: 300px; display: block; margin: auto;">
+</p>
 ---
 
 ## Relationship Memory
