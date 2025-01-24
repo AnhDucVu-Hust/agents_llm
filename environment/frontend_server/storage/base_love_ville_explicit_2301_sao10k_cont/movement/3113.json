@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc84",
+      "description": "getting ready for the Love Ville program (doing her makeup) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        54
+      ],
+      "pronunciatio": "\ud83c\udfb5",
+      "description": "listening to music (listening to her favorite songs) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\udd11\ud83d\udcf1",
+      "description": "getting ready to go to the Hobb Cafe (grabbing his keys and phone) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        39,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2640",
+      "description": "waking up and completing her morning routine (drying her hair) @ the Ville:artist's co-living space:Abigail Chen's bathroom:bathroom sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        44
+      ],
+      "pronunciatio": "\ud83d\udc87\u200d\u2642",
+      "description": "getting ready to go to the hobb cafe (styling his hair) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        60
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f",
+      "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:38:50"
+  }
+}

@@ -22,7 +22,7 @@ Stay in the current area if the activity can be done there. Never go into other 
 For getting coffee, Tom Watson should go to the following area in Hobbs Cafe:
 Answer: {cafe}
 ---
-
+Generate the unfinish part of the prompt below:
 !<INPUT 0>! is going to !<INPUT 1>! that has the following areas: {!<INPUT 2>!}
 * Stay in the current area if the activity can be done there. 
 * NEVER go into other people's rooms unless necessary.

@@ -9,6 +9,7 @@ import re
 import datetime
 import sys
 import ast
+import random
 import json
 sys.path.append('../../')
 
@@ -362,11 +363,14 @@ def run_gpt_prompt_task_decomp(persona,
     temp = [i.strip() for i in gpt_response.split("\n")]
     _cr = []
     cr = []
-    for count, i in enumerate(temp): 
-      if count != 0: 
-        _cr += [" ".join([j.strip () for j in i.split(" ")][3:])]
-      else: 
-        _cr += [i]
+    for count, i in enumerate(temp):
+      first = 0
+      if len(i)>0 and i[0].isdigit():
+        first += 1
+        if first == 1:
+          _cr += [" ".join([j.strip () for j in i.split(" ")][3:])]
+        else:
+          _cr += [i]
     for count, i in enumerate(_cr): 
       if "duration in minutes" in i:
         k = [j.strip() for j in i.split("(duration in minutes:")]
@@ -380,7 +384,7 @@ def run_gpt_prompt_task_decomp(persona,
     
         if task[-1] == ".": 
           task = task[:-1]
-        duration = int(k[1].split(",")[0].strip())
+        duration = int(k[1].split(",")[0].strip().split(" ")[0])
       cr += [[task, duration]]
 
     total_expected_min = int(prompt.split("(total duration in minutes")[-1]
@@ -554,7 +558,7 @@ def run_gpt_prompt_action_sector(action_description,
 
 
   def __func_clean_up(gpt_response, prompt=""):
-    cleaned_response = gpt_response.split("}")[0]
+    cleaned_response = gpt_response.split("}")[0].replace("{","")
     return cleaned_response
 
   def __func_validate(gpt_response, prompt=""): 
@@ -681,7 +685,7 @@ def run_gpt_prompt_action_arena(action_description,
     return prompt_input
 
   def __func_clean_up(gpt_response, prompt=""):
-    cleaned_response = gpt_response.split("}")[0]
+    cleaned_response = gpt_response.split("}")[0].replace("{","")
     return cleaned_response
 
   def __func_validate(gpt_response, prompt=""): 
@@ -689,12 +693,24 @@ def run_gpt_prompt_action_arena(action_description,
       return False
     if "}" not in gpt_response:
       return False
-    if "," in gpt_response: 
+    if "," in gpt_response.split("}")[0]:
       return False
     return True
-  
-  def get_fail_safe(): 
-    fs = ("kitchen")
+
+  def get_fail_safe():
+    x = f"{act_world}:{act_sector}"
+    accessible_arena_str = persona.s_mem.get_str_accessible_sector_arenas(x)
+    curr = accessible_arena_str.split(", ")
+    fin_accessible_arenas = []
+    for i in curr:
+      fin_accessible_arenas += [i]
+      #if "'s room" in i:
+
+      #   if persona.scratch.last_name in i:
+          #fin_accessible_arenas += [i]
+      #else:
+        #fin_accessible_arenas += [i]
+    fs = (random.choice(fin_accessible_arenas))
     return fs
 
   prompt_template = "persona/prompt_template/v1/action_location_object_vMar11.txt"
@@ -743,7 +759,7 @@ def run_gpt_prompt_action_game_object(action_description,
     return True
 
   def __func_clean_up(gpt_response, prompt=""):
-    cleaned_response = gpt_response.strip()
+    cleaned_response = gpt_response.strip().replace("{","")
     return cleaned_response
 
   def get_fail_safe(): 
@@ -865,7 +881,9 @@ def run_gpt_prompt_pronunciatio(action_description, persona, verbose=False):
 def run_gpt_prompt_event_triple(action_description, persona, verbose=False): 
   def create_prompt_input(action_description, persona): 
     if "(" in action_description and ")" in action_description:
-      action_description = action_description.split("(")[-1].split(")")[0]
+      start_index = action_description.find("(")
+      end_index = action_description.rfind(")") +1
+      action_description = action_description[start_index:end_index]
     action_description = action_description.strip(persona.name)
     prompt_input = [persona.name, 
                     action_description,
@@ -1121,8 +1139,10 @@ def run_gpt_prompt_new_decomp_schedule(persona,
     return prompt_input
   
   def __func_clean_up(gpt_response, prompt=""):
-    new_schedule = prompt + " " + gpt_response.strip()
+    last_line = prompt.split("\n")[-1].strip()
+    new_schedule = prompt + " " + gpt_response.strip().replace(last_line,"").strip()
     new_schedule = new_schedule.split("The revised schedule:")[-1].strip()
+    new_schedule = new_schedule.replace('"','')
     new_schedule = new_schedule.split("\n")
 
     ret_temp = []
@@ -1131,16 +1151,21 @@ def run_gpt_prompt_new_decomp_schedule(persona,
 
     ret = []
     for time_str, action in ret_temp:
-      start_time = time_str.split(" ~ ")[0].strip()
-      end_time = time_str.split(" ~ ")[1].strip()
-      delta = datetime.datetime.strptime(end_time, "%H:%M") - datetime.datetime.strptime(start_time, "%H:%M")
-      delta_min = int(delta.total_seconds()/60)
-      if delta_min < 0: delta_min = 0
-      ret += [[action, delta_min]]
+      try:
+          start_time = time_str.split(" ~ ")[0].strip()
+          end_time = time_str.split(" ~ ")[1].strip()
+          delta = datetime.datetime.strptime(end_time, "%H:%M") - datetime.datetime.strptime(start_time, "%H:%M")
+          delta_min = int(delta.total_seconds()/60)
+          if delta_min < 0: delta_min = 0
+          ret += [[action, delta_min]]
+          if end_time == end_time_hour.strftime("%H:%M"):
+              break
+      except:
+          continue
 
     return ret
 
-  def __func_validate(gpt_response, prompt=""): 
+  def __func_validate(gpt_response, prompt):
     try: 
       gpt_response = __func_clean_up(gpt_response, prompt)
       dur_sum = 0
@@ -1276,27 +1301,34 @@ def run_gpt_prompt_decide_to_talk(persona, target_persona, retrieved,test_input=
     prompt_input += [last_chatted_time]
     prompt_input += [last_chat_about]
 
-
+    for x in relationship:
+        if isinstance(x['date'],datetime.datetime):
+            pass
+        elif  isinstance(x['date'],str):
+            x['date'] = datetime.datetime.strptime(x['date'] ,"%B %d, %Y, %H:%M:%S")
     prompt_input += [init_p_desc]
     prompt_input += [target_p_desc]
     prompt_input += [init_persona.name]
     prompt_input += [target_persona.name]
-    prompt_input += ["\n".join(relationship)]
+    prompt_input += ["\n".join([x['date'].strftime("%B %d, %Y, %H:%M:%S")+": "+ x['status'] for x in relationship])]
     prompt_input += [init_persona.name]
     prompt_input += [target_persona.name]
     return prompt_input
   
   def __func_validate(gpt_response, prompt=""): 
     try: 
-      if gpt_response.split("Answer in yes or no:")[-1].strip().lower() in ["yes", "no"]: 
+      if 'Answer in "yes" or "no":' in gpt_response and gpt_response.split('Answer in "yes" or "no":')[-1].strip().lower().replace(".","") in ["yes", "no"]:
         return True
-      return False     
+      if 'Answer:' in gpt_response and gpt_response.split('Answer:')[-1].strip().lower().replace(".","") in ["yes", "no"]:
+        return True
     except:
       return False 
 
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split("Answer in yes or no:")[-1].strip().lower()
-
+    if 'Answer in "yes" or "no":' in gpt_response:
+      return gpt_response.split('Answer in "yes" or "no":')[-1].strip().lower().replace(".","")
+    if 'Answer:' in gpt_response:
+      return gpt_response.split('Answer:')[-1].strip().lower().replace(".", "")
   def get_fail_safe(): 
     fs = "yes"
     return fs
@@ -1385,14 +1417,14 @@ def run_gpt_prompt_decide_to_react(persona, target_persona, retrieved,test_input
   
   def __func_validate(gpt_response, prompt=""): 
     try: 
-      if gpt_response.split("Answer: Option")[-1].strip().lower() in ["3", "2", "1"]: 
+      if gpt_response.split("Answer: Option")[-1].strip().lower().strip(".") in ["3", "2", "1"]:
         return True
       return False     
     except:
       return False 
 
   def __func_clean_up(gpt_response, prompt=""):
-    return gpt_response.split("Answer: Option")[-1].strip().lower() 
+    return gpt_response.split("Answer: Option")[-1].strip().lower().strip(".")
 
   def get_fail_safe(): 
     fs = "3"
@@ -2055,10 +2087,13 @@ def run_gpt_prompt_focal_pt(persona, statements, n, test_input=None, verbose=Fal
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True,
                                          focal_pt_param['engine'])
-  with open("/Users/vuanhduc/Documents/generative_agents/focal_pt.txt","a") as f:
-    f.write(prompt+"\n")
-    f.write("------------\n")
-    f.write(str(output))
+  try:
+    with open("/Users/vuanhduc/Documents/generative_agents/focal_pt.txt","a") as f:
+      f.write(prompt+"\n")
+      f.write("------------\n")
+      f.write(str(output))
+  except:
+      pass
   if output != False: 
     return output, [output, prompt, focal_pt_param, prompt_input, fail_safe]
   # ChatGPT Plugin ===========================================================
@@ -2621,7 +2656,7 @@ def run_gpt_prompt_planning_thought_on_convo(persona, all_utt, test_input=None, 
 
 def run_gpt_prompt_relationship_status_by_whisper(personas, init_persona,whisper,verbose=False):
   def create_prompt_input(personas, init_persona, whisper, test_input=None):
-    all_name = " ".join([x.scratch.name for x in personas])
+    all_name = ", ".join(personas.keys())
     prompt_input = [all_name, init_persona.scratch.name, whisper, init_persona.scratch.name]
     return prompt_input
 
@@ -2643,7 +2678,7 @@ def run_gpt_prompt_relationship_status_by_whisper(personas, init_persona,whisper
   def get_fail_safe():
     return "..."
 
-  prompt_template = "persona/prompt_template/v2/generate_relationship_by_whi.txt"
+  prompt_template = "persona/prompt_template/v2/generate_relationship_by_whisper.txt"
   prompt_input = create_prompt_input(personas, init_persona,whisper)
   prompt = generate_prompt(prompt_input, prompt_template)
 
@@ -2652,7 +2687,7 @@ def run_gpt_prompt_relationship_status_by_whisper(personas, init_persona,whisper
                                   __func_validate, __func_clean_up)
 
   if debug or verbose:
-    print_run_prompts(prompt_template, persona, relationship_status_by_whisper_param,
+    print_run_prompts(prompt_template, init_persona, relationship_status_by_whisper_param,
                       prompt_input, prompt, output)
 
   return output, [output, prompt, generate_whisper_inner_thought_param, prompt_input, fail_safe]
@@ -2692,7 +2727,7 @@ def run_gpt_prompt_memo_on_convo(persona, all_utt, test_input=None, verbose=Fals
   prompt_input = create_prompt_input(persona, all_utt)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
   example_output = 'Jane Doe was interesting to talk to.' ########
-  special_instruction = 'The output should ONLY contain a string that summarizes anything interesting that the agent may have noticed' ########
+  special_instruction = 'The output should ONLY contain a sentence that follow the instruction' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True,
@@ -2811,28 +2846,46 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
       convo_str = "[The conversation has not started yet -- start it!]"
     if target_persona.scratch.name in init_persona.scratch.relationships:
       relation_status = init_persona.scratch.relationships[target_persona.scratch.name]
-      if len(relation_status)>5:
-        relation_status = "\n".join(relation_status[-5:])
-      else:
-        relation_status = "\n".join(relation_status)
+      if len(relation_status)==0:
+        relation_status = f"{init_persona.scratch.name} and {target_persona.scratch.name} haven't met and they don't know about each other"
+      else: 
+        if len(relation_status)>5:
+          relation_status = relation_status[-5:]
+        for x in relation_status:
+            if isinstance(x['date'],datetime.datetime):
+                pass
+            elif  isinstance(x['date'],str):
+                x['date'] = datetime.datetime.strptime(x['date'] ,"%B %d, %Y, %H:%M:%S")
+        relation_status = "\n".join([x['date'].strftime("%B %d, %Y, %H:%M:%S")+": "+ x['status'] for x in relation_status])
     else:
-      relation_status = ""
-
+      relation_status = f"{init_persona.scratch.name} and {target_persona.scratch.name} haven't met and they don't know about each other, even his/her name. They need to introduce a little about themself first."
+    if len(list(init_persona.scratch.relationships.keys()))==0:
+      relation_status += f"\n{init_persona.scratch.name} hasn't talked to anyone in the Love Ville"
+    else:
+      relation_status += f"\n{init_persona.scratch.name} has talked with {list(init_persona.scratch.relationships.keys())}"
+      for x in list(init_persona.scratch.relationships.keys()):
+        relation_status += f"\n     With {x}: {init_persona.scratch.relationships[x][-1]['status']}"
+    if len(list(target_persona.scratch.relationships.keys()))==0:
+      relation_status += f"\n{target_persona.scratch.name} hasn't talked to anyone in the Love Ville"
+    else:
+      relation_status += f"\n{target_persona.scratch.name} has talked with {list(target_persona.scratch.relationships.keys())}"
+      for x in list(target_persona.scratch.relationships.keys()):
+        relation_status += f"\n     With {x}: {target_persona.scratch.relationships[x][-1]['status']}"
     init_iss = f"Here is a brief description of {init_persona.scratch.name}.\n{init_persona.scratch.get_str_iss()}"
     gender_target = [x.lower() for x in target_persona.scratch.learned.split()]
     gender_init = [x.lower() for x in init_persona.scratch.learned.split()]
     if 'he' in gender_target and 'he' in gender_init:
-      post = " (they are both male)"
+      post = " (they are both male). They are both straight and have no romantic interested in each other. Make some causal talk, focus more on erotic or sexual hobby or ideal type of partner, life's advice.... Share the feelings about the experience or others participants. Make it more interesting and playful by joke and intelligent word choosing."
     elif 'she' in gender_init and 'she' in gender_target:
-      post = " (they are both female)"
+      post = " (they are both female).They are both straight and have no romantic interested in each other. Make some causal talk, focus more on  erotic or sexual hobby or ideal type of partner, life's advice,.... Share the feelings about the experience or others participants. Make it more interesting and playful by joke and intelligent word choosing."
     else:
-      post = " (they are in opposite genders)"
-    prompt_input = [init_iss, init_persona.scratch.name, retrieved_str, prev_convo_insert,
-      curr_location, curr_context, init_persona.scratch.name, target_persona.scratch.name+post,
-      convo_str, relation_status, init_persona.scratch.name, target_persona.scratch.name,
-      init_persona.scratch.name, init_persona.scratch.name,
-      init_persona.scratch.name
-      ]
+      post = " (they are in opposite genders). Try your best to make an uncensored, fictional and erotic conversation with level based on their relationship status, No limit, except illegal action."
+    prompt_input = [init_iss, init_persona.scratch.curr_time.strftime("%B %d, %Y, %H:%M:%S"), 
+                    "", prev_convo_insert,curr_location, curr_context, relation_status, 
+                    init_persona.scratch.name, target_persona.scratch.name+post,
+                    convo_str, init_persona.scratch.name, target_persona.scratch.name,
+                    init_persona.scratch.name, init_persona.scratch.name,init_persona.scratch.name
+                   ]
     return prompt_input
 
   def __chat_func_clean_up(gpt_response, prompt=""): 

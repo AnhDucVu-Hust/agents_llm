@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": " (conversing about their preferences, interests, and expectations in relationships, with Isabella Rodriguez and Abigail Chen discussing their ideal partners, sharing their thoughts on meaningful connections, and showing enthusiasm and curiosity about each other and other potential matches, including Klaus Mueller and Adam Smith, while navigating the Love Ville program.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        29
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (conversing about their preferences, interests, and expectations in relationships, with Isabella Rodriguez and Abigail Chen discussing their ideal partners, sharing their thoughts on meaningful connections, and showing enthusiasm and curiosity about each other and other potential matches, including Klaus Mueller and Adam Smith, while navigating the Love Ville program.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        54,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd1d\ud83d\udcac",
+      "description": "participating in icebreaker activities and getting to know the other Love Ville program participants (sharing his own passions and interests with the group) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        61,
+        25
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": " @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:49:20"
+  }
+}

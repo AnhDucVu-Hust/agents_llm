@@ -8,8 +8,20 @@ Variables:
 
 <commentblockmarker>###</commentblockmarker>
 [Conversation]
+Personas:
+- Abigail Chen: Female
+- Adam Smith: Male
+- Isablla Rodriguez: Female
+- John Lin: Male
+- Klaus Mueller: Male
+- Mario Lopez : Female
 !<INPUT 0>!
 Generate the unfinish part of the prompt below:
 
-Write down if there is anything from the conversation that !<INPUT 1>! might have found interesting from !<INPUT 2>!'s perspective, in a sentence. Write concisely yet informatively.
+Write down if there is anything from the conversation that !<INPUT 1>! might have found interesting from !<INPUT 2>!'s perspective and the feeling, in a sentence. Write concisely yet informatively.
+
+If they are in another genders, the emotion between them will be score from 1 to 5 with 1 is no interested and 5 is fall in love. Let's think to it and then add that information to the sentence. 
+
+If they are in same genders, there is no romantic emotion between them. So just write down what they feel interesting about each other in the conversation and emphasize that they are both straight.
+For example if you score 1, you should add that they have no interested in others
 Your response will start with "!<INPUT 3>! "

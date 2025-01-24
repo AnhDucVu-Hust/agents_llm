@@ -1,0 +1,386 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 07:21:50",
+        "status": "Maria Lopez finds Klaus Mueller fascinating and attractive, rating her interest at a 4 out of 5."
+      }
+    ],
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 09:30:50",
+        "status": "Maria Lopez finds Adam Smith's confidence and interest in a deeper connection interesting, and their emotional connection is rated at a 4."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 09:58:30",
+  "curr_tile": [
+    73,
+    19
+  ],
+  "daily_plan_req": "Maria Lopez is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas. She has long dark hair and glasses, exuding elegance with her thoughtful demeanor. However, her true allure lies in her ability to make people feel intellectually and emotionally connected to her. Maria doesn\u2019t just talk about deep topics\u2014she engages her partner in meaningful, sometimes provocative conversations that lead to unexpected closeness. Her touch is gentle but deliberate, and her kisses are always full of intent, making every moment feel personal and significant. She has an intuitive understanding of how to seduce not just physically but mentally, using words and emotions to build a connection. When she\u2019s with someone, she\u2019s fully present, which makes her feel magnetic and mysterious.",
+  "currently": "Maria Lopez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/2/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Maria Lopez goes to bed around 10am, awakes up around 7am, eats dinner around 6pm. She likes listening to music and admire people in academia",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 48,
+  "importance_ele_n": 36,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "have a breakfast at 7:30 am",
+    "listen to music from 8:00 to 9:00 am",
+    "meet new people at the hobb cafe at 9:00 am",
+    "have a lunch at 12:00 pm",
+    "explore the Ville Village from 1:00 to 5:00 pm",
+    "cook and eat dinner at 6:00 pm",
+    "get to know people at the hobb cafe from 7:00 to 10:00 pm",
+    "",
+    "wake up and complete the morning routine at 7:00 am",
+    "have a breakfast at 7:30 am",
+    "listen to music from 8:00 to 9:00 am",
+    "meet new people at the hobb cafe at 9:00 am",
+    "have a lunch at"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (on the way to washing her face)",
+      0
+    ],
+    [
+      "waking up and completing her morning routine (conversing about their interests, majors, and personalities, while expressing mutual enthusiasm and warmth, and making plans to grab coffee and continue their conversation, between Maria Lopez, a physics major and Twitch streamer, and Klaus Mueller, a sociology major.)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (doing her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (applying light makeup)",
+      10
+    ],
+    [
+      "listening to music (choosing the music she wants to listen to)",
+      5
+    ],
+    [
+      "listening to music (setting up her speakers or headphones)",
+      5
+    ],
+    [
+      "listening to music (listening to the first song and enjoying the music)",
+      5
+    ],
+    [
+      "listening to music (singing along to her favorite parts of the song)",
+      5
+    ],
+    [
+      "listening to music (reflecting on the lyrics and how they relate to her life)",
+      5
+    ],
+    [
+      "listening to music (listening to the second song and appreciating the instrumentals)",
+      5
+    ],
+    [
+      "listening to music (dancing or moving to the beat of the music)",
+      5
+    ],
+    [
+      "listening to music (quickly wrapping up her music session and preparing for the next activity)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (walking to the hobb cafe)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (looking around the hobb cafe to see who is there)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (approaching a group of people and introducing herself)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (on the way to engaging in small talk with the group)",
+      0
+    ],
+    [
+      "meeting new people at the hobb cafe (conversing about getting to know each other, expressing mutual attraction and enthusiasm, and making plans for a romantic dinner and sunset viewing at 7pm, between Maria Lopez and Adam Smith, who have just met at the Love Ville Program.)",
+      17
+    ],
+    [
+      "meeting new people at the hobb cafe (asking questions to get to know the group members better)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (sharing a bit about herself with the group)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (exchanging contact information with the group members)",
+      5
+    ],
+    [
+      "exploring the Ville Village (taking photos of the scenery)",
+      10
+    ],
+    [
+      "exploring the Ville Village (visiting the local shops)",
+      20
+    ],
+    [
+      "exploring the Ville Village (talking to the shop owners)",
+      15
+    ],
+    [
+      "exploring the Ville Village (buying souvenirs)",
+      10
+    ],
+    [
+      "exploring the Ville Village (taking a break at a cafe)",
+      15
+    ],
+    [
+      "exploring the Ville Village (people-watching)",
+      10
+    ],
+    [
+      "exploring the Ville Village (exploring the park)",
+      15
+    ],
+    [
+      "exploring the Ville Village (taking more photos)",
+      23
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "cooking and eating dinner with other Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know people at the hobb cafe",
+      180
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "listening to music",
+      60
+    ],
+    [
+      "meeting new people at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      120
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "cooking and eating dinner with other Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know people at the hobb cafe",
+      180
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:refrigerator",
+  "act_start_time": "February 13, 2023, 09:58:00",
+  "act_duration": 5,
+  "act_description": "meeting new people at the hobb cafe (exchanging contact information with the group members)",
+  "act_pronunciatio": "\ud83d\udcf1\ud83d\udc65",
+  "act_event": [
+    "Maria Lopez",
+    "exchange",
+    "contact information"
+  ],
+  "act_obj_description": "empty and not in use",
+  "act_obj_pronunciatio": "\ud83d\udecb\ufe0f",
+  "act_obj_event": [
+    "refrigerator",
+    "is",
+    "empty"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": -141,
+    "Adam Smith": 633
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

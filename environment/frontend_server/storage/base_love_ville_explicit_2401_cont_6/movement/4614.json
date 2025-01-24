@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having lunch with other participant (serving herself lunch from the buffet) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch (conversing about their personal interests, sharing experiences, and forming a connection, as Abigail Chen and Maria Lopez discuss their adventurous activities, ideal partners, and plans, ultimately deciding to exchange contact information to continue their newfound connection.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, sharing stories, and making plans for dinner, where they will exchange more tales of their adventures, with Adam Smith and Klaus Mueller expressing enthusiasm and interest in getting to know each other and potentially meeting women who can handle their adventurous souls. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "(lean forward) I'm Adam Smith, and you are? We both have pretty similar interests based on what I've heard, I'm more into someone who can handle my adventurous side, what about you Klaus Mueller? Haven't met before huh?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smile) Nice to meet you too, Adam. I can definitely handle some excitement. I've always had a thing for someone confident, a woman who can keep up with my sense of humor - someone with some spunk."
+        ],
+        [
+          "Adam Smith",
+          "(leaning back and smiling slightly) That sounds like an interesting combination, Klaus. I've always been a fan of bold women myself. I wonder who we'll meet next, maybe someone can handle both our adventurous souls?"
+        ],
+        [
+          "Klaus Mueller",
+          "(chuckles) Sounds like we both enjoy a good time. Can't wait to see what other adventurous women we'll meet here. Maybe we can share some tips and tricks of the trade later, over some drinks. What do you say?"
+        ],
+        [
+          "Adam Smith",
+          "(leaning forward with a smile) No problem at all Klaus, I'd love to exchange some stories over a drink. I'm sure we have some wild tales to share. Maybe later tonight over dinner?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smirking slightly from across the table) Yeah that sounds like a plan Adam, looking forward to hearing about your escapades. I've got a few stories of my own that might raise an eyebrow or two. But before that, do you think there'll be any other surprises tonight?"
+        ],
+        [
+          "Adam Smith",
+          "(leaning back with a smile) I've heard interesting things about tonight and i'm sure it won't disappoint"
+        ],
+        [
+          "Klaus Mueller",
+          "(raising an eyebrow) interesting things, huh? You know more than you're letting on, don't you? Spill the beans, Adam."
+        ],
+        [
+          "Adam Smith",
+          "(smirks) Well, let's just say I have my ways of gathering intel. I think it's safe to say tonight won't be your average evening, one with a few surprises in store"
+        ],
+        [
+          "Klaus Mueller",
+          "(raises his eyebrow, intrigued) Ah, a man of mystery, I like that. I've got a feeling tonight is going to be wild, can't wait. So what are some of these wild tales you've got to share, or are they all post-dinner stories?"
+        ],
+        [
+          "Adam Smith",
+          "(lean forward, pretending to be extremely interested) Come on, Klaus, you can't drop a bombshell like that and then just leave me hanging. What's the story?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smirks) Let's just say I've had my fair share of fun, both in and out of the bedroom. But I think I'll save the details for dinner, make it a bit more...interesting. I can say this though, I've always been a fan of a good chase, the thrill of the hunt. And I think this program is going to offer us a lot of opportunities for that."
+        ],
+        [
+          "Adam Smith",
+          "(leaning back with a curious smile) Well, I admire a man who knows how to keep a secret, Klaus. The thrill of the hunt, huh? I can certainly relate to that. It sounds like we share a taste for the more adventurous side of life. But I have to ask, what's the most thrilling chase you've ever been on? Was it a close call, or did you emerge victorious?"
+        ],
+        [
+          "Klaus Mueller",
+          "(leaning back with a mysterious grin) Well, let's just say it involved aflower corsage, a yacht, and a midnight swim. Let's save the details for tonight, make it a bit more...interesting. I can say this though, since I was  young, I admire someone who's talented and artistic, like our Abigail, and confident like Isabella, and one who can keep up with my sense of humor - someone with some spunk. "
+        ],
+        [
+          "Adam Smith",
+          "(leaning forward with interest) That sounds incredibly intriguing, Klaus. I've got to hear more about this yacht and midnight swim. It seems like you're quite the ladies' man, women pass out when they hear those words from someone with a balanced and well-orderd thinking, such a deadly skill set. You've got a real knack for weaving tales and keeping people on their toes, I've got to give this to you, that you are really good in positioning yourself such a romanitc guy infrom of all the contestant ladies, but let me see if you can spill the beans tonight, I'm excited. I wonder how many hearts you've broken with those smooth moves of yours. But tell me, don't you ever get worried about things getting too intense or complicated? How do you manage to keep everything so... casual, like a good orde with things always go as plan? "
+        ],
+        [
+          "Klaus Mueller",
+          "(leaning back with a smile) Oh, complicated, you say? Well Adam, I've learned that the key to my lifestyle is to always keep things interesting and to never get too caught up in one thing. You can't let the grass grow under your feet as they say. I'm a bit of a free spirit, always chasing the next big thrill, the next exciting encounter. It's not about the hearts you break along the way, it's about the stories you can tell and the memories you can make. And trust me, those are always worth it. I think I'll save the rest for dinner, Mr. Adam Smith. Can't want to see what other interesting conversations come out of this evening, but I have an idea of how it might end."
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        78,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udcf1",
+      "description": " (conversing about their personal interests, sharing experiences, and forming a connection, as Abigail Chen and Maria Lopez discuss their adventurous activities, ideal partners, and plans, ultimately deciding to exchange contact information to continue their newfound connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        80,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": " (conversing about their experiences with women, sharing stories of adventurous dates, discussing the importance of chemistry and connection, and making plans to potentially swap tips and stories, with Klaus Mueller and John Lin chatting about their pursuits of Isabella, Abigail, and Maria, and also briefly touching on the upcoming mayor election, before parting ways with John Lin planning to spend time with Maria) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        73,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, sharing stories, and making plans for dinner, where they will exchange more tales of their adventures, with Adam Smith and Klaus Mueller expressing enthusiasm and interest in getting to know each other and potentially meeting women who can handle their adventurous souls. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Adam Smith",
+          "(lean forward) I'm Adam Smith, and you are? We both have pretty similar interests based on what I've heard, I'm more into someone who can handle my adventurous side, what about you Klaus Mueller? Haven't met before huh?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smile) Nice to meet you too, Adam. I can definitely handle some excitement. I've always had a thing for someone confident, a woman who can keep up with my sense of humor - someone with some spunk."
+        ],
+        [
+          "Adam Smith",
+          "(leaning back and smiling slightly) That sounds like an interesting combination, Klaus. I've always been a fan of bold women myself. I wonder who we'll meet next, maybe someone can handle both our adventurous souls?"
+        ],
+        [
+          "Klaus Mueller",
+          "(chuckles) Sounds like we both enjoy a good time. Can't wait to see what other adventurous women we'll meet here. Maybe we can share some tips and tricks of the trade later, over some drinks. What do you say?"
+        ],
+        [
+          "Adam Smith",
+          "(leaning forward with a smile) No problem at all Klaus, I'd love to exchange some stories over a drink. I'm sure we have some wild tales to share. Maybe later tonight over dinner?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smirking slightly from across the table) Yeah that sounds like a plan Adam, looking forward to hearing about your escapades. I've got a few stories of my own that might raise an eyebrow or two. But before that, do you think there'll be any other surprises tonight?"
+        ],
+        [
+          "Adam Smith",
+          "(leaning back with a smile) I've heard interesting things about tonight and i'm sure it won't disappoint"
+        ],
+        [
+          "Klaus Mueller",
+          "(raising an eyebrow) interesting things, huh? You know more than you're letting on, don't you? Spill the beans, Adam."
+        ],
+        [
+          "Adam Smith",
+          "(smirks) Well, let's just say I have my ways of gathering intel. I think it's safe to say tonight won't be your average evening, one with a few surprises in store"
+        ],
+        [
+          "Klaus Mueller",
+          "(raises his eyebrow, intrigued) Ah, a man of mystery, I like that. I've got a feeling tonight is going to be wild, can't wait. So what are some of these wild tales you've got to share, or are they all post-dinner stories?"
+        ],
+        [
+          "Adam Smith",
+          "(lean forward, pretending to be extremely interested) Come on, Klaus, you can't drop a bombshell like that and then just leave me hanging. What's the story?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smirks) Let's just say I've had my fair share of fun, both in and out of the bedroom. But I think I'll save the details for dinner, make it a bit more...interesting. I can say this though, I've always been a fan of a good chase, the thrill of the hunt. And I think this program is going to offer us a lot of opportunities for that."
+        ],
+        [
+          "Adam Smith",
+          "(leaning back with a curious smile) Well, I admire a man who knows how to keep a secret, Klaus. The thrill of the hunt, huh? I can certainly relate to that. It sounds like we share a taste for the more adventurous side of life. But I have to ask, what's the most thrilling chase you've ever been on? Was it a close call, or did you emerge victorious?"
+        ],
+        [
+          "Klaus Mueller",
+          "(leaning back with a mysterious grin) Well, let's just say it involved aflower corsage, a yacht, and a midnight swim. Let's save the details for tonight, make it a bit more...interesting. I can say this though, since I was  young, I admire someone who's talented and artistic, like our Abigail, and confident like Isabella, and one who can keep up with my sense of humor - someone with some spunk. "
+        ],
+        [
+          "Adam Smith",
+          "(leaning forward with interest) That sounds incredibly intriguing, Klaus. I've got to hear more about this yacht and midnight swim. It seems like you're quite the ladies' man, women pass out when they hear those words from someone with a balanced and well-orderd thinking, such a deadly skill set. You've got a real knack for weaving tales and keeping people on their toes, I've got to give this to you, that you are really good in positioning yourself such a romanitc guy infrom of all the contestant ladies, but let me see if you can spill the beans tonight, I'm excited. I wonder how many hearts you've broken with those smooth moves of yours. But tell me, don't you ever get worried about things getting too intense or complicated? How do you manage to keep everything so... casual, like a good orde with things always go as plan? "
+        ],
+        [
+          "Klaus Mueller",
+          "(leaning back with a smile) Oh, complicated, you say? Well Adam, I've learned that the key to my lifestyle is to always keep things interesting and to never get too caught up in one thing. You can't let the grass grow under your feet as they say. I'm a bit of a free spirit, always chasing the next big thrill, the next exciting encounter. It's not about the hearts you break along the way, it's about the stories you can tell and the memories you can make. And trust me, those are always worth it. I think I'll save the rest for dinner, Mr. Adam Smith. Can't want to see what other interesting conversations come out of this evening, but I have an idea of how it might end."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:49:00"
+  }
+}

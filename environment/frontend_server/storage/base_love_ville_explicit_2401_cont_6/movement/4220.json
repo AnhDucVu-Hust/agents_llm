@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        61,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, their interests, and making plans to meet up at Isabella's cafe, exchanging numbers, and exploring a potential romantic connection between Isabella Rodriguez and John Lin @ <persona> John Lin",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "(Introduce herself with a smile) I'm Isabella, lovely to meet you! I've been mingling around here and noticed you from afar - what's your name?"
+        ],
+        [
+          "John Lin",
+          "(smile) Oh, Isabella! I'm John Lin, lovely to meet you too!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(gently touch his arm) So John, what brings you here? I noticed you talking about your pharmacy - that sounds really interesting."
+        ],
+        [
+          "John Lin",
+          "(smiling warmly, making eye contact) Ah, I think I might've been talking about my pharmacy a bit too much, so what about you Isabella? What do you do? I noticed you laughing and chatting with the others, you seemed so at ease and lively, it drew me in."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(Gently running her hand down her hair) I own a lovely Cafe around here, but I'm also a hopeless romantic always looking for the adventure in life and love - there's nothing like a passionate, thrilling connection for me."
+        ],
+        [
+          "John Lin",
+          "(smile warmly while moving closer) Tell me more about your cafe, what kind of atmosphere do you try to create there?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(moving closer, playing with her hair) My cafe is a place where I get to make people feel welcome, I love bringing a sense of ease to the busy lives of locals and visitors. I'm known for my unique coffee recipes and cozy atmosphere. Sounds like you've got your own way of connecting with people through your pharmacy, what draws you to the life of helping others?"
+        ],
+        [
+          "John Lin",
+          "(moving closer, smiling) That sounds absolutely divine! There's something about a passionate and thrilling connection that can't be beat, right? I can imagine you'd bring that same sense of adventure and romance into your relationships. Can I ask, what makes you feel that spark of connection with someone? Is it something specific or more of an intuition?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(gently run her hand down his arm) Maybe we could meet sometime and discuss more about connection and romance over a cup of coffee at my cafe? I have a feeling we might have some sparks to explore"
+        ],
+        [
+          "John Lin",
+          "(Smiling warmly, his eyes locked on hers as he gently touched her hand) That sounds like an absolute dream, I'd love to visit your cafe and explore that spark of connection we seem to be feeling already, don't you feel it too?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(remove her hand from John Lin's arm) So, John, shall we exchange numbers after this? I'd love to invite you over to my cafe"
+        ],
+        [
+          "John Lin",
+          "(Remove his hand from hers gently) I'd love to give you my number, Isabella. How about we exchange them right now? That way we can make plans for that cup of coffee sooner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(smiling warmly) Sounds like we've got a lot of potential sparks flying between us, let's get those numbers exchanged and make some coffee plans soon!"
+        ],
+        [
+          "John Lin",
+          "(smiling warmly while leaning in closer) Excuse me for being so forward, Isabella, but I am really drawn to you and would love to explore this connection further. Would you like to meet up sometime soon, perhaps at your cafe or here in the evenings? I promise I won't bore you too much."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(remove the hand from John Lin's arm) So, John, shall we exchange numbers after this? I'd love to invite you over to my cafe"
+        ],
+        [
+          "John Lin",
+          "(smiling and moving closer) I have to say, Isabella, I'm really enjoying our conversation. You seem like a very passionate and romantic person, and I find that incredibly attractive. Would you like to meet up soon and see if there's a real spark between us?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "meeting new people at the hobb cafe (sharing a bit about herself with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        113,
+        21
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to socialize and get to know other Love Ville program participants at the Hobb Cafe (conversing about their interests, hobbies, and passions, with Abigail Chen and Adam Smith expressing enthusiasm and mutual interest in each other's work, particularly in digital art and philosophy, and making plans to grab dinner at 7pm to further discuss their ideas and potentially collaborate on a project together.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        60,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, their interests, and making plans to meet up at Isabella's cafe, exchanging numbers, and exploring a potential romantic connection between Isabella Rodriguez and John Lin @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "(Introduce herself with a smile) I'm Isabella, lovely to meet you! I've been mingling around here and noticed you from afar - what's your name?"
+        ],
+        [
+          "John Lin",
+          "(smile) Oh, Isabella! I'm John Lin, lovely to meet you too!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(gently touch his arm) So John, what brings you here? I noticed you talking about your pharmacy - that sounds really interesting."
+        ],
+        [
+          "John Lin",
+          "(smiling warmly, making eye contact) Ah, I think I might've been talking about my pharmacy a bit too much, so what about you Isabella? What do you do? I noticed you laughing and chatting with the others, you seemed so at ease and lively, it drew me in."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(Gently running her hand down her hair) I own a lovely Cafe around here, but I'm also a hopeless romantic always looking for the adventure in life and love - there's nothing like a passionate, thrilling connection for me."
+        ],
+        [
+          "John Lin",
+          "(smile warmly while moving closer) Tell me more about your cafe, what kind of atmosphere do you try to create there?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(moving closer, playing with her hair) My cafe is a place where I get to make people feel welcome, I love bringing a sense of ease to the busy lives of locals and visitors. I'm known for my unique coffee recipes and cozy atmosphere. Sounds like you've got your own way of connecting with people through your pharmacy, what draws you to the life of helping others?"
+        ],
+        [
+          "John Lin",
+          "(moving closer, smiling) That sounds absolutely divine! There's something about a passionate and thrilling connection that can't be beat, right? I can imagine you'd bring that same sense of adventure and romance into your relationships. Can I ask, what makes you feel that spark of connection with someone? Is it something specific or more of an intuition?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(gently run her hand down his arm) Maybe we could meet sometime and discuss more about connection and romance over a cup of coffee at my cafe? I have a feeling we might have some sparks to explore"
+        ],
+        [
+          "John Lin",
+          "(Smiling warmly, his eyes locked on hers as he gently touched her hand) That sounds like an absolute dream, I'd love to visit your cafe and explore that spark of connection we seem to be feeling already, don't you feel it too?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(remove her hand from John Lin's arm) So, John, shall we exchange numbers after this? I'd love to invite you over to my cafe"
+        ],
+        [
+          "John Lin",
+          "(Remove his hand from hers gently) I'd love to give you my number, Isabella. How about we exchange them right now? That way we can make plans for that cup of coffee sooner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(smiling warmly) Sounds like we've got a lot of potential sparks flying between us, let's get those numbers exchanged and make some coffee plans soon!"
+        ],
+        [
+          "John Lin",
+          "(smiling warmly while leaning in closer) Excuse me for being so forward, Isabella, but I am really drawn to you and would love to explore this connection further. Would you like to meet up sometime soon, perhaps at your cafe or here in the evenings? I promise I won't bore you too much."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(remove the hand from John Lin's arm) So, John, shall we exchange numbers after this? I'd love to invite you over to my cafe"
+        ],
+        [
+          "John Lin",
+          "(smiling and moving closer) I have to say, Isabella, I'm really enjoying our conversation. You seem like a very passionate and romantic person, and I find that incredibly attractive. Would you like to meet up soon and see if there's a real spark between us?"
+        ]
+      ]
+    },
+    "Adam Smith": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun (conversing about their interests, hobbies, and passions, with Abigail Chen and Adam Smith expressing enthusiasm and mutual interest in each other's work, particularly in digital art and philosophy, and making plans to grab dinner at 7pm to further discuss their ideas and potentially collaborate on a project together.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:43:20"
+  }
+}

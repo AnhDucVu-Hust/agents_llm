@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\ude03",
+      "description": "having lunch with other participant (choosing a seat at a table with other participants, still excited from the previous conversation) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        81,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcf8\ud83d\udccd",
+      "description": "exploring the Ville Village (heading back after taking a few photos and making plans for the next adventure) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        32
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        77,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "having lunch at the Hobb Cafe with other Love Ville program participants (conversing about getting to know each other, sharing thoughts on art and beauty, and making plans to meet up for a drink and a walk around the village tonight, with a potential intimate encounter, and also scheduling a follow-up meeting for after tomorrow, between Abigail Chen and John Lin, with a palpable sense of mutual attraction and enthusiasm.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "having lunch with some of the other Love Ville program participants, engaging in lively conversation and enjoying getting to know them better (conversing about getting to know each other, sharing thoughts on art and beauty, and making plans to meet up for a drink and a walk around the village tonight, with a potential intimate encounter, and also scheduling a follow-up meeting for after tomorrow, between Abigail Chen and John Lin, with a palpable sense of mutual attraction and enthusiasm.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83e\ude82\ud83d\udc8f",
+      "description": "having lunch with the group at Hobb Cafe (conversing about their mutual interest in adventure, particularly skydiving, and making plans for their first date, which includes going skydiving and potentially exploring intimate experiences afterwards, with both parties expressing enthusiasm and agreement on spending the night together to unravel each other's desires.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:19:00"
+  }
+}

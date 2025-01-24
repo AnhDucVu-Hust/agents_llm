@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their instant attraction and shared sense of adventure, with Maria Lopez and Isabella Rodriguez enthusiastically agreeing to explore the Ville Village together, sharing secrets and passions, and making plans to grab a bite to eat and uncover hidden gems, with a potential romantic connection brewing between them.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "exploring the Ville Village (conversing about their instant attraction and shared sense of adventure, with Maria Lopez and Isabella Rodriguez enthusiastically agreeing to explore the Ville Village together, sharing secrets and passions, and making plans to grab a bite to eat and uncover hidden gems, with a potential romantic connection brewing between them.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83d\udc98",
+      "description": "arriving at the Hobb Cafe to meet the Love Ville Program participants (conversing about forming a romantic connection, getting to know each other, and exploring potential intimate opportunities, where John Lin and Klaus Mueller express enthusiasm and agreement, and ultimately plan to escape to Klaus' place to further explore their chemistry and create a special moment together.) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (conversing about their shared interests in digital art and Twitch streaming, exchanging enthusiastic and curious remarks, and making plans to explore a mysterious seven-day journey of self-discovery and romantic exploration called 'Love Ville' together, with a scheduled dinner meeting to discuss their thoughts on pushing boundaries and exploring together, between Adam Smith and Abigail Chen.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        66,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "attending the Love Ville program at the hobb cafe (conversing about forming a romantic connection, getting to know each other, and exploring potential intimate opportunities, where John Lin and Klaus Mueller express enthusiasm and agreement, and ultimately plan to escape to Klaus' place to further explore their chemistry and create a special moment together.) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "rriving at Hobb Cafe to meet the group (conversing about their shared interests in digital art and Twitch streaming, exchanging enthusiastic and curious remarks, and making plans to explore a mysterious seven-day journey of self-discovery and romantic exploration called 'Love Ville' together, with a scheduled dinner meeting to discuss their thoughts on pushing boundaries and exploring together, between Adam Smith and Abigail Chen.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:10:00"
+  }
+}

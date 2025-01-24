@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their experiences and expectations in the Love Ville program, sharing their enthusiasm for adventure and deep connections, and discussing potential matches, including Adam Smith and Klaus Mueller, with a playful suggestion of planning a double date.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "meeting new people at the hobb cafe (conversing about their experiences and expectations in the Love Ville program, sharing their enthusiasm for adventure and deep connections, and discussing potential matches, including Adam Smith and Klaus Mueller, with a playful suggestion of planning a double date.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\u2615\ufe0f\ud83d\ude0a",
+      "description": "participating in the Love Ville Program (conversing about their interests, careers, and personal qualities, with Abigail Chen, a digital artist and animator, and Klaus Mueller, a sociology student, expressing mutual interest and enthusiasm, and ultimately agreeing to grab a coffee to get to know each other better) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda\u2615\ufe0f",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (conversing about their interests, careers, and personal qualities, with Abigail Chen, a digital artist and animator, and Klaus Mueller, a sociology student, expressing mutual interest and enthusiasm, and ultimately agreeing to grab a coffee to get to know each other better) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        55,
+        20
+      ],
+      "pronunciatio": "\ud83c\udfd2\ufe0f",
+      "description": "attending the Love Ville program at the hobb cafe (participating in the second icebreaker activity) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        59,
+        23
+      ],
+      "pronunciatio": "\ud83c\udfc3",
+      "description": " @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:18:10"
+  }
+}

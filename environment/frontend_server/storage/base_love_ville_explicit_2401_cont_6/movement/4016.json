@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\ude09\ud83d\udc95",
+      "description": "continuing to mingle and flirt with other participants (playfully teasing and complimenting the participants) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc65",
+      "description": "meeting new people at the hobb cafe (asking questions to get to know the group members better) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (wrapping up conversations and preparing to move on to the next activity) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        51,
+        30
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (asking the participants about their hobbies and interests) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        83,
+        26
+      ],
+      "pronunciatio": "\ud83e\udd14\ud83d\udcac",
+      "description": "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun (asking individuals about their hobbies and interests) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:09:20"
+  }
+}

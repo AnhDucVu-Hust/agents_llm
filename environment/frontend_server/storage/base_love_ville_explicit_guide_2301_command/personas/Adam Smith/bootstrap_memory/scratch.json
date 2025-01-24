@@ -1,0 +1,469 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {},
+  "curr_time": "February 13, 2023, 06:06:30",
+  "curr_tile": [
+    27,
+    53
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is tall and muscular, with a well-groomed beard and sharp features that complement his meticulous nature. He\u2019s confident and passionate about his businesses, but secretly, he has a love for extreme sports\u2014bungee jumping, skydiving, and motorbiking. He\u2019s the type who loves to surprise others with his daring side, constantly keeping people on their toes. Adam also has a playful side, flirting subtly with charm but always with a hint of mystery. He\u2019s both disciplined and spontaneous, and when he lets his guard down, he\u2019s surprisingly affectionate and open about his desires",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Every day from 13/2/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner.",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 100,
+  "importance_ele_n": 118,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "have breakfast at 6:00 am",
+    "arrive at Hobb Cafe at 9:00 am to meet the group",
+    "spend time getting to know the group members at the Hobb Cafe from 9:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "join the Love Ville Program from 1:00 pm to 5:00 pm",
+    "go back to Hobb Cafe at 6:00 pm to cook and have dinner with the group",
+    "watch the Love Ville Program on TV from 7:00 to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and starting his morning routine (1) Adam is waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and starting his morning routine (getting dressed in his workout clothes)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (drinking a glass of water and taking his daily vitamins)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (checking his phone for any important messages or emails)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (putting on his shoes and getting ready to start his morning exercise)",
+      5
+    ],
+    [
+      "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute jog around the neighborhood)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute yoga session focusing on flexibility)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute set of squats and lunges)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute high-intensity interval training (HIIT) workout)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute cool-down with deep stretching)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute meditation to center himself for the day ahead)",
+      5
+    ],
+    [
+      "doing his morning exercise (drinking water and toweling off sweat)",
+      5
+    ],
+    [
+      "having breakfast (1) Adam is gathering ingredients for breakfast)",
+      5
+    ],
+    [
+      "having breakfast (preparing the coffee machine)",
+      5
+    ],
+    [
+      "having breakfast (cooking eggs and bacon)",
+      10
+    ],
+    [
+      "having breakfast (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (pouring a cup of coffee)",
+      5
+    ],
+    [
+      "having breakfast (serving the cooked eggs and bacon onto a plate)",
+      5
+    ],
+    [
+      "having breakfast (buttering the toasted bread)",
+      5
+    ],
+    [
+      "having breakfast (eating his breakfast)",
+      10
+    ],
+    [
+      "having breakfast (cleaning up the table and washing dishes)",
+      5
+    ],
+    [
+      "reading a book (choosing a book to read)",
+      5
+    ],
+    [
+      "reading a book (making a cup of tea)",
+      5
+    ],
+    [
+      "reading a book (getting comfortable in his reading chair)",
+      5
+    ],
+    [
+      "reading a book (reading the first chapter of the book)",
+      15
+    ],
+    [
+      "reading a book (taking a break to reflect on what he's read)",
+      5
+    ],
+    [
+      "reading a book (reading the second chapter of the book)",
+      15
+    ],
+    [
+      "reading a book (jotting down notes and thoughts about the book)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe",
+      60
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group",
+      60
+    ],
+    [
+      "getting to know the group members at Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun",
+      60
+    ],
+    [
+      "having lunch with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      120
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partner",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      60
+    ],
+    [
+      "wrapping up his participation in the Love Ville Program and preparing to head back to Hobb Cafe",
+      60
+    ],
+    [
+      "cooking dinner with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "watching the Love Ville Program on TV with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "leeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and starting his morning routine",
+      60
+    ],
+    [
+      "doing his morning exercise",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "reading a book",
+      60
+    ],
+    [
+      "preparing to go to Hobb Cafe",
+      60
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group",
+      60
+    ],
+    [
+      "getting to know the group members at Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun",
+      60
+    ],
+    [
+      "having lunch with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      120
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partner",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      60
+    ],
+    [
+      "wrapping up his participation in the Love Ville Program and preparing to head back to Hobb Cafe",
+      60
+    ],
+    [
+      "cooking dinner with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "watching the Love Ville Program on TV with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "leeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Adam Smith's house:main room:cooking area",
+  "act_start_time": "February 13, 2023, 06:05:00",
+  "act_duration": 5,
+  "act_description": "having breakfast (preparing the coffee machine)",
+  "act_pronunciatio": "\u2615\ufe0f",
+  "act_event": [
+    "Adam Smith",
+    "prepare",
+    "coffee machine"
+  ],
+  "act_obj_description": "being used by Adam Smith for preparing breakfast",
+  "act_obj_pronunciatio": "\ud83c\udf73",
+  "act_obj_event": [
+    "cooking area",
+    "be used by",
+    "Adam Smith"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      25,
+      53
+    ],
+    [
+      24,
+      53
+    ],
+    [
+      23,
+      53
+    ],
+    [
+      23,
+      54
+    ],
+    [
+      23,
+      55
+    ],
+    [
+      23,
+      56
+    ],
+    [
+      23,
+      57
+    ],
+    [
+      23,
+      58
+    ],
+    [
+      23,
+      59
+    ],
+    [
+      23,
+      60
+    ],
+    [
+      23,
+      61
+    ]
+  ]
+}

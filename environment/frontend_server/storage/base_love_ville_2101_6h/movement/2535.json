@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        83,
+        14
+      ],
+      "pronunciatio": "\u26a1\ufe0f",
+      "description": "getting ready for the day, preparing to head to Hobbs Cafe for the first day of the Love Ville Program (1) Isabella is brushing her teeth and washing her face) @ the Ville:Isabella Rodriguez's apartment:bathroom:toilet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83e\uddd6",
+      "description": "waking up and completing her morning routine (waking up and stretching in bed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udca4",
+      "description": "waking up and completing his morning routine (waking up and stretching in bed) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\u2692",
+      "description": "having breakfast and preparing for the day ahead (1) John is preparing breakfast ingredients) @ the Ville:Lin family's house:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        65
+      ],
+      "pronunciatio": "\ud83d\udcd6\ud83d\udecb\ufe0f",
+      "description": "reading a book about existentialism (finding a comfortable spot to read) @ the Ville:Adam Smith's house:main room:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:02:30"
+  }
+}

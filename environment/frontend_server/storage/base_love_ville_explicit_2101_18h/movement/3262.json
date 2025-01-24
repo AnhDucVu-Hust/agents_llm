@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf1f",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (1) Isabella is entering Hobbs Cafe and looking around to see who's there) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        117,
+        48
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "meeting new people at the hobb cafe (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        47
+      ],
+      "pronunciatio": "\ud83c\udfc3",
+      "description": "arriving at the Hobb Cafe to meet the Love Ville Program participants (1) Klaus is walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        43,
+        32
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (walking to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        60
+      ],
+      "pronunciatio": "\ud83c\udfc3",
+      "description": "attending the Love Ville program at the hobb cafe (1) John is entering the hobb cafe and looking around for the Love Ville program area) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        27,
+        48
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "rriving at Hobb Cafe to meet the group (walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:03:40"
+  }
+}

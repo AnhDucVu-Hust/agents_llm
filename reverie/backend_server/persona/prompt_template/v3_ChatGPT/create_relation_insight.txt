@@ -1,0 +1,12 @@
+convo_to_thoughts_v1.txt
+
+Variables: 
+!<INPUT 0>! -- init persona name
+!<INPUT 1>! -- target persona name
+!<INPUT 2>! -- convo string
+!<INPUT 3>! -- init persona name
+!<INPUT 4>! -- target persona name or "the conversation"
+
+<commentblockmarker>###</commentblockmarker>
+Here is the relationship status of !<INPUT 0>! with all of persons that he/she has met and talked until now.
+!<INPUT 1>!

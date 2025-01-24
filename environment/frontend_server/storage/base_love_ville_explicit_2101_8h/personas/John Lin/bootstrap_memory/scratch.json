@@ -1,0 +1,495 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 09:24:50",
+        "status": "John Lin found Klaus Mueller interesting due to their shared interests in art, music, and exploring different cultures, and their mutual openness to trying new experiences together. This connection suggests a budding emotional connection, possibly scoring around a 3 or 4 on a 1-5 scale, with 5 being falling in love."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 09:26:30",
+  "curr_tile": [
+    76,
+    35
+  ],
+  "daily_plan_req": "John Lin is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
+  "name": "John Lin",
+  "first_name": "John",
+  "last_name": "Lin",
+  "age": 45,
+  "innate": "patient, kind, organized",
+  "learned": "John Lin is a pharmacy shop keeper at the Willow Market and Pharmacy who loves to help people. He has a magnetic presence. His messy dark hair, casual yet artistic wardrobe, and relaxed demeanor make him stand out. What makes him unique is his ability to make people feel special with his intense gaze and sultry voice. He's the type to make subtle but undeniably flirtatious comments, always drawing people in with his passionate nature\u2014whether discussing his art or his deep beliefs. John is a lover of sensory experiences, always talking about how the right music, painting, or even touch can stir emotions in him. He\u2019s a deep thinker but knows how to tease and keep the chemistry electric when the mood strikes.",
+  "currently": "John Lin is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/23/2023, all members will be at the hobb cafe at 9am to meet,  6pm to cook and eat dinner. In real life, he is taking online classes to stay up to date on new medications and treatments. John is also curious about who will be running for the local mayor election next month and he is asking everyone he meets about who will be running in the election.",
+  "lifestyle": "John Lin goes to bed around 10pm, awakes up around 6am, ",
+  "living_area": "the Ville:Lin family's house:Mei and John Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 52,
+  "importance_ele_n": 110,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have a breakfast at 7:00 am",
+    "get ready to go to the hobb cafe at 8:00 am",
+    "attend the Love Ville program at the hobb cafe from 9:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "take a walk around the Ville Village from 1:00 to 3:00 pm",
+    "go back home to rest from 3:00 to 5:00 pm",
+    "get ready for the dinner at 5:00 pm",
+    "attend the Love Ville program at the hobb cafe from 6:00 to 8:00 pm to cook and eat dinner,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine (1) John is waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (styling his hair)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (applying deodorant and cologne)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (packing his bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (putting on his shoes)",
+      5
+    ],
+    [
+      "having breakfast (1) John is preparing breakfast ingredients)",
+      10
+    ],
+    [
+      "having breakfast (cooking breakfast)",
+      15
+    ],
+    [
+      "having breakfast (plating the food)",
+      5
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      20
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      10
+    ],
+    [
+      "getting ready to go to the hobb cafe (brushing his teeth)",
+      5
+    ],
+    [
+      "getting ready to go to the hobb cafe (taking a shower)",
+      15
+    ],
+    [
+      "getting ready to go to the hobb cafe (getting dressed)",
+      10
+    ],
+    [
+      "getting ready to go to the hobb cafe (styling his hair)",
+      10
+    ],
+    [
+      "getting ready to go to the hobb cafe (applying cologne)",
+      5
+    ],
+    [
+      "getting ready to go to the hobb cafe (packing his bag with essentials)",
+      10
+    ],
+    [
+      "getting ready to go to the hobb cafe (putting on his shoes)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (1) John is entering the hobb cafe and looking around for the Love Ville program area)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (approaching the registration table and signing in for the event)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (on the way to receiving a name tag and informational materials about the program)",
+      0
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (conversing about their interests and hobbies, with enthusiasm and mutual agreement, as Klaus Mueller and John Lin get to know each other through the Love Ville program, discussing art, music, cultural events, and ultimately making plans to try out the local cuisine together, exchanging numbers to set a time that works for both of them.)",
+      16
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (finding a seat at a table with other participants)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (introducing himself to the people at his table and engaging in small talk)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (listening to the program coordinator's welcome speech and overview of the week's events)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (asking questions and participating in a brief Q&A session with the coordinator)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (reviewing the schedule of events for the rest of the day)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (freshening up and getting ready to participate in the first icebreaker activity)",
+      5
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (1) John is introducing himself to the group)",
+      5
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (listening to others' introductions)",
+      10
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (participating in a group icebreaker game)",
+      15
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (engaging in one-on-one conversations with other participants)",
+      15
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (asking about the other participants' lives and interests)",
+      4
+    ],
+    [
+      "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy",
+      60
+    ],
+    [
+      "aving lunch with some of the other Love Ville program participants, engaging in lively conversation and enjoying getting to know them better",
+      60
+    ],
+    [
+      "taking a walk around the Ville Village, enjoying the scenery and reflecting on his conversations with the other Love Ville program participants",
+      60
+    ],
+    [
+      "continuing his walk around the Ville Village, stopping to admire the local artwork and strike up conversations with other villagers",
+      60
+    ],
+    [
+      "eading back to his room at the Ville Village to rest and recharge before the evening activitie",
+      60
+    ],
+    [
+      "resting in his room, reviewing his notes from his online pharmacy classes",
+      60
+    ],
+    [
+      "getting ready for the dinner at the hobb cafe",
+      60
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe to cook and eat dinner",
+      60
+    ],
+    [
+      "engaging in flirtatious banter and witty repartee with some of the other Love Ville program participants over dinner",
+      60
+    ],
+    [
+      "helping to clean up after dinner and continuing to chat and laugh with the other Love Ville program participants",
+      60
+    ],
+    [
+      "engaging in deep, meaningful conversations with a few of the Love Ville program participants, discussing their hopes, dreams, and desires",
+      60
+    ],
+    [
+      "winding down for the night, reflecting on his connections made during the Love Ville program and preparing for bed",
+      60
+    ],
+    [
+      "leeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "getting ready to go to the hobb cafe",
+      60
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe",
+      60
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants",
+      60
+    ],
+    [
+      "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy",
+      60
+    ],
+    [
+      "aving lunch with some of the other Love Ville program participants, engaging in lively conversation and enjoying getting to know them better",
+      60
+    ],
+    [
+      "taking a walk around the Ville Village, enjoying the scenery and reflecting on his conversations with the other Love Ville program participants",
+      60
+    ],
+    [
+      "continuing his walk around the Ville Village, stopping to admire the local artwork and strike up conversations with other villagers",
+      60
+    ],
+    [
+      "eading back to his room at the Ville Village to rest and recharge before the evening activitie",
+      60
+    ],
+    [
+      "resting in his room, reviewing his notes from his online pharmacy classes",
+      60
+    ],
+    [
+      "getting ready for the dinner at the hobb cafe",
+      60
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe to cook and eat dinner",
+      60
+    ],
+    [
+      "engaging in flirtatious banter and witty repartee with some of the other Love Ville program participants over dinner",
+      60
+    ],
+    [
+      "helping to clean up after dinner and continuing to chat and laugh with the other Love Ville program participants",
+      60
+    ],
+    [
+      "engaging in deep, meaningful conversations with a few of the Love Ville program participants, discussing their hopes, dreams, and desires",
+      60
+    ],
+    [
+      "winding down for the night, reflecting on his connections made during the Love Ville program and preparing for bed",
+      60
+    ],
+    [
+      "leeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:25:00",
+  "act_duration": 16,
+  "act_description": "attending the Love Ville program at the hobb cafe (conversing about their interests and hobbies, with enthusiasm and mutual agreement, as Klaus Mueller and John Lin get to know each other through the Love Ville program, discussing art, music, cultural events, and ultimately making plans to try out the local cuisine together, exchanging numbers to set a time that works for both of them.)",
+  "act_pronunciatio": "\ud83d\udc6b\ud83d\udcac",
+  "act_event": [
+    "John Lin",
+    "converse",
+    "interests and hobbies"
+  ],
+  "act_obj_description": "occupied by John Lin and Klaus Mueller, with empty cups and plates on the table, and a lively atmosphere as they continue their engaging conversation",
+  "act_obj_pronunciatio": "\ud83d\udc65\ud83d\udcac",
+  "act_obj_event": [
+    "cafe customer seating",
+    "be occupied by",
+    "John Lin and Klaus Mueller"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 790
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      76,
+      33
+    ],
+    [
+      76,
+      32
+    ],
+    [
+      76,
+      31
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      28
+    ],
+    [
+      76,
+      27
+    ],
+    [
+      76,
+      26
+    ],
+    [
+      76,
+      25
+    ]
+  ]
+}

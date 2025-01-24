@@ -1,0 +1,667 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Maria Lopez": [
+      {
+        "date": "February 13, 2023, 09:30:50",
+        "status": "Adam Smith finds Maria Lopez intriguing and attractive, and is eagerly anticipating their dinner date to explore their connection further, scoring a 4 on the emotion scale."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 09:58:30",
+  "curr_tile": [
+    75,
+    23
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is tall and muscular, with a well-groomed beard and sharp features that complement his meticulous nature. He\u2019s confident and passionate about his businesses, but secretly, he has a love for extreme sports\u2014bungee jumping, skydiving, and motorbiking. He\u2019s the type who loves to surprise others with his daring side, constantly keeping people on their toes. Adam also has a playful side, flirting subtly with charm but always with a hint of mystery. He\u2019s both disciplined and spontaneous, and when he lets his guard down, he\u2019s surprisingly affectionate and open about his desires",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Every day from 13/2/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 205,
+  "importance_ele_n": 10,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "have breakfast at 6:00 am",
+    "arrive at Hobb Cafe at 9:00 am to meet the group",
+    "spend time getting to know the group members at the Hobb Cafe from 9:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "join the Love Ville Program from 1:00 pm to 5:00 pm",
+    "go back to Hobb Cafe at 6:00 pm to cook and have dinner with the group",
+    "watch the Love Ville Program on TV from 7:00 to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and starting his morning routine (1) Adam is waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and starting his morning routine (getting dressed in his workout clothes)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (drinking a glass of water and taking his daily vitamins)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (checking his phone for any important messages or emails)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (putting on his shoes and getting ready to start his morning exercise)",
+      5
+    ],
+    [
+      "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute jog around the neighborhood)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute yoga session focusing on flexibility)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute set of squats and lunges)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute high-intensity interval training (HIIT) workout)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute cool-down with deep stretching)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute meditation to center himself for the day ahead)",
+      5
+    ],
+    [
+      "doing his morning exercise (drinking water and toweling off sweat)",
+      5
+    ],
+    [
+      "having breakfast (1) Adam is gathering ingredients for breakfast)",
+      5
+    ],
+    [
+      "having breakfast (preparing the coffee machine)",
+      5
+    ],
+    [
+      "having breakfast (cooking eggs and bacon)",
+      10
+    ],
+    [
+      "having breakfast (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (pouring a cup of coffee)",
+      5
+    ],
+    [
+      "having breakfast (serving the cooked eggs and bacon onto a plate)",
+      5
+    ],
+    [
+      "having breakfast (buttering the toasted bread)",
+      5
+    ],
+    [
+      "having breakfast (eating his breakfast)",
+      10
+    ],
+    [
+      "having breakfast (cleaning up the table and washing dishes)",
+      5
+    ],
+    [
+      "reading a book (choosing a book to read)",
+      5
+    ],
+    [
+      "reading a book (making a cup of tea)",
+      5
+    ],
+    [
+      "reading a book (getting comfortable in his reading chair)",
+      5
+    ],
+    [
+      "reading a book (reading the first chapter of the book)",
+      15
+    ],
+    [
+      "reading a book (taking a break to reflect on what he's read)",
+      5
+    ],
+    [
+      "reading a book (reading the second chapter of the book)",
+      15
+    ],
+    [
+      "reading a book (jotting down notes and thoughts about the book)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (1) Adam is brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (getting dressed in a casual but stylish outfit)",
+      15
+    ],
+    [
+      "preparing to go to Hobb Cafe (packing his bag with essentials like his wallet, phone, and a book to read)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (making sure his apartment is tidy before leaving)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (double checking he has everything he needs and heading out the door)",
+      5
+    ],
+    [
+      "preparing to go to Hobb Cafe (locking up his apartment and walking to his car)",
+      5
+    ],
+    [
+      "preparing to go to Hobb Cafe (driving to Hobb Cafe)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (walking to Hobb Cafe)",
+      10
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking for the group)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (on the way to approaching the group and introducing himself)",
+      0
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (conversing about getting to know each other, expressing mutual attraction and enthusiasm, and making plans for a romantic dinner and sunset viewing at 7pm, between Maria Lopez and Adam Smith, who have just met at the Love Ville Program.)",
+      17
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (engaging in small talk with the group members)",
+      10
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (ordering a coffee from the barista)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (waiting for his coffee to be prepared)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (sipping his coffee and listening to the conversations)",
+      10
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (on the way to asking questions to get to know the group members better)",
+      0
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (conversing about their love lives, sharing their preferences and interests, and discussing their plans for dinner dates with women they've met, including Adam Smith's upcoming dinner with Maria Lopez and Klaus Mueller's dinner with Abigail Chen, while also exchanging tips and wishing each other luck, and making plans to meet up later for drinks and to share stories about their experiences.)",
+      19
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (1) Adam is introducing himself to the group members)",
+      5
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (asking each group member about their background and interests)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (sharing his own background and interests with the group)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (listening attentively to each group member's stories and experiences)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (finding common ground and shared interests with some group members)",
+      4
+    ],
+    [
+      "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun",
+      60
+    ],
+    [
+      "having lunch with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      120
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partner",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      60
+    ],
+    [
+      "wrapping up his participation in the Love Ville Program and preparing to head back to Hobb Cafe",
+      60
+    ],
+    [
+      "cooking dinner with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "watching the Love Ville Program on TV with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "leeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and starting his morning routine",
+      60
+    ],
+    [
+      "doing his morning exercise",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "reading a book",
+      60
+    ],
+    [
+      "preparing to go to Hobb Cafe",
+      60
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group",
+      60
+    ],
+    [
+      "getting to know the group members at Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun",
+      60
+    ],
+    [
+      "having lunch with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      120
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partner",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      60
+    ],
+    [
+      "wrapping up his participation in the Love Ville Program and preparing to head back to Hobb Cafe",
+      60
+    ],
+    [
+      "cooking dinner with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "watching the Love Ville Program on TV with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "leeping",
+      120
+    ]
+  ],
+  "act_address": "<persona> Klaus Mueller",
+  "act_start_time": "February 13, 2023, 09:53:30",
+  "act_duration": 19,
+  "act_description": "conversing about their love lives, sharing their preferences and interests, and discussing their plans for dinner dates with women they've met, including Adam Smith's upcoming dinner with Maria Lopez and Klaus Mueller's dinner with Abigail Chen, while also exchanging tips and wishing each other luck, and making plans to meet up later for drinks and to share stories about their experiences.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Adam Smith",
+    "chat with",
+    "Klaus Mueller"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Klaus Mueller",
+  "chat": [
+    [
+      "Adam Smith",
+      "(greeting) Hi there, I'm Adam Smith, nice to meet you. You're quite the charmer, aren't you, chatting up the ladies and making connections left and right. Who are you and what's your game plan in here?"
+    ],
+    [
+      "Klaus Mueller",
+      "(looking Adam Smith up and down) So what brings you here to Love Ville, my friend? Looking for some romance, or just want to spice up your life? I'm Klaus Mueller, the sociology major with a penchant for flirting and fun. Can't say I haven't enjoyed the charming company of a few ladies here already. (winking) Haven't spotted you around before \u2013 are you a newcomer too?"
+    ],
+    [
+      "Adam Smith",
+      "(smirking) Well, well, well, Klaus Mueller, quite the player, huh? I'm Adam Smith, and I'm here for a bit of both \u2013 romance and fun. Romance with a brain, that is. Intelligent women with passion, that's what draws me in. I love versatility - someone open to trying new things in life and in bed. Nothing beats a lady with wild and naughty ideas. Say, didn't you strike up a connection with the digital artist Abigail Chen? What do you think about meeting for a dinner with her?"
+    ],
+    [
+      "Klaus Mueller",
+      "(smiling) Oh, you've been keeping tabs on me, Adam Smith? Well, let's just say I do have a certain charm that draws the ladies in. But yes, Abigail Chen and I did hit it off, and we're planning to meet for dinner tonight. She's got this amazing energy and her art is incredibly captivating. As for me, I love a woman with a brain and a bit of sass. Someone who can keep up with my jokes and maybe even throw a few punches back. (chuckles) What about you, what's your type? Got any favorite hobbies or interests you look for in a partner?"
+    ],
+    [
+      "Adam Smith",
+      "(smiling) I've got a thing for ladies who share my love for extreme sports. Skydiving, bungee jumping, all that adrenaline stuff. Combine that with brains and a bit of a wild side, and I'm hooked. Nothing beats the thrill of pushing limits together."
+    ],
+    [
+      "Klaus Mueller",
+      "(chuckles) Well, well, well, Adam Smith, you're a thrill-seeker, I like that. What do they say, 'the way to a man's heart is through adventure'? It sounds like you've got a good mix of excitement and brains going on. Someone in this group catch your eye yet? With all these creative minds in one place, I'm sure someone must've already caught your eye."
+    ],
+    [
+      "Adam Smith",
+      "(laugh) well, Klaus Mueller, you're a gentleman to find someone so quickly. I still don't know the tricks you guys use. Maybe you can learn me sometime later."
+    ],
+    [
+      "Klaus Mueller",
+      "(laughing) Ah, my friend, it's all about confidence and being genuine. But I think you'll find your match in no time. Maybe I can even introduce you to some of the lovely ladies here. (winking) After all, sharing is caring, right? "
+    ],
+    [
+      "Adam Smith",
+      "(leaning in) I'd love that Klaus! You seem like quite the ladies' man, but honestly, I've already got my eye on someone \u2013 Maria Lopez. I met her earlier, and she's this stunning, intriguing woman who's also a writer. We're talking about dinner plans, and I must say, I'm quite excited. What do you think about her?"
+    ],
+    [
+      "Klaus Mueller",
+      "(smirking) well Adam, I think Maria Lopez is an amazing woman too, I've had the pleasure of chatting with her myself. She's got this unique blend of warmth and intellectual curiosity that's hard to resist. I wish you the best of luck with your dinner plans, and who knows, maybe we can even share some stories later. But for now, I think I've kept Abigail Chen waiting long enough - we've got a dinner date to get to."
+    ],
+    [
+      "Adam Smith",
+      "(winking) Yeah, I wish you the best of luck with your dinner plans too, Klaus. I'm sure you'll charm Abigail Chen's socks off. I'm looking forward to hearing about it, maybe over a drink or two later? Say, have you got any tips for a smooth dinner date? I want to make a good impression on Maria Lopez."
+    ],
+    [
+      "Klaus Mueller",
+      "(smirking) Well, I'm not one to give away all my secrets, but I'll let you in on a little tip: confidence is key. Just be yourself, unless you can be a charming, flirtatious version of yourself, then be that. And don't hesitate to make a move - the worst they can say is no, right? I think we've both got a good shot with our respective ladies, though. Abigail Chen and Maria Lopez, what a pair, huh? I wish you the best of luck on your dinner plans, and I'm sure I'll be seeing you around. Maybe we can even exchange some war stories later, over that drink you mentioned."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": 635,
+    "Klaus Mueller": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:13:00",
+  "act_path_set": true,
+  "planned_path": []
+}

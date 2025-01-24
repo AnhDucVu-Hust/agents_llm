@@ -1,0 +1,418 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 07:22:50",
+        "status": "Maria Lopez finds Klaus Mueller's passion for sociology and his interest in human interactions intriguing, and she appreciates his compliment on her own passions, leading to a mutual desire to explore a potential connection, rating their emotional connection as a 4 out of 5."
+      }
+    ],
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 09:45:50",
+        "status": "Maria Lopez s attracted to Adam Smith's wit and interest in her passions, suggesting a significant connection, perhaps a 4 on the interest scale."
+      }
+    ],
+    "Isabella Rodriguez": [
+      {
+        "date": "February 13, 2023, 10:11:50",
+        "status": "Maria Lopez Isabella Rodriguez is surprisingly intellectually curious and shares similar interests in physics and the cosmos, which aligns well with Maria Lopez's passion for science and intellectual discussions. Maria finds this connection quite intriguing."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 10:11:50",
+  "curr_tile": [
+    76,
+    25
+  ],
+  "daily_plan_req": "Maria Lopez is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas. She has long dark hair and glasses, exuding elegance with her thoughtful demeanor. However, her true allure lies in her ability to make people feel intellectually and emotionally connected to her. Maria doesn\u2019t just talk about deep topics\u2014she engages her partner in meaningful, sometimes provocative conversations that lead to unexpected closeness. Her touch is gentle but deliberate, and her kisses are always full of intent, making every moment feel personal and significant. She has an intuitive understanding of how to seduce not just physically but mentally, using words and emotions to build a connection. When she\u2019s with someone, she\u2019s fully present, which makes her feel magnetic and mysterious.",
+  "currently": "Maria Lopez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/2/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Maria Lopez goes to bed around 10am, awakes up around 7am, eats dinner around 6pm. She likes listening to music and admire people in academia",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 29,
+  "importance_ele_n": 25,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "have a breakfast at 7:30 am",
+    "listen to music from 8:00 to 9:00 am",
+    "meet new people at the hobb cafe at 9:00 am",
+    "have a lunch at 12:00 pm",
+    "explore the Ville Village from 1:00 to 5:00 pm",
+    "cook and eat dinner at 6:00 pm",
+    "get to know people at the hobb cafe from 7:00 to 10:00 pm",
+    "",
+    "wake up and complete the morning routine at 7:00 am",
+    "have a breakfast at 7:30 am",
+    "listen to music from 8:00 to 9:00 am",
+    "meet new people at the hobb cafe at 9:00 am",
+    "have a lunch at"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (on the way to washing her face)",
+      0
+    ],
+    [
+      "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.)",
+      16
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (doing her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (applying light makeup)",
+      10
+    ],
+    [
+      "listening to music (choosing the music to listen to)",
+      5
+    ],
+    [
+      "listening to music (setting up her speakers)",
+      5
+    ],
+    [
+      "listening to music (listening to her favorite songs)",
+      20
+    ],
+    [
+      "listening to music (taking a break to stretch)",
+      5
+    ],
+    [
+      "listening to music (continuing to listen to music)#### 9",
+      9
+    ],
+    [
+      "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (approaching a group of people and introducing herself)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (engaging in small talk with the group)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (asking questions to get to know each person better)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (sharing about her own interests and background)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (on the way to exchanging contact information with the people she connected with)",
+      0
+    ],
+    [
+      "meeting new people at the hobb cafe (conversing about their interests, exchanging flirtatious comments, and making plans to play a game together, with a wager that the loser buys dinner, while also agreeing to exchange numbers to discuss the details of their game and potentially have a romantic dinner, between Adam Smith and Maria Lopez, who are both participants of the Love Ville Program.)",
+      15
+    ],
+    [
+      "meeting new people at the hobb cafe (on the way to wrapping up the conversation and saying goodbye)",
+      0
+    ],
+    [
+      "meeting new people at the hobb cafe (conversing about their shared interests in physics and philosophy, exchanging book and documentary recommendations, and discussing their perspectives on the universe, with Maria Lopez and Isabella Rodriguez expressing enthusiasm and agreement as they get to know each other through the Love Ville program.)",
+      22
+    ],
+    [
+      "exploring the Ville Village (1) Maria is walking around the Ville Village, taking in the sights and sounds)",
+      8
+    ],
+    [
+      "exploring the Ville Village (checking out the local shops and boutiques)",
+      30
+    ],
+    [
+      "exploring the Ville Village (visiting the Village library to browse books and learn more about the area)",
+      20
+    ],
+    [
+      "exploring the Ville Village (taking a break at a charming cafe, enjoying a coffee and people-watching)",
+      25
+    ],
+    [
+      "exploring the Ville Village (exploring the Village park, appreciating the greenery and fresh air)",
+      20
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "cooking and eating dinner with other Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know people at the hobb cafe",
+      180
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "listening to music",
+      60
+    ],
+    [
+      "meeting new people at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      120
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "cooking and eating dinner with other Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know people at the hobb cafe",
+      180
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 13, 2023, 09:49:10",
+  "act_duration": 22,
+  "act_description": "conversing about their shared interests in physics and philosophy, exchanging book and documentary recommendations, and discussing their perspectives on the universe, with Maria Lopez and Isabella Rodriguez expressing enthusiasm and agreement as they get to know each other through the Love Ville program.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Maria Lopez",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Maria Lopez",
+      "(extend her hand to shake) Hi, I'm Maria Lopez. I couldn't help but notice you from across the room. You seem like an interesting person to talk to."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(shaking hands) I'm Isabella Rodriguez, but you can call me Isabella. It's nice to meet you."
+    ],
+    [
+      "Maria Lopez",
+      "(being friendly and open-minded) So Isabella, what brings you to the Love Ville program? Are you looking for something casual or serious?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) I'm looking for something serious, I want to find someone I can truly connect with. What about you, Maria?"
+    ],
+    [
+      "Maria Lopez",
+      "(smile warmly) I'm looking for something serious too, I want to find someone who can keep up with my passion for science and intellectual conversations. I've been really into physics lately, have you ever been interested in it?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(give a knowing smile) Oh, I've always been fascinated by the mysteries of the universe, and physics sounds like an incredible field to explore. I've never delved too deeply into it myself, but I'd love to hear more about what you find so captivating about it. You seem to have a real passion for it, and I'm sure it would be fascinating to hear you talk more about your interests and what drives you."
+    ],
+    [
+      "Maria Lopez",
+      "(lean in slightly, showing genuine interest) That's really cool! I've always found physics to be fascinating, especially when it comes to understanding the fundamental laws of the universe. There's something so captivating about discovering the hidden patterns and mechanics that govern everything around us. I've spent countless hours delving into topics like quantum mechanics and relativity, and I'm always eager to discuss them with someone who shares my enthusiasm. Have you come across any interesting books or documentaries on physics that you'd recommend? I'm always looking for new sources of inspiration."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) I have come across some interesting documentaries on physics, actually. One that I found particularly captivating was 'The Universe'. Have you seen it? It explores some of the most fascinating phenomena in the universe, from black holes to dark matter. I think you'd really enjoy it."
+    ],
+    [
+      "Maria Lopez",
+      "(smile warmly) That sounds like a great documentary, I'll have to check it out. I'd also recommend 'The Fabric of the Cosmos' by Brian Greene, it's a fascinating book that explores the intersection of physics and philosophy. I think you'd find it really interesting."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(lean forward, eyes sparkling with curiosity)  you know, I have noticed that people who are really into physics tend to have a different perspective on the world"
+    ],
+    [
+      "Maria Lopez",
+      "(smile warmly) That's a really interesting point, I think you're right. People who are into physics do tend to have a unique perspective on the world. I've found that it can be both exhilarating and humbling to learn about the vastness and complexity of the universe. It puts everything into perspective, doesn't it? I'd love to hear more about the documentaries you've watched, what drew you to them? (lean back slightly, making herself more comfortable)"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) I'm loving the sound of that, Brian Greene is one of my favorite authors. I'd adore to hear more about why you enjoy reading him, is there something specific about his writing style or perspective that resonates with you? I've found that reading about the universe can be both mind-expanding and humbling, don't you think? It puts everything into such a vast and mysterious perspective. And I have to ask, what draws you to the intersection of physics and philosophy, is it the quest to understand our place in the universe or something else entirely?"
+    ],
+    [
+      "Maria Lopez",
+      "(tilt her head slightly to the side) Well, I've found the intersection of physics and philosophy truly captivating. It challenges the way we think about reality, the universe, and our very existence. I love how Greene explores this intersection, making complex ideas accessible and even beautiful. The concept of cosmic time, for instance, is mind-bending. Greene has a way of walking you through these labyrinthine ideas in a manner that's both enlightening and profoundly thought-provoking. What about you? What draws you to books on physics and the cosmos?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(shaking head softly) Well, I've always been more of a philosophy buff myself, but there's something about the way physics can explain the intricacies of the universe that I find incredibly captivating. The idea that everything we can see and touch is governed by these invisible laws and patterns is just fascinating. Simply put, physics is cool"
+    ],
+    [
+      "Maria Lopez",
+      "(dress in her prettiest and most elegant outfit, drink a cup of coffee and think silently) I think I'm going to play it cool and wait to see how the situation unfolds"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) I completely agree, there's something profound about grasping the underlying order of the universe. It's like peeling back the layers of an onion, each time revealing more complexity and beauty. Have you ever had any particularly memorable 'aha' moments while delving into physics, where everything suddenly clicked into place?"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": -214,
+    "Adam Smith": 644,
+    "Isabella Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:12:00",
+  "act_path_set": true,
+  "planned_path": []
+}

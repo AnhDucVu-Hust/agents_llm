@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        47
+      ],
+      "pronunciatio": "\ud83c\udfc3",
+      "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        105,
+        47
+      ],
+      "pronunciatio": "\u26a1\ufe0f",
+      "description": "arriving at the Hobb Cafe to meet the Love Ville Program participants (1) Klaus is walking from his room to the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        55,
+        30
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (finding a seat at the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        57
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "attending the Love Ville program at the hobb cafe (finding a seat and settling in) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        30,
+        37
+      ],
+      "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+      "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:06:00"
+  }
+}

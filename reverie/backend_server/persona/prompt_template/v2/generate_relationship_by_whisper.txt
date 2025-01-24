@@ -7,12 +7,13 @@ Variables:
 !<INPUT 3>! -- Init persona
 <commentblockmarker>###</commentblockmarker>
 Given all personas: !<INPUT 0>!
-Statement come from !<INPUT 1>!: !<INPUT 2>!
+Statement(thought) of !<INPUT 1>!: !<INPUT 2>!
 
 Determine if this statement represents any thought of !<INPUT 3>! to other personas that can affect to their relationships
-If yes, your output will be form like a list of dictionary python, with each dictionary have key is the name of the target persona and value is the thought
+If yes, your output will be form like a list of dictionary python, with each dictionary have key is the name of the target persona and value is the thought in a sentence that contain both of their names
 If no, return an empty list in python
+Remember just generate the thought to the target person that mention directly in the statement
 Just give the response, don't explain anything
 For example:
-[{'Jane Doe':'thinking that Jane Doe is very cute'}]
+[{'Jane Doe':'John Doe think that Jane Doe is very cute'}]
 ------------------------

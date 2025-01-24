@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        98,
+        44
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        96,
+        37
+      ],
+      "pronunciatio": "\ud83c\udfe0\ud83d\udc65",
+      "description": "arriving at the Hobb Cafe to meet the Love Ville Program participants (entering the Hobb Cafe and looking around for the Love Ville Program participants) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (finding a seat at the Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        91,
+        67
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "attending the Love Ville program at the hobb cafe (finding a seat and settling in) @ the Ville:Lin family's house:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        44,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+      "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:09:10"
+  }
+}

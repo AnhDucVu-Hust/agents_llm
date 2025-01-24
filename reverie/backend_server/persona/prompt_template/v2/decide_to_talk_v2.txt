@@ -2,17 +2,23 @@ decide_to_talk_v1.txt
 
 <commentblockmarker>###</commentblockmarker>
 Task -- given context, determine whether the subject will initiate a conversation with another. 
-Format: 
+Note: Unless one or 2 of them on a date right now, both people want to talk to each other, no matter what they're doing right now.
+Other case, they will talk, even when one is take part in a group activity, discussion or doing something because they prioritize communication 1-1 with each other even they are waiting for coffee, talk with a group, cooking, engaging in talk with the group,....
+
+
+---
+# Format:
 Context: []
 Question: []
-Reasoning: [a short sentence]
+Reasoning: [a short sentence with less than 30 words]
 Answer in "yes" or "no": []
----
+
+Continue generating to complete the prompt below. Start directly from the end of the paragraph without repeating any part of it. Do not provide any explanations. Make sure that your output with the paragraph will fit with the format.
+
 Context: !<INPUT 0>! 
 Right now, it is !<INPUT 1>!. !<INPUT 2>! and !<INPUT 3>! last chatted at !<INPUT 4>! about !<INPUT 5>!. 
 !<INPUT 6>! 
-!<INPUT 7>! 
-
+!<INPUT 7>!
 Question: Would !<INPUT 8>! initiate a conversation with !<INPUT 9>!? 
 Let's think step by step
 Reasoning:

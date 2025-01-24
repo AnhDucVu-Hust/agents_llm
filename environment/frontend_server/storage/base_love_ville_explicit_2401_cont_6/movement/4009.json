@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "continuing to mingle and flirt with other participants (sharing her own interests and experiences with the group) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc65",
+      "description": "meeting new people at the hobb cafe (asking questions to get to know the group members better) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (looking for common interests or experiences within the group) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        45,
+        31
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (approaching a group of participants and introducing himself) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        83,
+        26
+      ],
+      "pronunciatio": "\ud83e\udd14\ud83d\udcac",
+      "description": "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun (asking individuals about their hobbies and interests) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:08:10"
+  }
+}

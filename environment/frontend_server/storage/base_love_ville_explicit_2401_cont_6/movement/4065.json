@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\ude09\ud83d\udc95",
+      "description": "continuing to mingle and flirt with other participants (playfully teasing and complimenting the participants) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc65",
+      "description": "meeting new people at the hobb cafe (asking questions to get to know the group members better) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        30
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        81,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, hobbies, and passions, with Abigail Chen and Adam Smith expressing enthusiasm and mutual interest in each other's work, particularly in digital art and philosophy, and making plans to grab dinner at 7pm to further discuss their ideas and potentially collaborate on a project together. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Adam Smith",
+          "(smile) Hi, I'm Adam Smith. It looks like you're enjoying the conversations here. What do you think of the Hobb Cafe so far?"
+        ],
+        [
+          "Abigail Chen",
+          "(=yes) My name is Abigail Chen. Adam Smith is kind of cute, isn't he? And to answer your question, I think the Hobb Cafe is absolutely lovely. I'm having a great time here."
+        ],
+        [
+          "Adam Smith",
+          "(smile) That's great to hear! I'm loving the atmosphere here too. So, what do you like to do for fun, Abigail? Any hobbies or interests that keep you excited?"
+        ],
+        [
+          "Abigail Chen",
+          "(leaning in slightly and smiling) I'm really passionate about digital art and animation. I love exploring how technology can be used to express ideas and evoke emotions. It's amazing to see how a concept can come to life. What about you, Adam, what do you enjoy doing in your free time? By the way, you have a great smile."
+        ],
+        [
+          "Adam Smith",
+          "(leaning in slightly and smiling) That's really cool. I've always been fascinated by art and how people can create such amazing things. I'm more into philosophy myself. I've just written a book about the power of creativity and its impact on the world. Maybe I could even give you a copy sometime. (He gently touches Abigail's arm with his hand.) So, what do you think about the people here so far? Any intriguing personalities catch your eye?"
+        ],
+        [
+          "Abigail Chen",
+          "(leaning in closer, making eye contact) I think you have a really interesting perspective on philosophy, and I'd love to hear more about your book. Maybe we could discuss it over dinner?"
+        ],
+        [
+          "Adam Smith",
+          "(gently caressing Abigail's hand) I'd love to discuss my book with you over dinner. Maybe we can even explore some creative ideas together."
+        ],
+        [
+          "Abigail Chen",
+          "(batting eyelashes and smiling) I've always been drawn to confident, handsome men with a passion for philosophy. Your smile caught my eye from across the room, and I couldn't help but be intrigued. Would you like to grab coffee with me and discuss some of these ideas further?"
+        ],
+        [
+          "Adam Smith",
+          "(holding Abigail's hand and smiling) I'd love to grab coffee with you sometime and explore more of those ideas, especially about creativity and digital art. Maybe we could even collaborate on a project together."
+        ],
+        [
+          "Abigail Chen",
+          "(leaning in closer and making eye contact) I'm really enjoying our conversation, and I think we have a great connection. Would you like to grab dinner with me tonight and continue exploring these ideas further?"
+        ],
+        [
+          "Adam Smith",
+          "(smiling and leaning in closer) That sounds like a great idea, Abigail. I'd love to continue this conversation over dinner and explore more of your interests in digital art. Plus, I'm intrigued by your thoughts on creativity. What time were you thinking? Maybe we could even exchange numbers to make sure we connect tonight."
+        ],
+        [
+          "Abigail Chen",
+          "(smiling) That sounds like a great idea, Adam. I'd love to continue this conversation over dinner and explore more of your interests in philosophy. How about we plan for around 7pm? And of course, I'd love to exchange numbers so we can finalize the details. (She hands him her phone.)"
+        ],
+        [
+          "Adam Smith",
+          "(always smile, surprisingly stroke her hair) Wow, Abigail, I'm so excited to hear about your passion for digital art. I find it fascinating how technology can be used to express ideas and evoke emotions. Maybe we can even collaborate on a creative project together sometime? I could introduce you to philosophy, and you could introduce me to the world of digital animation."
+        ],
+        [
+          "Abigail Chen",
+          "(laughing softly) I'm glad you find digital art fascinating, Adam. I think it would be wonderful to explore more creative projects together. Maybe over dinner tonight, we could discuss the connection between philosophy and digital art in more depth?"
+        ],
+        [
+          "Adam Smith",
+          "Abigail, you have such a great energy about you. What's one thing that makes you tick, that really gets you excited?"
+        ],
+        [
+          "Abigail Chen",
+          "(gently touching Adam's arm) That's really interesting, Adam. I think what gets me excited is the thrill of exploring new ideas and pushing boundaries - whether it's through art, technology, or even in more personal aspects of life. I find that excitement exhilarating."
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        54,
+        26
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (asking the participants about their hobbies and interests) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, hobbies, and passions, with Abigail Chen and Adam Smith expressing enthusiasm and mutual interest in each other's work, particularly in digital art and philosophy, and making plans to grab dinner at 7pm to further discuss their ideas and potentially collaborate on a project together. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Adam Smith",
+          "(smile) Hi, I'm Adam Smith. It looks like you're enjoying the conversations here. What do you think of the Hobb Cafe so far?"
+        ],
+        [
+          "Abigail Chen",
+          "(=yes) My name is Abigail Chen. Adam Smith is kind of cute, isn't he? And to answer your question, I think the Hobb Cafe is absolutely lovely. I'm having a great time here."
+        ],
+        [
+          "Adam Smith",
+          "(smile) That's great to hear! I'm loving the atmosphere here too. So, what do you like to do for fun, Abigail? Any hobbies or interests that keep you excited?"
+        ],
+        [
+          "Abigail Chen",
+          "(leaning in slightly and smiling) I'm really passionate about digital art and animation. I love exploring how technology can be used to express ideas and evoke emotions. It's amazing to see how a concept can come to life. What about you, Adam, what do you enjoy doing in your free time? By the way, you have a great smile."
+        ],
+        [
+          "Adam Smith",
+          "(leaning in slightly and smiling) That's really cool. I've always been fascinated by art and how people can create such amazing things. I'm more into philosophy myself. I've just written a book about the power of creativity and its impact on the world. Maybe I could even give you a copy sometime. (He gently touches Abigail's arm with his hand.) So, what do you think about the people here so far? Any intriguing personalities catch your eye?"
+        ],
+        [
+          "Abigail Chen",
+          "(leaning in closer, making eye contact) I think you have a really interesting perspective on philosophy, and I'd love to hear more about your book. Maybe we could discuss it over dinner?"
+        ],
+        [
+          "Adam Smith",
+          "(gently caressing Abigail's hand) I'd love to discuss my book with you over dinner. Maybe we can even explore some creative ideas together."
+        ],
+        [
+          "Abigail Chen",
+          "(batting eyelashes and smiling) I've always been drawn to confident, handsome men with a passion for philosophy. Your smile caught my eye from across the room, and I couldn't help but be intrigued. Would you like to grab coffee with me and discuss some of these ideas further?"
+        ],
+        [
+          "Adam Smith",
+          "(holding Abigail's hand and smiling) I'd love to grab coffee with you sometime and explore more of those ideas, especially about creativity and digital art. Maybe we could even collaborate on a project together."
+        ],
+        [
+          "Abigail Chen",
+          "(leaning in closer and making eye contact) I'm really enjoying our conversation, and I think we have a great connection. Would you like to grab dinner with me tonight and continue exploring these ideas further?"
+        ],
+        [
+          "Adam Smith",
+          "(smiling and leaning in closer) That sounds like a great idea, Abigail. I'd love to continue this conversation over dinner and explore more of your interests in digital art. Plus, I'm intrigued by your thoughts on creativity. What time were you thinking? Maybe we could even exchange numbers to make sure we connect tonight."
+        ],
+        [
+          "Abigail Chen",
+          "(smiling) That sounds like a great idea, Adam. I'd love to continue this conversation over dinner and explore more of your interests in philosophy. How about we plan for around 7pm? And of course, I'd love to exchange numbers so we can finalize the details. (She hands him her phone.)"
+        ],
+        [
+          "Adam Smith",
+          "(always smile, surprisingly stroke her hair) Wow, Abigail, I'm so excited to hear about your passion for digital art. I find it fascinating how technology can be used to express ideas and evoke emotions. Maybe we can even collaborate on a creative project together sometime? I could introduce you to philosophy, and you could introduce me to the world of digital animation."
+        ],
+        [
+          "Abigail Chen",
+          "(laughing softly) I'm glad you find digital art fascinating, Adam. I think it would be wonderful to explore more creative projects together. Maybe over dinner tonight, we could discuss the connection between philosophy and digital art in more depth?"
+        ],
+        [
+          "Adam Smith",
+          "Abigail, you have such a great energy about you. What's one thing that makes you tick, that really gets you excited?"
+        ],
+        [
+          "Abigail Chen",
+          "(gently touching Adam's arm) That's really interesting, Adam. I think what gets me excited is the thrill of exploring new ideas and pushing boundaries - whether it's through art, technology, or even in more personal aspects of life. I find that excitement exhilarating."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:17:30"
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 09:15:50",
+        "status": "Isabella Rodriguez ntrigued by Klaus Mueller's adventurous spirit and charm, rating their mutual attraction a 4 out of 5."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 09:58:30",
+  "curr_tile": [
+    76,
+    19
+  ],
+  "daily_plan_req": "Isabella Rodriguez now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome.She has a radiant smile, red hair, and a body built for spontaneous adventures. She's outgoing, open-minded, and absolutely fearless when it comes to exploring new experiences\u2014especially when they involve passion. She loves to flirt with an easygoing, almost effortless charm, and isn\u2019t afraid to express her physical attraction. With a contagious laugh and playful touches, she flirts freely and isn\u2019t afraid to engage in physical intimacy when the chemistry is undeniable. She believes in living in the moment and often acts on impulse, which can lead to unexpected sparks. She's a true believer that life\u2014and love\u2014are all about enjoying the ride.Now she is joining the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. The Hobbs Cafe now is used for the program",
+  "currently": "Isabella Rodriguez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/23/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She always does exercise at 8pm",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 3,
+  "importance_ele_n": 37,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have a breakfast at 7:00 am",
+    "get ready for the Love Ville program at 8:00 am",
+    "meet new people at Hobbs Cafe at 9:00 am",
+    "have a lunch at 12:00 pm",
+    "free time from 1:00 pm to 6:00 pm",
+    "cook and eat dinner at 6:00 pm",
+    "get to know people better from 7:00 pm to 8:00 pm",
+    "do exercise at 8:00 pm,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and starting her morning routin (1) Isabella is waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (making her bed)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (washing her face)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (applying moisturizer and sunscreen)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (getting dressed for the day)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (doing her hair)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (applying light makeup)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (putting on her shoes)",
+      5
+    ],
+    [
+      "having breakfast (preparing breakfast)",
+      15
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      30
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (1) Isabella is brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (choosing an outfit for the day)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (getting dressed)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (doing her hair and makeup)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (packing her bag with essentials for the day)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (putting on her shoes and jacket)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (1) Isabella is entering Hobbs Cafe and looking around to see who's there)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to approaching a group of people and introducing herself)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about getting to know each other, expressing mutual enthusiasm and interest, and making plans to grab a drink and have dinner together, with Isabella Rodriguez and Klaus Mueller exchanging flirtatious smiles and playful banter as they explore the possibilities of a romantic connection.)",
+      15
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (excusing herself from Klaus Mueller and moving on to meet another person or group)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (introducing herself to the second group or individual)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (having a more in-depth conversation with someone from the second group, showing genuine interest and flirting subtly)",
+      10
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (laughing and joking with the second group, displaying her outgoing and friendly nature)",
+      10
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to wrapping up the conversation with the second group and scanning the room to see if there's anyone else she wants to meet)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about getting to know each other, expressing mutual interest and enthusiasm, and making plans for dinner at 6pm, between John Lin and Isabella Rodriguez, the owner of Hobbs Cafe, while attending an event in Love Ville.)",
+      17
+    ],
+    [
+      "engaging in conversations and flirting with other participants (approaching a group of participants and introducing herself)",
+      8
+    ],
+    [
+      "engaging in conversations and flirting with other participants (asking about their interests and hobbies)",
+      10
+    ],
+    [
+      "engaging in conversations and flirting with other participants (sharing her own experiences and stories)",
+      10
+    ],
+    [
+      "engaging in conversations and flirting with other participants (playfully teasing and complimenting the participants)",
+      10
+    ],
+    [
+      "engaging in conversations and flirting with other participants (exchanging contact information with the participants)",
+      10
+    ],
+    [
+      "wrapping up the event, saying goodbye to the participants, and leaving Hobbs Cafe",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants",
+      60
+    ],
+    [
+      "having lunch with other participant",
+      60
+    ],
+    [
+      "njoying some free time to herself",
+      300
+    ],
+    [
+      "cooking and eating dinner with other participants as part of the Love Ville program",
+      60
+    ],
+    [
+      "getting to know people better as part of the Love Ville program",
+      60
+    ],
+    [
+      "doing her daily exercise routin",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and starting her morning routin",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "getting ready for the Love Ville program",
+      60
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      60
+    ],
+    [
+      "continuing to mingle and flirt with other participants",
+      60
+    ],
+    [
+      "having lunch with other participant",
+      60
+    ],
+    [
+      "njoying some free time to herself",
+      300
+    ],
+    [
+      "cooking and eating dinner with other participants as part of the Love Ville program",
+      60
+    ],
+    [
+      "getting to know people better as part of the Love Ville program",
+      60
+    ],
+    [
+      "doing her daily exercise routin",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "<persona> John Lin",
+  "act_start_time": "February 13, 2023, 09:41:10",
+  "act_duration": 17,
+  "act_description": "conversing about getting to know each other, expressing mutual interest and enthusiasm, and making plans for dinner at 6pm, between John Lin and Isabella Rodriguez, the owner of Hobbs Cafe, while attending an event in Love Ville.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "John Lin"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "John Lin",
+  "chat": [
+    [
+      "John Lin",
+      "(extend hand for a handshake) Hi, I'm John. This seems like such a great opportunity to meet new people, doesn't it?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(extend hand and smile) Nice to meet you, John! I'm Isabella. Yeah, it does! I think this format is really cool too. I love the idea of us all staying together in one place and having activities every day."
+    ],
+    [
+      "John Lin",
+      "(seeing that everyone else is energetic and laughing) So Isabella, what do you do for a living? I'm really interested in hearing about everyone's stories here."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(shake hand with a big smile and expose some sexy body curves) Nice to meet you too, John. I own a cafe. Hobbs Cafe. That's where we are right now. How about you?"
+    ],
+    [
+      "John Lin",
+      "(smile and maintaining eye contact) Your cafe looks lovely. I think it's great that you get to meet new people every day. What inspired you to open up this place?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(flashing a captivating smile) Well, I've always been passionate about creating a warm and welcoming space for people to connect over great food and drinks. It's a lot of hard work, but it's so rewarding to see my customers become like family. What about you, John? What brought you here to Love Ville?"
+    ],
+    [
+      "John Lin",
+      "(smile warmly) I'm a pharmacy shop keeper at the Willow Market and Pharmacy. I love helping people and making them feel special, whether it's through my work or just conversation. I think we all need human connection, you know? And I'm really drawn to your energy, Isabella. You have this spark that makes me want to know more about you. What do you like to do for fun, when you're not running this amazing cafe?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(giving him a warm smile) Well, let me tell you, John. I'm more of a night owl, so my fun usually happens when the sun goes down. Whether it's dancing, trying out new restaurants, or just relaxing with a good wine, I'm always down for a good time. (bats her eyelashes) And I have to say, I love the way you talk about human connection. It's really attractive when someone is so genuinely interested in getting to know people."
+    ],
+    [
+      "John Lin",
+      "(lean in, with a flirtatious gaze) That sounds like you know how to live life to the fullest, Isabella. I'm definitely an early riser, but there's something about the night that brings out the best in people, don't you think?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile alluringly) Oh, John, I couldn't agree more. The night always has this way of opening people up, letting them be their true selves. I can already feel that connection happening around us here in this cafe (reach out and gently touch his arm). What are your thoughts on the activities they have planned for us for the rest of the week? Do you have any favorites?"
+    ],
+    [
+      "John Lin",
+      "(smile seductively) I think there's a lot of potential for interesting and fun things to happen with the planned activities, but to be honest, my favorite part so far has been meeting you, Isabella. There's something about you that I'm really drawn to. Would you like to explore more of what Love Ville has to offer together? Maybe we could see where the night takes us?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(looking into his eyes and tilting her head slightly) I think I'd really like that, John. There's something so captivating about you too. How about we start with dinner tonight and see where the night takes us? (gently squeeze his arm)"
+    ],
+    [
+      "John Lin",
+      "(smiling warmly and leaning in closer) That sounds like a plan. I'd love to have dinner with you and see where the night takes us, beautiful. Shall we meet back here at 6pm?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smiling warmly and tilting head) That sounds perfect, John. 6pm it is. Looking forward to it."
+    ],
+    [
+      "John Lin",
+      "(take a sip of his coffee) It's really great talking to you, Isabella. I'm looking forward to dinner tonight. Looking forward to seeing the rest of the people here today."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(give him an inviting smile and slowly walk closer) Oh, John? I almost forgot to give you something. (slowly hand him a napkin with a subtle touch of her fingers to his hand)"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": 543,
+    "John Lin": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:59:00",
+  "act_path_set": true,
+  "planned_path": []
+}

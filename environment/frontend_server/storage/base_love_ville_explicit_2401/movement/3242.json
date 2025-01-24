@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        15
+      ],
+      "pronunciatio": "\u26a1\ufe0f",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (1) Isabella is entering Hobbs Cafe and looking around to see who's there) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        49
+      ],
+      "pronunciatio": "\ud83c\udfb5\ud83d\udc4b",
+      "description": "listening to music (quickly wrapping up her music session and preparing for the next activity) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "getting ready to go to the Hobb Cafe (finding a table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        37,
+        18
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (1) Abigail is entering the Hobb Cafe and looking for a seat) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        90,
+        65
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending the Love Ville program at the hobb cafe (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        22,
+        63
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "rriving at Hobb Cafe to meet the group (walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:00:20"
+  }
+}

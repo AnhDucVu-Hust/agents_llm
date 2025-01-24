@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcdd\ud83d\udc65",
+      "description": "continuing to mingle and flirt with other participants (exchanging contact information with the participants) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "meeting new people at the hobb cafe (sharing a bit about herself with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        111,
+        20
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:classroom:blackboard",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to socialize and get to know other Love Ville program participants at the Hobb Cafe (conversing about their interests, hobbies, and passions, with Abigail Chen and Adam Smith expressing enthusiasm and mutual interest in each other's work, particularly in digital art and philosophy, and making plans to grab dinner at 7pm to further discuss their ideas and potentially collaborate on a project together.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        39,
+        28
+      ],
+      "pronunciatio": "\ud83c\udfa7",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (listening intently to the participants' stories and experiences) @ the Ville:artist's co-living space:common room:common room table",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun (conversing about their interests, hobbies, and passions, with Abigail Chen and Adam Smith expressing enthusiasm and mutual interest in each other's work, particularly in digital art and philosophy, and making plans to grab dinner at 7pm to further discuss their ideas and potentially collaborate on a project together.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:36:20"
+  }
+}

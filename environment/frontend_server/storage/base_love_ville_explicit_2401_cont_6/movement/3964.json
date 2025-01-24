@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b\ud83d\udcac",
+      "description": "continuing to mingle and flirt with other participants (introducing herself to the group and asking about their interests) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc98",
+      "description": "meeting new people at the hobb cafe (conversing about getting to know each other, sharing their experiences in Love Ville, and making plans to spend time together, including grabbing coffee, taking a walk around the village, and potentially spending intimate time at a private villa, with a strong emotional connection and mutual attraction between Klaus Mueller and Maria Lopez.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        121,
+        33
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        81,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (sharing her own background and interests with the group) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        34,
+        36
+      ],
+      "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+      "description": "participating in icebreaker activities and getting to know the other Love Ville program participants (participating in a team-building activity) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        54,
+        25
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": " @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:00:40"
+  }
+}

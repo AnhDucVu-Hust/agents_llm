@@ -1,0 +1,532 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 09:19:50",
+        "status": "Isabella Rodriguez finds Adam's enthusiasm and shared desire for adventure intriguing, sensing a strong connection forming between them."
+      }
+    ],
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 09:33:50",
+        "status": "Isabella Rodriguez found Klaus's adventurous spirit and openness to exploring new experiences quite intriguing. There's a hint of mystery and excitement in his demeanor that piques my interest."
+      }
+    ],
+    "Maria Lopez": [
+      {
+        "date": "February 13, 2023, 10:09:50",
+        "status": "Isabella Rodriguez was drawn to Maria's infectious energy and curiosity, appreciating their shared love for exploration and new experiences."
+      }
+    ],
+    "Abigail Chen": [
+      {
+        "date": "February 13, 2023, 10:26:50",
+        "status": "Isabella Rodriguez was captivated by Abigail's passion for digital art and streaming, intrigued by her unique perspective on combining technology and creativity. They both share a straight orientation, but their conversation was filled with mutual admiration and a strong connection over their artistic interests."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 10:26:50",
+  "curr_tile": [
+    75,
+    23
+  ],
+  "daily_plan_req": "Isabella Rodriguez now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome.She has a radiant smile, red hair, and a body built for spontaneous adventures. She's outgoing, open-minded, and absolutely fearless when it comes to exploring new experiences\u2014especially when they involve passion. She loves to flirt with an easygoing, almost effortless charm, and isn\u2019t afraid to express her physical attraction. With a contagious laugh and playful touches, she flirts freely and isn\u2019t afraid to engage in physical intimacy when the chemistry is undeniable. She believes in living in the moment and often acts on impulse, which can lead to unexpected sparks. She's a true believer that life\u2014and love\u2014are all about enjoying the ride.Now she is joining the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. The Hobbs Cafe now is used for the program",
+  "currently": "Isabella Rodriguez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/23/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She always does exercise at 8pm",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 138,
+  "importance_ele_n": 4,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have a breakfast at 7:00 am",
+    "get ready for the Love Ville program at 8:00 am",
+    "meet new people at Hobbs Cafe at 9:00 am",
+    "have a lunch at 12:00 pm",
+    "free time from 1:00 pm to 6:00 pm",
+    "cook and eat dinner at 6:00 pm",
+    "get to know people better from 7:00 pm to 8:00 pm",
+    "do exercise at 8:00 pm,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and starting her morning routin (1) Isabella is waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (making her bed)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (washing her face)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (applying moisturizer and sunscreen)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (getting dressed for the day)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (doing her hair)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (applying light makeup)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (putting on her shoes)",
+      5
+    ],
+    [
+      "having breakfast (preparing breakfast)",
+      15
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      30
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (showering)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (doing her hair)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (doing her makeup)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (choosing an outfit)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (getting dressed)",
+      5
+    ],
+    [
+      "getting ready for the Love Ville program (putting on accessories)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (1) Isabella is entering Hobbs Cafe and looking around to see who's there)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (approaching a group of people and introducing herself with a warm smile)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to engaging in small talk with the group, asking about their backgrounds and interests)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their participation in a program focused on love and self-discovery, where Isabella Rodriguez and Adam Smith enthusiastically discuss their dreams, hopes, and expectations, expressing excitement and eagerness to explore the unknown together, and ultimately agreeing to take a chance and create unforgettable memories on their first evening, with no specific plans or schedules mentioned beyond embracing the present moment and the journey ahead.)",
+      15
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to moving on to another group or individual, introducing herself again)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their interest in getting to know each other, expressing mutual enthusiasm and desire, and making plans to spend intimate time together, with Isabella Rodriguez and Klaus Mueller agreeing to head back to Isabella's place to continue their exploration without distractions.)",
+      14
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (moving on to another group or individual, introducing herself again)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (asking more in-depth questions to get to know the new people better)",
+      10
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to playfully touching the arm of someone she's talking to, showing her interest)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their instant attraction and shared sense of adventure, with Maria Lopez and Isabella Rodriguez enthusiastically agreeing to explore the Ville Village together, sharing secrets and passions, and making plans to grab a bite to eat and uncover hidden gems, with a potential romantic connection brewing between them.)",
+      19
+    ],
+    [
+      "engaging in conversations and flirting with other participants (on the way to approaching a group of participants)",
+      0
+    ],
+    [
+      "engaging in conversations and flirting with other participants (conversing about their shared passion for digital art and technology, expressing enthusiasm and excitement, and making plans to spend more time together, including having dinner as part of the program and potentially exploring their artistic visions and creative processes further, between Isabella Rodriguez, the cafe owner, and Abigail Chen, a digital art and technology enthusiast.)",
+      17
+    ],
+    [
+      "engaging in conversations and flirting with other participants (introducing herself to the group)",
+      5
+    ],
+    [
+      "engaging in conversations and flirting with other participants (asking about their interests and hobbies)",
+      10
+    ],
+    [
+      "engaging in conversations and flirting with other participants (sharing her own interests and experiences)",
+      10
+    ],
+    [
+      "engaging in conversations and flirting with other participants (playfully teasing and complimenting the participants)",
+      10
+    ],
+    [
+      "engaging in conversations and flirting with other participants (laughing and joking with the group)",
+      7
+    ],
+    [
+      "continuing to mingle and flirt with other participants (approaching a group of participants)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (introducing herself to the group)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (asking about their interests and hobbies)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (sharing her own interests and experiences)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (playfully teasing and joking with the group)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (making physical contact through light touches on the arm or shoulder)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (exchanging contact information with the group)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (moving on to another group or individual)",
+      5
+    ],
+    [
+      "taking a short break (resting and reflecting on the conversations and connections made) ",
+      6
+    ],
+    [
+      "having lunch with other participant",
+      60
+    ],
+    [
+      "njoying some free time to herself",
+      300
+    ],
+    [
+      "cooking and eating dinner with other participants as part of the Love Ville program",
+      60
+    ],
+    [
+      "getting to know people better as part of the Love Ville program",
+      60
+    ],
+    [
+      "doing her daily exercise routin",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and starting her morning routin",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "getting ready for the Love Ville program",
+      60
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      60
+    ],
+    [
+      "continuing to mingle and flirt with other participants",
+      60
+    ],
+    [
+      "having lunch with other participant",
+      60
+    ],
+    [
+      "njoying some free time to herself",
+      300
+    ],
+    [
+      "cooking and eating dinner with other participants as part of the Love Ville program",
+      60
+    ],
+    [
+      "getting to know people better as part of the Love Ville program",
+      60
+    ],
+    [
+      "doing her daily exercise routin",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "<persona> Abigail Chen",
+  "act_start_time": "February 13, 2023, 10:10:10",
+  "act_duration": 17,
+  "act_description": "conversing about their shared passion for digital art and technology, expressing enthusiasm and excitement, and making plans to spend more time together, including having dinner as part of the program and potentially exploring their artistic visions and creative processes further, between Isabella Rodriguez, the cafe owner, and Abigail Chen, a digital art and technology enthusiast.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "Abigail Chen"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Abigail Chen",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "(smiling) Hi there! I noticed you earlier and thought you had such a captivating vibe. I'm Isabella, the cafe owner here at Hobbs Cafe. Are you new to Love Ville?"
+    ],
+    [
+      "Abigail Chen",
+      "(tilt her head slightly)  Wow, thank you! I'm Abigail, it's nice to meet you. Yes, I'm fairly new to Love Ville, and I must say, I'm excited to explore the program and meet interesting people like yourself. I'm a total art and technology enthusiast, so I'm thrilled to discover all that this place has to offer."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smiling) That's amazing! I'm so curious, what got you into digital art and streaming? I love hearing about people's passions!"
+    ],
+    [
+      "Abigail Chen",
+      "(smiling) Well, my fascination with art and technology is deeply rooted in my belief that these fields offer endless possibilities for self-expression and exploration. Combining digital art with streaming just amplifies the creative potential, making it an enticing and constantly evolving adventure."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(nodding) That's a wonderful reason, sounds like a match made in heaven! I dabbled in digital art back in school. It's amazing how technology enhances art, isn't it? Are you a traditional artist as well, or do you primarily work digitally?"
+    ],
+    [
+      "Abigail Chen",
+      "(leaning in closer) Fascinating! I've always wondered about the process of transitioning from traditional to digital art. What inspired you to make that shift? I'd love to hear more about your artistic journey."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(grinning) It's so wonderful to meet another passionate artist! I'm glad you find the cafe cozy. I think we'll have a great time in this program together. Do you think we could get together sometime to talk more?"
+    ],
+    [
+      "Abigail Chen",
+      "(standing up and approaching Isabella) That's an intriguing proposition, Isabella. I'd absolutely love to learn more about your artistic journey. Are there any particular media or themes you're drawn to in your digital art? I've got a few ideas I'd love to discuss with you."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(walking towards the couch) Wow, Abigail, your passion is truly captivating! I'd love to explore your ideas and discuss the artistic process further. Should we find a quiet corner to talk, or maybe grab a drink and make it an evening full of inspiration and creativity?"
+    ],
+    [
+      "Abigail Chen",
+      "(leaning closer while offering a seat across the couch) Great! I think a cozy atmosphere will make our chat even better. I could share my portfolio with you, what do you say?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(carefully scrutinizing portfolio) This is quite impressive, Abigail! I can see your artistic vision in these pieces. The use of color and composition is truly remarkable. It must be so satisfying to create such wonderful works of art."
+    ],
+    [
+      "Abigail Chen",
+      "(sitting on the couch) I'm glad you appreciate the fine details of my work. I'd love to delve deeper into the creative process with you. Perhaps we can explore some of the conceptual ideas behind my pieces and see where our artistic visions align. What intrigues you most about the creative process?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(leaning in closer) Honestly, I get lost in your work. It's enchanting, like a portal to another world. The attention to detail and the way you capture light is incredible."
+    ],
+    [
+      "Abigail Chen",
+      "(standing up) That's a great start. I'm excited to hear your take on it, I could give you more insight into the process. Oh, and it seems we'll be having dinner together tonight as part of the program. Want to sit together?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smiling) Oh, I'd love to spend more time with someone as passionate about art as you! It's like a breath of fresh air. It's a date, then! Let's make tonight memorable. I'll save you a seat over here, so we can chat and get to know each other better. It's a perfect way to kick off our artistic adventure together. I can't wait to hear more about your work and your creative process. Should I get us some drinks to start the night?"
+    ],
+    [
+      "Abigail Chen",
+      "(reaching for Isabella's hand) Let's make tonight even more special. I have a feeling we'll create some incredible memories together."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Adam Smith": 394,
+    "Klaus Mueller": 478,
+    "Maria Lopez": 698,
+    "Abigail Chen": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:27:00",
+  "act_path_set": true,
+  "planned_path": []
+}

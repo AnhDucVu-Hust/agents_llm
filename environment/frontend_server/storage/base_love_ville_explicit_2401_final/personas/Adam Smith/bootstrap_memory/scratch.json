@@ -1,0 +1,651 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {},
+  "curr_time": "February 13, 2023, 09:15:40",
+  "curr_tile": [
+    74,
+    30
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is tall and muscular, with a well-groomed beard and sharp features that complement his meticulous nature. He\u2019s confident and passionate about his businesses, but secretly, he has a love for extreme sports\u2014bungee jumping, skydiving, and motorbiking. He\u2019s the type who loves to surprise others with his daring side, constantly keeping people on their toes. Adam also has a playful side, flirting subtly with charm but always with a hint of mystery. He\u2019s both disciplined and spontaneous, and when he lets his guard down, he\u2019s surprisingly affectionate and open about his desires",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Every day from 13/2/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 180,
+  "importance_ele_n": 42,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "have breakfast at 6:00 am",
+    "arrive at Hobb Cafe at 9:00 am to meet the group",
+    "spend time getting to know the group members at the Hobb Cafe from 9:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "join the Love Ville Program from 1:00 pm to 5:00 pm",
+    "go back to Hobb Cafe at 6:00 pm to cook and have dinner with the group",
+    "watch the Love Ville Program on TV from 7:00 to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and starting his morning routine (1) Adam is waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and starting his morning routine (getting dressed in his workout clothes)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (drinking a glass of water and taking his daily vitamins)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (checking his phone for any important messages or emails)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (putting on his shoes and getting ready to start his morning exercise)",
+      5
+    ],
+    [
+      "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute jog around the neighborhood)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute yoga session focusing on flexibility)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute set of squats and lunges)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute high-intensity interval training (HIIT) workout)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute cool-down with deep stretching)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute meditation to center himself for the day ahead)",
+      5
+    ],
+    [
+      "doing his morning exercise (drinking water and toweling off sweat)",
+      5
+    ],
+    [
+      "having breakfast (1) Adam is gathering ingredients for breakfast)",
+      5
+    ],
+    [
+      "having breakfast (preparing the coffee machine)",
+      5
+    ],
+    [
+      "having breakfast (cooking eggs and bacon)",
+      10
+    ],
+    [
+      "having breakfast (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (pouring a cup of coffee)",
+      5
+    ],
+    [
+      "having breakfast (serving the cooked eggs and bacon onto a plate)",
+      5
+    ],
+    [
+      "having breakfast (buttering the toasted bread)",
+      5
+    ],
+    [
+      "having breakfast (eating his breakfast)",
+      10
+    ],
+    [
+      "having breakfast (cleaning up the table and washing dishes)",
+      5
+    ],
+    [
+      "reading a book (choosing a book to read)",
+      5
+    ],
+    [
+      "reading a book (making a cup of tea)",
+      5
+    ],
+    [
+      "reading a book (getting comfortable in his reading chair)",
+      5
+    ],
+    [
+      "reading a book (reading the first chapter of the book)",
+      15
+    ],
+    [
+      "reading a book (taking a break to reflect on what he's read)",
+      5
+    ],
+    [
+      "reading a book (reading the second chapter of the book)",
+      15
+    ],
+    [
+      "reading a book (jotting down notes and thoughts about the book)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (1) Adam is brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (getting dressed in a casual but stylish outfit)",
+      15
+    ],
+    [
+      "preparing to go to Hobb Cafe (packing his bag with essentials like his wallet, phone, and a book to read)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (making sure his apartment is tidy before leaving)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (double checking he has everything he needs and heading out the door)",
+      5
+    ],
+    [
+      "preparing to go to Hobb Cafe (locking up his apartment and walking to his car)",
+      5
+    ],
+    [
+      "preparing to go to Hobb Cafe (driving to Hobb Cafe)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (walking to Hobb Cafe)",
+      10
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking for the group)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (on the way to approaching the group and introducing himself)",
+      0
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (conversing about getting to know each other, expressing mutual attraction and enthusiasm, and making plans for a romantic dinner and sunset viewing at 7pm, between Maria Lopez and Adam Smith, who have just met at the Love Ville Program.)",
+      17
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (engaging in small talk with the group members)",
+      10
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (ordering a coffee from the barista)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (waiting for his coffee to be prepared)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (sipping his coffee and listening to the conversations)",
+      10
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (asking questions to get to know the group members better)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (exchanging contact information with the group members)",
+      5
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (1) Adam is introducing himself to the group members)",
+      5
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (asking each group member about their background and interests)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (sharing his own background and interests with the group)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (listening attentively to each group member's stories and experiences)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (asking follow-up questions to show his interest and engagement)",
+      5
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (finding common ground and shared interests with some group members)",
+      8
+    ],
+    [
+      "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun",
+      60
+    ],
+    [
+      "having lunch with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      120
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partner",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      60
+    ],
+    [
+      "wrapping up his participation in the Love Ville Program and preparing to head back to Hobb Cafe",
+      60
+    ],
+    [
+      "cooking dinner with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "watching the Love Ville Program on TV with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "leeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and starting his morning routine",
+      60
+    ],
+    [
+      "doing his morning exercise",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "reading a book",
+      60
+    ],
+    [
+      "preparing to go to Hobb Cafe",
+      60
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group",
+      60
+    ],
+    [
+      "getting to know the group members at Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun",
+      60
+    ],
+    [
+      "having lunch with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      120
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partner",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      60
+    ],
+    [
+      "wrapping up his participation in the Love Ville Program and preparing to head back to Hobb Cafe",
+      60
+    ],
+    [
+      "cooking dinner with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "watching the Love Ville Program on TV with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "leeping",
+      120
+    ]
+  ],
+  "act_address": "<persona> Maria Lopez",
+  "act_start_time": "February 13, 2023, 09:13:30",
+  "act_duration": 17,
+  "act_description": "conversing about getting to know each other, expressing mutual attraction and enthusiasm, and making plans for a romantic dinner and sunset viewing at 7pm, between Maria Lopez and Adam Smith, who have just met at the Love Ville Program.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Adam Smith",
+    "chat with",
+    "Maria Lopez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Maria Lopez",
+  "chat": [
+    [
+      "Maria Lopez",
+      "(extend her hand for a handshake) hi, I'm Maria Lopez.  Welcome to Love Ville Program. It's really nice to meet you."
+    ],
+    [
+      "Adam Smith",
+      "(firm handshake) I'm Adam Smith, nice to meet you too, Maria. Your smile is radiant, it lights up the whole room."
+    ],
+    [
+      "Maria Lopez",
+      "(giggle) Oh, thank you Adam. I love your shirt, it really brings out the color in your eyes. So what brings you to Love Ville?"
+    ],
+    [
+      "Adam Smith",
+      "(flash a charming smile) I'm excited about the possibilities here, but to be honest, I'm really drawn to getting to know each other on a deeper level, rather than just physical attraction. What do you think makes for a great connection?"
+    ],
+    [
+      "Maria Lopez",
+      "(lean forward slightly, a curious glint in her eye) I think a great connection comes from a mix of both - physical attraction and deep conversations. But I have to say, you seem like the kind of person who can start a conversation anywhere, anytime. What makes you feel drawn to someone on that deeper level?"
+    ],
+    [
+      "Adam Smith",
+      "(flash a charming smile) I have to say, Maria, you're really captivating, and I love your perspective. For me, a connection starts with curiosity - finding something intriguing about the other person, both in and out, and then wanting to explore that further. Maybe we can explore getting to know each other better, who knows what hidden gems we might find?"
+    ],
+    [
+      "Maria Lopez",
+      "(winking at Adam) I think I'd really enjoy getting to know you deeper, in every sense of the word. Maybe we can explore becoming each other's hidden gems?"
+    ],
+    [
+      "Adam Smith",
+      "(lean in closer) You know, Maria, I never believed in love at first sight until I met you. The way you captivated me with your radiant smile makes me feel incredibly drawn to you. Would you like to know why you left me breathless?(look deep into her eyes) You are not only charming, but your expressive eyes tell me that you are a treasure of insightful thoughts and desires. I yearn to explore the depths of your mind and passion.(put a hand gently on her shoulder) Touching you even in this subtle way ignites a desire to caress every feature of your body, to feel your softness beneath my fingertips. How do you enjoy to be caressed, Maria?(lean even closer, almost whispering) Your words suggest you might enjoy this fluttering moment and uncovering more skin, more touch, more intimate conversation as much as I do. Am I correct?(gaze deeply into her eyes, seeking consent) Shall we extract some solitude to kindle this undeniable allure and entrance each other in both body and conversation?"
+    ],
+    [
+      "Maria Lopez",
+      "(take a deep breath, her eyes locked on Adam's, her voice low and sultry) My goodness, Adam. You sure know how to make a woman feel wanted. I must say, your words have me a little breathless too. (gently place her hand on his) I love being caressed, especially when it's done with care and intimacy. (lean in closer, her mouth inches from his ear) Yes, you're correct. I'm attracted to you, and the thought of exploring each other's bodies and minds is exhilarating. (step back a little, a sly smile playing on her lips) But let's not get ahead of ourselves. We have all week to kindle this... allure. (wink) I was thinking maybe we could grab some coffee later, get to know each other better in private? (bat her eyelashes) My place is just a short walk from here, nice and cozy."
+    ],
+    [
+      "Adam Smith",
+      "(smiling slyly) That sounds incredibly tempting, Maria. I'd love to explore the chance to get to know you better in a private setting, perhaps walk around and enjoy some view or grounds nearby before heading else where. What about connecting over dinner a little later today and check out the sunset of the first day here together?"
+    ],
+    [
+      "Maria Lopez",
+      "(bat her eyelashes) I'd love to have dinner with you later and watch the sunset. It sounds utterly romantic. (take his hand) Let's make it a perfect first day here. I'll meet you back here at 7pm?"
+    ],
+    [
+      "Adam Smith",
+      "(flash a happy smile) Perfect, it's a date then. I'll see you at 7pm, beautiful. Have a wonderful day and I can't wait to spend our first evening together."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maria Lopez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:31:00",
+  "act_path_set": true,
+  "planned_path": []
+}

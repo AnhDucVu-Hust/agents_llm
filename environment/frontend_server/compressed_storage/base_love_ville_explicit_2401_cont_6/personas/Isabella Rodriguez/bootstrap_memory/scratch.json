@@ -1,0 +1,634 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 09:15:50",
+        "status": "Isabella Rodriguez finds Klaus Mueller attractive, charming, and shares similar interests with him, which makes her interested in pursuing a relationship with him."
+      },
+      {
+        "date": "February 13, 2023, 10:02:00",
+        "status": "Isabella Rodriguez wants to flirt with Klaus Mueller to see if it's a match"
+      },
+      {
+        "date": "February 13, 2023, 12:29:50",
+        "status": "Isabella Rodriguez markedly attracted to Klaus Mueller's affections, suggesting a romantic emotion score of 3 out of 5 in their burgeoning intimacy."
+      }
+    ],
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 09:42:50",
+        "status": "Isabella Rodriguez found Adam Smith's combination of intellectual depth and adventurous spirit intriguing, with their mutual love for excitement suggesting a compatible and potentially passionate connection."
+      },
+      {
+        "date": "February 13, 2023, 12:09:50",
+        "status": "Isabella Rodriguez found Adam Smith's compliments about her intelligence and physical attractiveness, combined with his eagerness to spend time with her, very interesting and appealing, indicating a strong romantic interest, scoring a 4 on the 1-5 scale."
+      }
+    ],
+    "Maria Lopez": [
+      {
+        "date": "February 13, 2023, 10:17:50",
+        "status": "Isabella Rodriguez ppreciated Maria Lopez's enthusiasm for adventure and deep conversations, but there was no romantic interest between them, scoring a 1."
+      }
+    ],
+    "Abigail Chen": [
+      {
+        "date": "February 13, 2023, 10:36:50",
+        "status": "Isabella Rodriguez finds Abigail's balanced approach to seeking both excitement and depth in connections relatable and interesting, and appreciates her insights on potential partners like Klaus Mueller and Adam Smith."
+      }
+    ],
+    "John Lin": [
+      {
+        "date": "February 13, 2023, 11:57:50",
+        "status": "Isabella Rodriguez found John Lin's passion and interest in her very attractive, and she is eager to see where their connection might lead. Score: 4"
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 12:49:40",
+  "curr_tile": [
+    76,
+    19
+  ],
+  "daily_plan_req": "Isabella Rodriguez now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome.She has a radiant smile, red hair, and a body built for spontaneous adventures. She's outgoing, open-minded, and absolutely fearless when it comes to exploring new experiences\u2014especially when they involve passion. She loves to flirt with an easygoing, almost effortless charm, and isn\u2019t afraid to express her physical attraction. With a contagious laugh and playful touches, she flirts freely and isn\u2019t afraid to engage in physical intimacy when the chemistry is undeniable. She believes in living in the moment and often acts on impulse, which can lead to unexpected sparks. She's a true believer that life\u2014and love\u2014are all about enjoying the ride.Now she is joining the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. The Hobbs Cafe now is used for the program",
+  "currently": "Isabella Rodriguez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/23/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She always does exercise at 8pm",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 10,
+  "importance_ele_n": 58,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have a breakfast at 7:00 am",
+    "get ready for the Love Ville program at 8:00 am",
+    "meet new people at Hobbs Cafe at 9:00 am",
+    "have a lunch at 12:00 pm",
+    "free time from 1:00 pm to 6:00 pm",
+    "cook and eat dinner at 6:00 pm",
+    "get to know people better from 7:00 pm to 8:00 pm",
+    "do exercise at 8:00 pm,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and starting her morning routin (1) Isabella is waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (making her bed)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (washing her face)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (applying moisturizer and sunscreen)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (getting dressed for the day)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (doing her hair)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (applying light makeup)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (putting on her shoes)",
+      5
+    ],
+    [
+      "having breakfast (preparing breakfast)",
+      15
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      30
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (1) Isabella is brushing her teeth and washing her face)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (choosing an outfit for the day)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (getting dressed)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (doing her hair and makeup)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (packing her bag with essentials for the day)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (putting on her shoes and jacket)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (1) Isabella is entering Hobbs Cafe and looking around to see who's there)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to approaching a group of people and introducing herself)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about getting to know each other, expressing mutual enthusiasm and interest, and making plans to grab a drink and have dinner together, with Isabella Rodriguez and Klaus Mueller exchanging flirtatious smiles and playful banter as they explore the possibilities of a romantic connection.)",
+      15
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (excusing herself from Klaus Mueller and moving on to meet another person or group)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (introducing herself to the second group or individual)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (having a more in-depth conversation with someone from the second group, showing genuine interest and flirting subtly)",
+      10
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to laughing and joking with the second group, displaying her outgoing and friendly nature)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about getting to know each other, exchanging interests, and planning a potential date, with Isabella Rodriguez and Adam Smith expressing mutual enthusiasm and flirtation, and making plans for a romantic dinner and possibly a skydiving trip together.)",
+      14
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (excusing herself from Adam Smith and scanning the room to see if there's anyone else she wants to meet)",
+      6
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to approaching one last person for a quick introduction before the hour is up)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their experiences and expectations in the Love Ville program, sharing their enthusiasm for adventure and deep connections, and discussing potential matches, including Adam Smith and Klaus Mueller, with a playful suggestion of planning a double date.)",
+      24
+    ],
+    [
+      " (on the way to conversing with Abigail Chen)",
+      0
+    ],
+    [
+      " (conversing about their preferences, interests, and expectations in relationships, with Isabella Rodriguez and Abigail Chen discussing their ideal partners, sharing their thoughts on meaningful connections, and showing enthusiasm and curiosity about each other and other potential matches, including Klaus Mueller and Adam Smith, while navigating the Love Ville program.)",
+      17
+    ],
+    [
+      "continuing to mingle and flirt with other participants (approaching a group of participants)",
+      9
+    ],
+    [
+      "continuing to mingle and flirt with other participants (introducing herself to the group and asking about their interests)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (sharing her own interests and experiences with the group)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (playfully teasing and complimenting the participants)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (laughing and joking with the group)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (exchanging contact information with the participants)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (moving on to another group or individual)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (on the way to engaging in deeper conversations with a few participants)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (conversing about getting to know each other, their interests, and making plans to meet up at Isabella's cafe, exchanging numbers, and exploring a potential romantic connection between Isabella Rodriguez and John Lin)",
+      15
+    ],
+    [
+      "having lunch with other participant (on the way to walking to the dining area, slightly late due to the extended conversation)",
+      0
+    ],
+    [
+      "having lunch with other participant (conversing about their romantic feelings and plans for Valentine's Day, with Isabella Rodriguez and Adam Smith enthusiastically agreeing to spend the evening and the rest of the week together, getting to know each other and making unforgettable memories.)",
+      9
+    ],
+    [
+      "having lunch with other participant (choosing a seat at a table with other participants, still excited from the previous conversation)",
+      5
+    ],
+    [
+      "having lunch with other participant (on the way to engaging in light conversation while waiting for lunch to be served, occasionally exchanging glances with Adam Smith)",
+      0
+    ],
+    [
+      "having lunch with other participant (conversing about their strong mutual attraction and desire for each other, with Isabella Rodriguez and Klaus Mueller exchanging flirtatious and intimate statements, culminating in a passionate and explicit encounter.)",
+      9
+    ],
+    [
+      "having lunch with other participant (serving herself lunch from the buffet)",
+      15
+    ],
+    [
+      "having lunch with other participant (eating lunch while chatting with other participants at the table)",
+      10
+    ],
+    [
+      "having lunch with other participant (finishing her lunch and clearing her plate)",
+      3
+    ],
+    [
+      "having lunch with other participant (saying goodbye to the other participants at the table and leaving the dining area with Adam Smith)",
+      2
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (1) Isabella is taking a quick shower to freshen up)",
+      15
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (applying makeup and styling her hair)",
+      30
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (choosing an outfit that makes her feel confident and attractive)",
+      15
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (sending a flirty text to Adam to build anticipation for their plans)",
+      5
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (tidying up her living space to make it inviting)",
+      20
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (preparing some snacks and drinks for when Adam arrives)",
+      15
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (setting the mood with music and lighting)",
+      10
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (doing some deep breathing exercises to calm her excitement)",
+      10
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (reviewing her conversation starters and topics to avoid awkward silences)",
+      15
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (doing a final check of her appearance in the mirror)",
+      5
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (pacing nervously while waiting for Adam to arrive)",
+      10
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (greeting Adam at the door with a warm smile and inviting him in)",
+      5
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (engaging in light, flirtatious conversation to break the ice)",
+      20
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (offering Adam a drink and snack)",
+      10
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (sitting close to Adam on the couch, allowing their legs to brush against each other)",
+      5
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (laughing at Adam's jokes and playfully touching his arm)",
+      15
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (suggesting they play a game or do an activity together)",
+      10
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (focusing intently on Adam, maintaining eye contact and smiling)",
+      20
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (finding excuses to touch Adam, such as brushing lint off his shirt)",
+      10
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (leaning in close to Adam, hinting that she's open to a kiss)",
+      10
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (engaging in increasingly intimate conversation, sharing personal stories)",
+      20
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (allowing prolonged eye contact and lingering touches)",
+      15
+    ],
+    [
+      "enjoying some free time to herself, but now with the added excitement of plans with Adam Smith (kissing Adam passionately)",
+      10
+    ],
+    [
+      "getting ready for the evening plans with Adam Smith, feeling excited and nervous about the upcoming week together",
+      6
+    ],
+    [
+      "cooking and eating dinner with other participants as part of the Love Ville program",
+      60
+    ],
+    [
+      "getting to know people better as part of the Love Ville program",
+      60
+    ],
+    [
+      "doing her daily exercise routin",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -10
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      1
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and starting her morning routin",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "getting ready for the Love Ville program",
+      60
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      60
+    ],
+    [
+      "continuing to mingle and flirt with other participants",
+      60
+    ],
+    [
+      "having lunch with other participant",
+      60
+    ],
+    [
+      "njoying some free time to herself",
+      300
+    ],
+    [
+      "cooking and eating dinner with other participants as part of the Love Ville program",
+      60
+    ],
+    [
+      "getting to know people better as part of the Love Ville program",
+      60
+    ],
+    [
+      "doing her daily exercise routin",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cooking area",
+  "act_start_time": "February 13, 2023, 12:39:00",
+  "act_duration": 15,
+  "act_description": "having lunch with other participant (serving herself lunch from the buffet)",
+  "act_pronunciatio": "\ud83c\udf74",
+  "act_event": [
+    "Isabella Rodriguez",
+    "serve",
+    "lunch"
+  ],
+  "act_obj_description": "empty and unused",
+  "act_obj_pronunciatio": "\ud83d\udeae",
+  "act_obj_event": [
+    "cooking area",
+    "is",
+    "empty and unused"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 680,
+    "Adam Smith": 559,
+    "Maria Lopez": -116,
+    "Abigail Chen": -1,
+    "John Lin": 485
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

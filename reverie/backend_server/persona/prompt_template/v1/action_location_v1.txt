@@ -10,5 +10,5 @@ Variables:
 
 <commentblockmarker>###</commentblockmarker>
 !<INPUT 0>! is in {!<INPUT 1>!} in a !<INPUT 2>! that has the following areas: {!<INPUT 3>!}. In {!<INPUT 4>!}, Dolores has {!<INPUT 5>!}. 
-
+Note: All group activities will be held on Hobb Cafe
 To !<INPUT 6>!, !<INPUT 7>! should go to the following area: {

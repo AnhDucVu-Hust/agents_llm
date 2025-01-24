@@ -9,7 +9,7 @@ import sys
 import datetime
 import random
 sys.path.append('../')
-
+import json
 from global_methods import *
 
 from persona.memory_structures.spatial_memory import *
@@ -131,7 +131,7 @@ def agent_chat_v2(maze, init_persona, target_persona):
     focal_points = [f"{target_persona.scratch.name}"]
     retrieved = new_retrieve(init_persona, focal_points, 50)
     relationship = generate_summarize_agent_relationship(init_persona, target_persona, retrieved)
-    print ("-------- relationshopadsjfhkalsdjf", relationship)
+    print ("-------- relation", relationship)
     last_chat = ""
     for i in curr_chat[-4:]:
       last_chat += ": ".join(i) + "\n"
@@ -250,7 +250,10 @@ def load_history_via_whisper(personas, whispers):
     keywords = set([s, p, o])
     thought_poignancy = generate_poig_score(persona, "event", whisper)
     thought_embedding_pair = (thought, get_embedding(thought))
-    relationships_thought = generate_relationships_thought(personas,persona,whisper)
+    #print(personas)
+    #print(persona)
+    relationships_thought = generate_relationships_thought(personas,persona,whisper)[0]
+    print(relationships_thought)
     for thought in relationships_thought:
       target_persona_name = list(thought.keys())[0]
       persona.scratch.update_relationship(persona.scratch.curr_time,target_persona_name, thought[target_persona_name])

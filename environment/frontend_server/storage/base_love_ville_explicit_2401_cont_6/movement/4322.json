@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac\u2764\ufe0f",
+      "description": "continuing to mingle and flirt with other participants (conversing about getting to know each other, their interests, and making plans to meet up at Isabella's cafe, exchanging numbers, and exploring a potential romantic connection between Isabella Rodriguez and John Lin) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udfde\ufe0f",
+      "description": "exploring the Ville Village (conversing about their mutual interest in adventure, particularly skydiving, and making plans for their first date, which includes going skydiving and potentially exploring intimate experiences afterwards, with both parties expressing enthusiasm and agreement on spending the night together to unravel each other's desires.) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udcac",
+      "description": "having lunch at the Hobb Cafe with other Love Ville program participants (eating her meal and continuing to chat with others at the table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udcf1",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (conversing about getting to know each other, their interests, and making plans to meet up at Isabella's cafe, exchanging numbers, and exploring a potential romantic connection between Isabella Rodriguez and John Lin) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udca8",
+      "description": "having lunch with the group at Hobb Cafe (1) Adam is walking to the Hobb Cafe with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:00:20"
+  }
+}

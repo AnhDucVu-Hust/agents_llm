@@ -1,0 +1,375 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Maria Lopez": [
+      {
+        "date": "February 13, 2023, 07:22:50",
+        "status": "Klaus Mueller finds Maria Lopez interesting due to her unique combination of physics and Twitch streaming, her insights into group dynamics, and their mutual attraction, with a sentiment score of 4."
+      }
+    ],
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 09:28:50",
+        "status": "Klaus Mueller found Adam Smith's philosophical insights and adventurous spirit fascinating, seeing potential for a camaraderie based on their shared love for intellectual discourse and thrill-seeking activities."
+      }
+    ],
+    "Isabella Rodriguez": [
+      {
+        "date": "February 13, 2023, 09:48:50",
+        "status": "Klaus Mueller finds Isabella Rodriguez's openness and vulnerability interesting, scoring their emotional connection a 2."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 10:11:50",
+  "curr_tile": [
+    57,
+    20
+  ],
+  "daily_plan_req": "Klaus Mueller is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 23,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is 23, with a fit, athletic build and an easy smile that constantly lights up a room. His humor is his biggest asset, but it\u2019s paired with a playful, flirtatious attitude that makes him irresistible. He loves making cheeky comments, often with a wink or playful gesture, and can effortlessly make anyone feel attracted to him without even trying. Beneath his lightheartedness, Klaus enjoys the thrill of physical intimacy\u2014he\u2019s known to give out lingering hugs or playful touches that leave people curious. While he\u2019s all fun and games, when he gets serious, he\u2019s very attentive and knows how to turn on the charm when the moment is right.",
+  "currently": "Klaus Mueller is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/23/2023, all members will be at the hobb cafe at 9am to meet 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 73,
+  "importance_ele_n": 31,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "have breakfast at 7:30 am",
+    "get ready to go to the Hobb Cafe at 8:00 am",
+    "arrive at the Hobb Cafe at 9:00 am to meet the Love Ville Program participants",
+    "participate in the program from 9:00 am to 6:00 pm",
+    "have dinner at 6:30 pm",
+    "go back to the hotel room to rest at 8:00 pm",
+    "watch TV from 9:00 to 10:30 pm an"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine (waking up and lying in bed for a few minutes)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and using the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (on the way to brushing his teeth)",
+      0
+    ],
+    [
+      "waking up and completing his morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.)",
+      16
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (styling his hair)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (applying deodorant and cologne)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (checking his appearance in the mirror)",
+      5
+    ],
+    [
+      "getting ready to go to the Hobb Cafe (packing his bag)",
+      10
+    ],
+    [
+      "getting ready to go to the Hobb Cafe (putting on his shoes)",
+      5
+    ],
+    [
+      "getting ready to go to the Hobb Cafe (grabbing his keys and phone)",
+      5
+    ],
+    [
+      "free time before leaving for the Hobb Cafe",
+      24
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants (1) Klaus is walking from his room to the Hobb Cafe)",
+      5
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants (entering the Hobb Cafe and looking around for the Love Ville Program participants)",
+      5
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants (approaching the group of participants and introducing himself with a charming smile)",
+      10
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants (on the way to engaging in small talk with a few participants, making witty comments and playful jokes)",
+      0
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.)",
+      15
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants (getting a cup of coffee from the cafe counter while continuing to chat with participants)",
+      10
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants (on the way to finding a seat at a table with some participants and joining their conversation)",
+      0
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants (conversing about their experiences, expectations, and interests within the Love Ville Program, exchanging warm and charming smiles, and making plans to discuss book recommendations over a drink later, while exploring the idea of living in the moment and building genuine connections between Isabella Rodriguez and Klaus Mueller.)",
+      15
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (1) Klaus is introducing himself to the group)",
+      10
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (listening to the program coordinator's welcome speech)",
+      20
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (participating in an icebreaker activity)",
+      30
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (chatting with a small group of participants)",
+      30
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (getting a drink from the cafe)",
+      10
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (joining a different conversation with other participants)",
+      30
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (taking a bathroom break)",
+      10
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (participating in a mingling game organized by the program)",
+      20
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (exchanging contact information with some of the participants he connected with)",
+      10
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants (saying goodbye to the group before heading to lunch)",
+      10
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participant",
+      300
+    ],
+    [
+      "having dinner with the other Love Ville Program participants",
+      60
+    ],
+    [
+      "going back to his hotel room to rest",
+      60
+    ],
+    [
+      "watching TV in his hotel room",
+      60
+    ],
+    [
+      "continuing to watch TV in his hotel room",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "eeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "getting ready to go to the Hobb Cafe",
+      60
+    ],
+    [
+      "arriving at the Hobb Cafe to meet the Love Ville Program participants",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participants",
+      180
+    ],
+    [
+      "participating in the Love Ville Program, mingling and chatting with the other participant",
+      300
+    ],
+    [
+      "having dinner with the other Love Ville Program participants",
+      60
+    ],
+    [
+      "going back to his hotel room to rest",
+      60
+    ],
+    [
+      "watching TV in his hotel room",
+      60
+    ],
+    [
+      "continuing to watch TV in his hotel room",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "eeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:The Rose and Crown Pub:pub:behind the bar counter",
+  "act_start_time": "February 13, 2023, 10:04:00",
+  "act_duration": 10,
+  "act_description": "participating in the Love Ville Program, mingling and chatting with the other participants (1) Klaus is introducing himself to the group)",
+  "act_pronunciatio": "\ud83c\udfc3",
+  "act_event": [
+    "Klaus Mueller",
+    "introduce",
+    "group"
+  ],
+  "act_obj_description": "clean and stocked with various drinks and glasses, with a few bartenders busy preparing cocktails for the participants",
+  "act_obj_pronunciatio": "\ud83c\udf78\ud83c\udf79",
+  "act_obj_event": [
+    "behind the bar counter",
+    "behind the bar counter",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": -214,
+    "Adam Smith": 542,
+    "Isabella Rodriguez": 662
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

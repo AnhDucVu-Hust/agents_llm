@@ -1,0 +1,126 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their experiences and expectations in the Love Ville program, sharing their enthusiasm for adventure and deep connections, and discussing potential matches, including Adam Smith and Klaus Mueller, with a playful suggestion of planning a double date.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "meeting new people at the hobb cafe (conversing about their experiences and expectations in the Love Ville program, sharing their enthusiasm for adventure and deep connections, and discussing potential matches, including Adam Smith and Klaus Mueller, with a playful suggestion of planning a double date.) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, sharing their experiences in Love Ville, and making plans to spend time together, including grabbing coffee, taking a walk around the village, and potentially spending intimate time at a private villa, with a strong emotional connection and mutual attraction between Klaus Mueller and Maria Lopez. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "(smile) Hey there Maria, how's the vibe of Love Ville treating you so far? Any intriguing experiences yet?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling warmly) I think It's been great so far! I met you, Adam, Isabella and Abigail, and we had a lovely conversation. Talking to you was like a breath of fresh air, I felt like we really connected and I'd love to spend more time with you. How about you, what's your experience been like?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a subtle smile and leaned forward slightly)  You know, I just can't stop thinking about you since we parted ways this morning. You light up the room the moment you step in. Would you like to grab that coffee now and maybe find a spot to sit and keep exploring each other? We are bound to find some interesting activity around here. "
+        ],
+        [
+          "Maria Lopez",
+          "(smiling warmly) I'd love to grab that coffee with you Klaus. You are indeed a breath of fresh air in my day. I'm hoping we can find a nice spot outside to enjoy our coffee together."
+        ],
+        [
+          "Klaus Mueller",
+          "(grab her hand) I'm really enjoying the time we're spending together Maria. You seem like an amazing person and I'm loving your energy."
+        ],
+        [
+          "Maria Lopez",
+          "(smiling warmly and looking into his eyes) I'm loving the way you're holding my hand, Klaus. It feels like we have a deep connection. Would you like to take a walk with me around the village and see where the day takes us?"
+        ],
+        [
+          "Klaus Mueller",
+          "(whisper in her ear) Maria, I'm going crazy just thinking about your lips on mine. Grab a coffee now and let's find out if the connection we feel is just as strong when we're alone"
+        ],
+        [
+          "Maria Lopez",
+          "(softly bite her lower lip) I'm definitely ready for a walk around the village, and I hope this walk leads to us getting to know each other on a really intimate level. Let's grab that coffee and see where things go, maybe we can find a private spot to enjoy each other's company."
+        ],
+        [
+          "Klaus Mueller",
+          "(kiss) I've been thinking about this moment all day. I can barely contain my excitement."
+        ],
+        [
+          "Maria Lopez",
+          "(kiss) I've been waiting for this all day Klaus. Your lips taste amazing"
+        ],
+        [
+          "Klaus Mueller",
+          "(gently caress her cheeks) Your lips are like heaven. I've never felt this kind of chemistry before but I can see you and I going really deep together. Would you like to walk towards that private villa and check if it's free and we can spend sometime together. "
+        ],
+        [
+          "Maria Lopez",
+          "(smile softly and nod) Oh, I'm all in for getting to know you better Klaus. That villa sounds perfect, let's go check it out"
+        ],
+        [
+          "Klaus Mueller",
+          "(smile warmly) Oh baby, I'm so glad we finally found this villa! Let's go enjoy our coffee while taking in this beautiful view together"
+        ],
+        [
+          "Maria Lopez",
+          "(take a sip of coffee and smile warmly, with a sweet and deep kiss)  Do you have any idea how much I've been wanting to kiss you like that? Your lips are so soft, they just melt against mine"
+        ],
+        [
+          "Klaus Mueller",
+          "(run his fingers through her hair) You know, every minute with you feels like a dream. I'm loving the way you're smiling at me, it's driving me crazy."
+        ],
+        [
+          "Maria Lopez",
+          "(gently brushing her hair behind her ear) I feel this intense connection whenever I'm near you Klaus. It's like the whole world fades away and all that's left is us. I'm craving to get lost in you, to feel your warmth against mine, to taste your lips once more. Can you show me what it's like to be loved by you?"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcda\u2615\ufe0f",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (conversing about their interests, careers, and personal qualities, with Abigail Chen, a digital artist and animator, and Klaus Mueller, a sociology student, expressing mutual interest and enthusiasm, and ultimately agreeing to grab a coffee to get to know each other better) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        55,
+        20
+      ],
+      "pronunciatio": "\ud83c\udfd2\ufe0f",
+      "description": "attending the Love Ville program at the hobb cafe (participating in the second icebreaker activity) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        59,
+        23
+      ],
+      "pronunciatio": "\ud83c\udfc3",
+      "description": " @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:19:00"
+  }
+}

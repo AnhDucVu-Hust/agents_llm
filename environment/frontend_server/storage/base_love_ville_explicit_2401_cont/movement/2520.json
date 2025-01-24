@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (preparing breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udc4b",
+      "description": "waking up and completing her morning routine (waking up and stretching) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\ude34",
+      "description": "waking up and completing his morning routine (waking up and lying in bed for a few minutes) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        87,
+        72
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "having breakfast (1) John is preparing breakfast ingredients) @ the Ville:Lin family's house:kitchen:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:00:00"
+  }
+}

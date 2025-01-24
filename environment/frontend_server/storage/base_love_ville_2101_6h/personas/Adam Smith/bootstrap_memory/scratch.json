@@ -1,0 +1,501 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {},
+  "curr_time": "February 13, 2023, 08:04:50",
+  "curr_tile": [
+    24,
+    68
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is always looking for ways to challenge people\u2019s preconceptions. Adam is deeply passionate about philosophy, particularly exploring the works of existential thinkers and the concept of consciousness. He enjoys reading and engaging in debates on everything from metaphysics to ethical dilemmas. Outside of his intellectual pursuits, Adam is an avid traveler who loves experiencing different cultures and histories firsthand. He also enjoys classical music, hiking, and spending quiet evenings reflecting on life\u2019s big questions. Adam is looking for a partner who shares his love for deep conversations and intellectual growth. He wants someone who can challenge him, question assumptions, and explore new ways of thinking. Adam is most compatible with someone who is intellectually curious, patient, and open to philosophical debates. He thrives in relationships where both partners are willing to grow, challenge each other, and explore the depths of their thoughts and emotions.",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Adam is also curious about who will be running for the local mayor election next month. Adam is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples).  As a participant, your goal is to form genuine connections, whether romantic or platonic, while embracing the experience fully. Treat everyone with respect and kindness, and be honest about your feelings, intentions, and preferences. When interacting with the opposite gender, focus on getting to know them, being yourself, and expressing interest naturally without pressure. With the same gender, build strong friendships, offer emotional support, and handle any competition respectfully. Engage in all activities, share your thoughts openly, and reflect daily on who made an impact on you. Avoid aggression, manipulation, or gossip, and remember that this is a unique opportunity to explore relationships, create memories, and enjoy every moment to the fullest. Every day from 13/23/2023, all members will be at the hobb cafe at 9am to cook and eat breakfast, 6pm to cook and eat dinner.",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 235,
+  "importance_ele_n": 14,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "go for a walk at 5:00 am",
+    "have breakfast at 9:00 am at Hobb Cafe",
+    "read a book and reflect on life from 10:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "participate in a group discussion about philosophy at 2:00 pm",
+    "take a short nap from 4:00 to 5:00 pm",
+    "have dinner at 6:00 pm at Hobb Cafe",
+    "watch a movie about existentialism from 7:00 to 8:00 pm,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine (waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (meditating)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (making coffee)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (drinking coffee and reflecting on the day ahead)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (packing his bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (checking his schedule for the day)",
+      5
+    ],
+    [
+      "going for a walk (1) Adam is putting on his walking shoes and getting ready to leave)",
+      5
+    ],
+    [
+      "going for a walk (walking at a brisk pace, enjoying the fresh morning air)",
+      10
+    ],
+    [
+      "going for a walk (stopping to admire a beautiful sunrise)",
+      5
+    ],
+    [
+      "going for a walk (continuing his walk, reflecting on his thoughts and ideas)",
+      10
+    ],
+    [
+      "going for a walk (taking a short break, stretching his legs)",
+      5
+    ],
+    [
+      "going for a walk (resuming his walk, focusing on his breathing and being present in the moment)",
+      10
+    ],
+    [
+      "going for a walk (walking back home, feeling refreshed and energized)",
+      10
+    ],
+    [
+      "going for a walk (taking off his shoes and getting ready for the next activity)",
+      5
+    ],
+    [
+      "meditating and journaling his thoughts (1) Adam is finding a quiet and comfortable space to meditate)",
+      5
+    ],
+    [
+      "meditating and journaling his thoughts (sitting down and focusing on his breath)",
+      10
+    ],
+    [
+      "meditating and journaling his thoughts (observing his thoughts without judgment)",
+      10
+    ],
+    [
+      "meditating and journaling his thoughts (practicing mindfulness and being present in the moment)",
+      10
+    ],
+    [
+      "meditating and journaling his thoughts (slowly transitioning out of meditation)",
+      5
+    ],
+    [
+      "meditating and journaling his thoughts (reflecting on his meditation session and writing down any insights or observations)",
+      5
+    ],
+    [
+      "meditating and journaling his thoughts (journaling about his current thoughts, feelings, and experiences)",
+      15
+    ],
+    [
+      "reading a book about existentialism (finding a comfortable spot to read)",
+      5
+    ],
+    [
+      "reading a book about existentialism (reviewing the previous chapters)",
+      10
+    ],
+    [
+      "reading a book about existentialism (reading the next chapter)",
+      20
+    ],
+    [
+      "reading a book about existentialism (taking notes on the key points)",
+      10
+    ],
+    [
+      "reading a book about existentialism (reflecting on the ideas presented)",
+      10
+    ],
+    [
+      "reading a book about existentialism (bookmarking the page for tomorrow)",
+      5
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast (brushing his teeth)",
+      5
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast (washing his face)",
+      5
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast (getting dressed)",
+      10
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast (packing his bag)",
+      10
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast (reviewing the schedule for the day)",
+      10
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast (meditating)",
+      10
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast (leaving his room)",
+      5
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast (walking to Hobb Cafe)",
+      5
+    ],
+    [
+      "at Hobb Cafe, cooking and eating breakfast with other Love Ville participants (1) Adam is entering the Hobb Cafe and looking around at the other participants)",
+      5
+    ],
+    [
+      "at Hobb Cafe, cooking and eating breakfast with other Love Ville participants (introducing himself to a group of participants and engaging in small talk)",
+      10
+    ],
+    [
+      "at Hobb Cafe, cooking and eating breakfast with other Love Ville participants (helping to prepare breakfast by chopping vegetables for an omelet)",
+      15
+    ],
+    [
+      "at Hobb Cafe, cooking and eating breakfast with other Love Ville participants (discussing philosophy and the nature of reality with a fellow participant while cooking)",
+      10
+    ],
+    [
+      "at Hobb Cafe, cooking and eating breakfast with other Love Ville participants (serving himself some breakfast and sitting down at a table with a mix of familiar and new faces)",
+      5
+    ],
+    [
+      "at Hobb Cafe, cooking and eating breakfast with other Love Ville participants (eating his breakfast while listening to others share stories about their lives and passions)",
+      10
+    ],
+    [
+      "at Hobb Cafe, cooking and eating breakfast with other Love Ville participants (clearing his dishes and saying goodbye to the group, expressing his excitement to get to know everyone better throughout the program)",
+      5
+    ],
+    [
+      "reading a book and reflecting on life",
+      120
+    ],
+    [
+      "having lunch at Hobb Cafe with other Love Ville participants",
+      60
+    ],
+    [
+      "reading a book and reflecting on life",
+      60
+    ],
+    [
+      "participating in a group discussion about philosophy with other Love Ville participants",
+      60
+    ],
+    [
+      "continuing the group discussion about philosophy with other Love Ville participants",
+      60
+    ],
+    [
+      "taking a short nap",
+      60
+    ],
+    [
+      "having dinner at Hobb Cafe with other Love Ville participants",
+      120
+    ],
+    [
+      "watching a movie about existentialism with other Love Ville participants",
+      60
+    ],
+    [
+      "going to bed",
+      60
+    ],
+    [
+      "sleeping",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "going for a walk",
+      60
+    ],
+    [
+      "meditating and journaling his thoughts",
+      60
+    ],
+    [
+      "reading a book about existentialism",
+      60
+    ],
+    [
+      "preparing to head to Hobb Cafe for breakfast",
+      60
+    ],
+    [
+      "at Hobb Cafe, cooking and eating breakfast with other Love Ville participants",
+      60
+    ],
+    [
+      "reading a book and reflecting on life",
+      120
+    ],
+    [
+      "having lunch at Hobb Cafe with other Love Ville participants",
+      60
+    ],
+    [
+      "reading a book and reflecting on life",
+      60
+    ],
+    [
+      "participating in a group discussion about philosophy with other Love Ville participants",
+      60
+    ],
+    [
+      "continuing the group discussion about philosophy with other Love Ville participants",
+      60
+    ],
+    [
+      "taking a short nap",
+      60
+    ],
+    [
+      "having dinner at Hobb Cafe with other Love Ville participants",
+      120
+    ],
+    [
+      "watching a movie about existentialism with other Love Ville participants",
+      60
+    ],
+    [
+      "going to bed",
+      60
+    ],
+    [
+      "sleeping",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Adam Smith's house:bathroom:toilet",
+  "act_start_time": "February 13, 2023, 08:00:00",
+  "act_duration": 5,
+  "act_description": "preparing to head to Hobb Cafe for breakfast (brushing his teeth)",
+  "act_pronunciatio": "\ud83e\uddb7",
+  "act_event": [
+    "Adam Smith",
+    "brush",
+    "teeth"
+  ],
+  "act_obj_description": "unused",
+  "act_obj_pronunciatio": "\ud83d\udca7",
+  "act_obj_event": [
+    "toilet",
+    "is",
+    "unused"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

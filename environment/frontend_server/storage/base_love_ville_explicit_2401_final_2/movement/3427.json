@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude09",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (having a more in-depth conversation with someone from the second group, showing genuine interest and flirting subtly) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        70,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude18",
+      "description": "meeting new people at the hobb cafe (conversing about getting to know each other, expressing mutual attraction and enthusiasm, and making plans for a romantic dinner and sunset viewing at 7pm, between Maria Lopez and Adam Smith, who have just met at the Love Ville Program.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        21
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "arriving at the Hobb Cafe to meet the Love Ville Program participants (walking over to a group of participants and introducing himself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83e\udd1d\u2744\ufe0f",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (participating in an icebreaker activity with other participants) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf89\u2744\ufe0f",
+      "description": "attending the Love Ville program at the hobb cafe (participating in the first icebreaker activity) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udf74",
+      "description": "rriving at Hobb Cafe to meet the group (conversing about getting to know each other, expressing mutual attraction and enthusiasm, and making plans for a romantic dinner and sunset viewing at 7pm, between Maria Lopez and Adam Smith, who have just met at the Love Ville Program.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:31:10"
+  }
+}

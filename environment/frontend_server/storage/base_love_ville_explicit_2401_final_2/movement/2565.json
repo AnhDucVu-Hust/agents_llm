@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (preparing breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        129,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, majors, and personalities, while expressing mutual enthusiasm and warmth, and making plans to grab coffee and continue their conversation, between Maria Lopez, a physics major and Twitch streamer, and Klaus Mueller, a sociology major. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(gets out of bed with her blankets wrapped around her and walks to Klaus Mueller with a casual smile) Hey, I'm Maria Lopez, nice to meet you. You're new here, right? "
+        ],
+        [
+          "Klaus Mueller",
+          "(give a charming smile) Hi Maria, nice to meet you! I'm Klaus Mueller. You look lovely this morning. What brings you here today?"
+        ],
+        [
+          "Maria Lopez",
+          "(smile back) Ah, I love your accent, where are you from? I'm a student at Oak Hill College myself."
+        ],
+        [
+          "Klaus Mueller",
+          "(chuckles) Ah, I'm from around here, went to school in Oak Hill College, studying sociology. Love the vibe here. What about you, what's your major?"
+        ],
+        [
+          "Maria Lopez",
+          "(smile warmly, holding the blankets slightly above her knees) Oh, sociology, huh? That's so cool! I'm actually studying physics myself. I love how you can apply the concepts to real-life situations, you know? What made you choose sociology?"
+        ],
+        [
+          "Klaus Mueller",
+          "(give a charming smile and lean in slightly) That's so cool, physics sounds like a real challenge! I've always been fascinated by how things work, but I don't think I could ever handle all the math and physics required. What draws you to it?"
+        ],
+        [
+          "Maria Lopez",
+          "(lean in slightly, maintaining eye contact) Oh, it's fascinating to learn about real-life situations through sociology, isn't it? It's so complex, yet beautiful, to understand how humans interact."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) That's really interesting about the social dynamics in physics. But if I'm being completely honest, I'm a little surprised you're a physics major - you seem so warm and sociology is just so... human. Don't get me wrong, I think it's awesome you're into that."
+        ],
+        [
+          "Maria Lopez",
+          "(giving a playful smile) Oh, you think I'm warm and more suited for sociology, huh? Well, I like to think I can bring a little warmth to the world of physics too. (giggles) But I'm glad I can surprise you."
+        ],
+        [
+          "Klaus Mueller",
+          "(leaning in closer) I have to say, I'm really enjoying our conversation, Maria. Your smile is so radiant, it lights up the whole room."
+        ],
+        [
+          "Maria Lopez",
+          "(looking into his eyes) I'm glad I could surprise you, Klaus. Your smile is quite radiant yourself. What made you choose to study sociology?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly, taking a step closer) Oh, I loved how you said that, it sounds really beautiful. The way you describe the world of physics is like music to my ears. Your voice is so soothing, it feels like I could listen to you all day. (pauses for a moment, looking into her eyes) Do you like talking about physics all day, or is there something else you're passionate about?"
+        ],
+        [
+          "Maria Lopez",
+          "(giving a curious gaze) That's so sweet of you to say, Klaus. I'm passionate about connecting with people and exploring new ideas too. My job as a Twitch streamer lets me do that, but if I'm being completely honest, I'm really interested in getting to know you better too. (leans in closer, smiling softly) What do you say we grab some coffee and continue this conversation?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smile warmly and lightly brush my hand against hers) I'd love to grab coffee with you and talk more about physics and everything else that's on your mind."
+        ],
+        [
+          "Maria Lopez",
+          "(lean her body in a bit closer) Tell me, Klaus, what do you find most intriguing about the people around you? Is there a certain personality type that draws you in?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smile warmly) I've always been drawn to people who are confident, passionate, and genuine. There's something about a person who knows what they want and isn't afraid to go after it that I find really captivating."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, majors, and personalities, while expressing mutual enthusiasm and warmth, and making plans to grab coffee and continue their conversation, between Maria Lopez, a physics major and Twitch streamer, and Klaus Mueller, a sociology major. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(gets out of bed with her blankets wrapped around her and walks to Klaus Mueller with a casual smile) Hey, I'm Maria Lopez, nice to meet you. You're new here, right? "
+        ],
+        [
+          "Klaus Mueller",
+          "(give a charming smile) Hi Maria, nice to meet you! I'm Klaus Mueller. You look lovely this morning. What brings you here today?"
+        ],
+        [
+          "Maria Lopez",
+          "(smile back) Ah, I love your accent, where are you from? I'm a student at Oak Hill College myself."
+        ],
+        [
+          "Klaus Mueller",
+          "(chuckles) Ah, I'm from around here, went to school in Oak Hill College, studying sociology. Love the vibe here. What about you, what's your major?"
+        ],
+        [
+          "Maria Lopez",
+          "(smile warmly, holding the blankets slightly above her knees) Oh, sociology, huh? That's so cool! I'm actually studying physics myself. I love how you can apply the concepts to real-life situations, you know? What made you choose sociology?"
+        ],
+        [
+          "Klaus Mueller",
+          "(give a charming smile and lean in slightly) That's so cool, physics sounds like a real challenge! I've always been fascinated by how things work, but I don't think I could ever handle all the math and physics required. What draws you to it?"
+        ],
+        [
+          "Maria Lopez",
+          "(lean in slightly, maintaining eye contact) Oh, it's fascinating to learn about real-life situations through sociology, isn't it? It's so complex, yet beautiful, to understand how humans interact."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) That's really interesting about the social dynamics in physics. But if I'm being completely honest, I'm a little surprised you're a physics major - you seem so warm and sociology is just so... human. Don't get me wrong, I think it's awesome you're into that."
+        ],
+        [
+          "Maria Lopez",
+          "(giving a playful smile) Oh, you think I'm warm and more suited for sociology, huh? Well, I like to think I can bring a little warmth to the world of physics too. (giggles) But I'm glad I can surprise you."
+        ],
+        [
+          "Klaus Mueller",
+          "(leaning in closer) I have to say, I'm really enjoying our conversation, Maria. Your smile is so radiant, it lights up the whole room."
+        ],
+        [
+          "Maria Lopez",
+          "(looking into his eyes) I'm glad I could surprise you, Klaus. Your smile is quite radiant yourself. What made you choose to study sociology?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly, taking a step closer) Oh, I loved how you said that, it sounds really beautiful. The way you describe the world of physics is like music to my ears. Your voice is so soothing, it feels like I could listen to you all day. (pauses for a moment, looking into her eyes) Do you like talking about physics all day, or is there something else you're passionate about?"
+        ],
+        [
+          "Maria Lopez",
+          "(giving a curious gaze) That's so sweet of you to say, Klaus. I'm passionate about connecting with people and exploring new ideas too. My job as a Twitch streamer lets me do that, but if I'm being completely honest, I'm really interested in getting to know you better too. (leans in closer, smiling softly) What do you say we grab some coffee and continue this conversation?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smile warmly and lightly brush my hand against hers) I'd love to grab coffee with you and talk more about physics and everything else that's on your mind."
+        ],
+        [
+          "Maria Lopez",
+          "(lean her body in a bit closer) Tell me, Klaus, what do you find most intriguing about the people around you? Is there a certain personality type that draws you in?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smile warmly) I've always been drawn to people who are confident, passionate, and genuine. There's something about a person who knows what they want and isn't afraid to go after it that I find really captivating."
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        93,
+        68
+      ],
+      "pronunciatio": "\ud83d\udca1",
+      "description": "having breakfast (1) John is preparing breakfast ingredients) @ the Ville:Lin family's house:kitchen:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        24,
+        49
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:07:30"
+  }
+}

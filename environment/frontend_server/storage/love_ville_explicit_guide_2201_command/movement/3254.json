@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udfc3",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (1) Isabella is entering Hobbs Cafe and looking around to see who's there) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83c\udfb5\ud83d\udcad",
+      "description": "listening to music (listening to music and reflecting on her thoughts) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        45
+      ],
+      "pronunciatio": "\ud83e\uddf3",
+      "description": "getting ready to go to the Hobb Cafe (packing his bag) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:closet",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        41,
+        27
+      ],
+      "pronunciatio": "\ud83c\udfc3",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (1) Abigail is entering the Hobb Cafe and looking for the Love Ville program meeting area) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        88,
+        57
+      ],
+      "pronunciatio": "\ud83d\udeb6\ufe0f\ufe0f",
+      "description": "attending the Love Ville program at the hobb cafe (walking to the hobb cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        65,
+        30
+      ],
+      "pronunciatio": "1\ufe0f\u20e3",
+      "description": "rriving at Hobb Cafe to meet the group (1) Adam is parking his car near Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:02:20"
+  }
+}

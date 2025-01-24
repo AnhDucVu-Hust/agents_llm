@@ -1,0 +1,566 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "John Lin": [
+      {
+        "date": "February 13, 2023, 09:30:50",
+        "status": "Abigail Chen John's combination of charm, attentiveness, and intellectual interests was appealing to Abigail, leading to a strong attraction and interest in pursuing a relationship."
+      },
+      {
+        "date": "February 13, 2023, 12:18:50",
+        "status": "Abigail Chen finds John Lin's appreciation for her views on beauty and art intriguing, and she's excited about the physical chemistry between them, looking forward to their private meeting later. Their romantic emotion is scored at 4 out of 5."
+      }
+    ],
+    "Maria Lopez": [
+      {
+        "date": "February 13, 2023, 09:53:50",
+        "status": "Abigail Chen found Maria's perspective on merging thrill and vulnerability in relationships both intriguing and appealing."
+      },
+      {
+        "date": "February 13, 2023, 12:48:50",
+        "status": "Abigail Chen I found Maria's enthusiasm for learning exotic dances and her interest in intellectual discussions quite intriguing. Our conversation flowed smoothly, and I appreciate her open-mindedness and the way she engages with different topics."
+      }
+    ],
+    "Adam Smith": [
+      {
+        "date": "February 13, 2023, 10:02:00",
+        "status": "Abigail Chen wants to talk with Adam Smith"
+      },
+      {
+        "date": "February 13, 2023, 11:26:50",
+        "status": "Abigail Chen was drawn to Adam Smith's intellectual depth and his appreciation for digital art, feeling a romantic spark that scored a solid 4 out of 5."
+      }
+    ],
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 10:10:50",
+        "status": "Abigail Chen finds Klaus's combination of intellectual curiosity and appreciation for her artistic pursuits attractive, scoring their connection a 4 out of 5."
+      }
+    ],
+    "Isabella Rodriguez": [
+      {
+        "date": "February 13, 2023, 10:36:50",
+        "status": "Abigail Chen thought Isabella's emphasis on honesty and support in relationships was particularly insightful."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 12:49:40",
+  "curr_tile": [
+    76,
+    25
+  ],
+  "daily_plan_req": "Abigail Chen is now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She has a polished look\u2014sharp features, platinum blonde bob, and a wardrobe of sleek power suits. But she\u2019s also unapologetically sensual, with a natural ability to captivate with her body language and confident presence. She often uses subtle touches to assert her power, leaning in just a little too close or letting her gaze linger on someone\u2019s lips before she speaks. She loves the thrill of control and isn\u2019t afraid to challenge others\u2014especially in the bedroom, where she\u2019s known to take the lead. She's a woman who thrives on chemistry and loves intellectual stimulation just as much as physical connection, making her an unforgettable presence.She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.",
+  "currently": "Abigail Chen is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/2/2023, all members will be at the hobb cafe at 9am for meeting and 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too.",
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 57,
+  "importance_ele_n": 52,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "have breakfast at 8:30 am",
+    "get ready for the day at 9:00 am",
+    "attend the Love Ville program meeting at the Hobb Cafe at 9:00 am",
+    "socialize and get to know other participants from 10:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "explore the Ville Village from 1:00 pm to 5:00 pm",
+    "cook and have dinner with other participants at the Hobb Cafe at 6:00 pm",
+    "continue socializing and flirting with potential matches from 7:00 pm to 11:00 pm,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (drying her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (applying makeup)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (1) Abigail is entering the Hobb Cafe and looking for a seat)",
+      5
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (introducing herself to the person sitting next to her)",
+      5
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (on the way to listening to the program coordinator's welcome speech)",
+      0
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (conversing about getting to know each other, expressing mutual attraction and interest, and making plans to grab a drink and take a walk around the village after dinner tonight, between Abigail Chen and John Lin)",
+      22
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (participating in an icebreaker activity with other participants)",
+      8
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (on the way to engaging in a group discussion about expectations for the program)",
+      0
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (conversing about their interests, desires, and fears, particularly regarding adventure, trust, and vulnerability, while exchanging flirtatious remarks and showing mutual interest, between Maria Lopez and Abigail Chen, with a potential plan to explore their connection further.)",
+      22
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (on the way to exchanging contact information with Maria Lopez)",
+      0
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (conversing about their interests, careers, and personal qualities, with Abigail Chen, a digital artist and animator, and Klaus Mueller, a sociology student, expressing mutual interest and enthusiasm, and ultimately agreeing to grab a coffee to get to know each other better)",
+      15
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (exchanging contact information with Klaus Mueller)",
+      3
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (returning to the group discussion about expectations for the program)",
+      5
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (on the way to reviewing the schedule for the rest of the day)",
+      0
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (conversing about their preferences, interests, and expectations in relationships, with Isabella Rodriguez and Abigail Chen discussing their ideal partners, sharing their thoughts on meaningful connections, and showing enthusiasm and curiosity about each other and other potential matches, including Klaus Mueller and Adam Smith, while navigating the Love Ville program.)",
+      17
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (approaching a group of participants and introducing herself)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (engaging in small talk with the group, asking about their backgrounds and interests)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (actively listening to the responses and asking follow-up questions)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (sharing her own background and interests with the group)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (looking for common interests or experiences within the group)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (wrapping up conversations and preparing to move on to the next activity)",
+      5
+    ],
+    [
+      "continuing to socialize and get to know other Love Ville program participants at the Hobb Cafe (on the way to approaching a group of participants and introducing herself)",
+      0
+    ],
+    [
+      "continuing to socialize and get to know other Love Ville program participants at the Hobb Cafe (conversing about their interests, hobbies, and passions, with Abigail Chen and Adam Smith expressing enthusiasm and mutual interest in each other's work, particularly in digital art and philosophy, and making plans to grab dinner at 7pm to further discuss their ideas and potentially collaborate on a project together.)",
+      17
+    ],
+    [
+      "continuing to socialize and get to know other Love Ville program participants at the Hobb Cafe (exchanging contact information with the group members)",
+      5
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants (1) Abigail is walking to the Hobb Cafe with other program participants)",
+      5
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants (choosing what to eat from the menu)",
+      5
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants (ordering her meal and drink)",
+      5
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants (engaging in casual conversation with other participants while waiting for the food to arrive)",
+      10
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants (eating her meal and continuing to chat with others at the table)",
+      20
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants (on the way to finishing her meal and drink)",
+      0
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants (conversing about getting to know each other, sharing thoughts on art and beauty, and making plans to meet up for a drink and a walk around the village tonight, with a potential intimate encounter, and also scheduling a follow-up meeting for after tomorrow, between Abigail Chen and John Lin, with a palpable sense of mutual attraction and enthusiasm.)",
+      18
+    ],
+    [
+      " (on the way to )",
+      0
+    ],
+    [
+      " (conversing about their personal interests, sharing experiences, and forming a connection, as Abigail Chen and Maria Lopez discuss their adventurous activities, ideal partners, and plans, ultimately deciding to exchange contact information to continue their newfound connection.)",
+      24
+    ],
+    [
+      "",
+      5
+    ],
+    [
+      "",
+      5
+    ],
+    [
+      "",
+      5
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      10
+    ],
+    [
+      "",
+      3
+    ],
+    [
+      "",
+      17
+    ],
+    [
+      "returning to her room to freshen up and get ready for the evening activitie",
+      60
+    ],
+    [
+      "cooking and having dinner with other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to socialize and flirt with potential matches at the Hobb Cafe",
+      60
+    ],
+    [
+      "engaging in deep conversation with a potential match, displaying her intellect and wit",
+      60
+    ],
+    [
+      "engaging in a flirtatious and mentally stimulating conversation with a potential match",
+      120
+    ],
+    [
+      "returning to her room, reflecting on the day's events and potential connections made",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -17
+    ],
+    [
+      "sleeping",
+      -17
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe",
+      60
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to socialize and get to know other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants",
+      60
+    ],
+    [
+      "exploring the Ville Village with other Love Ville program participant",
+      240
+    ],
+    [
+      "returning to her room to freshen up and get ready for the evening activitie",
+      60
+    ],
+    [
+      "cooking and having dinner with other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to socialize and flirt with potential matches at the Hobb Cafe",
+      60
+    ],
+    [
+      "engaging in deep conversation with a potential match, displaying her intellect and wit",
+      60
+    ],
+    [
+      "engaging in a flirtatious and mentally stimulating conversation with a potential match",
+      120
+    ],
+    [
+      "returning to her room, reflecting on the day's events and potential connections made",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 12:49:00",
+  "act_duration": 24,
+  "act_description": " (conversing about their personal interests, sharing experiences, and forming a connection, as Abigail Chen and Maria Lopez discuss their adventurous activities, ideal partners, and plans, ultimately deciding to exchange contact information to continue their newfound connection.)",
+  "act_pronunciatio": "\ud83d\udcac\ud83d\udcf1",
+  "act_event": [
+    "Abigail Chen",
+    "converse",
+    "Maria Lopez"
+  ],
+  "act_obj_description": "being used by Abigail Chen and Maria Lopez as they socialize and exchange contact information",
+  "act_obj_pronunciatio": "\ud83d\udcf1",
+  "act_obj_event": [
+    "cafe customer seating",
+    "be used by",
+    "Abigail Chen and Maria Lopez"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "John Lin": 614,
+    "Maria Lopez": 795,
+    "Klaus Mueller": -156,
+    "Isabella Rodriguez": 0,
+    "Adam Smith": 300
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

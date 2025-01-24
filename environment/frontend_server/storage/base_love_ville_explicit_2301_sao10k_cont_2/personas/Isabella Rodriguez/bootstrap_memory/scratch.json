@@ -1,0 +1,517 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Abigail Chen": [
+      {
+        "date": "February 13, 2023, 09:33:50",
+        "status": "Isabella Rodriguez found Abigail Chen's perspectives on art and relationship authenticity engaging."
+      }
+    ],
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 09:48:50",
+        "status": "Isabella Rodriguez finds Klaus's charm, shared love for reading, and openness to vulnerability intriguing, scoring their connection a 3."
+      }
+    ],
+    "Maria Lopez": [
+      {
+        "date": "February 13, 2023, 10:11:50",
+        "status": "Isabella Rodriguez mpressed by Maria Lopez's passion for physics and their shared curiosity about the universe."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 10:12:00",
+  "curr_tile": [
+    76,
+    25
+  ],
+  "daily_plan_req": "Isabella Rodriguez now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome.She has a radiant smile, red hair, and a body built for spontaneous adventures. She's outgoing, open-minded, and absolutely fearless when it comes to exploring new experiences\u2014especially when they involve passion. She loves to flirt with an easygoing, almost effortless charm, and isn\u2019t afraid to express her physical attraction. With a contagious laugh and playful touches, she flirts freely and isn\u2019t afraid to engage in physical intimacy when the chemistry is undeniable. She believes in living in the moment and often acts on impulse, which can lead to unexpected sparks. She's a true believer that life\u2014and love\u2014are all about enjoying the ride.Now she is joining the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date. The Hobbs Cafe now is used for the program",
+  "currently": "Isabella Rodriguez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/23/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am. She always does exercise at 8pm",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 6,
+  "importance_ele_n": 34,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have a breakfast at 7:00 am",
+    "get ready for the Love Ville program at 8:00 am",
+    "meet new people at Hobbs Cafe at 9:00 am",
+    "have a lunch at 12:00 pm",
+    "free time from 1:00 pm to 6:00 pm",
+    "cook and eat dinner at 6:00 pm",
+    "get to know people better from 7:00 pm to 8:00 pm",
+    "do exercise at 8:00 pm,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and starting her morning routin (1) Isabella is waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (making her bed)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (washing her face)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (applying moisturizer and sunscreen)",
+      5
+    ],
+    [
+      "waking up and starting her morning routin (getting dressed for the day)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (doing her hair)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (applying light makeup)",
+      10
+    ],
+    [
+      "waking up and starting her morning routin (putting on her shoes)",
+      5
+    ],
+    [
+      "having breakfast (preparing breakfast)",
+      15
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      30
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (showering)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (doing her hair)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (doing her makeup)",
+      15
+    ],
+    [
+      "getting ready for the Love Ville program (getting dressed)",
+      10
+    ],
+    [
+      "getting ready for the Love Ville program (double-checking her appearance in the mirror)",
+      5
+    ],
+    [
+      "getting ready for the Love Ville program (grabbing her bag and heading out the door)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (entering Hobbs Cafe and looking around to see who's there)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (approaching a group of people and introducing herself)",
+      5
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (engaging in small talk with the group)",
+      10
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to moving on to another group and introducing herself)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their thoughts on love, relationships, and finding genuine connections, with Isabella Rodriguez and Abigail Chen enthusiastically discussing and agreeing on the importance of being oneself, vulnerability, and appreciating each other's true selves, while also sharing their personal experiences and perspectives, and potentially exploring a romantic connection between themselves, all within the context of the Love Ville program, a dating show where they are both participants.)",
+      23
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to moving on to a third group and introducing herself)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their experiences, expectations, and interests within the Love Ville Program, exchanging warm and charming smiles, and making plans to discuss book recommendations over a drink later, while exploring the idea of living in the moment and building genuine connections between Isabella Rodriguez and Klaus Mueller.)",
+      15
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (on the way to scanning the room to see if there's anyone else she should meet)",
+      0
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program (conversing about their shared interests in physics and philosophy, exchanging book and documentary recommendations, and discussing their perspectives on the universe, with Maria Lopez and Isabella Rodriguez expressing enthusiasm and agreement as they get to know each other through the Love Ville program.)",
+      22
+    ],
+    [
+      "engaging in conversations and flirting with other participants (Isabella is scanning the room to identify potential conversation partners)",
+      5
+    ],
+    [
+      "engaging in conversations and flirting with other participants (approaching a handsome man and introducing herself)",
+      5
+    ],
+    [
+      "engaging in conversations and flirting with other participants (engaging in light, playful banter with the man)",
+      10
+    ],
+    [
+      "engaging in conversations and flirting with other participants (laughing at the man's jokes and playfully touching his arm)",
+      5
+    ],
+    [
+      "engaging in conversations and flirting with other participants (asking the man questions about himself to show interest)",
+      10
+    ],
+    [
+      "engaging in conversations and flirting with other participants (sharing a bit about herself to create a connection)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (1) Isabella is approaching a group of participants and introducing herself)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (engaging in light conversation with the group, asking about their backgrounds and interests)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (playfully teasing a participant she finds attractive)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (laughing and joking with the group, creating a lively atmosphere)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (touching the arm of the participant she is flirting with while talking)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (moving to another group and introducing herself with a warm smile)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (asking questions and showing genuine interest in the new group's conversations)",
+      10
+    ],
+    [
+      "continuing to mingle and flirt with other participants (playfully winking at a participant she finds charming)",
+      5
+    ],
+    [
+      "continuing to mingle and flirt with other participants (excusing herself from the group to freshen up before lunch)",
+      5
+    ],
+    [
+      "having lunch with other participant",
+      60
+    ],
+    [
+      "njoying some free time to herself",
+      300
+    ],
+    [
+      "cooking and eating dinner with other participants as part of the Love Ville program",
+      60
+    ],
+    [
+      "getting to know people better as part of the Love Ville program",
+      60
+    ],
+    [
+      "doing her daily exercise routin",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and starting her morning routin",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "getting ready for the Love Ville program",
+      60
+    ],
+    [
+      "meeting new people at Hobbs Cafe as part of the Love Ville program",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      60
+    ],
+    [
+      "continuing to mingle and flirt with other participants",
+      60
+    ],
+    [
+      "having lunch with other participant",
+      60
+    ],
+    [
+      "njoying some free time to herself",
+      300
+    ],
+    [
+      "cooking and eating dinner with other participants as part of the Love Ville program",
+      60
+    ],
+    [
+      "getting to know people better as part of the Love Ville program",
+      60
+    ],
+    [
+      "doing her daily exercise routin",
+      60
+    ],
+    [
+      "engaging in conversations and flirting with other participants",
+      120
+    ],
+    [
+      "getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "<persona> Maria Lopez",
+  "act_start_time": "February 13, 2023, 09:49:10",
+  "act_duration": 22,
+  "act_description": "conversing about their shared interests in physics and philosophy, exchanging book and documentary recommendations, and discussing their perspectives on the universe, with Maria Lopez and Isabella Rodriguez expressing enthusiasm and agreement as they get to know each other through the Love Ville program.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "chat with",
+    "Maria Lopez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Maria Lopez",
+  "chat": [
+    [
+      "Maria Lopez",
+      "(extend her hand to shake) Hi, I'm Maria Lopez. I couldn't help but notice you from across the room. You seem like an interesting person to talk to."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(shaking hands) I'm Isabella Rodriguez, but you can call me Isabella. It's nice to meet you."
+    ],
+    [
+      "Maria Lopez",
+      "(being friendly and open-minded) So Isabella, what brings you to the Love Ville program? Are you looking for something casual or serious?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) I'm looking for something serious, I want to find someone I can truly connect with. What about you, Maria?"
+    ],
+    [
+      "Maria Lopez",
+      "(smile warmly) I'm looking for something serious too, I want to find someone who can keep up with my passion for science and intellectual conversations. I've been really into physics lately, have you ever been interested in it?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(give a knowing smile) Oh, I've always been fascinated by the mysteries of the universe, and physics sounds like an incredible field to explore. I've never delved too deeply into it myself, but I'd love to hear more about what you find so captivating about it. You seem to have a real passion for it, and I'm sure it would be fascinating to hear you talk more about your interests and what drives you."
+    ],
+    [
+      "Maria Lopez",
+      "(lean in slightly, showing genuine interest) That's really cool! I've always found physics to be fascinating, especially when it comes to understanding the fundamental laws of the universe. There's something so captivating about discovering the hidden patterns and mechanics that govern everything around us. I've spent countless hours delving into topics like quantum mechanics and relativity, and I'm always eager to discuss them with someone who shares my enthusiasm. Have you come across any interesting books or documentaries on physics that you'd recommend? I'm always looking for new sources of inspiration."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) I have come across some interesting documentaries on physics, actually. One that I found particularly captivating was 'The Universe'. Have you seen it? It explores some of the most fascinating phenomena in the universe, from black holes to dark matter. I think you'd really enjoy it."
+    ],
+    [
+      "Maria Lopez",
+      "(smile warmly) That sounds like a great documentary, I'll have to check it out. I'd also recommend 'The Fabric of the Cosmos' by Brian Greene, it's a fascinating book that explores the intersection of physics and philosophy. I think you'd find it really interesting."
+    ],
+    [
+      "Isabella Rodriguez",
+      "(lean forward, eyes sparkling with curiosity)  you know, I have noticed that people who are really into physics tend to have a different perspective on the world"
+    ],
+    [
+      "Maria Lopez",
+      "(smile warmly) That's a really interesting point, I think you're right. People who are into physics do tend to have a unique perspective on the world. I've found that it can be both exhilarating and humbling to learn about the vastness and complexity of the universe. It puts everything into perspective, doesn't it? I'd love to hear more about the documentaries you've watched, what drew you to them? (lean back slightly, making herself more comfortable)"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) I'm loving the sound of that, Brian Greene is one of my favorite authors. I'd adore to hear more about why you enjoy reading him, is there something specific about his writing style or perspective that resonates with you? I've found that reading about the universe can be both mind-expanding and humbling, don't you think? It puts everything into such a vast and mysterious perspective. And I have to ask, what draws you to the intersection of physics and philosophy, is it the quest to understand our place in the universe or something else entirely?"
+    ],
+    [
+      "Maria Lopez",
+      "(tilt her head slightly to the side) Well, I've found the intersection of physics and philosophy truly captivating. It challenges the way we think about reality, the universe, and our very existence. I love how Greene explores this intersection, making complex ideas accessible and even beautiful. The concept of cosmic time, for instance, is mind-bending. Greene has a way of walking you through these labyrinthine ideas in a manner that's both enlightening and profoundly thought-provoking. What about you? What draws you to books on physics and the cosmos?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(shaking head softly) Well, I've always been more of a philosophy buff myself, but there's something about the way physics can explain the intricacies of the universe that I find incredibly captivating. The idea that everything we can see and touch is governed by these invisible laws and patterns is just fascinating. Simply put, physics is cool"
+    ],
+    [
+      "Maria Lopez",
+      "(dress in her prettiest and most elegant outfit, drink a cup of coffee and think silently) I think I'm going to play it cool and wait to see how the situation unfolds"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) I completely agree, there's something profound about grasping the underlying order of the universe. It's like peeling back the layers of an onion, each time revealing more complexity and beauty. Have you ever had any particularly memorable 'aha' moments while delving into physics, where everything suddenly clicked into place?"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Abigail Chen": 572,
+    "Klaus Mueller": 662,
+    "Maria Lopez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 10:12:00",
+  "act_path_set": true,
+  "planned_path": []
+}

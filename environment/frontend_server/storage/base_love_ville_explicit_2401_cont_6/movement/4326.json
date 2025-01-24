@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their romantic feelings and plans for Valentine's Day, with Isabella Rodriguez and Adam Smith enthusiastically agreeing to spend the evening and the rest of the week together, getting to know each other and making unforgettable memories. @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "(smile warmly) Oh, Adam! How was your morning? Feel more relaxed and a little excited after our successful group meeting today I found out, huh?"
+        ],
+        [
+          "Adam Smith",
+          "(hold Isabella's hand, pull her close) you're even more gorgeous when you smile"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(giggle, kiss his lips.) You make me blush. You're making me feel like I'm the only girl in this room. Can you stay for a night at my place to happy Valentine's Day together? We have a whole weekend ahead of us, plus all next week to get to know each other"
+        ],
+        [
+          "Adam Smith",
+          "(stroke Isabella's hair, look deep into her eyes) Oh, Isabella. You really know how to make a man happy. I'd love to spend not just Valentine's Day, but the rest of the week getting to know you better. Every moment with you is a gift."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(gently bite Adam's lower lip) Mmm... I just can't get enough of you. How about we sneak away from the group for a bit and see where the night takes us?"
+        ],
+        [
+          "Adam Smith",
+          "(run hand along Isabella's back) The way you say such dirty things and still look like an angel is incredibly sexy"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(kiss) I love the way your hands feel on my skin, keep touching me like that."
+        ],
+        [
+          "Adam Smith",
+          "(lift Isabella onto the counter, wrap her legs around his waist) You know what I think is sexier than your looks? Your brain"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(come closer) so do you think i'm pretty?"
+        ],
+        [
+          "Adam Smith",
+          "(kiss) you're a goddess"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(run her hands through Adam's hair) I can tell we both want this, I can feel it"
+        ],
+        [
+          "Adam Smith",
+          "(move his hand slowly up Isabella's thigh) You're so sexy, I don't know how much longer I can wait to be inside you"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(pull Adam closer) let's take this back to my place and make the most of our evening"
+        ],
+        [
+          "Adam Smith",
+          "(advance to claim Isabella's lips) I'm taking you, all night, all week"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(lean back, arching her neck) Oh, you feel so good... I can already imagine us lost in each other's eyes, moaning with pleasure"
+        ],
+        [
+          "Adam Smith",
+          "(stroke Isabella's hair, kiss her neck) You're so tempting right now...Let's get out of here and make some unforgettable memories"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        70,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udfde\ufe0f",
+      "description": "exploring the Ville Village (conversing about their mutual interest in adventure, particularly skydiving, and making plans for their first date, which includes going skydiving and potentially exploring intimate experiences afterwards, with both parties expressing enthusiasm and agreement on spending the night together to unravel each other's desires.) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83d\udcac",
+      "description": "having lunch at the Hobb Cafe with other Love Ville program participants (eating her meal and continuing to chat with others at the table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udcf1",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (conversing about getting to know each other, their interests, and making plans to meet up at Isabella's cafe, exchanging numbers, and exploring a potential romantic connection between Isabella Rodriguez and John Lin) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their romantic feelings and plans for Valentine's Day, with Isabella Rodriguez and Adam Smith enthusiastically agreeing to spend the evening and the rest of the week together, getting to know each other and making unforgettable memories. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "(smile warmly) Oh, Adam! How was your morning? Feel more relaxed and a little excited after our successful group meeting today I found out, huh?"
+        ],
+        [
+          "Adam Smith",
+          "(hold Isabella's hand, pull her close) you're even more gorgeous when you smile"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(giggle, kiss his lips.) You make me blush. You're making me feel like I'm the only girl in this room. Can you stay for a night at my place to happy Valentine's Day together? We have a whole weekend ahead of us, plus all next week to get to know each other"
+        ],
+        [
+          "Adam Smith",
+          "(stroke Isabella's hair, look deep into her eyes) Oh, Isabella. You really know how to make a man happy. I'd love to spend not just Valentine's Day, but the rest of the week getting to know you better. Every moment with you is a gift."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(gently bite Adam's lower lip) Mmm... I just can't get enough of you. How about we sneak away from the group for a bit and see where the night takes us?"
+        ],
+        [
+          "Adam Smith",
+          "(run hand along Isabella's back) The way you say such dirty things and still look like an angel is incredibly sexy"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(kiss) I love the way your hands feel on my skin, keep touching me like that."
+        ],
+        [
+          "Adam Smith",
+          "(lift Isabella onto the counter, wrap her legs around his waist) You know what I think is sexier than your looks? Your brain"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(come closer) so do you think i'm pretty?"
+        ],
+        [
+          "Adam Smith",
+          "(kiss) you're a goddess"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(run her hands through Adam's hair) I can tell we both want this, I can feel it"
+        ],
+        [
+          "Adam Smith",
+          "(move his hand slowly up Isabella's thigh) You're so sexy, I don't know how much longer I can wait to be inside you"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(pull Adam closer) let's take this back to my place and make the most of our evening"
+        ],
+        [
+          "Adam Smith",
+          "(advance to claim Isabella's lips) I'm taking you, all night, all week"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(lean back, arching her neck) Oh, you feel so good... I can already imagine us lost in each other's eyes, moaning with pleasure"
+        ],
+        [
+          "Adam Smith",
+          "(stroke Isabella's hair, kiss her neck) You're so tempting right now...Let's get out of here and make some unforgettable memories"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:01:00"
+  }
+}

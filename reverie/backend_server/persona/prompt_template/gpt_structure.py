@@ -20,7 +20,7 @@ import logging
 
 # Configure logging
 logging.basicConfig(
-    filename='../../api_2.log',  # Log file name
+    filename='../../api_2401.log',  # Log file name
     level=logging.INFO,         # Set the logging level to INFO
     format='%(asctime)s - %(levelname)s - %(message)s'  # Log message format
 )
@@ -116,8 +116,9 @@ def GPT4_safe_generate_response(prompt,
 
     try: 
       curr_gpt_response = GPT4_request(prompt).strip()
+      start_index =curr_gpt_response.find("{")
       end_index = curr_gpt_response.rfind('}') + 1
-      curr_gpt_response = curr_gpt_response[:end_index]
+      curr_gpt_response = curr_gpt_response[start_index:end_index]
       curr_gpt_response = json.loads(curr_gpt_response)["output"]
       
       if func_validate(curr_gpt_response, prompt=prompt): 
@@ -145,7 +146,7 @@ def ChatGPT_safe_generate_response(prompt,
                                    model = "qwen/qwq-32b-preview"): 
   # prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
   prompt = '"""\n' + prompt + '\n"""\n'
-  prompt += f"Output the response to the prompt above in json. {special_instruction}\n"
+  prompt += f"Output the response to the prompt above in json. {special_instruction}\nDon't explain anything."
   prompt += "Example output json:\n"
   prompt += '{"output": "' + str(example_output) + '"}'
 
@@ -167,7 +168,8 @@ def ChatGPT_safe_generate_response(prompt,
   # print (curr_gpt_response)
   # print ("000asdfhia")
     if verbose: 
-      print ("---- repeat count: \n", i, curr_gpt_response)
+      print ("---- repeat count: \n", i)
+      print(curr_gpt_response)
       print ("~~~~")
     if func_validate(curr_gpt_response, prompt=prompt): 
       return func_clean_up(curr_gpt_response, prompt=prompt)
@@ -289,7 +291,7 @@ def safe_generate_response(prompt,
     if func_validate(curr_gpt_response, prompt=prompt):
       return func_clean_up(curr_gpt_response, prompt=prompt)
     if verbose: 
-      print ("---- repeat count: ", i, curr_gpt_response)
+      print ("---- repeat count: ", i)
       print (curr_gpt_response)
       print ("~~~~")
   return fail_safe_response

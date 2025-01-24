@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "getting ready for the day, preparing to head to Hobbs Cafe for the first day of the Love Ville Program (choosing an outfit for the day) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their morning routines, sharing their expectations and hopes for adventure and romance in Love Ville, and making plans to have breakfast together at the Hobb Cafe, where they agree to a friendly competition to create the most creative breakfast dish, with the loser doing the dishes and planning their next adventure, while expressing enthusiasm, playfulness, and mutual interest in getting to know each other, between Maria Lopez and Klaus Mueller. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(smiling warmly) Well hey there! I couldn't help but notice your tooth brushing technique. Very impressive! I'm Maria, by the way. I don't think we've officially met yet."
+        ],
+        [
+          "Klaus Mueller",
+          "(flashing a friendly smile) Well hey there Maria! I'm Klaus. Guess we both had the same idea for a morning routine. Your technique is pretty impressive too, I must say. (chuckling) So, what made you decide to come to Love Ville?"
+        ],
+        [
+          "Maria Lopez",
+          "(laughing) Well, I heard Love Ville was the place to be for adventure and maybe a little romance! I'm always up for trying new things and meeting interesting people. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning) Well, I'm always up for a bit of adventure myself. And if that adventure happens to include meeting amazing people like you, then I'd say it's a win-win. So, any idea what kind of adventure you're hoping to find here in Love Ville?"
+        ],
+        [
+          "Maria Lopez",
+          "(grinning playfully) Well, I'm hoping for an adventure that's full of laughter, interesting conversations, and maybe a bit of romance if the right person comes along. Someone who can keep up with my energy and loves to explore new ideas. What about you, Klaus? What's your ideal Love Ville adventure?"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and leaning in slightly) Well, my ideal Love Ville adventure would definitely involve connecting with someone on a deep level, you know? Sharing laughs, meaningful conversations, and maybe a bit of mischief along the way. (wiggling eyebrows playfully) And if that someone happens to have a stunning smile and infectious energy like you, Maria, then I'd say that's the ultimate adventure."
+        ],
+        [
+          "Maria Lopez",
+          "(leaning in with a playful grin) Well, Klaus, it sounds like we're on the same page when it comes to our ideal Love Ville adventure. Maybe we should team up and see where this takes us? I have a feeling we could make quite the dynamic duo!"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and taking a step closer) Dynamic duo, huh? I like the sound of that. (offering his arm playfully) Shall we embark on our first official adventure together then? The Hobb Cafe awaits!"
+        ],
+        [
+          "Maria Lopez",
+          "(linking arms with Klaus and grinning) We shall! Let's see if your breakfast game is as strong as your tooth brushing skills."
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and squeezing her arm gently) With an offer like that, how could I refuse? Breakfast with a side of friendly competition it is!"
+        ],
+        [
+          "Maria Lopez",
+          "(playfully bumping Klaus' arm with her elbow) Sounds like a plan! I wonder what other hidden talents we might discover about each other over bacon and eggs."
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and leaning in slightly) Well, Maria, I must say, your positive energy is absolutely contagious. I can't wait to see what other surprises you have in store. (winking playfully) And I hope my breakfast game lives up to your expectations!"
+        ],
+        [
+          "Maria Lopez",
+          "(grinning and nudging Klaus playfully) Well, I guess we'll just have to wait and see what other hidden talents we both have. (winking) But I have a feeling you're going to keep me on my toes, Klaus Mueller."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) Well, Maria, I must say, your positive energy is absolutely contagious. (leaning in slightly) And I can't wait to see what other surprises you have in store. (winking playfully) Maybe we should make a friendly bet on who can come up with the most creative breakfast dish!"
+        ],
+        [
+          "Maria Lopez",
+          "(grinning and playfully bumping Klaus' arm) You're on! Let's see who can whip up the most delicious and creative breakfast masterpiece. Loser has to do the dishes!"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and playfully flexing) You're on! But I hope you're ready to accept defeat gracefully, because my breakfast skills are legendary. (winking) Loser also has to plan our next adventure!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their morning routines, sharing their expectations and hopes for adventure and romance in Love Ville, and making plans to have breakfast together at the Hobb Cafe, where they agree to a friendly competition to create the most creative breakfast dish, with the loser doing the dishes and planning their next adventure, while expressing enthusiasm, playfulness, and mutual interest in getting to know each other, between Maria Lopez and Klaus Mueller. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(smiling warmly) Well hey there! I couldn't help but notice your tooth brushing technique. Very impressive! I'm Maria, by the way. I don't think we've officially met yet."
+        ],
+        [
+          "Klaus Mueller",
+          "(flashing a friendly smile) Well hey there Maria! I'm Klaus. Guess we both had the same idea for a morning routine. Your technique is pretty impressive too, I must say. (chuckling) So, what made you decide to come to Love Ville?"
+        ],
+        [
+          "Maria Lopez",
+          "(laughing) Well, I heard Love Ville was the place to be for adventure and maybe a little romance! I'm always up for trying new things and meeting interesting people. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning) Well, I'm always up for a bit of adventure myself. And if that adventure happens to include meeting amazing people like you, then I'd say it's a win-win. So, any idea what kind of adventure you're hoping to find here in Love Ville?"
+        ],
+        [
+          "Maria Lopez",
+          "(grinning playfully) Well, I'm hoping for an adventure that's full of laughter, interesting conversations, and maybe a bit of romance if the right person comes along. Someone who can keep up with my energy and loves to explore new ideas. What about you, Klaus? What's your ideal Love Ville adventure?"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and leaning in slightly) Well, my ideal Love Ville adventure would definitely involve connecting with someone on a deep level, you know? Sharing laughs, meaningful conversations, and maybe a bit of mischief along the way. (wiggling eyebrows playfully) And if that someone happens to have a stunning smile and infectious energy like you, Maria, then I'd say that's the ultimate adventure."
+        ],
+        [
+          "Maria Lopez",
+          "(leaning in with a playful grin) Well, Klaus, it sounds like we're on the same page when it comes to our ideal Love Ville adventure. Maybe we should team up and see where this takes us? I have a feeling we could make quite the dynamic duo!"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and taking a step closer) Dynamic duo, huh? I like the sound of that. (offering his arm playfully) Shall we embark on our first official adventure together then? The Hobb Cafe awaits!"
+        ],
+        [
+          "Maria Lopez",
+          "(linking arms with Klaus and grinning) We shall! Let's see if your breakfast game is as strong as your tooth brushing skills."
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and squeezing her arm gently) With an offer like that, how could I refuse? Breakfast with a side of friendly competition it is!"
+        ],
+        [
+          "Maria Lopez",
+          "(playfully bumping Klaus' arm with her elbow) Sounds like a plan! I wonder what other hidden talents we might discover about each other over bacon and eggs."
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and leaning in slightly) Well, Maria, I must say, your positive energy is absolutely contagious. I can't wait to see what other surprises you have in store. (winking playfully) And I hope my breakfast game lives up to your expectations!"
+        ],
+        [
+          "Maria Lopez",
+          "(grinning and nudging Klaus playfully) Well, I guess we'll just have to wait and see what other hidden talents we both have. (winking) But I have a feeling you're going to keep me on my toes, Klaus Mueller."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) Well, Maria, I must say, your positive energy is absolutely contagious. (leaning in slightly) And I can't wait to see what other surprises you have in store. (winking playfully) Maybe we should make a friendly bet on who can come up with the most creative breakfast dish!"
+        ],
+        [
+          "Maria Lopez",
+          "(grinning and playfully bumping Klaus' arm) You're on! Let's see who can whip up the most delicious and creative breakfast masterpiece. Loser has to do the dishes!"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and playfully flexing) You're on! But I hope you're ready to accept defeat gracefully, because my breakfast skills are legendary. (winking) Loser also has to plan our next adventure!"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        22
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:desk",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        93,
+        68
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast and preparing for the day ahead (cooking breakfast) @ the Ville:Lin family's house:kitchen:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        23,
+        61
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading a book about existentialism (reading the next chapter) @ the Ville:Adam Smith's house:main room:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:16:10"
+  }
+}

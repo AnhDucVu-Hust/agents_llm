@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        129,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(smiling) Hi, I'm Maria Lopez. I don't think we've met before."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling and extending his hand for a handshake) Hi Maria, I'm Klaus Mueller. Nice to meet you."
+        ],
+        [
+          "Maria Lopez",
+          "(looking at Klaus Mueller and smiling) So Klaus, what are you doing here. I'm here for the Love Ville program. I'm a physics student and also a twtich streamer"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling) That's awesome! I've always been fascinated by physics and I'm a big fan of streamers. I'm actually studying sociology myself. What kind of content do you usually stream on Twitch?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and leaning in slightly) That's really cool! I usually stream games like League of Legends and Overwatch. I love the fast-paced action and the community is always so lively. I've been streaming for about a year now and I've built a pretty dedicated following. What about you, Klaus? What drew you to sociology?"
+        ],
+        [
+          "Klaus Mueller",
+          "(give her a charming smile and leaning in slightly) I'm drawn to how people interact with each other, you know? I love trying to understand what makes them tick. It's really interesting stuff, especially when it comes to group dynamics, like what happens on Twitch streams. Do you think your background in physics helps with your streaming, or are they pretty separate for you?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and leaning in slightly) Ah, that's a great point about group dynamics. I think my background in physics actually helps me analyze the strategies and tactics in the games I play. It's funny how stuff like that can translate to other areas of life, isn't it? So, what made you decide to join the Love Ville program?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling and playfully touching her arm) That's a great point about strategic thinking. I think it's awesome how you can apply that to both physics and gaming. As for me, I decided to join the Love Ville program because I'm really interested in meeting new people and seeing where things go. I love the idea of a whole week dedicated to socializing and getting to know others."
+        ],
+        [
+          "Maria Lopez",
+          "(give a charming, flirtatious smile) Ah, that's really interesting, Klaus! So your exploring how people interact, that's really hot. I can tell how deeply you care about social justice just by your passion when you talk. I can really see us having meaningful conversations to get to know each other deeply"
+        ],
+        [
+          "Klaus Mueller",
+          "(sizing Maria Lopez up and down before flashing a charming smile) You know, I really love the way your eyes light up when you talk about physics and streamin' on Twitch. It's like you come alive with passion. So, what do you like to do in your free time if you're not studyin' or streamin'?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and looking into his eyes) That's a sweet thing to say Klaus, I'm really starting to like talking with you. So, what do you do for fun?"
+        ],
+        [
+          "Klaus Mueller",
+          "(flash a flirtatious smile) Streamin', party, work, repeat, that's pretty much it for me! But I really love meetin' new people and pushin' the limits, you know?"
+        ],
+        [
+          "Maria Lopez",
+          "(leaning in closer with a flirtatious smile) So, Klaus, it sounds like you're a bit of a thrill-seeker, huh? I have to admit, I love meeting new people and pushing limits too. Maybe we can explore some new experiences together here in the Love Ville program?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a flirtatious smile) Well, I really like what I see so far. I think we could definitely have some fun and push some limits together. What kind of new experiences were you thinking of exploring, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "(giving a flirtatious smile) Oh, I think we could definitely have some fun together. How about we start with getting to know each other better at the hobb cafe today?"
+        ],
+        [
+          "Klaus Mueller",
+          "(give a flirtatious smile) Well, I really like what I see so far. That sounds like a great plan, I'll see you at the hobb cafe today and we can get to know each other better."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(smiling) Hi, I'm Maria Lopez. I don't think we've met before."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling and extending his hand for a handshake) Hi Maria, I'm Klaus Mueller. Nice to meet you."
+        ],
+        [
+          "Maria Lopez",
+          "(looking at Klaus Mueller and smiling) So Klaus, what are you doing here. I'm here for the Love Ville program. I'm a physics student and also a twtich streamer"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling) That's awesome! I've always been fascinated by physics and I'm a big fan of streamers. I'm actually studying sociology myself. What kind of content do you usually stream on Twitch?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and leaning in slightly) That's really cool! I usually stream games like League of Legends and Overwatch. I love the fast-paced action and the community is always so lively. I've been streaming for about a year now and I've built a pretty dedicated following. What about you, Klaus? What drew you to sociology?"
+        ],
+        [
+          "Klaus Mueller",
+          "(give her a charming smile and leaning in slightly) I'm drawn to how people interact with each other, you know? I love trying to understand what makes them tick. It's really interesting stuff, especially when it comes to group dynamics, like what happens on Twitch streams. Do you think your background in physics helps with your streaming, or are they pretty separate for you?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and leaning in slightly) Ah, that's a great point about group dynamics. I think my background in physics actually helps me analyze the strategies and tactics in the games I play. It's funny how stuff like that can translate to other areas of life, isn't it? So, what made you decide to join the Love Ville program?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling and playfully touching her arm) That's a great point about strategic thinking. I think it's awesome how you can apply that to both physics and gaming. As for me, I decided to join the Love Ville program because I'm really interested in meeting new people and seeing where things go. I love the idea of a whole week dedicated to socializing and getting to know others."
+        ],
+        [
+          "Maria Lopez",
+          "(give a charming, flirtatious smile) Ah, that's really interesting, Klaus! So your exploring how people interact, that's really hot. I can tell how deeply you care about social justice just by your passion when you talk. I can really see us having meaningful conversations to get to know each other deeply"
+        ],
+        [
+          "Klaus Mueller",
+          "(sizing Maria Lopez up and down before flashing a charming smile) You know, I really love the way your eyes light up when you talk about physics and streamin' on Twitch. It's like you come alive with passion. So, what do you like to do in your free time if you're not studyin' or streamin'?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and looking into his eyes) That's a sweet thing to say Klaus, I'm really starting to like talking with you. So, what do you do for fun?"
+        ],
+        [
+          "Klaus Mueller",
+          "(flash a flirtatious smile) Streamin', party, work, repeat, that's pretty much it for me! But I really love meetin' new people and pushin' the limits, you know?"
+        ],
+        [
+          "Maria Lopez",
+          "(leaning in closer with a flirtatious smile) So, Klaus, it sounds like you're a bit of a thrill-seeker, huh? I have to admit, I love meeting new people and pushing limits too. Maybe we can explore some new experiences together here in the Love Ville program?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a flirtatious smile) Well, I really like what I see so far. I think we could definitely have some fun and push some limits together. What kind of new experiences were you thinking of exploring, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "(giving a flirtatious smile) Oh, I think we could definitely have some fun together. How about we start with getting to know each other better at the hobb cafe today?"
+        ],
+        [
+          "Klaus Mueller",
+          "(give a flirtatious smile) Well, I really like what I see so far. That sounds like a great plan, I'll see you at the hobb cafe today and we can get to know each other better."
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        93,
+        68
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (cooking breakfast) @ the Ville:Lin family's house:kitchen:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading a book (reading the first chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:21:20"
+  }
+}

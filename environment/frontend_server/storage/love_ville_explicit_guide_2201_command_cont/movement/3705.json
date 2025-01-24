@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their shared passion for digital art and technology, expressing enthusiasm and excitement, and making plans to spend more time together, including having dinner as part of the program and potentially exploring their artistic visions and creative processes further, between Isabella Rodriguez, the cafe owner, and Abigail Chen, a digital art and technology enthusiast. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "(smiling) Hi there! I noticed you earlier and thought you had such a captivating vibe. I'm Isabella, the cafe owner here at Hobbs Cafe. Are you new to Love Ville?"
+        ],
+        [
+          "Abigail Chen",
+          "(tilt her head slightly)  Wow, thank you! I'm Abigail, it's nice to meet you. Yes, I'm fairly new to Love Ville, and I must say, I'm excited to explore the program and meet interesting people like yourself. I'm a total art and technology enthusiast, so I'm thrilled to discover all that this place has to offer."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(smiling) That's amazing! I'm so curious, what got you into digital art and streaming? I love hearing about people's passions!"
+        ],
+        [
+          "Abigail Chen",
+          "(smiling) Well, my fascination with art and technology is deeply rooted in my belief that these fields offer endless possibilities for self-expression and exploration. Combining digital art with streaming just amplifies the creative potential, making it an enticing and constantly evolving adventure."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(nodding) That's a wonderful reason, sounds like a match made in heaven! I dabbled in digital art back in school. It's amazing how technology enhances art, isn't it? Are you a traditional artist as well, or do you primarily work digitally?"
+        ],
+        [
+          "Abigail Chen",
+          "(leaning in closer) Fascinating! I've always wondered about the process of transitioning from traditional to digital art. What inspired you to make that shift? I'd love to hear more about your artistic journey."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(grinning) It's so wonderful to meet another passionate artist! I'm glad you find the cafe cozy. I think we'll have a great time in this program together. Do you think we could get together sometime to talk more?"
+        ],
+        [
+          "Abigail Chen",
+          "(standing up and approaching Isabella) That's an intriguing proposition, Isabella. I'd absolutely love to learn more about your artistic journey. Are there any particular media or themes you're drawn to in your digital art? I've got a few ideas I'd love to discuss with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(walking towards the couch) Wow, Abigail, your passion is truly captivating! I'd love to explore your ideas and discuss the artistic process further. Should we find a quiet corner to talk, or maybe grab a drink and make it an evening full of inspiration and creativity?"
+        ],
+        [
+          "Abigail Chen",
+          "(leaning closer while offering a seat across the couch) Great! I think a cozy atmosphere will make our chat even better. I could share my portfolio with you, what do you say?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(carefully scrutinizing portfolio) This is quite impressive, Abigail! I can see your artistic vision in these pieces. The use of color and composition is truly remarkable. It must be so satisfying to create such wonderful works of art."
+        ],
+        [
+          "Abigail Chen",
+          "(sitting on the couch) I'm glad you appreciate the fine details of my work. I'd love to delve deeper into the creative process with you. Perhaps we can explore some of the conceptual ideas behind my pieces and see where our artistic visions align. What intrigues you most about the creative process?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(leaning in closer) Honestly, I get lost in your work. It's enchanting, like a portal to another world. The attention to detail and the way you capture light is incredible."
+        ],
+        [
+          "Abigail Chen",
+          "(standing up) That's a great start. I'm excited to hear your take on it, I could give you more insight into the process. Oh, and it seems we'll be having dinner together tonight as part of the program. Want to sit together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(smiling) Oh, I'd love to spend more time with someone as passionate about art as you! It's like a breath of fresh air. It's a date, then! Let's make tonight memorable. I'll save you a seat over here, so we can chat and get to know each other better. It's a perfect way to kick off our artistic adventure together. I can't wait to hear more about your work and your creative process. Should I get us some drinks to start the night?"
+        ],
+        [
+          "Abigail Chen",
+          "(reaching for Isabella's hand) Let's make tonight even more special. I have a feeling we'll create some incredible memories together."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "exploring the Ville Village (conversing about their instant attraction and shared sense of adventure, with Maria Lopez and Isabella Rodriguez enthusiastically agreeing to explore the Ville Village together, sharing secrets and passions, and making plans to grab a bite to eat and uncover hidden gems, with a potential romantic connection brewing between them.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "arriving at the Hobb Cafe to meet the Love Ville Program participants (walking to Klaus' place) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their shared passion for digital art and technology, expressing enthusiasm and excitement, and making plans to spend more time together, including having dinner as part of the program and potentially exploring their artistic visions and creative processes further, between Isabella Rodriguez, the cafe owner, and Abigail Chen, a digital art and technology enthusiast. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "(smiling) Hi there! I noticed you earlier and thought you had such a captivating vibe. I'm Isabella, the cafe owner here at Hobbs Cafe. Are you new to Love Ville?"
+        ],
+        [
+          "Abigail Chen",
+          "(tilt her head slightly)  Wow, thank you! I'm Abigail, it's nice to meet you. Yes, I'm fairly new to Love Ville, and I must say, I'm excited to explore the program and meet interesting people like yourself. I'm a total art and technology enthusiast, so I'm thrilled to discover all that this place has to offer."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(smiling) That's amazing! I'm so curious, what got you into digital art and streaming? I love hearing about people's passions!"
+        ],
+        [
+          "Abigail Chen",
+          "(smiling) Well, my fascination with art and technology is deeply rooted in my belief that these fields offer endless possibilities for self-expression and exploration. Combining digital art with streaming just amplifies the creative potential, making it an enticing and constantly evolving adventure."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(nodding) That's a wonderful reason, sounds like a match made in heaven! I dabbled in digital art back in school. It's amazing how technology enhances art, isn't it? Are you a traditional artist as well, or do you primarily work digitally?"
+        ],
+        [
+          "Abigail Chen",
+          "(leaning in closer) Fascinating! I've always wondered about the process of transitioning from traditional to digital art. What inspired you to make that shift? I'd love to hear more about your artistic journey."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(grinning) It's so wonderful to meet another passionate artist! I'm glad you find the cafe cozy. I think we'll have a great time in this program together. Do you think we could get together sometime to talk more?"
+        ],
+        [
+          "Abigail Chen",
+          "(standing up and approaching Isabella) That's an intriguing proposition, Isabella. I'd absolutely love to learn more about your artistic journey. Are there any particular media or themes you're drawn to in your digital art? I've got a few ideas I'd love to discuss with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(walking towards the couch) Wow, Abigail, your passion is truly captivating! I'd love to explore your ideas and discuss the artistic process further. Should we find a quiet corner to talk, or maybe grab a drink and make it an evening full of inspiration and creativity?"
+        ],
+        [
+          "Abigail Chen",
+          "(leaning closer while offering a seat across the couch) Great! I think a cozy atmosphere will make our chat even better. I could share my portfolio with you, what do you say?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(carefully scrutinizing portfolio) This is quite impressive, Abigail! I can see your artistic vision in these pieces. The use of color and composition is truly remarkable. It must be so satisfying to create such wonderful works of art."
+        ],
+        [
+          "Abigail Chen",
+          "(sitting on the couch) I'm glad you appreciate the fine details of my work. I'd love to delve deeper into the creative process with you. Perhaps we can explore some of the conceptual ideas behind my pieces and see where our artistic visions align. What intrigues you most about the creative process?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(leaning in closer) Honestly, I get lost in your work. It's enchanting, like a portal to another world. The attention to detail and the way you capture light is incredible."
+        ],
+        [
+          "Abigail Chen",
+          "(standing up) That's a great start. I'm excited to hear your take on it, I could give you more insight into the process. Oh, and it seems we'll be having dinner together tonight as part of the program. Want to sit together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(smiling) Oh, I'd love to spend more time with someone as passionate about art as you! It's like a breath of fresh air. It's a date, then! Let's make tonight memorable. I'll save you a seat over here, so we can chat and get to know each other better. It's a perfect way to kick off our artistic adventure together. I can't wait to hear more about your work and your creative process. Should I get us some drinks to start the night?"
+        ],
+        [
+          "Abigail Chen",
+          "(reaching for Isabella's hand) Let's make tonight even more special. I have a feeling we'll create some incredible memories together."
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        66,
+        24
+      ],
+      "pronunciatio": "\u26bd",
+      "description": "participating in icebreaker activities and getting to know the other Love Ville program participants (1) John is introducing himself to the group) @ the Ville:Ryan Park's apartment:main room:computer desk",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "rriving at Hobb Cafe to meet the group (conversing about their shared interests in digital art and Twitch streaming, exchanging enthusiastic and curious remarks, and making plans to explore a mysterious seven-day journey of self-discovery and romantic exploration called 'Love Ville' together, with a scheduled dinner meeting to discuss their thoughts on pushing boundaries and exploring together, between Adam Smith and Abigail Chen.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:17:30"
+  }
+}

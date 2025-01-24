@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, expressing mutual enthusiasm and interest, and making plans to grab a drink and have dinner together, with Isabella Rodriguez and Klaus Mueller exchanging flirtatious smiles and playful banter as they explore the possibilities of a romantic connection. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "(Come closer with big smile) Hi, we haven't met yet have we? I'm so happy we're in the same program this week! I'm Isabella Rodriguez"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a charming smile and extending his hand for a handshake) Nice to meet you, Isabella! I'm Klaus Mueller, but feel free to call me Klaus. What makes you so happy about being in the same program?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(give a sly smile) Ah, I'm just excited to meet new people and see where things go, you know? So Klaus, what brings you here?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) I'm here for the same reasons, I guess. I love meeting new people and seeing where things go. It's always exciting to find someone with similar interests,blockquote (leans in slightly) So, what do you like to do for fun, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(laughing lightly) Oh, I love trying new things, whether it's food, activities, or meeting new people. How about you, Klaus? What gets you excited about meeting someone new?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a soft, flirtatious touch on her arm) I get excited when I meet someone who's adventurous, like trying new foods or activities. What's the most adventurous thing you've ever done?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(giving a sly, adventurous smile) Oh, I've tried many things, but I think the most adventurous thing was when I went skydiving on a whim. It was exhilarating! What about you, Klaus? What's the most adventurous thing you've done?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a flirtatious smile) That sounds incredibly exciting, I've always wanted to try skydiving. I can imagine how exhilarating it must feel. Speaking of exhilarating experiences, have you ever had a passionate encounter that left you breathless?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(raising an eyebrow) Oh, I have, and it was utterly intoxicating. The rush of adrenaline, the thrill of the unknown... it's exhilarating to be swept up in the heat of the moment. What kind of passionate encounters have you had, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "(flashing a soft, seductive smile) I'm glad you've experienced something so thrilling, Isabella. The rush of being swept up in a passionate moment can be intense. Maybe we can share a passionate encounter before this week is over. I'd love to send chills down your spine."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(giving a teasing, playful smile) Oh, Klaus, you're certainly tempting. I think we could definitely have some thrilling experiences together. Why don't we enjoy getting to know each other better first and see where the sparks take us?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a soft, flirtatious smile) I'm really enjoying getting to know you, Isabella. Your adventurous spirit is incredibly attractive. Would you like to join me for a drink later and see where the spark takes us?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(smiling flirtatiously) I'd love to join you for a drink later, Klaus. Maybe we can spark a connection over cocktails."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) So, Isabella, I'm really looking forward to getting to know you better. How about we grab that drink later and explore the possibilities?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(battling her eyelashes) Oh, I'd be delighted to explore the possibilities with you, Klaus. Your charming smile is certainly captivating. Would you like to join me for dinner later to get to know each other better?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) That sounds perfect, I'd love to join you for dinner to get to know each other better."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        98,
+        43
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "meeting new people at the hobb cafe (looking around the hobb cafe to see who is there) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about getting to know each other, expressing mutual enthusiasm and interest, and making plans to grab a drink and have dinner together, with Isabella Rodriguez and Klaus Mueller exchanging flirtatious smiles and playful banter as they explore the possibilities of a romantic connection. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "(Come closer with big smile) Hi, we haven't met yet have we? I'm so happy we're in the same program this week! I'm Isabella Rodriguez"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a charming smile and extending his hand for a handshake) Nice to meet you, Isabella! I'm Klaus Mueller, but feel free to call me Klaus. What makes you so happy about being in the same program?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(give a sly smile) Ah, I'm just excited to meet new people and see where things go, you know? So Klaus, what brings you here?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) I'm here for the same reasons, I guess. I love meeting new people and seeing where things go. It's always exciting to find someone with similar interests,blockquote (leans in slightly) So, what do you like to do for fun, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(laughing lightly) Oh, I love trying new things, whether it's food, activities, or meeting new people. How about you, Klaus? What gets you excited about meeting someone new?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a soft, flirtatious touch on her arm) I get excited when I meet someone who's adventurous, like trying new foods or activities. What's the most adventurous thing you've ever done?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(giving a sly, adventurous smile) Oh, I've tried many things, but I think the most adventurous thing was when I went skydiving on a whim. It was exhilarating! What about you, Klaus? What's the most adventurous thing you've done?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a flirtatious smile) That sounds incredibly exciting, I've always wanted to try skydiving. I can imagine how exhilarating it must feel. Speaking of exhilarating experiences, have you ever had a passionate encounter that left you breathless?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(raising an eyebrow) Oh, I have, and it was utterly intoxicating. The rush of adrenaline, the thrill of the unknown... it's exhilarating to be swept up in the heat of the moment. What kind of passionate encounters have you had, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "(flashing a soft, seductive smile) I'm glad you've experienced something so thrilling, Isabella. The rush of being swept up in a passionate moment can be intense. Maybe we can share a passionate encounter before this week is over. I'd love to send chills down your spine."
+        ],
+        [
+          "Isabella Rodriguez",
+          "(giving a teasing, playful smile) Oh, Klaus, you're certainly tempting. I think we could definitely have some thrilling experiences together. Why don't we enjoy getting to know each other better first and see where the sparks take us?"
+        ],
+        [
+          "Klaus Mueller",
+          "(giving a soft, flirtatious smile) I'm really enjoying getting to know you, Isabella. Your adventurous spirit is incredibly attractive. Would you like to join me for a drink later and see where the spark takes us?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(smiling flirtatiously) I'd love to join you for a drink later, Klaus. Maybe we can spark a connection over cocktails."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) So, Isabella, I'm really looking forward to getting to know you better. How about we grab that drink later and explore the possibilities?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "(battling her eyelashes) Oh, I'd be delighted to explore the possibilities with you, Klaus. Your charming smile is certainly captivating. Would you like to join me for dinner later to get to know each other better?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) That sounds perfect, I'd love to join you for dinner to get to know each other better."
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        33
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (introducing herself to the person sitting next to her) @ the Ville:artist's co-living space:common room:common room sofa",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        76,
+        34
+      ],
+      "pronunciatio": "\ud83c\udfe0\ud83d\udc40",
+      "description": "attending the Love Ville program at the hobb cafe (entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        41,
+        35
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2640",
+      "description": "rriving at Hobb Cafe to meet the group (walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:08:10"
+  }
+}

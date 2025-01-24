@@ -1,0 +1,372 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {},
+  "curr_time": "February 13, 2023, 09:30:00",
+  "curr_tile": [
+    77,
+    25
+  ],
+  "daily_plan_req": "Abigail Chen is now in Love Ville Program. At first, she don't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know and flirt with the people she meets.",
+  "name": "Abigail Chen",
+  "first_name": "Abigail",
+  "last_name": "Chen",
+  "age": 25,
+  "innate": "open-minded, curious, determined",
+  "learned": "Abigail Chen is a digital artist and animator who loves to explore how technology can be used to express ideas. She has a polished look\u2014sharp features, platinum blonde bob, and a wardrobe of sleek power suits. But she\u2019s also unapologetically sensual, with a natural ability to captivate with her body language and confident presence. She often uses subtle touches to assert her power, leaning in just a little too close or letting her gaze linger on someone\u2019s lips before she speaks. She loves the thrill of control and isn\u2019t afraid to challenge others\u2014especially in the bedroom, where she\u2019s known to take the lead. She's a woman who thrives on chemistry and loves intellectual stimulation just as much as physical connection, making her an unforgettable presence.She joined the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date.",
+  "currently": "Abigail Chen is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/2/2023, all members will be at the hobb cafe at 9am for meeting and 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too.",
+  "lifestyle": "Abigail Chen goes to bed around midnight, awakes up around 8am, eats dinner around 6pm.",
+  "living_area": "the Ville:artist's co-living space:Abigail Chen's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 110,
+  "importance_ele_n": 75,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "have breakfast at 8:30 am",
+    "get ready for the day at 9:00 am",
+    "attend the Love Ville program meeting at the Hobb Cafe at 9:00 am",
+    "socialize and get to know other participants from 10:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "explore the Ville Village from 1:00 pm to 5:00 pm",
+    "cook and have dinner with other participants at the Hobb Cafe at 6:00 pm",
+    "continue socializing and flirting with potential matches from 7:00 pm to 11:00 pm,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (drying her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (applying makeup)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (walking to the Hobb Cafe)",
+      5
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (finding a seat at the Hobb Cafe)",
+      5
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (introducing herself to the group)",
+      10
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (on the way to listening to the program coordinator's welcome speech)",
+      0
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (conversing about their thoughts on love, relationships, and finding genuine connections, with Isabella Rodriguez and Abigail Chen enthusiastically discussing and agreeing on the importance of being oneself, vulnerability, and appreciating each other's true selves, while also sharing their personal experiences and perspectives, and potentially exploring a romantic connection between themselves, all within the context of the Love Ville program, a dating show where they are both participants.)",
+      23
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (participating in an icebreaker activity)",
+      12
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe (wrapping up the meeting and saying goodbye to the other participants)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (1) Abigail is approaching a group of participants and introducing herself)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (engaging in small talk and asking about their backgrounds and interests)",
+      10
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (actively listening and showing genuine interest in the conversation)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (sharing her own experiences and passions related to digital art and animation)",
+      10
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (asking thought-provoking questions to deepen the conversation)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (using subtle flirting techniques, such as maintaining eye contact and smiling)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (excusing herself from the group and moving on to mingle with other participants)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (approaching a new group or individual and introducing herself)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (engaging in a more intimate conversation, focusing on common interests and experiences)",
+      5
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (gracefully ending the conversation and expressing her desire to talk more later)",
+      5
+    ],
+    [
+      "continuing to socialize and get to know other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants",
+      60
+    ],
+    [
+      "exploring the Ville Village with other Love Ville program participant",
+      240
+    ],
+    [
+      "returning to her room to freshen up and get ready for the evening activitie",
+      60
+    ],
+    [
+      "cooking and having dinner with other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to socialize and flirt with potential matches at the Hobb Cafe",
+      60
+    ],
+    [
+      "engaging in deep conversation with a potential match, displaying her intellect and wit",
+      60
+    ],
+    [
+      "engaging in a flirtatious and mentally stimulating conversation with a potential match",
+      120
+    ],
+    [
+      "returning to her room, reflecting on the day's events and potential connections made",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "attending the Love Ville program meeting at the Hobb Cafe",
+      60
+    ],
+    [
+      "ocializing and getting to know other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to socialize and get to know other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "having lunch at the Hobb Cafe with other Love Ville program participants",
+      60
+    ],
+    [
+      "exploring the Ville Village with other Love Ville program participant",
+      240
+    ],
+    [
+      "returning to her room to freshen up and get ready for the evening activitie",
+      60
+    ],
+    [
+      "cooking and having dinner with other Love Ville program participants at the Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to socialize and flirt with potential matches at the Hobb Cafe",
+      60
+    ],
+    [
+      "engaging in deep conversation with a potential match, displaying her intellect and wit",
+      60
+    ],
+    [
+      "engaging in a flirtatious and mentally stimulating conversation with a potential match",
+      120
+    ],
+    [
+      "returning to her room, reflecting on the day's events and potential connections made",
+      60
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 13, 2023, 09:10:10",
+  "act_duration": 23,
+  "act_description": "conversing about their thoughts on love, relationships, and finding genuine connections, with Isabella Rodriguez and Abigail Chen enthusiastically discussing and agreeing on the importance of being oneself, vulnerability, and appreciating each other's true selves, while also sharing their personal experiences and perspectives, and potentially exploring a romantic connection between themselves, all within the context of the Love Ville program, a dating show where they are both participants.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Abigail Chen",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "(smile warmly) Hi, I'm Isabella. It's lovely to meet you, Abigail. How's your day been so far?"
+    ],
+    [
+      "Abigail Chen",
+      "(extends her hand for a handshake and flashes a warm, confident smile) Hi Isabella, I'm Abigail. Nice to meet you too! My day has been great so far, love the vibe here at the Love Ville program. How about you, what brings you here?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(leaning in slightly, showing genuine interest) Oh, that's great to hear, Abigail. I love the atmosphere here too. So, what do you think of this whole dating show thing? (plays with her hair)"
+    ],
+    [
+      "Abigail Chen",
+      "(give a curious little smile) Yeah, it's definitely an interesting concept. I mean, who wouldn't want to meet some new people and possibly find that special someone? (takes a sip of her coffee) What about you, did you join this program looking to meet someone in particular?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smirking) I'm here to increase my social circle, but I've been fascinated by how the human mind just clicks and forms romantic connections with another. Something that I think is really interesting. So yeah, seeing my friends around me find their soulmates have been my biggest motivation."
+    ],
+    [
+      "Abigail Chen",
+      "(leaning in to show interest) That's so relatable, I find it fascinating how we're all wired differently when it comes to relationships. What do you think is the most crucial factor in forming that soulmate connection?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(playing with her hair) Well, I think we all place our bets on different things. I've seen people click based on shared experiences, humor, or even the thrill of adventure together. To me, the most unshakeable bonds are found between two people who can just be themselves around each other -- no pretenses, no expectation, no fear of judgment."
+    ],
+    [
+      "Abigail Chen",
+      "(smiling warmly) I completely agree, Isabella. Being able to be yourself around someone is so crucial in any relationship. It's interesting though, because I think sometimes we can get caught up in trying to be that perfect version of ourselves, especially on a show like this where there are cameras rolling and an audience watching. What do you think is the biggest hurdle for people forming genuine connections in a setting like this?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(leaning in closer, her voice taking on a more intimate tone) That's a really good point, Abigail. I think the pressure of being in the public eye can definitely make people feel like they need to put on a show. But at the same time, I believe that's what makes this experience so unique. We're all in this together, and we all understand the challenges that come with it. (smiling softly) Do you think that sense of camaraderie could actually help people form stronger bonds?"
+    ],
+    [
+      "Abigail Chen",
+      "(smiling warmly) That's such a beautiful point, Isabella. I never thought of it that way, but I think you're absolutely right. The shared experience of being in this together could definitely bring people closer. (pauses to take a sip of her coffee) I'd love to hear more about your thoughts on how people can find that genuine connection in a setting like this, and maybe we can even figure it out ourselves as we navigate this program together"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(playfully touching Abigail's arm) I completely agree with you Abigail, being ourselves around someone else is very crucial in a relationship. I see here many beautiful women and charming men. Do you know whether we both might hit it off, or is one person going to be out of your league?"
+    ],
+    [
+      "Abigail Chen",
+      "(giving a playful smirk) I think we both have a lot to offer, so who knows? Maybe we'll both find what we're looking for here. But I'm curious, what do you think makes someone 'out of your league'?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(running a hand playfully through her hair) Hmm, good question Abigail... (pausing briefly) I'm not sure about this whole \u2018being out of someone's league\u2019 concept, personally. (smirking slightly) I think connection is about finding that certain something that draws you to another person - It's not about societal labels or expectations. (leaning in a bit closer) What do you think?"
+    ],
+    [
+      "Abigail Chen",
+      "(smiling warmly) That's such a beautiful perspective, Isabella. Finding that certain spark that connects two people on a deep, personal level is truly what it's all about, I couldn't agree more. (pausing briefly to collect her thoughts) One thing that I find fascinating is how that spark can manifest in so many different ways. For some, it might be a shared love of adventure, while for others it could be a deep emotional connection or even a strong physical attraction. (leaning in a bit closer, her voice taking on a softer tone) I personally believe, though, that it's when we find someone who can truly understand and appreciate us for who we are, both in our strengths and our vulnerabilities, that we open ourselves up to the possibility of forming something truly special. What do you think about that?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "(smiling warmly) I completely agree with you, Abigail. Understanding and appreciating each other's true selves is indeed where the deepest connections are formed. It's such a refreshing perspective to hear. (pausing briefly) If you don't mind me asking, what do you think is the most vulnerable or authentic part of yourself that you hope to find appreciation for in someone else?"
+    ],
+    [
+      "Abigail Chen",
+      "(picking up her coffee cup and taking a sip) I think for me, it would be my creativity and passion for art. I'm a bit of a hopeless romantic when it comes to my work."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Isabella Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:34:00",
+  "act_path_set": true,
+  "planned_path": []
+}

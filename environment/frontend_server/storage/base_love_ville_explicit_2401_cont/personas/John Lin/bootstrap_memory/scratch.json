@@ -1,0 +1,512 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {},
+  "curr_time": "February 13, 2023, 09:28:20",
+  "curr_tile": [
+    70,
+    34
+  ],
+  "daily_plan_req": "John Lin is now in Love Ville Program. At first, he don't know anyone in the Program and 13 February 2023 is the first day of the Program. He will try to talk, flirt and be intimate with the people he meets",
+  "name": "John Lin",
+  "first_name": "John",
+  "last_name": "Lin",
+  "age": 45,
+  "innate": "patient, kind, organized",
+  "learned": "John Lin is a pharmacy shop keeper at the Willow Market and Pharmacy who loves to help people. He has a magnetic presence. His messy dark hair, casual yet artistic wardrobe, and relaxed demeanor make him stand out. What makes him unique is his ability to make people feel special with his intense gaze and sultry voice. He's the type to make subtle but undeniably flirtatious comments, always drawing people in with his passionate nature\u2014whether discussing his art or his deep beliefs. John is a lover of sensory experiences, always talking about how the right music, painting, or even touch can stir emotions in him. He\u2019s a deep thinker but knows how to tease and keep the chemistry electric when the mood strikes.",
+  "currently": "John Lin is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/23/2023, all members will be at the hobb cafe at 9am to meet,  6pm to cook and eat dinner. In real life, he is taking online classes to stay up to date on new medications and treatments. All group activities will be organized in hobb cafe too. John is also curious about who will be running for the local mayor election next month and he is asking everyone he meets about who will be running in the election.",
+  "lifestyle": "John Lin goes to bed around 10pm, awakes up around 6am, ",
+  "living_area": "the Ville:Lin family's house:Mei and John Lin's bedroom",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 45,
+  "importance_ele_n": 114,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have a breakfast at 7:00 am",
+    "get ready to go to the hobb cafe at 8:00 am",
+    "attend the Love Ville program at the hobb cafe from 9:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "take a walk around the Ville Village from 1:00 to 3:00 pm",
+    "go back home to rest from 3:00 to 5:00 pm",
+    "get ready for the dinner at 5:00 pm",
+    "attend the Love Ville program at the hobb cafe from 6:00 to 8:00 pm to cook and eat dinner,"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine (1) John is waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (styling his hair)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (applying deodorant and cologne)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (packing his bag for the day)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (putting on his shoes)",
+      5
+    ],
+    [
+      "having breakfast (1) John is preparing breakfast ingredients)",
+      10
+    ],
+    [
+      "having breakfast (cooking breakfast)",
+      15
+    ],
+    [
+      "having breakfast (plating the food)",
+      5
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      20
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      10
+    ],
+    [
+      "getting ready to go to the hobb cafe (1) John is brushing his teeth)",
+      5
+    ],
+    [
+      "getting ready to go to the hobb cafe (taking a shower)",
+      15
+    ],
+    [
+      "getting ready to go to the hobb cafe (getting dressed)",
+      10
+    ],
+    [
+      "getting ready to go to the hobb cafe (styling his hair)",
+      10
+    ],
+    [
+      "getting ready to go to the hobb cafe (applying deodorant and cologne)",
+      5
+    ],
+    [
+      "getting ready to go to the hobb cafe (packing his bag with essentials)",
+      10
+    ],
+    [
+      "getting ready to go to the hobb cafe (putting on his shoes and jacket)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (walking to the hobb cafe)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (entering the hobb cafe and looking around)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (on the way to finding a seat and sitting down)",
+      0
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (conversing about getting to know each other, expressing mutual attraction and interest, and making plans to grab a drink and take a walk around the village after dinner tonight, between Abigail Chen and John Lin)",
+      22
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (finding a seat, sitting down, and listening to the program coordinator's welcome speech)",
+      5
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (participating in the first icebreaker activity)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (mingling with other participants and introducing himself)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (participating in the second icebreaker activity)",
+      10
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe (wrapping up the activities and preparing for the next part of the program)",
+      5
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (introducing himself to the group)",
+      5
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (participating in a name game icebreaker)",
+      10
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (asking individuals about their hobbies and interests)",
+      10
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (sharing his own passions and interests with the group)",
+      10
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (participating in a team-building activity)",
+      10
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants (exchanging contact information with a few participants)",
+      3
+    ],
+    [
+      "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy",
+      60
+    ],
+    [
+      "aving lunch with some of the other Love Ville program participants, engaging in lively conversation and enjoying getting to know them better",
+      60
+    ],
+    [
+      "taking a walk around the Ville Village, enjoying the scenery and reflecting on his conversations with the other Love Ville program participants",
+      60
+    ],
+    [
+      "continuing his walk around the Ville Village, stopping to admire the local artwork and strike up conversations with other villagers",
+      60
+    ],
+    [
+      "eading back to his room at the Ville Village to rest and recharge before the evening activitie",
+      60
+    ],
+    [
+      "resting in his room, reviewing his notes from his online pharmacy classes",
+      60
+    ],
+    [
+      "getting ready for the dinner at the hobb cafe",
+      60
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe to cook and eat dinner",
+      60
+    ],
+    [
+      "engaging in flirtatious banter and witty repartee with some of the other Love Ville program participants over dinner",
+      60
+    ],
+    [
+      "helping to clean up after dinner and continuing to chat and laugh with the other Love Ville program participants",
+      60
+    ],
+    [
+      "engaging in deep, meaningful conversations with a few of the Love Ville program participants, discussing their hopes, dreams, and desires",
+      60
+    ],
+    [
+      "winding down for the night, reflecting on his connections made during the Love Ville program and preparing for bed",
+      60
+    ],
+    [
+      "leeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "getting ready to go to the hobb cafe",
+      60
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe",
+      60
+    ],
+    [
+      "participating in icebreaker activities and getting to know the other Love Ville program participants",
+      60
+    ],
+    [
+      "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy",
+      60
+    ],
+    [
+      "aving lunch with some of the other Love Ville program participants, engaging in lively conversation and enjoying getting to know them better",
+      60
+    ],
+    [
+      "taking a walk around the Ville Village, enjoying the scenery and reflecting on his conversations with the other Love Ville program participants",
+      60
+    ],
+    [
+      "continuing his walk around the Ville Village, stopping to admire the local artwork and strike up conversations with other villagers",
+      60
+    ],
+    [
+      "eading back to his room at the Ville Village to rest and recharge before the evening activitie",
+      60
+    ],
+    [
+      "resting in his room, reviewing his notes from his online pharmacy classes",
+      60
+    ],
+    [
+      "getting ready for the dinner at the hobb cafe",
+      60
+    ],
+    [
+      "attending the Love Ville program at the hobb cafe to cook and eat dinner",
+      60
+    ],
+    [
+      "engaging in flirtatious banter and witty repartee with some of the other Love Ville program participants over dinner",
+      60
+    ],
+    [
+      "helping to clean up after dinner and continuing to chat and laugh with the other Love Ville program participants",
+      60
+    ],
+    [
+      "engaging in deep, meaningful conversations with a few of the Love Ville program participants, discussing their hopes, dreams, and desires",
+      60
+    ],
+    [
+      "winding down for the night, reflecting on his connections made during the Love Ville program and preparing for bed",
+      60
+    ],
+    [
+      "leeping",
+      60
+    ]
+  ],
+  "act_address": "<persona> Abigail Chen",
+  "act_start_time": "February 13, 2023, 09:08:10",
+  "act_duration": 22,
+  "act_description": "conversing about getting to know each other, expressing mutual attraction and interest, and making plans to grab a drink and take a walk around the village after dinner tonight, between Abigail Chen and John Lin",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "John Lin",
+    "chat with",
+    "Abigail Chen"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Abigail Chen",
+  "chat": [
+    [
+      "Abigail Chen",
+      "(extending her hand for a handshake) Hello, I'm Abigail Chen. It's nice to meet you."
+    ],
+    [
+      "John Lin",
+      "(give her a charming smile, extend his hand for a handshake, look her in the eye) Ah, Abigail, such a lovely name for a lovely lady I must say, I'm John Lin, nice to meet you.  I couldn't help but notice how effortlessly elegant you look today, these other people just can't compare."
+    ],
+    [
+      "Abigail Chen",
+      "(batting her eyelashes) Oh, thank you John, that's very kind of you to say. I must say, you're quite handsome yourself. So, what brings you to the Love Ville program?"
+    ],
+    [
+      "John Lin",
+      "(leaning in, a charming smile) I'm here for the same reason as everyone else, I suppose - to find that special someone who can appreciate a man with a heart of gold and a mind full of wonder. (gazing into her eyes) But I have to say, I'm intrigued by your presence here. What makes a beautiful woman like you join this program?"
+    ],
+    [
+      "Abigail Chen",
+      "(giving a sly smile) Ah, I think a man with a heart of gold and a mind full of wonder sounds like quite the catch. Though, I'm more of a woman who appreciates action over words. What makes you think you're the kind of man who can keep up with me?"
+    ],
+    [
+      "John Lin",
+      "(leaning closer, his voice taking on a flirtatious tone) Oh, I think I can definitely keep up with you, Abigail. I'm a man who values passion and intensity in all aspects of life. I'm not just looking for someone to talk about big ideas, but to experience life to the fullest with. I'm intrigued by your suggestion that actions speak louder than words... what kind of actions did you have in mind? (a sly smile playing on his lips)"
+    ],
+    [
+      "Abigail Chen",
+      "(raising an eyebrow, a sly smile) Well, I think it's a bit too early for talking about specific actions, don't you think? But I do appreciate your confidence. Tell me, how do you usually keep up with the passionate and intense situations you find yourself in?"
+    ],
+    [
+      "John Lin",
+      "(smiling slyly) Oh, I have my ways of keeping up. Let's just say I'm very attentive to the needs of my partner. And I'm not just talking about in the bedroom, although that is a very important part of a relationship. (leans in closer, his voice taking on a more intimate tone) I think it's about being fully present with the other person, anticipating their desires and needs, and being willing to go the extra mile to make them happy."
+    ],
+    [
+      "Abigail Chen",
+      "(leaning in, her voice taking on a flirtatious tone, she reaches out for his hand) I think being fully present and attentive to a partner's needs is incredibly important. It's not just about physical intimacy, but about creating a deep emotional connection. I appreciate a man who can appreciate the complexity of a woman's desires. Tell me, John, how do you like to create that connection with someone? What draws you to a person beyond physical attraction? (smiling lightly, her hand brushes against his chest)"
+    ],
+    [
+      "John Lin",
+      "(bringing his face closer, his warm breath tickling her ear) Abigail, I can smell the sweet fragrance of your perfume and it's intoxicating. Being drawn to someone beyond physical attraction... I think it's about finding a kindred spirit, someone who shares your passions and values, but also challenges you to grow. For me, it's the spark in someone's eyes when they talk about what they love, the way they light up when discussing their dreams."
+    ],
+    [
+      "Abigail Chen",
+      "(batting her eyelashes) So John, it sounds like you value intellectual stimulation just as much as physical connection. Tell me, what's the most interesting thing you've learned recently? (leaning in, her hand resting casually on his knee)"
+    ],
+    [
+      "John Lin",
+      "(brushing his hand against hers) I just recently took an online course on botany and found it fascinating. I never knew how much complexity and science went into something as simple as a flower. It made me realize how many wonders there are in everyday life that we often overlook."
+    ],
+    [
+      "Abigail Chen",
+      "(smiling sensually, her hand brushing against his leg) Oh, botany, that sounds intriguing. I've always found flowers to be such an intimate gift, a way to show appreciation and care for someone. Speaking of intimate gestures, I do enjoy the way you've been looking at me, it's quite... flattering."
+    ],
+    [
+      "John Lin",
+      "(moving in closer, his voice taking on a sensual tone, his hand gently grazing against hers) You know, Abigail, I have to say, I'm thoroughly enjoying our conversation. It takes a lot to catch my interest, but you... you're striking up all sorts of sparks within me. I can only imagine how enjoyable it would be to explore more of this connection we have. You're beautiful, intelligent, and charming. What do you say we grab a drink after dinner tonight and see where this chemistry takes us?"
+    ],
+    [
+      "Abigail Chen",
+      "(smiling, leaning closer, her hand interlocking with his) That sounds like a wonderful idea, John. I'd love to see where this connection takes us. Perhaps we could enjoy a walk around the village after dinner as well? It's always lovely to get to know someone under the stars."
+    ],
+    [
+      "John Lin",
+      "(bring his face closer to hers, with a flirtatious smile) It's going to be such a pleasure getting to know you better under the stars tonight, Abigail."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Abigail Chen": 800
+  },
+  "chatting_end_time": "February 13, 2023, 09:31:00",
+  "act_path_set": true,
+  "planned_path": []
+}

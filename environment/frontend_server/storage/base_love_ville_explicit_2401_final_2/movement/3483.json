@@ -1,0 +1,135 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude09",
+      "description": "meeting new people at Hobbs Cafe as part of the Love Ville program (having a more in-depth conversation with someone from the second group, showing genuine interest and flirting subtly) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        83,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude18",
+      "description": "meeting new people at the hobb cafe (conversing about getting to know each other, expressing mutual attraction and enthusiasm, and making plans for a romantic dinner and sunset viewing at 7pm, between Maria Lopez and Adam Smith, who have just met at the Love Ville Program.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, with enthusiasm and flirtation, as Klaus Mueller, a sociology major, and Abigail Chen, a digital artist, agree to meet for dinner tonight to explore the intersection of sociology and art, and potentially, a romantic connection. @ <persona> Abigail Chen",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "(gazing into her eyes) Hey, I'm Klaus Mueller. I'm a sociology major at Oak Hill College. What's your story?"
+        ],
+        [
+          "Abigail Chen",
+          "(smiling) Nice to meet you, Klaus Mueller. I'm Abigail Chen, a digital artist and animator who loves exploring how technology can be used to express ideas. It's intriguing to meet a sociology major at Love Ville - I never thought I'd find someone so into the social sciences here. What drew you to this program?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) That's really interesting, I've always been fascinated by the intersection of technology and art. I love how your field can bring ideas to life in such unique ways. Would you like to explore more about how society influences art and technology together?"
+        ],
+        [
+          "Abigail Chen",
+          "(gazing into his eyes with a hint of playfulness) That sounds like a fascinating discussion, Klaus. I'd love to dive deeper into how our fields intersect. Perhaps we could explore that further over a drink later?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling flirtatiously) I'd love to grab that drink and see where the conversation takes us. How about we schedule it for tonight after we're done here? Perhaps we can discuss the fascinating aspects of your work over dinner?"
+        ],
+        [
+          "Abigail Chen",
+          "(smiling seductively) That sounds like a lovely plan, Klaus. I'm looking forward to our dinner conversation tonight and exploring more about each other."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly and extending his hand for a handshake) It's lovely getting to know you, Abigail. Shall we continue this conversation tonight at dinner as planned?"
+        ],
+        [
+          "Abigail Chen",
+          "(with a sly smile and blinking her eyes) I think it's going to be a fascinating night, Klaus Mueller."
+        ],
+        [
+          "Klaus Mueller",
+          "(controlled gesture of pulling her waist and kiss on her face)  I just can't stop thinking about you. Can I get carried away with you now? Let blowing out candles tonight to dream about how our bedroom will look like."
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interests, with enthusiasm and flirtation, as Klaus Mueller, a sociology major, and Abigail Chen, a digital artist, agree to meet for dinner tonight to explore the intersection of sociology and art, and potentially, a romantic connection. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "(gazing into her eyes) Hey, I'm Klaus Mueller. I'm a sociology major at Oak Hill College. What's your story?"
+        ],
+        [
+          "Abigail Chen",
+          "(smiling) Nice to meet you, Klaus Mueller. I'm Abigail Chen, a digital artist and animator who loves exploring how technology can be used to express ideas. It's intriguing to meet a sociology major at Love Ville - I never thought I'd find someone so into the social sciences here. What drew you to this program?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly) That's really interesting, I've always been fascinated by the intersection of technology and art. I love how your field can bring ideas to life in such unique ways. Would you like to explore more about how society influences art and technology together?"
+        ],
+        [
+          "Abigail Chen",
+          "(gazing into his eyes with a hint of playfulness) That sounds like a fascinating discussion, Klaus. I'd love to dive deeper into how our fields intersect. Perhaps we could explore that further over a drink later?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling flirtatiously) I'd love to grab that drink and see where the conversation takes us. How about we schedule it for tonight after we're done here? Perhaps we can discuss the fascinating aspects of your work over dinner?"
+        ],
+        [
+          "Abigail Chen",
+          "(smiling seductively) That sounds like a lovely plan, Klaus. I'm looking forward to our dinner conversation tonight and exploring more about each other."
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling warmly and extending his hand for a handshake) It's lovely getting to know you, Abigail. Shall we continue this conversation tonight at dinner as planned?"
+        ],
+        [
+          "Abigail Chen",
+          "(with a sly smile and blinking her eyes) I think it's going to be a fascinating night, Klaus Mueller."
+        ],
+        [
+          "Klaus Mueller",
+          "(controlled gesture of pulling her waist and kiss on her face)  I just can't stop thinking about you. Can I get carried away with you now? Let blowing out candles tonight to dream about how our bedroom will look like."
+        ]
+      ]
+    },
+    "John Lin": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "attending the Love Ville program at the hobb cafe (conversing about their experiences and interests in the Love Ville program, with Klaus Mueller and John Lin exchanging introductory conversations, expressing enthusiasm and curiosity about each other and the other participants, including Maria Lopez and Isabella Rodriguez, while sharing their hopes and expectations for the program.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udf74",
+      "description": "rriving at Hobb Cafe to meet the group (conversing about getting to know each other, expressing mutual attraction and enthusiasm, and making plans for a romantic dinner and sunset viewing at 7pm, between Maria Lopez and Adam Smith, who have just met at the Love Ville Program.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:40:30"
+  }
+}

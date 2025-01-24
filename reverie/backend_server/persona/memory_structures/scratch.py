@@ -256,7 +256,8 @@ class Scratch:
     print(f"Relationship: {self.relationships}")
     for k,v in scratch["relationships"].items():
       for i in range(len(scratch["relationships"][k])):
-        scratch["relationships"][k][i]["date"] = scratch["relationships"][k][i]["date"].strftime("%B %d, %Y, %H:%M:%S")
+        if not isinstance(scratch["relationships"][k][i]["date"],str):
+          scratch["relationships"][k][i]["date"] = scratch["relationships"][k][i]["date"].strftime("%B %d, %Y, %H:%M:%S")
     scratch["curr_time"] = self.curr_time.strftime("%B %d, %Y, %H:%M:%S")
     scratch["curr_tile"] = self.curr_tile
     scratch["daily_plan_req"] = self.daily_plan_req

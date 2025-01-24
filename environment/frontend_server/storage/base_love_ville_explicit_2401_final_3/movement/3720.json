@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "engaging in conversations and flirting with other participants (asking about their interests and hobbies) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udfa8",
+      "description": "exploring the Ville Village (conversing about their backgrounds, interests, and artistic passions, particularly digital art, while also discussing their impressions of other individuals, such as Klaus Mueller, and exploring the intersection of technology and human elements in art, between Abigail Chen and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "arriving at the Hobb Cafe to meet the Love Ville Program participants (conversing about their love lives, sharing their preferences and interests, and discussing their plans for dinner dates with women they've met, including Adam Smith's upcoming dinner with Maria Lopez and Klaus Mueller's dinner with Abigail Chen, while also exchanging tips and wishing each other luck, and making plans to meet up later for drinks and to share stories about their experiences.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udfa8",
+      "description": "attending the Love Ville program meeting at the Hobb Cafe (conversing about their backgrounds, interests, and artistic passions, particularly digital art, while also discussing their impressions of other individuals, such as Klaus Mueller, and exploring the intersection of technology and human elements in art, between Abigail Chen and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf89\ud83d\udc65",
+      "description": "participating in icebreaker activities and getting to know the other Love Ville program participants (participating in a name game icebreaker) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc6b\ud83d\udcac",
+      "description": "rriving at Hobb Cafe to meet the group (conversing about their love lives, sharing their preferences and interests, and discussing their plans for dinner dates with women they've met, including Adam Smith's upcoming dinner with Maria Lopez and Klaus Mueller's dinner with Abigail Chen, while also exchanging tips and wishing each other luck, and making plans to meet up later for drinks and to share stories about their experiences.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:20:00"
+  }
+}

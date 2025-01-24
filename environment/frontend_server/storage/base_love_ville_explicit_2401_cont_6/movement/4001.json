@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+      "description": "continuing to mingle and flirt with other participants (sharing her own interests and experiences with the group) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc98",
+      "description": "meeting new people at the hobb cafe (conversing about getting to know each other, sharing their experiences in Love Ville, and making plans to spend time together, including grabbing coffee, taking a walk around the village, and potentially spending intimate time at a private villa, with a strong emotional connection and mutual attraction between Klaus Mueller and Maria Lopez.) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd1d",
+      "description": "ocializing and getting to know other Love Ville program participants at the Hobb Cafe (looking for common interests or experiences within the group) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        41,
+        35
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (approaching a group of participants and introducing himself) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83e\udd14\ud83d\udcac",
+      "description": "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun (asking individuals about their hobbies and interests) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:06:50"
+  }
+}

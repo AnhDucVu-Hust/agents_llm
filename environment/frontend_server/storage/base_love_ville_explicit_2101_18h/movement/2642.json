@@ -1,0 +1,191 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (eating breakfast) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        129,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their shared participation in the Love Ville program, expressing enthusiasm and agreement, as they make plans to meet at the Hobb Cafe at 10:30 to grab coffee, share pastries, and play a flavor-guessing game, with Maria Lopez and Klaus Mueller engaging in a lively and playful exchange, making a deal that the loser of the game will not only buy the next round of coffee but also share an embarrassing story about themselves. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(smiling warmly and waving) Hi there! I\u2019m Maria. Looks like we\u2019re both starting our day at the same time. How\u2019s your morning going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling and waving back) Hi Maria! I'm Klaus. Yeah, it seems like we're on the same morning schedule. My morning's going pretty well so far, just trying to get energized for the day. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and leaning slightly against the doorframe) Nice to meet you, Klaus! So, are you also here for the Love Ville program, or just enjoying the dorm life?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling and leaning slightly against the doorframe) Yeah, I'm here for the Love Ville program too. It's my first day, so I'm pretty excited to meet new people. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling playfully and tilting her head) Love Ville, huh? Sounds like we're both in for an adventure. Any first-day jitters, or are you ready to dive right in?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling playfully and leaning slightly closer) Oh, definitely ready to dive right in. But tell me, do you think Love Ville will live up to the hype?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and brushing a strand of hair behind her ear) I think it\u2019s too early to tell if it\u2019ll live up to the hype, but I\u2019m definitely here for the adventure. How about we explore it together and see what happens?"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning playfully and leaning against the doorframe) Well, exploring it together sounds like a great plan. Maybe we can grab a coffee at the Hobb Cafe later and swap some first impressions?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling warmly and nodding) Coffee at the Hobb Cafe sounds perfect. I\u2019m curious to hear what you think of the place so far. Should we meet there around, say, 10:30?"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and nodding) 10:30 at the Hobb Cafe sounds perfect. I\u2019ll grab us a table by the window. Looking forward to hearing your first impressions over coffee."
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and nodding) Absolutely, I\u2019ll see you there at 10:30. Maybe we can even share a pastry or two while we chat. Looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and playfully raising an eyebrow) A pastry-sharing adventure, huh? Sounds like the perfect way to kick off our Love Ville experience. Maybe we can even try to guess which pastries are the most popular here. See you at 10:30 by the window!"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and playfully brushing a strand of hair behind her ear) You know, I have a feeling this pastry-sharing adventure might just be the highlight of my day. Maybe we can even make a little game out of guessing the flavors? Loser buys the next round of coffee."
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and playfully rubbing his hands together) A flavor-guessing game with coffee on the line? You\u2019re on! But I should warn you, I\u2019ve got a pretty good palate. Maybe we should make it interesting and say the loser also has to tell a funny story about themselves?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling playfully and leaning slightly closer) A funny story, huh? You're on! But just so you know, my stories are legendary. I hope you're ready to spill some embarrassing tales too. See you at 10:30!"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and playfully rubbing his hands together) Alright, Maria, you\u2019re on! But just a heads-up, I\u2019ve got a knack for guessing flavors. And if I win, not only do you owe me coffee, but you also have to tell me your most embarrassing college story. Deal?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their shared participation in the Love Ville program, expressing enthusiasm and agreement, as they make plans to meet at the Hobb Cafe at 10:30 to grab coffee, share pastries, and play a flavor-guessing game, with Maria Lopez and Klaus Mueller engaging in a lively and playful exchange, making a deal that the loser of the game will not only buy the next round of coffee but also share an embarrassing story about themselves. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(smiling warmly and waving) Hi there! I\u2019m Maria. Looks like we\u2019re both starting our day at the same time. How\u2019s your morning going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling and waving back) Hi Maria! I'm Klaus. Yeah, it seems like we're on the same morning schedule. My morning's going pretty well so far, just trying to get energized for the day. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and leaning slightly against the doorframe) Nice to meet you, Klaus! So, are you also here for the Love Ville program, or just enjoying the dorm life?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling and leaning slightly against the doorframe) Yeah, I'm here for the Love Ville program too. It's my first day, so I'm pretty excited to meet new people. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling playfully and tilting her head) Love Ville, huh? Sounds like we're both in for an adventure. Any first-day jitters, or are you ready to dive right in?"
+        ],
+        [
+          "Klaus Mueller",
+          "(smiling playfully and leaning slightly closer) Oh, definitely ready to dive right in. But tell me, do you think Love Ville will live up to the hype?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and brushing a strand of hair behind her ear) I think it\u2019s too early to tell if it\u2019ll live up to the hype, but I\u2019m definitely here for the adventure. How about we explore it together and see what happens?"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning playfully and leaning against the doorframe) Well, exploring it together sounds like a great plan. Maybe we can grab a coffee at the Hobb Cafe later and swap some first impressions?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling warmly and nodding) Coffee at the Hobb Cafe sounds perfect. I\u2019m curious to hear what you think of the place so far. Should we meet there around, say, 10:30?"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and nodding) 10:30 at the Hobb Cafe sounds perfect. I\u2019ll grab us a table by the window. Looking forward to hearing your first impressions over coffee."
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and nodding) Absolutely, I\u2019ll see you there at 10:30. Maybe we can even share a pastry or two while we chat. Looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and playfully raising an eyebrow) A pastry-sharing adventure, huh? Sounds like the perfect way to kick off our Love Ville experience. Maybe we can even try to guess which pastries are the most popular here. See you at 10:30 by the window!"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling and playfully brushing a strand of hair behind her ear) You know, I have a feeling this pastry-sharing adventure might just be the highlight of my day. Maybe we can even make a little game out of guessing the flavors? Loser buys the next round of coffee."
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and playfully rubbing his hands together) A flavor-guessing game with coffee on the line? You\u2019re on! But I should warn you, I\u2019ve got a pretty good palate. Maybe we should make it interesting and say the loser also has to tell a funny story about themselves?"
+        ],
+        [
+          "Maria Lopez",
+          "(smiling playfully and leaning slightly closer) A funny story, huh? You're on! But just so you know, my stories are legendary. I hope you're ready to spill some embarrassing tales too. See you at 10:30!"
+        ],
+        [
+          "Klaus Mueller",
+          "(grinning and playfully rubbing his hands together) Alright, Maria, you\u2019re on! But just a heads-up, I\u2019ve got a knack for guessing flavors. And if I win, not only do you owe me coffee, but you also have to tell me your most embarrassing college story. Deal?"
+        ]
+      ]
+    },
+    "Abigail Chen": {
+      "movement": [
+        36,
+        18
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:artist's co-living space:Abigail Chen's room:bed",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        93,
+        66
+      ],
+      "pronunciatio": "\ud83c\udf73",
+      "description": "having breakfast (cooking breakfast) @ the Ville:Lin family's house:kitchen:cooking area",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        21,
+        62
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading a book (reading the first chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:20:20"
+  }
+}
