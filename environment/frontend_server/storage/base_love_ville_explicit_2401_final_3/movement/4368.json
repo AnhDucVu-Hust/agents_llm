@@ -1,0 +1,87 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude09",
+      "description": "wrapping up the event, saying goodbye to the participants, and leaving Hobbs Cafe (conversing about their experience with the Love Ville program, exchanging flirtatious comments, and making plans to take their intimate connection to Isabella's place to explore their adventurous spirits further, with a mutual agreement to see where the night takes them.) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interest in each other and the Love Ville show, with a previous agreement to have dinner plans tonight, while expressing enthusiasm and playfulness through their exchanges, between Maria Lopez and Adam Smith @ <persona> Adam Smith",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(lean in) You seemed really interesting back at the hobb cafe Adam Smith!"
+        ],
+        [
+          "Adam Smith",
+          "(grinning) I know, right? I'm Adam Smith, nice to meet you. So what do you think of this Love Ville show so far?"
+        ],
+        [
+          "Maria Lopez",
+          "(winking) i know we have dinner plans tonight but i couldn't help myself."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "participating in the Love Ville Program (conversing about their experiences and impressions of the Love Ville program, sharing their thoughts on attractive qualities in a partner, and discussing their mutual interests in various women, including Isabella, Maria, and Abigail, with enthusiasm and agreement, and making a plan to keep in touch and see how their adventures unfold.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "moving on to another group or individual to continue socializing, attempting to find a more stable and engaging conversation @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc6b",
+      "description": "wrapping up the morning session and preparing to move on to the next activity (conversing about their experiences and impressions of the Love Ville program, sharing their thoughts on attractive qualities in a partner, and discussing their mutual interests in various women, including Isabella, Maria, and Abigail, with enthusiasm and agreement, and making a plan to keep in touch and see how their adventures unfold.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their interest in each other and the Love Ville show, with a previous agreement to have dinner plans tonight, while expressing enthusiasm and playfulness through their exchanges, between Maria Lopez and Adam Smith @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "(lean in) You seemed really interesting back at the hobb cafe Adam Smith!"
+        ],
+        [
+          "Adam Smith",
+          "(grinning) I know, right? I'm Adam Smith, nice to meet you. So what do you think of this Love Ville show so far?"
+        ],
+        [
+          "Maria Lopez",
+          "(winking) i know we have dinner plans tonight but i couldn't help myself."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:08:00"
+  }
+}

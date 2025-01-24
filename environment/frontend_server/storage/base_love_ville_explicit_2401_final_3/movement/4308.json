@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude09",
+      "description": "wrapping up the event, saying goodbye to the participants, and leaving Hobbs Cafe (conversing about their experience with the Love Ville program, exchanging flirtatious comments, and making plans to take their intimate connection to Isabella's place to explore their adventurous spirits further, with a mutual agreement to see where the night takes them.) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        92,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "exploring the Ville Village (talking to the shop owners) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude18",
+      "description": "participating in the Love Ville Program (conversing about their experience with the Love Ville program, exchanging flirtatious comments, and making plans to take their intimate connection to Isabella's place to explore their adventurous spirits further, with a mutual agreement to see where the night takes them.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc95",
+      "description": "actively listening to the responses and asking follow-up questions, attempting to rebuild momentum and connection with the new group (conversing about their experiences and desires in relationships, expressing enthusiasm and playfulness, and ultimately agreeing to plan a double date, with Isabella Rodriguez and Abigail Chen exchanging flirtatious comments and ideas about finding someone who can match their level of intensity and desire.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcf1\ud83d\ude03",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (exchanging contact information with the participants and expressing his excitement to get to know them better throughout the program) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        74,
+        26
+      ],
+      "pronunciatio": "\u231b",
+      "description": "waiting to start exchanging contact information with the group members and making plans to meet up later for drinks and to share stories about their experiences @ <waiting> 74 26",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:58:00"
+  }
+}

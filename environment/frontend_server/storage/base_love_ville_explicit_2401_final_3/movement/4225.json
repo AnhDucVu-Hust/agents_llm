@@ -1,0 +1,61 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\ude18",
+      "description": "continuing to mingle and flirt with other participants (conversing about their experiences and desires in relationships, expressing enthusiasm and playfulness, and ultimately agreeing to plan a double date, with Isabella Rodriguez and Abigail Chen exchanging flirtatious comments and ideas about finding someone who can match their level of intensity and desire.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        81,
+        30
+      ],
+      "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\udecd",
+      "description": "exploring the Ville Village (visiting the local shops) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\u2764\ufe0f",
+      "description": "participating in the Love Ville Program  @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Abigail Chen": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83d\udc95",
+      "description": "actively listening to the responses and asking follow-up questions, attempting to rebuild momentum and connection with the new group (conversing about their experiences and desires in relationships, expressing enthusiasm and playfulness, and ultimately agreeing to plan a double date, with Isabella Rodriguez and Abigail Chen exchanging flirtatious comments and ideas about finding someone who can match their level of intensity and desire.) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "John Lin": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to mingle and chat with other Love Ville program participants, asking about their lives and sharing about his passion for art and helping people at his pharmacy (conversing about their interests, expectations, and attractions, particularly in regards to women, during their Love Ville adventure, with Adam Smith and John Lin discussing and agreeing on the importance of confidence, body language, and genuine connections, while also showing enthusiasm and interest in getting to know certain women, such as Abigail and Isabella, better.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Adam Smith": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "getting to know the group members at Hobb Cafe (conversing about their interests, expectations, and attractions, particularly in regards to women, during their Love Ville adventure, with Adam Smith and John Lin discussing and agreeing on the importance of confidence, body language, and genuine connections, while also showing enthusiasm and interest in getting to know certain women, such as Abigail and Isabella, better.) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:44:10"
+  }
+}

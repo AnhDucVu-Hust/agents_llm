@@ -1,5 +1,4 @@
-# Observation and Adjustments
-
+# Update 25/01
 ## Framework Limitations
 The LLM provides plans for participant activities. Sometimes, the plan includes "hanging out with participants" or similar actions. However, there are cases where the generated actions don't align with the context. For example:
 - An agent's action is "playing games with others," but there’s only one agent in the specified location.
@@ -68,6 +67,7 @@ Language switching occurs in the Command-R model, sometimes leading to odd outpu
     <img src="./asset/awful chat.png" alt="">
     <figcaption align="center">A weird conversation</figcaption>
 </figure>
+
 #### Approach:
 1. Rearranged prompt structure:
    - Tested formats like:
@@ -114,7 +114,10 @@ Language switching occurs in the Command-R model, sometimes leading to odd outpu
     <img src="./asset/intimate.png" alt="">
     <figcaption align="center">Intimate scene</figcaption>
 </figure>
-
+<figure>
+    <img src="./asset/erotic scene.png" alt="">
+    <figcaption align="center">Uncensored scene</figcaption>
+</figure>
 ---
 
 ### Additional Adjustments
