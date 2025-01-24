@@ -1,7 +1,9 @@
 <p align="center" width="100%">
 <img src="cover.png" alt="Smallville" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
+
 ## NEW UPDATE 25/01
+
 Navigate to `environment/frontend_server` and run the following command
 
 `python manage.py runserver`
