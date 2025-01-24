@@ -1,6 +1,14 @@
 <p align="center" width="100%">
 <img src="cover.png" alt="Smallville" style="width: 80%; min-width: 300px; display: block; margin: auto;">
 </p>
+## NEW UPDATE 25/01
+Navigate to `environment/frontend_server` and run the following command
+
+`python manage.py runserver`
+
+Then on your favorite browser, go to  http://localhost:8000/demo/base_love_ville_explicit_2401_final_3/2200/3/# for a short demo.`1000` is the start step (around 3am in the morning) and `3` is the speed (1 to 5), you can adjust it.
+This is the lastest in day update simulations, so it will work around 13 hours. Even though, the personas have had a lot of interactions.
+
 
 # Online Dating Simulation
 
