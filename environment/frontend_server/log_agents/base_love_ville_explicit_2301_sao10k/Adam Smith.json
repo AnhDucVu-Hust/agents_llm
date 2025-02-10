@@ -1,0 +1,5299 @@
+[
+  {
+    "timestamp": "February 13, 2023, 00:00:00",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\ud83d\udecb\ufe0f",
+    "description": "sleeping @ the Ville:Adam Smith's house:main room:bed",
+    "action": "sleeping ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:00:00",
+    "coordinates": [
+      20,
+      65
+    ],
+    "pronunciatio": "\u2460",
+    "description": "waking up and starting his morning routine (1) Adam is waking up and stretching in bed) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:05:00",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\ud83d\udecf\ufe0f\ud83d\udca4",
+    "description": "waking up and starting his morning routine (getting out of bed and making his bed) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:10:00",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udebd\ud83e\uddd6",
+    "description": "waking up and starting his morning routine (brushing his teeth and washing his face) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:10:10",
+    "coordinates": [
+      22,
+      66
+    ],
+    "pronunciatio": "\ud83d\udebd\ud83e\uddd6",
+    "description": "waking up and starting his morning routine (brushing his teeth and washing his face) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:10:20",
+    "coordinates": [
+      22,
+      67
+    ],
+    "pronunciatio": "\ud83d\udebd\ud83e\uddd6",
+    "description": "waking up and starting his morning routine (brushing his teeth and washing his face) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:10:30",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udebd\ud83e\uddd6",
+    "description": "waking up and starting his morning routine (brushing his teeth and washing his face) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:10:40",
+    "coordinates": [
+      21,
+      68
+    ],
+    "pronunciatio": "\ud83d\udebd\ud83e\uddd6",
+    "description": "waking up and starting his morning routine (brushing his teeth and washing his face) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:20:00",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and starting his morning routine (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:20:10",
+    "coordinates": [
+      22,
+      69
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and starting his morning routine (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:20:20",
+    "coordinates": [
+      22,
+      70
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and starting his morning routine (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:20:30",
+    "coordinates": [
+      21,
+      70
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and starting his morning routine (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:35:00",
+    "coordinates": [
+      22,
+      70
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:35:10",
+    "coordinates": [
+      22,
+      69
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:35:20",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:35:30",
+    "coordinates": [
+      22,
+      67
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:35:40",
+    "coordinates": [
+      22,
+      66
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:35:50",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:36:00",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:36:10",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:36:20",
+    "coordinates": [
+      21,
+      63
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:36:30",
+    "coordinates": [
+      21,
+      62
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:36:40",
+    "coordinates": [
+      21,
+      61
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:36:50",
+    "coordinates": [
+      21,
+      60
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83c\udfcb\ufe0f",
+    "description": "waking up and starting his morning routine (getting dressed in his workout clothes) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:45:00",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83d\udc8a",
+    "description": "waking up and starting his morning routine (drinking a glass of water and taking his daily vitamins) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:45:10",
+    "coordinates": [
+      23,
+      60
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83d\udc8a",
+    "description": "waking up and starting his morning routine (drinking a glass of water and taking his daily vitamins) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:45:20",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83d\udc8a",
+    "description": "waking up and starting his morning routine (drinking a glass of water and taking his daily vitamins) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:45:30",
+    "coordinates": [
+      23,
+      62
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83d\udc8a",
+    "description": "waking up and starting his morning routine (drinking a glass of water and taking his daily vitamins) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:50:00",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83d\udcf1",
+    "description": "waking up and starting his morning routine (checking his phone for any important messages or emails) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:50:10",
+    "coordinates": [
+      21,
+      62
+    ],
+    "pronunciatio": "\ud83d\udcf1",
+    "description": "waking up and starting his morning routine (checking his phone for any important messages or emails) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:55:00",
+    "coordinates": [
+      21,
+      61
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2642",
+    "description": "waking up and starting his morning routine (putting on his shoes and getting ready to start his morning exercise) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 04:55:10",
+    "coordinates": [
+      21,
+      60
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2642",
+    "description": "waking up and starting his morning routine (putting on his shoes and getting ready to start his morning exercise) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:00:00",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:00:10",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:00:20",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:00:30",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:00:40",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:00:50",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:01:00",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:05:00",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:05:10",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:05:20",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:05:30",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:05:40",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:05:50",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:06:00",
+    "coordinates": [
+      22,
+      59
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:06:10",
+    "coordinates": [
+      22,
+      58
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:06:20",
+    "coordinates": [
+      22,
+      57
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:06:30",
+    "coordinates": [
+      22,
+      56
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:06:40",
+    "coordinates": [
+      22,
+      55
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:06:50",
+    "coordinates": [
+      22,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:07:00",
+    "coordinates": [
+      22,
+      53
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:07:10",
+    "coordinates": [
+      22,
+      52
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:07:20",
+    "coordinates": [
+      23,
+      52
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:07:30",
+    "coordinates": [
+      24,
+      52
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:07:40",
+    "coordinates": [
+      24,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:07:50",
+    "coordinates": [
+      24,
+      50
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:08:00",
+    "coordinates": [
+      24,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:08:10",
+    "coordinates": [
+      25,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:08:20",
+    "coordinates": [
+      26,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:08:30",
+    "coordinates": [
+      27,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:08:40",
+    "coordinates": [
+      28,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfc3\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute jog around the neighborhood) @ the Ville:Johnson Park:park:park garden",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:15:00",
+    "coordinates": [
+      27,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:15:10",
+    "coordinates": [
+      26,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:15:20",
+    "coordinates": [
+      25,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:15:30",
+    "coordinates": [
+      24,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:15:40",
+    "coordinates": [
+      24,
+      50
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:15:50",
+    "coordinates": [
+      24,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:16:00",
+    "coordinates": [
+      24,
+      52
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:16:10",
+    "coordinates": [
+      23,
+      52
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:16:20",
+    "coordinates": [
+      22,
+      52
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:16:30",
+    "coordinates": [
+      22,
+      53
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:16:40",
+    "coordinates": [
+      22,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:16:50",
+    "coordinates": [
+      22,
+      55
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:17:00",
+    "coordinates": [
+      22,
+      56
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:17:10",
+    "coordinates": [
+      22,
+      57
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:17:20",
+    "coordinates": [
+      22,
+      58
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:17:30",
+    "coordinates": [
+      22,
+      59
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:17:40",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:17:50",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:18:00",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:18:10",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:18:20",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:18:30",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:18:40",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:20:00",
+    "coordinates": [
+      20,
+      65
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 10-minute yoga session focusing on flexibility) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:30:00",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of squats and lunges) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:30:10",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of squats and lunges) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:30:20",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of squats and lunges) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:30:30",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of squats and lunges) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:30:40",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of squats and lunges) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:30:50",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of squats and lunges) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:31:00",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of squats and lunges) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:31:10",
+    "coordinates": [
+      23,
+      60
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 5-minute set of squats and lunges) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:35:00",
+    "coordinates": [
+      23,
+      59
+    ],
+    "pronunciatio": "\ud83c\udfcb\ufe0f\u200d",
+    "description": "doing his morning exercise (doing a 10-minute high-intensity interval training (HIIT) workout) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:45:00",
+    "coordinates": [
+      22,
+      59
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 5-minute cool-down with deep stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:45:10",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 5-minute cool-down with deep stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:45:20",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 5-minute cool-down with deep stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:45:30",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 5-minute cool-down with deep stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:45:40",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 5-minute cool-down with deep stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:45:50",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 5-minute cool-down with deep stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:46:00",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 5-minute cool-down with deep stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:46:10",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\ud83e\uddd8\u200d\u2640",
+    "description": "doing his morning exercise (doing a 5-minute cool-down with deep stretching) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:50:00",
+    "coordinates": [
+      20,
+      65
+    ],
+    "pronunciatio": "\ud83d\ude4f",
+    "description": "doing his morning exercise (doing a 5-minute meditation to center himself for the day ahead) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:55:00",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83e\uddf9",
+    "description": "doing his morning exercise (drinking water and toweling off sweat) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:55:10",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83e\uddf9",
+    "description": "doing his morning exercise (drinking water and toweling off sweat) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:55:20",
+    "coordinates": [
+      22,
+      66
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83e\uddf9",
+    "description": "doing his morning exercise (drinking water and toweling off sweat) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:55:30",
+    "coordinates": [
+      22,
+      67
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83e\uddf9",
+    "description": "doing his morning exercise (drinking water and toweling off sweat) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:55:40",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83e\uddf9",
+    "description": "doing his morning exercise (drinking water and toweling off sweat) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 05:55:50",
+    "coordinates": [
+      21,
+      68
+    ],
+    "pronunciatio": "\ud83d\udca7\ud83e\uddf9",
+    "description": "doing his morning exercise (drinking water and toweling off sweat) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:00:00",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:00:10",
+    "coordinates": [
+      22,
+      67
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:00:20",
+    "coordinates": [
+      22,
+      66
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:00:30",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:00:40",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:00:50",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:01:00",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:01:10",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:01:20",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:01:30",
+    "coordinates": [
+      22,
+      59
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:01:40",
+    "coordinates": [
+      22,
+      58
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:01:50",
+    "coordinates": [
+      22,
+      57
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:02:00",
+    "coordinates": [
+      22,
+      56
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:02:10",
+    "coordinates": [
+      22,
+      55
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:02:20",
+    "coordinates": [
+      22,
+      54
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:02:30",
+    "coordinates": [
+      22,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:02:40",
+    "coordinates": [
+      23,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:02:50",
+    "coordinates": [
+      24,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:03:00",
+    "coordinates": [
+      25,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:03:10",
+    "coordinates": [
+      26,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:03:20",
+    "coordinates": [
+      27,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:03:30",
+    "coordinates": [
+      28,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:03:40",
+    "coordinates": [
+      29,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:03:50",
+    "coordinates": [
+      30,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:04:00",
+    "coordinates": [
+      31,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:04:10",
+    "coordinates": [
+      32,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:04:20",
+    "coordinates": [
+      33,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:04:30",
+    "coordinates": [
+      34,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:04:40",
+    "coordinates": [
+      35,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:04:50",
+    "coordinates": [
+      36,
+      53
+    ],
+    "pronunciatio": "\ud83d\udca1",
+    "description": "having breakfast (1) Adam is gathering ingredients for breakfast) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:05:00",
+    "coordinates": [
+      35,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:05:10",
+    "coordinates": [
+      34,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:05:20",
+    "coordinates": [
+      33,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:05:30",
+    "coordinates": [
+      32,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:05:40",
+    "coordinates": [
+      31,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:05:50",
+    "coordinates": [
+      30,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:06:00",
+    "coordinates": [
+      29,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:06:10",
+    "coordinates": [
+      28,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:06:20",
+    "coordinates": [
+      27,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:06:30",
+    "coordinates": [
+      26,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:06:40",
+    "coordinates": [
+      25,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:06:50",
+    "coordinates": [
+      24,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:07:00",
+    "coordinates": [
+      23,
+      53
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:07:10",
+    "coordinates": [
+      23,
+      54
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:07:20",
+    "coordinates": [
+      23,
+      55
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:07:30",
+    "coordinates": [
+      23,
+      56
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:07:40",
+    "coordinates": [
+      23,
+      57
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:07:50",
+    "coordinates": [
+      23,
+      58
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:08:00",
+    "coordinates": [
+      23,
+      59
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:08:10",
+    "coordinates": [
+      23,
+      60
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:08:20",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (preparing the coffee machine) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:10:00",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83c\udf73\ud83e\udd53",
+    "description": "having breakfast (cooking eggs and bacon) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "having breakfast (cooking eggs and bacon) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:20:00",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83c\udf5e",
+    "description": "having breakfast (toasting bread) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "having breakfast (toasting bread) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:25:00",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83c\udf74",
+    "description": "having breakfast (setting the table) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "having breakfast (setting the table) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:30:00",
+    "coordinates": [
+      23,
+      62
+    ],
+    "pronunciatio": "\u2615\ufe0f",
+    "description": "having breakfast (pouring a cup of coffee) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:35:00",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83c\udf73\ud83e\udd53",
+    "description": "having breakfast (serving the cooked eggs and bacon onto a plate) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:40:00",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83c\udf5e\ufe0f\ud83d\udc9b",
+    "description": "having breakfast (buttering the toasted bread) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "having breakfast (buttering the toasted bread) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:45:00",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83c\udf74",
+    "description": "having breakfast (eating his breakfast) @ the Ville:Adam Smith's house:main room:cooking area",
+    "action": "having breakfast (eating his breakfast) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 06:55:00",
+    "coordinates": [
+      23,
+      62
+    ],
+    "pronunciatio": "\ud83e\uddf9\ud83d\udebf",
+    "description": "having breakfast (cleaning up the table and washing dishes) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:00:00",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:00:10",
+    "coordinates": [
+      23,
+      60
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:00:20",
+    "coordinates": [
+      23,
+      59
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:00:30",
+    "coordinates": [
+      23,
+      58
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:00:40",
+    "coordinates": [
+      23,
+      57
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:00:50",
+    "coordinates": [
+      23,
+      56
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:01:00",
+    "coordinates": [
+      23,
+      55
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:01:10",
+    "coordinates": [
+      23,
+      54
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:01:20",
+    "coordinates": [
+      23,
+      53
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:01:30",
+    "coordinates": [
+      23,
+      52
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:01:40",
+    "coordinates": [
+      24,
+      52
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:01:50",
+    "coordinates": [
+      24,
+      51
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:02:00",
+    "coordinates": [
+      24,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:02:10",
+    "coordinates": [
+      24,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:02:20",
+    "coordinates": [
+      25,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:02:30",
+    "coordinates": [
+      26,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:02:40",
+    "coordinates": [
+      27,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:02:50",
+    "coordinates": [
+      27,
+      48
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:03:00",
+    "coordinates": [
+      27,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:03:10",
+    "coordinates": [
+      27,
+      46
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:03:20",
+    "coordinates": [
+      27,
+      45
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:03:30",
+    "coordinates": [
+      27,
+      44
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:03:40",
+    "coordinates": [
+      27,
+      43
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:03:50",
+    "coordinates": [
+      27,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:04:00",
+    "coordinates": [
+      28,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:04:10",
+    "coordinates": [
+      29,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:04:20",
+    "coordinates": [
+      30,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:04:30",
+    "coordinates": [
+      30,
+      41
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:04:40",
+    "coordinates": [
+      30,
+      40
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:04:50",
+    "coordinates": [
+      30,
+      39
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:00",
+    "coordinates": [
+      30,
+      40
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:10",
+    "coordinates": [
+      30,
+      41
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:20",
+    "coordinates": [
+      30,
+      42
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:30",
+    "coordinates": [
+      29,
+      42
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:40",
+    "coordinates": [
+      28,
+      42
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:50",
+    "coordinates": [
+      27,
+      42
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:00",
+    "coordinates": [
+      27,
+      43
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:10",
+    "coordinates": [
+      27,
+      44
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:20",
+    "coordinates": [
+      27,
+      45
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:30",
+    "coordinates": [
+      27,
+      46
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:40",
+    "coordinates": [
+      27,
+      47
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:50",
+    "coordinates": [
+      27,
+      48
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:07:00",
+    "coordinates": [
+      27,
+      49
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:07:10",
+    "coordinates": [
+      26,
+      49
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:07:20",
+    "coordinates": [
+      25,
+      49
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:07:30",
+    "coordinates": [
+      24,
+      49
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:07:40",
+    "coordinates": [
+      24,
+      50
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:07:50",
+    "coordinates": [
+      24,
+      51
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:08:00",
+    "coordinates": [
+      24,
+      52
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:08:10",
+    "coordinates": [
+      23,
+      52
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:08:20",
+    "coordinates": [
+      23,
+      53
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:08:30",
+    "coordinates": [
+      23,
+      54
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:08:40",
+    "coordinates": [
+      23,
+      55
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:08:50",
+    "coordinates": [
+      23,
+      56
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:09:00",
+    "coordinates": [
+      23,
+      57
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:09:10",
+    "coordinates": [
+      23,
+      58
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:09:20",
+    "coordinates": [
+      23,
+      59
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:09:30",
+    "coordinates": [
+      23,
+      60
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:09:40",
+    "coordinates": [
+      23,
+      61
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:09:50",
+    "coordinates": [
+      23,
+      62
+    ],
+    "pronunciatio": "\ud83c\udf75",
+    "description": "reading a book (making a cup of tea) @ the Ville:Adam Smith's house:main room:kitchen sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:10:00",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83d\udecb\ufe0f",
+    "description": "reading a book (getting comfortable in his reading chair) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:10:10",
+    "coordinates": [
+      21,
+      62
+    ],
+    "pronunciatio": "\ud83d\udecb\ufe0f",
+    "description": "reading a book (getting comfortable in his reading chair) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:15:00",
+    "coordinates": [
+      21,
+      62
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the first chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "reading a book (reading the first chapter of the book) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:00",
+    "coordinates": [
+      21,
+      61
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:10",
+    "coordinates": [
+      21,
+      60
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:20",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:30",
+    "coordinates": [
+      22,
+      59
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:40",
+    "coordinates": [
+      22,
+      58
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:50",
+    "coordinates": [
+      22,
+      57
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:00",
+    "coordinates": [
+      22,
+      56
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:10",
+    "coordinates": [
+      22,
+      55
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:20",
+    "coordinates": [
+      22,
+      54
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:30",
+    "coordinates": [
+      22,
+      53
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:40",
+    "coordinates": [
+      22,
+      52
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:50",
+    "coordinates": [
+      23,
+      52
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:00",
+    "coordinates": [
+      24,
+      52
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:10",
+    "coordinates": [
+      24,
+      51
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:20",
+    "coordinates": [
+      24,
+      50
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:30",
+    "coordinates": [
+      24,
+      49
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:40",
+    "coordinates": [
+      25,
+      49
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:50",
+    "coordinates": [
+      26,
+      49
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:00",
+    "coordinates": [
+      27,
+      49
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:10",
+    "coordinates": [
+      27,
+      48
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:20",
+    "coordinates": [
+      27,
+      47
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:30",
+    "coordinates": [
+      27,
+      46
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:40",
+    "coordinates": [
+      27,
+      45
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:50",
+    "coordinates": [
+      27,
+      44
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:00",
+    "coordinates": [
+      27,
+      43
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:10",
+    "coordinates": [
+      27,
+      42
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:20",
+    "coordinates": [
+      28,
+      42
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:30",
+    "coordinates": [
+      29,
+      42
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:40",
+    "coordinates": [
+      30,
+      42
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:50",
+    "coordinates": [
+      30,
+      41
+    ],
+    "pronunciatio": "\ud83e\udd14",
+    "description": "reading a book (taking a break to reflect on what he's read) @ the Ville:artist's co-living space:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:00",
+    "coordinates": [
+      30,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:10",
+    "coordinates": [
+      29,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:20",
+    "coordinates": [
+      28,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:30",
+    "coordinates": [
+      27,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:40",
+    "coordinates": [
+      27,
+      43
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:50",
+    "coordinates": [
+      27,
+      44
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:36:00",
+    "coordinates": [
+      27,
+      45
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:36:10",
+    "coordinates": [
+      27,
+      46
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:36:20",
+    "coordinates": [
+      27,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:36:30",
+    "coordinates": [
+      27,
+      48
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:36:40",
+    "coordinates": [
+      27,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:36:50",
+    "coordinates": [
+      26,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:37:00",
+    "coordinates": [
+      25,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:37:10",
+    "coordinates": [
+      24,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:37:20",
+    "coordinates": [
+      24,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:37:30",
+    "coordinates": [
+      24,
+      51
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:37:40",
+    "coordinates": [
+      24,
+      52
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:37:50",
+    "coordinates": [
+      23,
+      52
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:38:00",
+    "coordinates": [
+      22,
+      52
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:38:10",
+    "coordinates": [
+      22,
+      53
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:38:20",
+    "coordinates": [
+      22,
+      54
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:38:30",
+    "coordinates": [
+      22,
+      55
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:38:40",
+    "coordinates": [
+      22,
+      56
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:38:50",
+    "coordinates": [
+      22,
+      57
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:00",
+    "coordinates": [
+      22,
+      58
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:10",
+    "coordinates": [
+      22,
+      59
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:20",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:30",
+    "coordinates": [
+      21,
+      60
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:40",
+    "coordinates": [
+      21,
+      61
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:50",
+    "coordinates": [
+      21,
+      62
+    ],
+    "pronunciatio": "\ud83d\udcd6",
+    "description": "reading a book (reading the second chapter of the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:50:00",
+    "coordinates": [
+      21,
+      62
+    ],
+    "pronunciatio": "\ud83d\udcdd",
+    "description": "reading a book (jotting down notes and thoughts about the book) @ the Ville:Adam Smith's house:main room:desk",
+    "action": "reading a book (jotting down notes and thoughts about the book) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:00:00",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:00:10",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:00:20",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:00:30",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:00:40",
+    "coordinates": [
+      22,
+      66
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:00:50",
+    "coordinates": [
+      22,
+      67
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:01:00",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:01:10",
+    "coordinates": [
+      22,
+      69
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:01:20",
+    "coordinates": [
+      22,
+      70
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:01:30",
+    "coordinates": [
+      21,
+      70
+    ],
+    "pronunciatio": "\ud83d\udebf\ud83d\udca7",
+    "description": "preparing to go to Hobb Cafe (taking a shower) @ the Ville:Adam Smith's house:bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:15:00",
+    "coordinates": [
+      22,
+      70
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:15:10",
+    "coordinates": [
+      22,
+      69
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:15:20",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:15:30",
+    "coordinates": [
+      22,
+      67
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:15:40",
+    "coordinates": [
+      22,
+      66
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:15:50",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:16:00",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:16:10",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:16:20",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:16:30",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:16:40",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:16:50",
+    "coordinates": [
+      23,
+      60
+    ],
+    "pronunciatio": "\ud83d\udc55",
+    "description": "preparing to go to Hobb Cafe (getting dressed) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:25:00",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:25:10",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:25:20",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:25:30",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:25:40",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:25:50",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:26:00",
+    "coordinates": [
+      22,
+      66
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:26:10",
+    "coordinates": [
+      22,
+      67
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:26:20",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:26:30",
+    "coordinates": [
+      21,
+      68
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "preparing to go to Hobb Cafe (brushing his teeth) @ the Ville:Adam Smith's house:bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:30:00",
+    "coordinates": [
+      22,
+      68
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:30:10",
+    "coordinates": [
+      22,
+      67
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:30:20",
+    "coordinates": [
+      22,
+      66
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:30:30",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:30:40",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:30:50",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:31:00",
+    "coordinates": [
+      21,
+      63
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:31:10",
+    "coordinates": [
+      21,
+      62
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:31:20",
+    "coordinates": [
+      21,
+      61
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:31:30",
+    "coordinates": [
+      21,
+      60
+    ],
+    "pronunciatio": "\ud83d\udecd\ufe0f",
+    "description": "preparing to go to Hobb Cafe (packing his bag) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:40:00",
+    "coordinates": [
+      20,
+      60
+    ],
+    "pronunciatio": "\ud83d\udcdd\u2705",
+    "description": "preparing to go to Hobb Cafe (making sure he has everything he needs) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:45:00",
+    "coordinates": [
+      21,
+      60
+    ],
+    "pronunciatio": "\ud83c\udfe0\ud83d\udd12",
+    "description": "preparing to go to Hobb Cafe (locking up his house) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:45:10",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83c\udfe0\ud83d\udd12",
+    "description": "preparing to go to Hobb Cafe (locking up his house) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:45:20",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83c\udfe0\ud83d\udd12",
+    "description": "preparing to go to Hobb Cafe (locking up his house) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:45:30",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83c\udfe0\ud83d\udd12",
+    "description": "preparing to go to Hobb Cafe (locking up his house) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:45:40",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83c\udfe0\ud83d\udd12",
+    "description": "preparing to go to Hobb Cafe (locking up his house) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:45:50",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83c\udfe0\ud83d\udd12",
+    "description": "preparing to go to Hobb Cafe (locking up his house) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:46:00",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83c\udfe0\ud83d\udd12",
+    "description": "preparing to go to Hobb Cafe (locking up his house) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:46:10",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\ud83c\udfe0\ud83d\udd12",
+    "description": "preparing to go to Hobb Cafe (locking up his house) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:00",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+    "description": "preparing to go to Hobb Cafe (walking to his car) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:10",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+    "description": "preparing to go to Hobb Cafe (walking to his car) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:20",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+    "description": "preparing to go to Hobb Cafe (walking to his car) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:30",
+    "coordinates": [
+      21,
+      63
+    ],
+    "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+    "description": "preparing to go to Hobb Cafe (walking to his car) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:40",
+    "coordinates": [
+      21,
+      62
+    ],
+    "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+    "description": "preparing to go to Hobb Cafe (walking to his car) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:50",
+    "coordinates": [
+      21,
+      61
+    ],
+    "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+    "description": "preparing to go to Hobb Cafe (walking to his car) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:51:00",
+    "coordinates": [
+      21,
+      60
+    ],
+    "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+    "description": "preparing to go to Hobb Cafe (walking to his car) @ the Ville:Adam Smith's house:main room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:00",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\ud83d\ude97",
+    "description": "preparing to go to Hobb Cafe (starting his car and driving to Hobb Cafe) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:10",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\ud83d\ude97",
+    "description": "preparing to go to Hobb Cafe (starting his car and driving to Hobb Cafe) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:20",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\ud83d\ude97",
+    "description": "preparing to go to Hobb Cafe (starting his car and driving to Hobb Cafe) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:30",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\ud83d\ude97",
+    "description": "preparing to go to Hobb Cafe (starting his car and driving to Hobb Cafe) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:40",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\ud83d\ude97",
+    "description": "preparing to go to Hobb Cafe (starting his car and driving to Hobb Cafe) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:50",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\ud83d\ude97",
+    "description": "preparing to go to Hobb Cafe (starting his car and driving to Hobb Cafe) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:56:00",
+    "coordinates": [
+      21,
+      65
+    ],
+    "pronunciatio": "\ud83d\ude97",
+    "description": "preparing to go to Hobb Cafe (starting his car and driving to Hobb Cafe) @ the Ville:Adam Smith's house:main room:bed",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:00:00",
+    "coordinates": [
+      22,
+      65
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:00:10",
+    "coordinates": [
+      22,
+      64
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:00:20",
+    "coordinates": [
+      22,
+      63
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:00:30",
+    "coordinates": [
+      22,
+      62
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:00:40",
+    "coordinates": [
+      22,
+      61
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:00:50",
+    "coordinates": [
+      22,
+      60
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:01:00",
+    "coordinates": [
+      22,
+      59
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:01:10",
+    "coordinates": [
+      22,
+      58
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:01:20",
+    "coordinates": [
+      22,
+      57
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:01:30",
+    "coordinates": [
+      22,
+      56
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:01:40",
+    "coordinates": [
+      22,
+      55
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:01:50",
+    "coordinates": [
+      22,
+      54
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:02:00",
+    "coordinates": [
+      22,
+      53
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:02:10",
+    "coordinates": [
+      22,
+      52
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:02:20",
+    "coordinates": [
+      23,
+      52
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:02:30",
+    "coordinates": [
+      24,
+      52
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:02:40",
+    "coordinates": [
+      24,
+      51
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:02:50",
+    "coordinates": [
+      24,
+      50
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:00",
+    "coordinates": [
+      24,
+      49
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:10",
+    "coordinates": [
+      25,
+      49
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:20",
+    "coordinates": [
+      26,
+      49
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:30",
+    "coordinates": [
+      27,
+      49
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:40",
+    "coordinates": [
+      27,
+      48
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:50",
+    "coordinates": [
+      27,
+      47
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:00",
+    "coordinates": [
+      27,
+      46
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:10",
+    "coordinates": [
+      27,
+      45
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:20",
+    "coordinates": [
+      27,
+      44
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:30",
+    "coordinates": [
+      27,
+      43
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:40",
+    "coordinates": [
+      27,
+      42
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:50",
+    "coordinates": [
+      28,
+      42
+    ],
+    "pronunciatio": "\u26a1\ufe0f",
+    "description": "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:00",
+    "coordinates": [
+      29,
+      42
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:10",
+    "coordinates": [
+      30,
+      42
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:20",
+    "coordinates": [
+      30,
+      41
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:30",
+    "coordinates": [
+      30,
+      40
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:40",
+    "coordinates": [
+      30,
+      39
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:50",
+    "coordinates": [
+      30,
+      38
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:00",
+    "coordinates": [
+      30,
+      37
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:10",
+    "coordinates": [
+      30,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:20",
+    "coordinates": [
+      31,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:30",
+    "coordinates": [
+      32,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:40",
+    "coordinates": [
+      33,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:50",
+    "coordinates": [
+      34,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:00",
+    "coordinates": [
+      35,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:10",
+    "coordinates": [
+      36,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:20",
+    "coordinates": [
+      37,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:30",
+    "coordinates": [
+      38,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:40",
+    "coordinates": [
+      39,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:50",
+    "coordinates": [
+      40,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:00",
+    "coordinates": [
+      41,
+      36
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:10",
+    "coordinates": [
+      41,
+      35
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:20",
+    "coordinates": [
+      41,
+      34
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:30",
+    "coordinates": [
+      41,
+      33
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:40",
+    "coordinates": [
+      41,
+      32
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:50",
+    "coordinates": [
+      42,
+      32
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:00",
+    "coordinates": [
+      43,
+      32
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:10",
+    "coordinates": [
+      44,
+      32
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:20",
+    "coordinates": [
+      44,
+      31
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:30",
+    "coordinates": [
+      45,
+      31
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:40",
+    "coordinates": [
+      46,
+      31
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:50",
+    "coordinates": [
+      47,
+      31
+    ],
+    "pronunciatio": "\ud83c\udfd9\ufe0f\ud83d\ude10",
+    "description": "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:00",
+    "coordinates": [
+      48,
+      31
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:10",
+    "coordinates": [
+      49,
+      31
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:20",
+    "coordinates": [
+      49,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:30",
+    "coordinates": [
+      50,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:40",
+    "coordinates": [
+      51,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:50",
+    "coordinates": [
+      52,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:00",
+    "coordinates": [
+      53,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:10",
+    "coordinates": [
+      54,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:20",
+    "coordinates": [
+      55,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:30",
+    "coordinates": [
+      56,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:40",
+    "coordinates": [
+      57,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:50",
+    "coordinates": [
+      58,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:00",
+    "coordinates": [
+      59,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:10",
+    "coordinates": [
+      60,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:20",
+    "coordinates": [
+      61,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:30",
+    "coordinates": [
+      62,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:40",
+    "coordinates": [
+      63,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:50",
+    "coordinates": [
+      64,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:00",
+    "coordinates": [
+      65,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:10",
+    "coordinates": [
+      66,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:20",
+    "coordinates": [
+      67,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:30",
+    "coordinates": [
+      68,
+      30
+    ],
+    "pronunciatio": "\ud83d\udc65",
+    "description": "rriving at Hobb Cafe to meet the group (approaching the group's table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:40",
+    "coordinates": [
+      69,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Klaus Mueller",
+        "(extend his hand for a handshake) Hey there, I'm Klaus Mueller. Nice to meet you!"
+      ],
+      [
+        "Adam Smith",
+        "(extend his hand for a handshake and smile) Hi Klaus, nice to meet you too. I'm Adam Smith."
+      ],
+      [
+        "Klaus Mueller",
+        "(extend his smile) So Adam, what brings you here today? Are you excited about the Love Ville program?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Yeah I'm excited, I think this program will be a great opportunity for me to meet new people and build meaningful connections. I'm a bit nervous but mostly looking forward to it."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's great to hear, Adam! I'm also excited to meet new people and see what connections we can make. What do you think you're looking for in someone, if you don't mind me asking?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Well, Klaus, I think I'm looking for someone tall and slender with curly hair, and my sex like girl is a bonus. What about beauty or figure of woman?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling gently) Ah, I see! Well, I'm sure you'll find someone who fits your criteria here in the Love Ville program. From what I've seen so far, there are some really beautiful women. Did you have a chance to talk to any of them yet?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Not yet, I just got here. But I'm looking forward to meeting them now that we've started. How about you, Klaus? Have you talked to anyone interesting so far?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and nodding) I haven't had a chance to talk to anyone yet, I just got here and met you. But I'm looking forward to meeting the girls and seeing if we click with any of them. What do you think of this setup, do you think it's a good way to meet people?"
+      ],
+      [
+        "Adam Smith",
+        "(leaning in, interested) Oh, that's a good point. I think this setup could be really effective, we have the opportunity to spend a lot of time together and get to know each other in different contexts. What do you think is the most important aspect of building a connection with someone?"
+      ],
+      [
+        "Klaus Mueller",
+        "(lean back in his chair and cross his arms) Ah, that's a great point Adam. I think for me, it's all about finding common ground and being able to have a real conversation. When I can talk to someone and feel like we're on the same wavelength, that's when I know we've got a connection. Being attracted to them doesn't hurt either, haha!"
+      ],
+      [
+        "Adam Smith",
+        "(lean back in his chair and cross his arms) I completely agree with you, Klaus. Finding common ground and having a real conversation are essential in building a connection with someone."
+      ],
+      [
+        "Klaus Mueller",
+        "(laughs) Well said, Adam! I think we're on the same page when it comes to what makes a connection. So, what do you do for a living? Are you a student or do you have a job already?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) I'm a philosopher and I've just published a book about the importance of creativity. I'm really passionate about my work and I love exploring different ideas. When I'm not working, I enjoy extreme sports like bungee jumping and skydiving. I find it thrilling and it helps me clear my mind."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's really impressive, Adam. I've always been fascinated by philosophy and the importance of creativity. I'd love to learn more about your book and your experiences with extreme sports. What's it like to go bungee jumping or skydiving?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Ah, it's exhilarating, Klaus! The rush of adrenaline and the sense of freedom you feel when you're flying through the air or plummeting towards earth is hard to describe. I love the feeling of pushing my limits and facing my fears. Speaking of which, have you ever tried any extreme sports or anything that really gets your heart racing?"
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:50",
+    "coordinates": [
+      70,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Klaus Mueller",
+        "(extend his hand for a handshake) Hey there, I'm Klaus Mueller. Nice to meet you!"
+      ],
+      [
+        "Adam Smith",
+        "(extend his hand for a handshake and smile) Hi Klaus, nice to meet you too. I'm Adam Smith."
+      ],
+      [
+        "Klaus Mueller",
+        "(extend his smile) So Adam, what brings you here today? Are you excited about the Love Ville program?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Yeah I'm excited, I think this program will be a great opportunity for me to meet new people and build meaningful connections. I'm a bit nervous but mostly looking forward to it."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's great to hear, Adam! I'm also excited to meet new people and see what connections we can make. What do you think you're looking for in someone, if you don't mind me asking?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Well, Klaus, I think I'm looking for someone tall and slender with curly hair, and my sex like girl is a bonus. What about beauty or figure of woman?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling gently) Ah, I see! Well, I'm sure you'll find someone who fits your criteria here in the Love Ville program. From what I've seen so far, there are some really beautiful women. Did you have a chance to talk to any of them yet?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Not yet, I just got here. But I'm looking forward to meeting them now that we've started. How about you, Klaus? Have you talked to anyone interesting so far?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and nodding) I haven't had a chance to talk to anyone yet, I just got here and met you. But I'm looking forward to meeting the girls and seeing if we click with any of them. What do you think of this setup, do you think it's a good way to meet people?"
+      ],
+      [
+        "Adam Smith",
+        "(leaning in, interested) Oh, that's a good point. I think this setup could be really effective, we have the opportunity to spend a lot of time together and get to know each other in different contexts. What do you think is the most important aspect of building a connection with someone?"
+      ],
+      [
+        "Klaus Mueller",
+        "(lean back in his chair and cross his arms) Ah, that's a great point Adam. I think for me, it's all about finding common ground and being able to have a real conversation. When I can talk to someone and feel like we're on the same wavelength, that's when I know we've got a connection. Being attracted to them doesn't hurt either, haha!"
+      ],
+      [
+        "Adam Smith",
+        "(lean back in his chair and cross his arms) I completely agree with you, Klaus. Finding common ground and having a real conversation are essential in building a connection with someone."
+      ],
+      [
+        "Klaus Mueller",
+        "(laughs) Well said, Adam! I think we're on the same page when it comes to what makes a connection. So, what do you do for a living? Are you a student or do you have a job already?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) I'm a philosopher and I've just published a book about the importance of creativity. I'm really passionate about my work and I love exploring different ideas. When I'm not working, I enjoy extreme sports like bungee jumping and skydiving. I find it thrilling and it helps me clear my mind."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's really impressive, Adam. I've always been fascinated by philosophy and the importance of creativity. I'd love to learn more about your book and your experiences with extreme sports. What's it like to go bungee jumping or skydiving?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Ah, it's exhilarating, Klaus! The rush of adrenaline and the sense of freedom you feel when you're flying through the air or plummeting towards earth is hard to describe. I love the feeling of pushing my limits and facing my fears. Speaking of which, have you ever tried any extreme sports or anything that really gets your heart racing?"
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:00",
+    "coordinates": [
+      71,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Klaus Mueller",
+        "(extend his hand for a handshake) Hey there, I'm Klaus Mueller. Nice to meet you!"
+      ],
+      [
+        "Adam Smith",
+        "(extend his hand for a handshake and smile) Hi Klaus, nice to meet you too. I'm Adam Smith."
+      ],
+      [
+        "Klaus Mueller",
+        "(extend his smile) So Adam, what brings you here today? Are you excited about the Love Ville program?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Yeah I'm excited, I think this program will be a great opportunity for me to meet new people and build meaningful connections. I'm a bit nervous but mostly looking forward to it."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's great to hear, Adam! I'm also excited to meet new people and see what connections we can make. What do you think you're looking for in someone, if you don't mind me asking?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Well, Klaus, I think I'm looking for someone tall and slender with curly hair, and my sex like girl is a bonus. What about beauty or figure of woman?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling gently) Ah, I see! Well, I'm sure you'll find someone who fits your criteria here in the Love Ville program. From what I've seen so far, there are some really beautiful women. Did you have a chance to talk to any of them yet?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Not yet, I just got here. But I'm looking forward to meeting them now that we've started. How about you, Klaus? Have you talked to anyone interesting so far?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and nodding) I haven't had a chance to talk to anyone yet, I just got here and met you. But I'm looking forward to meeting the girls and seeing if we click with any of them. What do you think of this setup, do you think it's a good way to meet people?"
+      ],
+      [
+        "Adam Smith",
+        "(leaning in, interested) Oh, that's a good point. I think this setup could be really effective, we have the opportunity to spend a lot of time together and get to know each other in different contexts. What do you think is the most important aspect of building a connection with someone?"
+      ],
+      [
+        "Klaus Mueller",
+        "(lean back in his chair and cross his arms) Ah, that's a great point Adam. I think for me, it's all about finding common ground and being able to have a real conversation. When I can talk to someone and feel like we're on the same wavelength, that's when I know we've got a connection. Being attracted to them doesn't hurt either, haha!"
+      ],
+      [
+        "Adam Smith",
+        "(lean back in his chair and cross his arms) I completely agree with you, Klaus. Finding common ground and having a real conversation are essential in building a connection with someone."
+      ],
+      [
+        "Klaus Mueller",
+        "(laughs) Well said, Adam! I think we're on the same page when it comes to what makes a connection. So, what do you do for a living? Are you a student or do you have a job already?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) I'm a philosopher and I've just published a book about the importance of creativity. I'm really passionate about my work and I love exploring different ideas. When I'm not working, I enjoy extreme sports like bungee jumping and skydiving. I find it thrilling and it helps me clear my mind."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's really impressive, Adam. I've always been fascinated by philosophy and the importance of creativity. I'd love to learn more about your book and your experiences with extreme sports. What's it like to go bungee jumping or skydiving?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Ah, it's exhilarating, Klaus! The rush of adrenaline and the sense of freedom you feel when you're flying through the air or plummeting towards earth is hard to describe. I love the feeling of pushing my limits and facing my fears. Speaking of which, have you ever tried any extreme sports or anything that really gets your heart racing?"
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:10",
+    "coordinates": [
+      72,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Klaus Mueller",
+        "(extend his hand for a handshake) Hey there, I'm Klaus Mueller. Nice to meet you!"
+      ],
+      [
+        "Adam Smith",
+        "(extend his hand for a handshake and smile) Hi Klaus, nice to meet you too. I'm Adam Smith."
+      ],
+      [
+        "Klaus Mueller",
+        "(extend his smile) So Adam, what brings you here today? Are you excited about the Love Ville program?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Yeah I'm excited, I think this program will be a great opportunity for me to meet new people and build meaningful connections. I'm a bit nervous but mostly looking forward to it."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's great to hear, Adam! I'm also excited to meet new people and see what connections we can make. What do you think you're looking for in someone, if you don't mind me asking?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Well, Klaus, I think I'm looking for someone tall and slender with curly hair, and my sex like girl is a bonus. What about beauty or figure of woman?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling gently) Ah, I see! Well, I'm sure you'll find someone who fits your criteria here in the Love Ville program. From what I've seen so far, there are some really beautiful women. Did you have a chance to talk to any of them yet?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Not yet, I just got here. But I'm looking forward to meeting them now that we've started. How about you, Klaus? Have you talked to anyone interesting so far?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and nodding) I haven't had a chance to talk to anyone yet, I just got here and met you. But I'm looking forward to meeting the girls and seeing if we click with any of them. What do you think of this setup, do you think it's a good way to meet people?"
+      ],
+      [
+        "Adam Smith",
+        "(leaning in, interested) Oh, that's a good point. I think this setup could be really effective, we have the opportunity to spend a lot of time together and get to know each other in different contexts. What do you think is the most important aspect of building a connection with someone?"
+      ],
+      [
+        "Klaus Mueller",
+        "(lean back in his chair and cross his arms) Ah, that's a great point Adam. I think for me, it's all about finding common ground and being able to have a real conversation. When I can talk to someone and feel like we're on the same wavelength, that's when I know we've got a connection. Being attracted to them doesn't hurt either, haha!"
+      ],
+      [
+        "Adam Smith",
+        "(lean back in his chair and cross his arms) I completely agree with you, Klaus. Finding common ground and having a real conversation are essential in building a connection with someone."
+      ],
+      [
+        "Klaus Mueller",
+        "(laughs) Well said, Adam! I think we're on the same page when it comes to what makes a connection. So, what do you do for a living? Are you a student or do you have a job already?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) I'm a philosopher and I've just published a book about the importance of creativity. I'm really passionate about my work and I love exploring different ideas. When I'm not working, I enjoy extreme sports like bungee jumping and skydiving. I find it thrilling and it helps me clear my mind."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's really impressive, Adam. I've always been fascinated by philosophy and the importance of creativity. I'd love to learn more about your book and your experiences with extreme sports. What's it like to go bungee jumping or skydiving?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Ah, it's exhilarating, Klaus! The rush of adrenaline and the sense of freedom you feel when you're flying through the air or plummeting towards earth is hard to describe. I love the feeling of pushing my limits and facing my fears. Speaking of which, have you ever tried any extreme sports or anything that really gets your heart racing?"
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:20",
+    "coordinates": [
+      73,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Klaus Mueller",
+        "(extend his hand for a handshake) Hey there, I'm Klaus Mueller. Nice to meet you!"
+      ],
+      [
+        "Adam Smith",
+        "(extend his hand for a handshake and smile) Hi Klaus, nice to meet you too. I'm Adam Smith."
+      ],
+      [
+        "Klaus Mueller",
+        "(extend his smile) So Adam, what brings you here today? Are you excited about the Love Ville program?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Yeah I'm excited, I think this program will be a great opportunity for me to meet new people and build meaningful connections. I'm a bit nervous but mostly looking forward to it."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's great to hear, Adam! I'm also excited to meet new people and see what connections we can make. What do you think you're looking for in someone, if you don't mind me asking?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) Well, Klaus, I think I'm looking for someone tall and slender with curly hair, and my sex like girl is a bonus. What about beauty or figure of woman?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling gently) Ah, I see! Well, I'm sure you'll find someone who fits your criteria here in the Love Ville program. From what I've seen so far, there are some really beautiful women. Did you have a chance to talk to any of them yet?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Not yet, I just got here. But I'm looking forward to meeting them now that we've started. How about you, Klaus? Have you talked to anyone interesting so far?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and nodding) I haven't had a chance to talk to anyone yet, I just got here and met you. But I'm looking forward to meeting the girls and seeing if we click with any of them. What do you think of this setup, do you think it's a good way to meet people?"
+      ],
+      [
+        "Adam Smith",
+        "(leaning in, interested) Oh, that's a good point. I think this setup could be really effective, we have the opportunity to spend a lot of time together and get to know each other in different contexts. What do you think is the most important aspect of building a connection with someone?"
+      ],
+      [
+        "Klaus Mueller",
+        "(lean back in his chair and cross his arms) Ah, that's a great point Adam. I think for me, it's all about finding common ground and being able to have a real conversation. When I can talk to someone and feel like we're on the same wavelength, that's when I know we've got a connection. Being attracted to them doesn't hurt either, haha!"
+      ],
+      [
+        "Adam Smith",
+        "(lean back in his chair and cross his arms) I completely agree with you, Klaus. Finding common ground and having a real conversation are essential in building a connection with someone."
+      ],
+      [
+        "Klaus Mueller",
+        "(laughs) Well said, Adam! I think we're on the same page when it comes to what makes a connection. So, what do you do for a living? Are you a student or do you have a job already?"
+      ],
+      [
+        "Adam Smith",
+        "(smile) I'm a philosopher and I've just published a book about the importance of creativity. I'm really passionate about my work and I love exploring different ideas. When I'm not working, I enjoy extreme sports like bungee jumping and skydiving. I find it thrilling and it helps me clear my mind."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's really impressive, Adam. I've always been fascinated by philosophy and the importance of creativity. I'd love to learn more about your book and your experiences with extreme sports. What's it like to go bungee jumping or skydiving?"
+      ],
+      [
+        "Adam Smith",
+        "(smiling) Ah, it's exhilarating, Klaus! The rush of adrenaline and the sense of freedom you feel when you're flying through the air or plummeting towards earth is hard to describe. I love the feeling of pushing my limits and facing my fears. Speaking of which, have you ever tried any extreme sports or anything that really gets your heart racing?"
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 09:29:00",
+    "coordinates": [
+      74,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:29:10",
+    "coordinates": [
+      75,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:29:20",
+    "coordinates": [
+      76,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:29:30",
+    "coordinates": [
+      76,
+      29
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:29:40",
+    "coordinates": [
+      76,
+      28
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:29:50",
+    "coordinates": [
+      76,
+      27
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:30:00",
+    "coordinates": [
+      76,
+      26
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  }
+]

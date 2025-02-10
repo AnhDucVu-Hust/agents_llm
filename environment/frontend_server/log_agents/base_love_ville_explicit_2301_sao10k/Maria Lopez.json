@@ -1,0 +1,3913 @@
+[
+  {
+    "timestamp": "February 13, 2023, 00:00:00",
+    "coordinates": [
+      123,
+      57
+    ],
+    "pronunciatio": "\ud83d\ude34",
+    "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+    "action": "sleeping ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:00:00",
+    "coordinates": [
+      123,
+      57
+    ],
+    "pronunciatio": "\ud83d\udecb\ufe0f\ud83d\udca4",
+    "description": "waking up and completing her morning routine (waking up and stretching) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+    "action": "waking up and completing her morning routine (waking up and stretching) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:00",
+    "coordinates": [
+      123,
+      56
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:10",
+    "coordinates": [
+      123,
+      55
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:20",
+    "coordinates": [
+      123,
+      54
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:30",
+    "coordinates": [
+      124,
+      54
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:40",
+    "coordinates": [
+      124,
+      53
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:05:50",
+    "coordinates": [
+      124,
+      52
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:00",
+    "coordinates": [
+      124,
+      51
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:10",
+    "coordinates": [
+      125,
+      51
+    ],
+    "pronunciatio": "\ud83d\udebd",
+    "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:20",
+    "coordinates": [
+      125,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Maria Lopez",
+        "(smiling) Hi, I'm Maria Lopez. I don't think we've met before."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and extending his hand for a handshake) Hi Maria, I'm Klaus Mueller. Nice to meet you."
+      ],
+      [
+        "Maria Lopez",
+        "(looking at Klaus Mueller and smiling) So Klaus, what are you doing here. I'm here for the Love Ville program. I'm a physics student and also a twtich streamer"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's awesome! I've always been fascinated by physics and I'm a big fan of streamers. I'm actually studying sociology myself. What kind of content do you usually stream on Twitch?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) That's really cool! I usually stream games like League of Legends and Overwatch. I love the fast-paced action and the community is always so lively. I've been streaming for about a year now and I've built a pretty dedicated following. What about you, Klaus? What drew you to sociology?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give her a charming smile and leaning in slightly) I'm drawn to how people interact with each other, you know? I love trying to understand what makes them tick. It's really interesting stuff, especially when it comes to group dynamics, like what happens on Twitch streams. Do you think your background in physics helps with your streaming, or are they pretty separate for you?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) Ah, that's a great point about group dynamics. I think my background in physics actually helps me analyze the strategies and tactics in the games I play. It's funny how stuff like that can translate to other areas of life, isn't it? So, what made you decide to join the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and playfully touching her arm) That's a great point about strategic thinking. I think it's awesome how you can apply that to both physics and gaming. As for me, I decided to join the Love Ville program because I'm really interested in meeting new people and seeing where things go. I love the idea of a whole week dedicated to socializing and getting to know others."
+      ],
+      [
+        "Maria Lopez",
+        "(give a charming, flirtatious smile) Ah, that's really interesting, Klaus! So your exploring how people interact, that's really hot. I can tell how deeply you care about social justice just by your passion when you talk. I can really see us having meaningful conversations to get to know each other deeply"
+      ],
+      [
+        "Klaus Mueller",
+        "(sizing Maria Lopez up and down before flashing a charming smile) You know, I really love the way your eyes light up when you talk about physics and streamin' on Twitch. It's like you come alive with passion. So, what do you like to do in your free time if you're not studyin' or streamin'?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and looking into his eyes) That's a sweet thing to say Klaus, I'm really starting to like talking with you. So, what do you do for fun?"
+      ],
+      [
+        "Klaus Mueller",
+        "(flash a flirtatious smile) Streamin', party, work, repeat, that's pretty much it for me! But I really love meetin' new people and pushin' the limits, you know?"
+      ],
+      [
+        "Maria Lopez",
+        "(leaning in closer with a flirtatious smile) So, Klaus, it sounds like you're a bit of a thrill-seeker, huh? I have to admit, I love meeting new people and pushing limits too. Maybe we can explore some new experiences together here in the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(giving a flirtatious smile) Well, I really like what I see so far. I think we could definitely have some fun and push some limits together. What kind of new experiences were you thinking of exploring, Maria?"
+      ],
+      [
+        "Maria Lopez",
+        "(giving a flirtatious smile) Oh, I think we could definitely have some fun together. How about we start with getting to know each other better at the hobb cafe today?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give a flirtatious smile) Well, I really like what I see so far. That sounds like a great plan, I'll see you at the hobb cafe today and we can get to know each other better."
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:30",
+    "coordinates": [
+      126,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Maria Lopez",
+        "(smiling) Hi, I'm Maria Lopez. I don't think we've met before."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and extending his hand for a handshake) Hi Maria, I'm Klaus Mueller. Nice to meet you."
+      ],
+      [
+        "Maria Lopez",
+        "(looking at Klaus Mueller and smiling) So Klaus, what are you doing here. I'm here for the Love Ville program. I'm a physics student and also a twtich streamer"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's awesome! I've always been fascinated by physics and I'm a big fan of streamers. I'm actually studying sociology myself. What kind of content do you usually stream on Twitch?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) That's really cool! I usually stream games like League of Legends and Overwatch. I love the fast-paced action and the community is always so lively. I've been streaming for about a year now and I've built a pretty dedicated following. What about you, Klaus? What drew you to sociology?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give her a charming smile and leaning in slightly) I'm drawn to how people interact with each other, you know? I love trying to understand what makes them tick. It's really interesting stuff, especially when it comes to group dynamics, like what happens on Twitch streams. Do you think your background in physics helps with your streaming, or are they pretty separate for you?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) Ah, that's a great point about group dynamics. I think my background in physics actually helps me analyze the strategies and tactics in the games I play. It's funny how stuff like that can translate to other areas of life, isn't it? So, what made you decide to join the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and playfully touching her arm) That's a great point about strategic thinking. I think it's awesome how you can apply that to both physics and gaming. As for me, I decided to join the Love Ville program because I'm really interested in meeting new people and seeing where things go. I love the idea of a whole week dedicated to socializing and getting to know others."
+      ],
+      [
+        "Maria Lopez",
+        "(give a charming, flirtatious smile) Ah, that's really interesting, Klaus! So your exploring how people interact, that's really hot. I can tell how deeply you care about social justice just by your passion when you talk. I can really see us having meaningful conversations to get to know each other deeply"
+      ],
+      [
+        "Klaus Mueller",
+        "(sizing Maria Lopez up and down before flashing a charming smile) You know, I really love the way your eyes light up when you talk about physics and streamin' on Twitch. It's like you come alive with passion. So, what do you like to do in your free time if you're not studyin' or streamin'?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and looking into his eyes) That's a sweet thing to say Klaus, I'm really starting to like talking with you. So, what do you do for fun?"
+      ],
+      [
+        "Klaus Mueller",
+        "(flash a flirtatious smile) Streamin', party, work, repeat, that's pretty much it for me! But I really love meetin' new people and pushin' the limits, you know?"
+      ],
+      [
+        "Maria Lopez",
+        "(leaning in closer with a flirtatious smile) So, Klaus, it sounds like you're a bit of a thrill-seeker, huh? I have to admit, I love meeting new people and pushing limits too. Maybe we can explore some new experiences together here in the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(giving a flirtatious smile) Well, I really like what I see so far. I think we could definitely have some fun and push some limits together. What kind of new experiences were you thinking of exploring, Maria?"
+      ],
+      [
+        "Maria Lopez",
+        "(giving a flirtatious smile) Oh, I think we could definitely have some fun together. How about we start with getting to know each other better at the hobb cafe today?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give a flirtatious smile) Well, I really like what I see so far. That sounds like a great plan, I'll see you at the hobb cafe today and we can get to know each other better."
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:40",
+    "coordinates": [
+      127,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Maria Lopez",
+        "(smiling) Hi, I'm Maria Lopez. I don't think we've met before."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and extending his hand for a handshake) Hi Maria, I'm Klaus Mueller. Nice to meet you."
+      ],
+      [
+        "Maria Lopez",
+        "(looking at Klaus Mueller and smiling) So Klaus, what are you doing here. I'm here for the Love Ville program. I'm a physics student and also a twtich streamer"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's awesome! I've always been fascinated by physics and I'm a big fan of streamers. I'm actually studying sociology myself. What kind of content do you usually stream on Twitch?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) That's really cool! I usually stream games like League of Legends and Overwatch. I love the fast-paced action and the community is always so lively. I've been streaming for about a year now and I've built a pretty dedicated following. What about you, Klaus? What drew you to sociology?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give her a charming smile and leaning in slightly) I'm drawn to how people interact with each other, you know? I love trying to understand what makes them tick. It's really interesting stuff, especially when it comes to group dynamics, like what happens on Twitch streams. Do you think your background in physics helps with your streaming, or are they pretty separate for you?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) Ah, that's a great point about group dynamics. I think my background in physics actually helps me analyze the strategies and tactics in the games I play. It's funny how stuff like that can translate to other areas of life, isn't it? So, what made you decide to join the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and playfully touching her arm) That's a great point about strategic thinking. I think it's awesome how you can apply that to both physics and gaming. As for me, I decided to join the Love Ville program because I'm really interested in meeting new people and seeing where things go. I love the idea of a whole week dedicated to socializing and getting to know others."
+      ],
+      [
+        "Maria Lopez",
+        "(give a charming, flirtatious smile) Ah, that's really interesting, Klaus! So your exploring how people interact, that's really hot. I can tell how deeply you care about social justice just by your passion when you talk. I can really see us having meaningful conversations to get to know each other deeply"
+      ],
+      [
+        "Klaus Mueller",
+        "(sizing Maria Lopez up and down before flashing a charming smile) You know, I really love the way your eyes light up when you talk about physics and streamin' on Twitch. It's like you come alive with passion. So, what do you like to do in your free time if you're not studyin' or streamin'?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and looking into his eyes) That's a sweet thing to say Klaus, I'm really starting to like talking with you. So, what do you do for fun?"
+      ],
+      [
+        "Klaus Mueller",
+        "(flash a flirtatious smile) Streamin', party, work, repeat, that's pretty much it for me! But I really love meetin' new people and pushin' the limits, you know?"
+      ],
+      [
+        "Maria Lopez",
+        "(leaning in closer with a flirtatious smile) So, Klaus, it sounds like you're a bit of a thrill-seeker, huh? I have to admit, I love meeting new people and pushing limits too. Maybe we can explore some new experiences together here in the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(giving a flirtatious smile) Well, I really like what I see so far. I think we could definitely have some fun and push some limits together. What kind of new experiences were you thinking of exploring, Maria?"
+      ],
+      [
+        "Maria Lopez",
+        "(giving a flirtatious smile) Oh, I think we could definitely have some fun together. How about we start with getting to know each other better at the hobb cafe today?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give a flirtatious smile) Well, I really like what I see so far. That sounds like a great plan, I'll see you at the hobb cafe today and we can get to know each other better."
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 07:06:50",
+    "coordinates": [
+      128,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Maria Lopez",
+        "(smiling) Hi, I'm Maria Lopez. I don't think we've met before."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and extending his hand for a handshake) Hi Maria, I'm Klaus Mueller. Nice to meet you."
+      ],
+      [
+        "Maria Lopez",
+        "(looking at Klaus Mueller and smiling) So Klaus, what are you doing here. I'm here for the Love Ville program. I'm a physics student and also a twtich streamer"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's awesome! I've always been fascinated by physics and I'm a big fan of streamers. I'm actually studying sociology myself. What kind of content do you usually stream on Twitch?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) That's really cool! I usually stream games like League of Legends and Overwatch. I love the fast-paced action and the community is always so lively. I've been streaming for about a year now and I've built a pretty dedicated following. What about you, Klaus? What drew you to sociology?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give her a charming smile and leaning in slightly) I'm drawn to how people interact with each other, you know? I love trying to understand what makes them tick. It's really interesting stuff, especially when it comes to group dynamics, like what happens on Twitch streams. Do you think your background in physics helps with your streaming, or are they pretty separate for you?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) Ah, that's a great point about group dynamics. I think my background in physics actually helps me analyze the strategies and tactics in the games I play. It's funny how stuff like that can translate to other areas of life, isn't it? So, what made you decide to join the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and playfully touching her arm) That's a great point about strategic thinking. I think it's awesome how you can apply that to both physics and gaming. As for me, I decided to join the Love Ville program because I'm really interested in meeting new people and seeing where things go. I love the idea of a whole week dedicated to socializing and getting to know others."
+      ],
+      [
+        "Maria Lopez",
+        "(give a charming, flirtatious smile) Ah, that's really interesting, Klaus! So your exploring how people interact, that's really hot. I can tell how deeply you care about social justice just by your passion when you talk. I can really see us having meaningful conversations to get to know each other deeply"
+      ],
+      [
+        "Klaus Mueller",
+        "(sizing Maria Lopez up and down before flashing a charming smile) You know, I really love the way your eyes light up when you talk about physics and streamin' on Twitch. It's like you come alive with passion. So, what do you like to do in your free time if you're not studyin' or streamin'?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and looking into his eyes) That's a sweet thing to say Klaus, I'm really starting to like talking with you. So, what do you do for fun?"
+      ],
+      [
+        "Klaus Mueller",
+        "(flash a flirtatious smile) Streamin', party, work, repeat, that's pretty much it for me! But I really love meetin' new people and pushin' the limits, you know?"
+      ],
+      [
+        "Maria Lopez",
+        "(leaning in closer with a flirtatious smile) So, Klaus, it sounds like you're a bit of a thrill-seeker, huh? I have to admit, I love meeting new people and pushing limits too. Maybe we can explore some new experiences together here in the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(giving a flirtatious smile) Well, I really like what I see so far. I think we could definitely have some fun and push some limits together. What kind of new experiences were you thinking of exploring, Maria?"
+      ],
+      [
+        "Maria Lopez",
+        "(giving a flirtatious smile) Oh, I think we could definitely have some fun together. How about we start with getting to know each other better at the hobb cafe today?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give a flirtatious smile) Well, I really like what I see so far. That sounds like a great plan, I'll see you at the hobb cafe today and we can get to know each other better."
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 07:07:00",
+    "coordinates": [
+      129,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection. @ <persona> Klaus Mueller",
+    "action": "moving",
+    "chat": [
+      [
+        "Maria Lopez",
+        "(smiling) Hi, I'm Maria Lopez. I don't think we've met before."
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and extending his hand for a handshake) Hi Maria, I'm Klaus Mueller. Nice to meet you."
+      ],
+      [
+        "Maria Lopez",
+        "(looking at Klaus Mueller and smiling) So Klaus, what are you doing here. I'm here for the Love Ville program. I'm a physics student and also a twtich streamer"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling) That's awesome! I've always been fascinated by physics and I'm a big fan of streamers. I'm actually studying sociology myself. What kind of content do you usually stream on Twitch?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) That's really cool! I usually stream games like League of Legends and Overwatch. I love the fast-paced action and the community is always so lively. I've been streaming for about a year now and I've built a pretty dedicated following. What about you, Klaus? What drew you to sociology?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give her a charming smile and leaning in slightly) I'm drawn to how people interact with each other, you know? I love trying to understand what makes them tick. It's really interesting stuff, especially when it comes to group dynamics, like what happens on Twitch streams. Do you think your background in physics helps with your streaming, or are they pretty separate for you?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and leaning in slightly) Ah, that's a great point about group dynamics. I think my background in physics actually helps me analyze the strategies and tactics in the games I play. It's funny how stuff like that can translate to other areas of life, isn't it? So, what made you decide to join the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(smiling and playfully touching her arm) That's a great point about strategic thinking. I think it's awesome how you can apply that to both physics and gaming. As for me, I decided to join the Love Ville program because I'm really interested in meeting new people and seeing where things go. I love the idea of a whole week dedicated to socializing and getting to know others."
+      ],
+      [
+        "Maria Lopez",
+        "(give a charming, flirtatious smile) Ah, that's really interesting, Klaus! So your exploring how people interact, that's really hot. I can tell how deeply you care about social justice just by your passion when you talk. I can really see us having meaningful conversations to get to know each other deeply"
+      ],
+      [
+        "Klaus Mueller",
+        "(sizing Maria Lopez up and down before flashing a charming smile) You know, I really love the way your eyes light up when you talk about physics and streamin' on Twitch. It's like you come alive with passion. So, what do you like to do in your free time if you're not studyin' or streamin'?"
+      ],
+      [
+        "Maria Lopez",
+        "(smiling and looking into his eyes) That's a sweet thing to say Klaus, I'm really starting to like talking with you. So, what do you do for fun?"
+      ],
+      [
+        "Klaus Mueller",
+        "(flash a flirtatious smile) Streamin', party, work, repeat, that's pretty much it for me! But I really love meetin' new people and pushin' the limits, you know?"
+      ],
+      [
+        "Maria Lopez",
+        "(leaning in closer with a flirtatious smile) So, Klaus, it sounds like you're a bit of a thrill-seeker, huh? I have to admit, I love meeting new people and pushing limits too. Maybe we can explore some new experiences together here in the Love Ville program?"
+      ],
+      [
+        "Klaus Mueller",
+        "(giving a flirtatious smile) Well, I really like what I see so far. I think we could definitely have some fun and push some limits together. What kind of new experiences were you thinking of exploring, Maria?"
+      ],
+      [
+        "Maria Lopez",
+        "(giving a flirtatious smile) Oh, I think we could definitely have some fun together. How about we start with getting to know each other better at the hobb cafe today?"
+      ],
+      [
+        "Klaus Mueller",
+        "(give a flirtatious smile) Well, I really like what I see so far. That sounds like a great plan, I'll see you at the hobb cafe today and we can get to know each other better."
+      ]
+    ]
+  },
+  {
+    "timestamp": "February 13, 2023, 07:23:00",
+    "coordinates": [
+      128,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:23:10",
+    "coordinates": [
+      127,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:23:20",
+    "coordinates": [
+      126,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:23:30",
+    "coordinates": [
+      125,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:23:40",
+    "coordinates": [
+      124,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:23:50",
+    "coordinates": [
+      123,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:24:00",
+    "coordinates": [
+      122,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:24:10",
+    "coordinates": [
+      121,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:24:20",
+    "coordinates": [
+      120,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:24:30",
+    "coordinates": [
+      119,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:24:40",
+    "coordinates": [
+      118,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:24:50",
+    "coordinates": [
+      117,
+      50
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:25:00",
+    "coordinates": [
+      117,
+      49
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:25:10",
+    "coordinates": [
+      117,
+      48
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:25:20",
+    "coordinates": [
+      117,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:25:30",
+    "coordinates": [
+      116,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:25:40",
+    "coordinates": [
+      115,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:25:50",
+    "coordinates": [
+      114,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:26:00",
+    "coordinates": [
+      113,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:26:10",
+    "coordinates": [
+      112,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:26:20",
+    "coordinates": [
+      111,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:26:30",
+    "coordinates": [
+      110,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:26:40",
+    "coordinates": [
+      109,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:26:50",
+    "coordinates": [
+      108,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:27:00",
+    "coordinates": [
+      107,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:27:10",
+    "coordinates": [
+      106,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:27:20",
+    "coordinates": [
+      105,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:27:30",
+    "coordinates": [
+      104,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:27:40",
+    "coordinates": [
+      103,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:27:50",
+    "coordinates": [
+      102,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:28:00",
+    "coordinates": [
+      101,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:28:10",
+    "coordinates": [
+      100,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:28:20",
+    "coordinates": [
+      99,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:28:30",
+    "coordinates": [
+      98,
+      47
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:28:40",
+    "coordinates": [
+      98,
+      46
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:28:50",
+    "coordinates": [
+      98,
+      45
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:29:00",
+    "coordinates": [
+      98,
+      44
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:29:10",
+    "coordinates": [
+      98,
+      43
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:29:20",
+    "coordinates": [
+      98,
+      42
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:29:30",
+    "coordinates": [
+      98,
+      41
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:29:40",
+    "coordinates": [
+      98,
+      40
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:29:50",
+    "coordinates": [
+      98,
+      39
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:00",
+    "coordinates": [
+      98,
+      38
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:10",
+    "coordinates": [
+      98,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:20",
+    "coordinates": [
+      97,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:30",
+    "coordinates": [
+      96,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:40",
+    "coordinates": [
+      95,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:30:50",
+    "coordinates": [
+      94,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:00",
+    "coordinates": [
+      93,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:10",
+    "coordinates": [
+      92,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:20",
+    "coordinates": [
+      91,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:30",
+    "coordinates": [
+      90,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:40",
+    "coordinates": [
+      89,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:31:50",
+    "coordinates": [
+      88,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:00",
+    "coordinates": [
+      87,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:10",
+    "coordinates": [
+      86,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:20",
+    "coordinates": [
+      85,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:30",
+    "coordinates": [
+      84,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:40",
+    "coordinates": [
+      83,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:32:50",
+    "coordinates": [
+      82,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:00",
+    "coordinates": [
+      81,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:10",
+    "coordinates": [
+      80,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:20",
+    "coordinates": [
+      79,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:30",
+    "coordinates": [
+      78,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:40",
+    "coordinates": [
+      77,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:33:50",
+    "coordinates": [
+      77,
+      36
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:00",
+    "coordinates": [
+      77,
+      35
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:10",
+    "coordinates": [
+      77,
+      34
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:20",
+    "coordinates": [
+      77,
+      33
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:30",
+    "coordinates": [
+      77,
+      32
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:40",
+    "coordinates": [
+      77,
+      31
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:34:50",
+    "coordinates": [
+      77,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:00",
+    "coordinates": [
+      77,
+      29
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:10",
+    "coordinates": [
+      77,
+      28
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:20",
+    "coordinates": [
+      77,
+      27
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:30",
+    "coordinates": [
+      77,
+      26
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:40",
+    "coordinates": [
+      77,
+      25
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:35:50",
+    "coordinates": [
+      78,
+      25
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:36:00",
+    "coordinates": [
+      79,
+      25
+    ],
+    "pronunciatio": "\ud83d\udcac\ud83d\ude0a",
+    "description": "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:00",
+    "coordinates": [
+      78,
+      25
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:10",
+    "coordinates": [
+      77,
+      25
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:20",
+    "coordinates": [
+      77,
+      26
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:30",
+    "coordinates": [
+      77,
+      27
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:40",
+    "coordinates": [
+      77,
+      28
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:39:50",
+    "coordinates": [
+      77,
+      29
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:40:00",
+    "coordinates": [
+      77,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:40:10",
+    "coordinates": [
+      78,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:40:20",
+    "coordinates": [
+      79,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:40:30",
+    "coordinates": [
+      80,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:40:40",
+    "coordinates": [
+      81,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:40:50",
+    "coordinates": [
+      82,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:41:00",
+    "coordinates": [
+      83,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:41:10",
+    "coordinates": [
+      84,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:41:20",
+    "coordinates": [
+      85,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:41:30",
+    "coordinates": [
+      86,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:41:40",
+    "coordinates": [
+      87,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:41:50",
+    "coordinates": [
+      88,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:42:00",
+    "coordinates": [
+      89,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:42:10",
+    "coordinates": [
+      90,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:42:20",
+    "coordinates": [
+      91,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:42:30",
+    "coordinates": [
+      92,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:42:40",
+    "coordinates": [
+      93,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:42:50",
+    "coordinates": [
+      94,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:43:00",
+    "coordinates": [
+      95,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:43:10",
+    "coordinates": [
+      96,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:43:20",
+    "coordinates": [
+      97,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:43:30",
+    "coordinates": [
+      98,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:43:40",
+    "coordinates": [
+      99,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:43:50",
+    "coordinates": [
+      100,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:44:00",
+    "coordinates": [
+      101,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:44:10",
+    "coordinates": [
+      102,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:44:20",
+    "coordinates": [
+      103,
+      30
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:44:30",
+    "coordinates": [
+      103,
+      31
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:44:40",
+    "coordinates": [
+      103,
+      32
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:44:50",
+    "coordinates": [
+      104,
+      32
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:45:00",
+    "coordinates": [
+      105,
+      32
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:45:10",
+    "coordinates": [
+      106,
+      32
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:45:20",
+    "coordinates": [
+      107,
+      32
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:45:30",
+    "coordinates": [
+      108,
+      32
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:45:40",
+    "coordinates": [
+      108,
+      33
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:45:50",
+    "coordinates": [
+      108,
+      34
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:46:00",
+    "coordinates": [
+      108,
+      35
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:46:10",
+    "coordinates": [
+      108,
+      36
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:46:20",
+    "coordinates": [
+      108,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:46:30",
+    "coordinates": [
+      109,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:46:40",
+    "coordinates": [
+      110,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:46:50",
+    "coordinates": [
+      111,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:47:00",
+    "coordinates": [
+      112,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:47:10",
+    "coordinates": [
+      113,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:47:20",
+    "coordinates": [
+      114,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:47:30",
+    "coordinates": [
+      115,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:47:40",
+    "coordinates": [
+      116,
+      37
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:47:50",
+    "coordinates": [
+      116,
+      38
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:48:00",
+    "coordinates": [
+      116,
+      39
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:48:10",
+    "coordinates": [
+      116,
+      40
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:48:20",
+    "coordinates": [
+      116,
+      41
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:48:30",
+    "coordinates": [
+      116,
+      42
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:48:40",
+    "coordinates": [
+      116,
+      43
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:48:50",
+    "coordinates": [
+      116,
+      44
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:49:00",
+    "coordinates": [
+      116,
+      45
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:49:10",
+    "coordinates": [
+      117,
+      45
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:49:20",
+    "coordinates": [
+      118,
+      45
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:49:30",
+    "coordinates": [
+      119,
+      45
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:49:40",
+    "coordinates": [
+      120,
+      45
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:49:50",
+    "coordinates": [
+      121,
+      45
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:50:00",
+    "coordinates": [
+      122,
+      45
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:50:10",
+    "coordinates": [
+      123,
+      45
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:50:20",
+    "coordinates": [
+      123,
+      46
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:50:30",
+    "coordinates": [
+      123,
+      47
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:50:40",
+    "coordinates": [
+      123,
+      48
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:50:50",
+    "coordinates": [
+      123,
+      49
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:51:00",
+    "coordinates": [
+      124,
+      49
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:51:10",
+    "coordinates": [
+      124,
+      50
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:51:20",
+    "coordinates": [
+      125,
+      50
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:51:30",
+    "coordinates": [
+      126,
+      50
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:51:40",
+    "coordinates": [
+      127,
+      50
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:51:50",
+    "coordinates": [
+      128,
+      50
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:52:00",
+    "coordinates": [
+      129,
+      50
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:52:10",
+    "coordinates": [
+      130,
+      50
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:52:20",
+    "coordinates": [
+      131,
+      50
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:52:30",
+    "coordinates": [
+      131,
+      51
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:52:40",
+    "coordinates": [
+      131,
+      52
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:52:50",
+    "coordinates": [
+      131,
+      53
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:53:00",
+    "coordinates": [
+      131,
+      54
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:53:10",
+    "coordinates": [
+      131,
+      55
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:53:20",
+    "coordinates": [
+      132,
+      55
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:53:30",
+    "coordinates": [
+      132,
+      56
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:53:40",
+    "coordinates": [
+      132,
+      57
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:53:50",
+    "coordinates": [
+      131,
+      57
+    ],
+    "pronunciatio": "\ud83d\udebf",
+    "description": "waking up and completing her morning routine (taking a shower) @ the Ville:Dorm for Oak Hill College:woman's bathroom:shower",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:54:00",
+    "coordinates": [
+      132,
+      57
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:54:10",
+    "coordinates": [
+      132,
+      56
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:54:20",
+    "coordinates": [
+      132,
+      55
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:54:30",
+    "coordinates": [
+      131,
+      55
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:54:40",
+    "coordinates": [
+      131,
+      54
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:54:50",
+    "coordinates": [
+      131,
+      53
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:55:00",
+    "coordinates": [
+      131,
+      52
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:55:10",
+    "coordinates": [
+      131,
+      51
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:55:20",
+    "coordinates": [
+      130,
+      51
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:55:30",
+    "coordinates": [
+      129,
+      51
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:55:40",
+    "coordinates": [
+      128,
+      51
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:55:50",
+    "coordinates": [
+      127,
+      51
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:56:00",
+    "coordinates": [
+      126,
+      51
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:56:10",
+    "coordinates": [
+      125,
+      51
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:56:20",
+    "coordinates": [
+      124,
+      51
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:56:30",
+    "coordinates": [
+      124,
+      52
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:56:40",
+    "coordinates": [
+      124,
+      53
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:56:50",
+    "coordinates": [
+      124,
+      54
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 07:57:00",
+    "coordinates": [
+      123,
+      54
+    ],
+    "pronunciatio": "\ud83d\udc55\ud83d\udcbc",
+    "description": "waking up and completing her morning routine (getting dressed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:04:00",
+    "coordinates": [
+      122,
+      54
+    ],
+    "pronunciatio": "\ud83d\udc87\u200d\u2640",
+    "description": "waking up and completing her morning routine (doing her hair) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:14:00",
+    "coordinates": [
+      123,
+      54
+    ],
+    "pronunciatio": "\ud83d\udc84",
+    "description": "waking up and completing her morning routine (applying light makeup) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:14:10",
+    "coordinates": [
+      123,
+      55
+    ],
+    "pronunciatio": "\ud83d\udc84",
+    "description": "waking up and completing her morning routine (applying light makeup) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:24:00",
+    "coordinates": [
+      123,
+      55
+    ],
+    "pronunciatio": "\ud83d\udce2",
+    "description": "listening to music (setting up her speakers) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+    "action": "listening to music (setting up her speakers) ",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:29:00",
+    "coordinates": [
+      123,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (listening to her favorite songs) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:29:10",
+    "coordinates": [
+      124,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (listening to her favorite songs) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:29:20",
+    "coordinates": [
+      125,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (listening to her favorite songs) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:29:30",
+    "coordinates": [
+      126,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (listening to her favorite songs) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:49:00",
+    "coordinates": [
+      125,
+      54
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:49:10",
+    "coordinates": [
+      124,
+      54
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:49:20",
+    "coordinates": [
+      124,
+      53
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:49:30",
+    "coordinates": [
+      124,
+      52
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:49:40",
+    "coordinates": [
+      124,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:49:50",
+    "coordinates": [
+      123,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:00",
+    "coordinates": [
+      122,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:10",
+    "coordinates": [
+      121,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:20",
+    "coordinates": [
+      120,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:30",
+    "coordinates": [
+      119,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:40",
+    "coordinates": [
+      118,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:50:50",
+    "coordinates": [
+      117,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:51:00",
+    "coordinates": [
+      116,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:51:10",
+    "coordinates": [
+      115,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:51:20",
+    "coordinates": [
+      114,
+      51
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:51:30",
+    "coordinates": [
+      114,
+      52
+    ],
+    "pronunciatio": "\ud83e\uddd8",
+    "description": "listening to music (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:54:00",
+    "coordinates": [
+      114,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:54:10",
+    "coordinates": [
+      115,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:54:20",
+    "coordinates": [
+      116,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:54:30",
+    "coordinates": [
+      117,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:54:40",
+    "coordinates": [
+      118,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:54:50",
+    "coordinates": [
+      119,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:00",
+    "coordinates": [
+      120,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:10",
+    "coordinates": [
+      121,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:20",
+    "coordinates": [
+      122,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:30",
+    "coordinates": [
+      123,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:40",
+    "coordinates": [
+      124,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:55:50",
+    "coordinates": [
+      125,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:56:00",
+    "coordinates": [
+      125,
+      52
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:56:10",
+    "coordinates": [
+      125,
+      53
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:56:20",
+    "coordinates": [
+      125,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 08:56:30",
+    "coordinates": [
+      126,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfb5",
+    "description": "listening to music (continuing to listen to music)#### 9 @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:00",
+    "coordinates": [
+      125,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:10",
+    "coordinates": [
+      124,
+      54
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:20",
+    "coordinates": [
+      124,
+      53
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:30",
+    "coordinates": [
+      124,
+      52
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:40",
+    "coordinates": [
+      124,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:03:50",
+    "coordinates": [
+      123,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:00",
+    "coordinates": [
+      122,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:10",
+    "coordinates": [
+      121,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:20",
+    "coordinates": [
+      120,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:30",
+    "coordinates": [
+      119,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:40",
+    "coordinates": [
+      118,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:04:50",
+    "coordinates": [
+      117,
+      51
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:00",
+    "coordinates": [
+      117,
+      50
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:10",
+    "coordinates": [
+      117,
+      49
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:20",
+    "coordinates": [
+      117,
+      48
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:30",
+    "coordinates": [
+      117,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:40",
+    "coordinates": [
+      116,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:05:50",
+    "coordinates": [
+      115,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:00",
+    "coordinates": [
+      114,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:10",
+    "coordinates": [
+      113,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:20",
+    "coordinates": [
+      112,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:30",
+    "coordinates": [
+      111,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:40",
+    "coordinates": [
+      110,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:06:50",
+    "coordinates": [
+      109,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:00",
+    "coordinates": [
+      108,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:10",
+    "coordinates": [
+      107,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:20",
+    "coordinates": [
+      106,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:30",
+    "coordinates": [
+      105,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:40",
+    "coordinates": [
+      104,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:07:50",
+    "coordinates": [
+      103,
+      47
+    ],
+    "pronunciatio": "\ud83c\udfc3",
+    "description": "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:00",
+    "coordinates": [
+      102,
+      47
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:10",
+    "coordinates": [
+      101,
+      47
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:20",
+    "coordinates": [
+      100,
+      47
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:30",
+    "coordinates": [
+      99,
+      47
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:40",
+    "coordinates": [
+      98,
+      47
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:08:50",
+    "coordinates": [
+      98,
+      46
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:00",
+    "coordinates": [
+      98,
+      45
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:10",
+    "coordinates": [
+      98,
+      44
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:20",
+    "coordinates": [
+      98,
+      43
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:30",
+    "coordinates": [
+      98,
+      42
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:40",
+    "coordinates": [
+      98,
+      41
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:09:50",
+    "coordinates": [
+      98,
+      40
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:00",
+    "coordinates": [
+      98,
+      39
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:10",
+    "coordinates": [
+      98,
+      38
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:20",
+    "coordinates": [
+      98,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:30",
+    "coordinates": [
+      97,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:40",
+    "coordinates": [
+      96,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:10:50",
+    "coordinates": [
+      95,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:00",
+    "coordinates": [
+      94,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:10",
+    "coordinates": [
+      93,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:20",
+    "coordinates": [
+      92,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:30",
+    "coordinates": [
+      91,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:40",
+    "coordinates": [
+      90,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:11:50",
+    "coordinates": [
+      89,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:00",
+    "coordinates": [
+      88,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:10",
+    "coordinates": [
+      87,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:20",
+    "coordinates": [
+      86,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:30",
+    "coordinates": [
+      85,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:40",
+    "coordinates": [
+      84,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:12:50",
+    "coordinates": [
+      83,
+      37
+    ],
+    "pronunciatio": "\ud83d\udc4b",
+    "description": "meeting new people at the hobb cafe (approaching a group of people and introducing herself) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:00",
+    "coordinates": [
+      82,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:10",
+    "coordinates": [
+      81,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:20",
+    "coordinates": [
+      80,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:30",
+    "coordinates": [
+      79,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:40",
+    "coordinates": [
+      78,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:13:50",
+    "coordinates": [
+      77,
+      37
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:00",
+    "coordinates": [
+      77,
+      36
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:10",
+    "coordinates": [
+      77,
+      35
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:20",
+    "coordinates": [
+      77,
+      34
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:30",
+    "coordinates": [
+      77,
+      33
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:40",
+    "coordinates": [
+      77,
+      32
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:14:50",
+    "coordinates": [
+      77,
+      31
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:15:00",
+    "coordinates": [
+      77,
+      30
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:15:10",
+    "coordinates": [
+      77,
+      29
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:15:20",
+    "coordinates": [
+      77,
+      28
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:15:30",
+    "coordinates": [
+      77,
+      27
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:15:40",
+    "coordinates": [
+      77,
+      26
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:15:50",
+    "coordinates": [
+      77,
+      25
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:16:00",
+    "coordinates": [
+      78,
+      25
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:16:10",
+    "coordinates": [
+      79,
+      25
+    ],
+    "pronunciatio": "\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (engaging in small talk with the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:23:00",
+    "coordinates": [
+      79,
+      24
+    ],
+    "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (asking questions to get to know each person better) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:23:10",
+    "coordinates": [
+      79,
+      23
+    ],
+    "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (asking questions to get to know each person better) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "moving",
+    "chat": null
+  },
+  {
+    "timestamp": "February 13, 2023, 09:30:00",
+    "coordinates": [
+      79,
+      23
+    ],
+    "pronunciatio": "\ud83d\udc65\ud83d\udcac",
+    "description": "meeting new people at the hobb cafe (asking questions to get to know each person better) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "action": "meeting new people at the hobb cafe (asking questions to get to know each person better) ",
+    "chat": null
+  }
+]

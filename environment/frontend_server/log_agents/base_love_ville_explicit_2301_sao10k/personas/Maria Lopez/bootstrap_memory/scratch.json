@@ -1,0 +1,339 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 07:22:50",
+        "status": "Maria Lopez finds Klaus Mueller's passion for sociology and his interest in human interactions intriguing, and she appreciates his compliment on her own passions, leading to a mutual desire to explore a potential connection, rating their emotional connection as a 4 out of 5."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 09:30:10",
+  "curr_tile": [
+    79,
+    23
+  ],
+  "daily_plan_req": "Maria Lopez is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas. She has long dark hair and glasses, exuding elegance with her thoughtful demeanor. However, her true allure lies in her ability to make people feel intellectually and emotionally connected to her. Maria doesn\u2019t just talk about deep topics\u2014she engages her partner in meaningful, sometimes provocative conversations that lead to unexpected closeness. Her touch is gentle but deliberate, and her kisses are always full of intent, making every moment feel personal and significant. She has an intuitive understanding of how to seduce not just physically but mentally, using words and emotions to build a connection. When she\u2019s with someone, she\u2019s fully present, which makes her feel magnetic and mysterious.",
+  "currently": "Maria Lopez is currently participating in the Love Ville program at the Ville Village - a 7-day program for single members to meet, socialize and date (only straight couples). Every day from 13/2/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Maria Lopez goes to bed around 10am, awakes up around 7am, eats dinner around 6pm. She likes listening to music and admire people in academia",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 11,
+  "importance_ele_n": 34,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "have a breakfast at 7:30 am",
+    "listen to music from 8:00 to 9:00 am",
+    "meet new people at the hobb cafe at 9:00 am",
+    "have a lunch at 12:00 pm",
+    "explore the Ville Village from 1:00 to 5:00 pm",
+    "cook and eat dinner at 6:00 pm",
+    "get to know people at the hobb cafe from 7:00 to 10:00 pm",
+    "",
+    "wake up and complete the morning routine at 7:00 am",
+    "have a breakfast at 7:30 am",
+    "listen to music from 8:00 to 9:00 am",
+    "meet new people at the hobb cafe at 9:00 am",
+    "have a lunch at"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (on the way to washing her face)",
+      0
+    ],
+    [
+      "waking up and completing her morning routine (conversing about their interests, hobbies, and passions, with Maria Lopez, a physics student and Twitch streamer, and Klaus Mueller, a sociology student, expressing enthusiasm and flirtation as they get to know each other and make plans to meet at the hobb cafe to further explore their connection.)",
+      16
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (doing her hair)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (applying light makeup)",
+      10
+    ],
+    [
+      "listening to music (choosing the music to listen to)",
+      5
+    ],
+    [
+      "listening to music (setting up her speakers)",
+      5
+    ],
+    [
+      "listening to music (listening to her favorite songs)",
+      20
+    ],
+    [
+      "listening to music (taking a break to stretch)",
+      5
+    ],
+    [
+      "listening to music (continuing to listen to music)#### 9",
+      9
+    ],
+    [
+      "meeting new people at the hobb cafe (1) Maria is entering the hobb cafe and looking around)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (approaching a group of people and introducing herself)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (engaging in small talk with the group)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (asking questions to get to know each person better)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (sharing about her own interests and background)",
+      10
+    ],
+    [
+      "meeting new people at the hobb cafe (exchanging contact information with the people she connected with)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (moving on to another group or individual to meet)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (having a brief conversation with the new person/group)",
+      5
+    ],
+    [
+      "meeting new people at the hobb cafe (wrapping up the conversation and saying goodbye)",
+      5
+    ],
+    [
+      "exploring the Ville Village (1) Maria is walking around the Ville Village, taking in the sights and sounds)",
+      15
+    ],
+    [
+      "exploring the Ville Village (checking out the local shops and boutiques)",
+      30
+    ],
+    [
+      "exploring the Ville Village (visiting the Village library to browse books and learn more about the area)",
+      20
+    ],
+    [
+      "exploring the Ville Village (taking a break at a charming cafe, enjoying a coffee and people-watching)",
+      25
+    ],
+    [
+      "exploring the Ville Village (exploring the Village park, appreciating the greenery and fresh air)",
+      20
+    ],
+    [
+      "exploring the Ville Village (heading back to the hobb cafe to meet up with the other program participants)",
+      10
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "cooking and eating dinner with other Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know people at the hobb cafe",
+      180
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "listening to music",
+      60
+    ],
+    [
+      "meeting new people at the hobb cafe",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      120
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "exploring the Ville Village",
+      300
+    ],
+    [
+      "cooking and eating dinner with other Love Ville program participants at the hobb cafe",
+      60
+    ],
+    [
+      "getting to know people at the hobb cafe",
+      180
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:23:00",
+  "act_duration": 10,
+  "act_description": "meeting new people at the hobb cafe (asking questions to get to know each person better)",
+  "act_pronunciatio": "\ud83d\udc65\ud83d\udcac",
+  "act_event": [
+    "Maria Lopez",
+    "ask",
+    "questions"
+  ],
+  "act_obj_description": "being used by Maria Lopez to meet new people",
+  "act_obj_pronunciatio": "\ud83d\udc65",
+  "act_obj_event": [
+    "cafe customer seating",
+    "be used by",
+    "Maria Lopez"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 37
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

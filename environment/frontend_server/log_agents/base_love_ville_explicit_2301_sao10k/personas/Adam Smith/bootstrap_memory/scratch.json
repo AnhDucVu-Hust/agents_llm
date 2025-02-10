@@ -1,0 +1,642 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "relationships": {
+    "Klaus Mueller": [
+      {
+        "date": "February 13, 2023, 09:28:50",
+        "status": "Adam Smith found Klaus Mueller's perspective on building connections thought-provoking, but as both are straight men, there was no romantic interest between them."
+      }
+    ]
+  },
+  "curr_time": "February 13, 2023, 09:30:00",
+  "curr_tile": [
+    76,
+    27
+  ],
+  "daily_plan_req": "Adam Smith is now in Love Ville Program .A dating show will be shown on tv, gathering strangers to meet, get to know each other and flirt. At first, she doesn't know anyone in the Program and 13 February 2023 is the first day of the Program. She will try to talk, get to know, flirt and be intimitate with the people she meets.",
+  "name": "Adam Smith",
+  "first_name": "Adam",
+  "last_name": "Smith",
+  "age": 36,
+  "innate": "thoughtful, reflective, intellectual",
+  "learned": "Adam Smith is a philosopher who loves to explore different ideas. He is tall and muscular, with a well-groomed beard and sharp features that complement his meticulous nature. He\u2019s confident and passionate about his businesses, but secretly, he has a love for extreme sports\u2014bungee jumping, skydiving, and motorbiking. He\u2019s the type who loves to surprise others with his daring side, constantly keeping people on their toes. Adam also has a playful side, flirting subtly with charm but always with a hint of mystery. He\u2019s both disciplined and spontaneous, and when he lets his guard down, he\u2019s surprisingly affectionate and open about his desires",
+  "currently": "Adam Smith have just published a book about the importance of creativity and how it can shape the world. Every day from 13/2/2023, all members will be at the hobb cafe at 9am to meet, 6pm to cook and eat dinner. All group activities will be organized in hobb cafe too",
+  "lifestyle": "Adam Smith goes to bed around 8pm, awakes up around 4am",
+  "living_area": "the Ville:Adam Smith's house:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 250,
+  "importance_trigger_curr": 155,
+  "importance_ele_n": 50,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 4:00 am",
+    "have breakfast at 6:00 am",
+    "arrive at Hobb Cafe at 9:00 am to meet the group",
+    "spend time getting to know the group members at the Hobb Cafe from 9:00 am to 12:00 pm",
+    "have a lunch at 12:00 pm",
+    "join the Love Ville Program from 1:00 pm to 5:00 pm",
+    "go back to Hobb Cafe at 6:00 pm to cook and have dinner with the group",
+    "watch the Love Ville Program on TV from 7:00 to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and starting his morning routine (1) Adam is waking up and stretching in bed)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (getting out of bed and making his bed)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (brushing his teeth and washing his face)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and starting his morning routine (getting dressed in his workout clothes)",
+      10
+    ],
+    [
+      "waking up and starting his morning routine (drinking a glass of water and taking his daily vitamins)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (checking his phone for any important messages or emails)",
+      5
+    ],
+    [
+      "waking up and starting his morning routine (putting on his shoes and getting ready to start his morning exercise)",
+      5
+    ],
+    [
+      "doing his morning exercise (1) Adam is doing a 5-minute warm-up with light stretching)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute jog around the neighborhood)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute set of push-ups and sit-ups)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute yoga session focusing on flexibility)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute set of squats and lunges)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 10-minute high-intensity interval training (HIIT) workout)",
+      10
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute cool-down with deep stretching)",
+      5
+    ],
+    [
+      "doing his morning exercise (doing a 5-minute meditation to center himself for the day ahead)",
+      5
+    ],
+    [
+      "doing his morning exercise (drinking water and toweling off sweat)",
+      5
+    ],
+    [
+      "having breakfast (1) Adam is gathering ingredients for breakfast)",
+      5
+    ],
+    [
+      "having breakfast (preparing the coffee machine)",
+      5
+    ],
+    [
+      "having breakfast (cooking eggs and bacon)",
+      10
+    ],
+    [
+      "having breakfast (toasting bread)",
+      5
+    ],
+    [
+      "having breakfast (setting the table)",
+      5
+    ],
+    [
+      "having breakfast (pouring a cup of coffee)",
+      5
+    ],
+    [
+      "having breakfast (serving the cooked eggs and bacon onto a plate)",
+      5
+    ],
+    [
+      "having breakfast (buttering the toasted bread)",
+      5
+    ],
+    [
+      "having breakfast (eating his breakfast)",
+      10
+    ],
+    [
+      "having breakfast (cleaning up the table and washing dishes)",
+      5
+    ],
+    [
+      "reading a book (choosing a book to read)",
+      5
+    ],
+    [
+      "reading a book (making a cup of tea)",
+      5
+    ],
+    [
+      "reading a book (getting comfortable in his reading chair)",
+      5
+    ],
+    [
+      "reading a book (reading the first chapter of the book)",
+      15
+    ],
+    [
+      "reading a book (taking a break to reflect on what he's read)",
+      5
+    ],
+    [
+      "reading a book (reading the second chapter of the book)",
+      15
+    ],
+    [
+      "reading a book (jotting down notes and thoughts about the book)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (taking a shower)",
+      15
+    ],
+    [
+      "preparing to go to Hobb Cafe (getting dressed)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (brushing his teeth)",
+      5
+    ],
+    [
+      "preparing to go to Hobb Cafe (packing his bag)",
+      10
+    ],
+    [
+      "preparing to go to Hobb Cafe (making sure he has everything he needs)",
+      5
+    ],
+    [
+      "preparing to go to Hobb Cafe (locking up his house)",
+      5
+    ],
+    [
+      "preparing to go to Hobb Cafe (walking to his car)",
+      5
+    ],
+    [
+      "preparing to go to Hobb Cafe (starting his car and driving to Hobb Cafe)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (1) Adam is walking to Hobb Cafe)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (entering Hobb Cafe and looking around)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (approaching the group's table)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (on the way to introducing himself to the group members)",
+      0
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.)",
+      15
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (ordering a drink from the cafe)",
+      5
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group (sitting down with the group and settling in)",
+      5
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (1) Adam is introducing himself to the group members)",
+      5
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (asking each group member about their name and background)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (sharing his own background and interests with the group)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (asking the group members about their expectations from the Love Ville Program)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (discussing his own thoughts on the Love Ville Program)",
+      5
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (asking the group members about their hobbies and passions)",
+      10
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (finding common interests with some of the group members)",
+      5
+    ],
+    [
+      "getting to know the group members at Hobb Cafe (suggesting a group activity based on shared interests)",
+      5
+    ],
+    [
+      "engaging in a group discussion about the upcoming Love Ville Program events (1) Adam is actively participating in the discussion, sharing his thoughts and ideas)",
+      10
+    ],
+    [
+      "engaging in a group discussion about the upcoming Love Ville Program events (listening to others' opinions and suggestions, and providing feedback) The answer is: 10:50 ~ 11:00 --",
+      10
+    ],
+    [
+      "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun",
+      60
+    ],
+    [
+      "having lunch with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      120
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partner",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      60
+    ],
+    [
+      "wrapping up his participation in the Love Ville Program and preparing to head back to Hobb Cafe",
+      60
+    ],
+    [
+      "cooking dinner with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "watching the Love Ville Program on TV with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "leeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      240
+    ],
+    [
+      "waking up and starting his morning routine",
+      60
+    ],
+    [
+      "doing his morning exercise",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "reading a book",
+      60
+    ],
+    [
+      "preparing to go to Hobb Cafe",
+      60
+    ],
+    [
+      "rriving at Hobb Cafe to meet the group",
+      60
+    ],
+    [
+      "getting to know the group members at Hobb Cafe",
+      60
+    ],
+    [
+      "continuing to mingle and chat with the group members at Hobb Cafe, learning more about their interests and backgroun",
+      60
+    ],
+    [
+      "having lunch with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      120
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partner",
+      60
+    ],
+    [
+      "participating in the Love Ville Program, meeting and flirting with potential partners",
+      60
+    ],
+    [
+      "wrapping up his participation in the Love Ville Program and preparing to head back to Hobb Cafe",
+      60
+    ],
+    [
+      "cooking dinner with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "watching the Love Ville Program on TV with the group at Hobb Cafe",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "leeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 09:29:00",
+  "act_duration": 15,
+  "act_description": "rriving at Hobb Cafe to meet the group (conversing about their participation in the Love Ville program, where Klaus Mueller and Adam Smith, two enthusiastic and like-minded individuals, discuss their expectations, interests, and hobbies, including their desire to meet new people, build meaningful connections, and explore extreme sports, while expressing agreement on the importance of finding common ground and having real conversations to form connections, and making plans to potentially meet new women and explore the program's setup, with a tone of excitement, nervousness, and mutual understanding.)",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Adam Smith",
+    "converse",
+    "their participation in the Love Ville program"
+  ],
+  "act_obj_description": "empty",
+  "act_obj_pronunciatio": "\u274c",
+  "act_obj_event": [
+    "cafe customer seating",
+    "is",
+    "empty"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 793
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      75,
+      26
+    ],
+    [
+      74,
+      26
+    ],
+    [
+      74,
+      25
+    ]
+  ]
+}
