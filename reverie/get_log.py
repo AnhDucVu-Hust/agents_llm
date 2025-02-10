@@ -37,10 +37,7 @@ def get_log(sim_code):
         move = False
         if i == 0: 
           move = True
-        elif (i_move_dict[p]["movement"] != persona_last_move[p]["movement"]
-          or i_move_dict[p]["pronunciatio"] != persona_last_move[p]["pronunciatio"]
-          or i_move_dict[p]["description"] != persona_last_move[p]["description"]
-          or i_move_dict[p]["chat"] != persona_last_move[p]["chat"]): 
+        elif i_move_dict[p]["movement"] != persona_last_move[p]["movement"]: 
           move = True
         coordinates = i_move_dict[p]['movement']
         pronunciatio = i_move_dict[p]['pronunciatio']
@@ -72,7 +69,7 @@ def get_log(sim_code):
   #with open(f"{compressed_storage}/master_movement.json", "w") as outfile:
   #  outfile.write(json.dumps(master_move, indent=2))
   for p in persona_names:
-    agent_log = [master_move[i][p] for i in range(max_move_count+1)]
+    agent_log = [master_move[i][p] for i in range(len(master_move))]
     filtered_agent_log = []
     for i in range(len(agent_log)):
         if (i==len(agent_log)-1) or not (agent_log[i]['coordinates'][0] == agent_log[i-1]['coordinates'][0] and
@@ -98,7 +95,7 @@ if __name__ == '__main__':
 
 
 
-  
+   
 
 
 
