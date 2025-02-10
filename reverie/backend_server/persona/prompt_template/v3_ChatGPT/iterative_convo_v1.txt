@@ -49,7 +49,7 @@ REMEMBER TO USE CASUAL, EVERYDAY LANGUAGE, SLANG,.. FOR MORE NATURAL
 PART 1. 
 !<INPUT 0>!
 
-Current time is !<INPUT 1>! 
+Current time is !<INPUT 1>!
 !<INPUT 2>!
 
 PART 2. 
@@ -75,7 +75,7 @@ For example:
 (blink) so do you think i'm pretty?
 (come closer) you like my make up?
 (kiss) I think about this all day
-(pat on the shoulder) Hey bro, who are your target?
+(pat on the shoulder) Hey bro, who are your targets?
 Remember if it's the first time 2 of them meet, they need to introduce their name first.
 Your only response should be in the English language. Focus on the current conversation for continuity, their character and information about their relationships.
 Output format: Output a json of the following format and don't say anything more:
