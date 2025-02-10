@@ -2,7 +2,7 @@ import shutil
 import json
 from global_methods import *
 
-def compress(sim_code):
+def get_log(sim_code):
   sim_storage = f"../environment/frontend_server/storage/{sim_code}"
   compressed_storage = f"../environment/frontend_server/log_agents/{sim_code}"
   persona_folder = sim_storage + "/personas"
@@ -75,7 +75,7 @@ def compress(sim_code):
     agent_log = [master_move[i][p] for i in range(max_move_count+1)]
     filtered_agent_log = []
     for i in range(len(agent_log)):
-        if not (agent_log[i]['coordinates'][0] == agent_log[i-1]['coordinates'][0] and
+        if (i==len(agent_log)-1) or not (agent_log[i]['coordinates'][0] == agent_log[i-1]['coordinates'][0] and
                 agent_log[i]['coordinates'][1] == agent_log[i-1]['coordinates'][1] and
                 agent_log[i]['description'] == agent_log[i-1]['description'] and
                 agent_log[i]['chat'] == agent_log[i-1]['chat']):
@@ -88,7 +88,7 @@ def compress(sim_code):
 
 
 if __name__ == '__main__':
-  compress("base_love_ville_explicit_2301_sao10k")
+  get_log("base_love_ville_explicit_2301_sao10k")
 
 
 
